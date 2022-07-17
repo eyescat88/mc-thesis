@@ -1,0 +1,17 @@
+# ---
+#+TITLE: env setup
+#+SUBTITLE:  pandoc, latex, python
+#+AUTHOR:
+#+DATE: <2022-07-14>
+# ---
+#+OPTIONS: toc:nil h:4
+#+STARTUP: contents
+
+
+* SETUP
+** Text
+  * pandoc/tex setup
+** Deps
+  * [[file:python/setup.org][Python Setup]]
+  
+
