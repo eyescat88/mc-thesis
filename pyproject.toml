@@ -1,0 +1,202 @@
+[tool.poetry]
+name = "dve_sample_py"
+version = "2.0.0a1"
+description = "Python Template Project with Docker API Service and Jypyter Support"
+authors = ["Datalab DEMS <datalab@unimib.it>"]
+license = "GNU General Public License v3.0"
+readme = "README.rst"
+documentation = "https://gitlab.com/ub-dems-public/ds-labs/dve-sample-py/-/wikis/home"
+homepage = "https://gitlab.com/ub-dems-public/ds-labs/dve-sample-py"
+repository = "https://gitlab.com/ub-dems-public/ds-labs/dve-sample-py.git"
+packages = [{ include = "*", from = "src" }]
+
+[tool.poetry.scripts]
+dve = "dve.cli:main"
+
+[tool.poetry.dependencies]
+python = "=3.10"
+
+# Keras = "*"
+# Keras-applications = "*"
+# Keras-preprocessing = "*"
+# Markdown = "*"
+# Pillow = "*"
+# PyWavelets = "*"
+# PyYaml = "*"
+# absl-py = "*"
+# airsim = "^1.5.0"
+# astor = "*"
+# atari-py = "^0.3.0"
+# cachetools = "*"
+# certifi = "*"
+# chardet  = "*"
+click = '*'
+# cycler = "*"
+# decorator = "*"
+# flask = '*'
+# flask-assets = '*'
+# flask-restful = '*'
+# dependency-injector = '>=4'
+# bootstrap-flask = '*'
+# pygithub = '*'
+# pyyaml = '*'
+
+
+
+# gast = "*"
+# gpyopt = "*"
+# google-auth = "*"
+# google-auth-oauthlib = "*"
+# google-pasta = "*"
+# grpcio = "*"
+# gym = "^0.18.3"
+# h5py = "*"
+# idna = "*"
+# imageio = "*"
+# joblib = "*"
+# kiwisolver = "*"
+matplotlib = "*"
+# networkx = "*"
+numpy = "*"
+oauthlib = "*"
+# opencv-python = "^4.5.2.54"
+# opt-einsum = "*"
+pandas = "*"
+pandas-datareader = '*'
+pandoc = '*'
+pandoc-fignos = '*'
+pandoc-eqnos = '*'
+pandoc-tablenos = '*'
+pandoc-secnos = '*'
+pandoc-shortcaption = '*'
+pip = "*"
+# protobuf = "*"
+# pyasn1 = "*"
+# pyasn1-modules = "*"
+# pyparsing = "*"
+# python-dateutil = "*"
+# pytz = "*"
+requests = "*"
+requests-oauthlib = "*"
+# rootpath = "*"
+# rsa = "*"
+# scikit-learn = "*"
+# scikit-image = "*"
+scipy = "^1.8"
+six = ">=1.7.0,<=1.15.0"
+# sklearn = "*"
+sympy = "*"
+# tensorflow = "^2.5.0"
+# tensorflow-estimator = "^2.5.0"
+# tensorboard = "^2.5.0"
+# termcolor = "*"
+
+# time ="*"
+
+# torch = "*"
+# torchvision = "*"
+# torchaudio ="*"
+
+# transformers ="*"
+
+urllib3 = "*"
+# wrapt = "*"
+
+
+
+
+[tool.poetry.dev-dependencies]
+
+
+pytest = { version = "*" }
+pytest-flask = "*"
+pytest-cov = "*"
+unittest2 = { version = "*" }
+coverage= "*"
+bumpversion = "*"
+colorama = "*"
+mock = "*"
+more-itertools = "*"
+nose = "*"
+py = "*"
+flake8 = "*"
+pyproject-flake8 = "*"
+jedi = "*"
+autopep8 = "*"
+yapf = '*'
+pyright = '*'
+#codecov = "*"
+black = { extras = ["jupyter"], version = "*" }
+isort = "*"
+mypy = "*"
+tornado = "*"
+jupyter-core = "*"
+notebook = "*"
+ipykernel = "*"
+jupyter = "*"
+lux-api = "*"
+sphinx = "*"
+nbsphinx = "*"
+sphinx-autoapi = "*"
+sphinx-rtd-theme = "*"
+twine = '*'
+setuptools = "*"
+wheel = "*"
+
+[tool.poetry.dependencies.rootpath]
+git = "https://github.com/hute37/python-rootpath"
+branch = "stable"
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = "-ra -q"
+testpaths = [
+    "tests",
+]
+
+# flake8 config unused, @see setup.cfg
+# [tool.flake8]
+# max-line-length = 88
+# extend-ignore = "E203,"
+# max-complexity = 10
+
+[tool.isort]
+profile = "black"
+
+[tool.black]
+line-length = 88
+target-version = ['py310']
+include = '\.pyi?$'
+exclude = '''
+
+(
+  /(
+      \.eggs         # exclude a few common directories in the
+    | \.git          # root of the project
+    | \.hg
+    | \.mypy_cache
+    | \.tox
+    | \.venv
+    | _build
+    | buck-out
+    | build
+    | dist
+  )/
+  | foo.py           # also separately exclude a file named foo.py in
+                     # the root of the project
+)
+'''
+
+
+
+[build-system]
+requires = [
+    "poetry-core>=1.0.0",
+    "setuptools >= 42",
+    "wheel",
+    "incremental",
+]
+build-backend = "poetry.core.masonry.api"
+#build-backend = "setuptools.build_meta"
+
+
