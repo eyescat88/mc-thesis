@@ -1,0 +1,90 @@
+
+# ---
+#+TITLE: pandoc setup
+#+SUBTITLE:  pandoc, latex
+#+AUTHOR:
+#+DATE: <2022-07-14>
+# ---
+#+OPTIONS: toc:nil h:4
+#+STARTUP: contents
+
+
+* SETUP
+** PANDOC
+*** install
+
+   * [[https://pandoc.org/installing.html][Pandoc - Installing]]
+   * [[https://github.com/jgm/pandoc/releases/tag/2.18][pandoc 2.18 release download]]
+
+
+#+BEGIN_SRC bash
+
+  # ===( purge apt )=========================
+
+  apt search pandoc
+  apt search pandoc | grep installed
+  apt remove pandoc*
+
+
+  # ===( install )===========================
+
+  sudo gdebi pandoc-2.18-1-amd64.deb
+
+
+  # ===( check )===========================
+
+  pandoc --version
+  pandoc --help | grep -C5 -e '--citeproc'
+
+
+#+END_SRC
+
+
+** TEXLIVE
+*** USER ENVIRONMENT
+
+#+BEGIN_SRC bash
+
+    # ===( init user environment )=========================
+
+    tlmgr init-usertree
+
+    # ===( align texlive versions )=========================
+
+    tlmgr repository list
+    tlmgr repository add ftp://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2021/tlnet-final
+    tlmgr option repository ftp://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2021/tlnet-final
+    tlmgr repository list
+    tlmgr update --self
+
+#+END_SRC
+
+*** LATEX PACKAGES
+
+#+BEGIN_SRC bash
+
+  # ===( misc packages )=========================
+
+  tlmgr install truncate
+  tlmgr install tocloft
+  tlmgr install wallpaper
+  tlmgr install morefloats
+  tlmgr install sectsty
+  tlmgr install siunitx
+  tlmgr install threeparttable
+
+
+  # ===( l3 packages )=========================
+
+  tlmgr update l3packages
+  tlmgr update l3kernel
+  tlmgr update l3experimental
+  tlmgr update l3backend
+
+
+#+END_SRC
+
+
+  * [[file:python/setup.org][Python Setup]]
+  
+

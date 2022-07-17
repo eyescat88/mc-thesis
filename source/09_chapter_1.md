@@ -13,9 +13,19 @@ This is the introduction. Quisque finibus aliquet cursus. Integer in pellentesqu
 To include a reference, add the citation key shown in the references.bib file.
 -->
 
-To include a citation to the text, just add the citation key shown in the references.bib file. The style of the citation is determined by the ref_format.csl file. For example, in The Living Sea you can find pictures of the Calypso [@Cousteau1963].
+To include a citation to the text, just add the citation key shown in the references.bib file. The style of the citation is determined by the ref_format.csl file. For example, in The Living Sea you can find pictures of the Calypso [@cousteauLivingSeaJacquesYves1963].
 
 In neque mauris, maximus at sapien a, iaculis dignissim justo. Aliquam erat volutpat. Praesent varius risus auctor est ultricies, sit amet consequat nisi laoreet. Suspendisse non est et mauris pharetra sagittis non porta justo. Praesent malesuada metus ut sapien sodales ornare.
+
+## Modello
+
+### In English
+
+Template for writing a PhD thesis in Markdown, a super-friendly plain text format. Using Pandoc, the Markdown can be easily converted to popular formats such as LATEX, PDF, MS Word, HTML, etc. [@pollardTemplateWritingPhd2016].
+
+### In Italiano
+
+Modello per scrivere una tesi di dottorato in Markdown, un formato di testo normale super intuitivo. Usando Pandoc, il Markdown può essere facilmente convertito in formati popolari come LATEX, PDF, MS Word, HTML, ecc. [@pollardTemplateWritingPhd2016].
 
 ## The middle bit
 

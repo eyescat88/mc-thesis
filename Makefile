@@ -78,7 +78,8 @@ tex:
 		--csl="$(STYLEDIR)/ref_format.csl" \
 		--number-sections \
 		--verbose \
-		2>pandoc.tex.log
+		2>pandoc.tex.log && \
+		cp -v "$(OUTPUTDIR)/thesis.tex"  "Thesis.tex"
 
 html:
 	pandoc  \
