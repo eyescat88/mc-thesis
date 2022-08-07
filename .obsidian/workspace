@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a35640baa4a8c333",
+        "id": "aab965d8f72f0514",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -120,7 +120,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a35640baa4a8c333",
+  "active": "aab965d8f72f0514",
   "lastOpenFiles": [
     "source/09_chapter_1.md",
     "source/02_statement.md",
