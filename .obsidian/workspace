@@ -7,8 +7,12 @@
         "id": "aab965d8f72f0514",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "source/08_abbreviations.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -52,6 +56,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "eb9437ae3a8934dc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -73,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/08_abbreviations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/08_abbreviations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,6 +124,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "source/08_abbreviations.md"
+              }
+            }
+          },
+          {
+            "id": "eec056566eff20d8",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
           }
@@ -122,13 +146,15 @@
   },
   "active": "aab965d8f72f0514",
   "lastOpenFiles": [
-    "source/09_chapter_1.md",
+    "source/07_list_of_tables.md",
+    "source/06_list_of_figures.md",
+    "source/05_table_of_contents.md",
+    "source/04_acknowledgements.md",
     "source/02_statement.md",
-    "2022-07-18.md",
-    "source/13_chapter_5.md",
-    "source/12_chapter_4.md",
-    "source/10_chapter_2.md",
-    "source/11_chapter_3.md",
-    "Thesis.pdf"
+    "source/03_summary.md",
+    "source/18_references.md",
+    "source/17_appendix_2.md",
+    "source/16_appendix_1.md",
+    "source/15_conclusion.md"
   ]
 }
