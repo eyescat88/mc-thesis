@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "source/08_abbreviations.md",
+            "file": "source/31_chapter_1.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/08_abbreviations.md",
+                "file": "source/31_chapter_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/08_abbreviations.md",
+                "file": "source/31_chapter_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/08_abbreviations.md"
+                "file": "source/31_chapter_1.md"
               }
             }
           },
@@ -146,6 +146,7 @@
   },
   "active": "aab965d8f72f0514",
   "lastOpenFiles": [
+    "source/31_chapter_1.md",
     "source/07_list_of_tables.md",
     "source/06_list_of_figures.md",
     "source/05_table_of_contents.md",
@@ -154,7 +155,6 @@
     "source/03_summary.md",
     "source/18_references.md",
     "source/17_appendix_2.md",
-    "source/16_appendix_1.md",
-    "source/15_conclusion.md"
+    "source/16_appendix_1.md"
   ]
 }
