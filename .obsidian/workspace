@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "source/31_chapter_1.md",
+            "file": "notes/note.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/31_chapter_1.md",
+                "file": "notes/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/31_chapter_1.md",
+                "file": "notes/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/31_chapter_1.md"
+                "file": "notes/note.md"
               }
             }
           },
@@ -141,10 +141,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "aab965d8f72f0514",
+  "active": "a31f304c34006673",
   "lastOpenFiles": [
     "source/31_chapter_1.md",
     "source/07_list_of_tables.md",
