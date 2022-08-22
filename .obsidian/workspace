@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:## IL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 212.00000190734863
   },
   "right": {
     "id": "2a8b2d0c30f5c8a7",
@@ -141,9 +142,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "a31f304c34006673",
+  "active": "d72776db1319339a",
   "lastOpenFiles": [
     "source/31_chapter_1.md",
     "source/07_list_of_tables.md",
