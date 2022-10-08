@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aab965d8f72f0514",
+        "id": "6d1742772ad38766",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/note.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,16 +128,27 @@
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
+          },
+          {
+            "id": "6bef1baa833fbff9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "d72776db1319339a",
+  "active": "6d1742772ad38766",
   "lastOpenFiles": [
+    "notes/note.md",
+    "Thesis.pdf",
     "source/31_chapter_1.md",
     "source/07_list_of_tables.md",
     "source/06_list_of_figures.md",
@@ -154,8 +156,6 @@
     "source/04_acknowledgements.md",
     "source/02_statement.md",
     "source/03_summary.md",
-    "source/18_references.md",
-    "source/17_appendix_2.md",
-    "source/16_appendix_1.md"
+    "source/18_references.md"
   ]
 }

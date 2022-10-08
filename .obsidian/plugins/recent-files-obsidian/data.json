@@ -5,6 +5,10 @@
       "path": "notes/note.md"
     },
     {
+      "basename": "Thesis",
+      "path": "Thesis.pdf"
+    },
+    {
       "basename": "31_chapter_1",
       "path": "source/31_chapter_1.md"
     },
