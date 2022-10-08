@@ -22,6 +22,9 @@ Template for writing a PhD thesis in Markdown, a super-friendly plain text forma
 
 Modello per scrivere una tesi di dottorato in Markdown, un formato di testo normale super intuitivo. Usando Pandoc, il Markdown può essere facilmente convertito in formati popolari come LATEX, PDF, MS Word, HTML, ecc. [@pollardTemplateWritingPhd2016].
 
+Esemio di citazione: "La Legge 4/1999, del 13 gennaio, di modifica della LAP, ha introdotto un insieme di misure destinate a rinnovare la regolazione di alcuni tra gli istituti centrali o fondamentali del Diritto Amministrativo spagnolo" [@salmeronRiformaProcedimentoAmministrativo].
+
+
 ## The middle bit
 
 This is the middle bit. Phasellus quis ex in ipsum pellentesque lobortis tincidunt sed massa. Nullam euismod sem quis dictum condimentum. Suspendisse risus metus, elementum eu congue quis, viverra ac metus. Donec non lectus at lectus euismod laoreet pharetra semper dui. Donec sed eleifend erat, vel ultrices nibh. Nam scelerisque turpis ac nunc mollis, et rutrum nisl luctus.

@@ -7,8 +7,12 @@
         "id": "6d1742772ad38766",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "source/31_chapter_1.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/31_chapter_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/31_chapter_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/31_chapter_1.md"
+              }
             }
           },
           {
@@ -147,15 +155,15 @@
   },
   "active": "6d1742772ad38766",
   "lastOpenFiles": [
-    "notes/note.md",
-    "Thesis.pdf",
-    "source/31_chapter_1.md",
-    "source/07_list_of_tables.md",
-    "source/06_list_of_figures.md",
-    "source/05_table_of_contents.md",
-    "source/04_acknowledgements.md",
     "source/02_statement.md",
-    "source/03_summary.md",
-    "source/18_references.md"
+    "source/15_abstract.md",
+    "source/18_acknowledgements.md",
+    "source/21_table_of_contents.md",
+    "source/22_list_of_figures.md",
+    "source/24_abbreviations.md",
+    "source/29_heading.md",
+    "source/37_conclusion.md",
+    "source/36_chapter_6.md",
+    "source/35_chapter_5.md"
   ]
 }
