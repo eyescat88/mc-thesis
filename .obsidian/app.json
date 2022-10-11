@@ -3,5 +3,6 @@
     "en-US",
     "it"
   ],
-  "spellcheck": true
+  "spellcheck": true,
+  "readableLineLength": true
 }
