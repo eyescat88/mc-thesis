@@ -1,8 +1,9 @@
-# Abbreviations {.unnumbered}
+# Abbreviazioni {.unnumbered}
 
 \begin{tabbing}
-\textbf{API}~~~~~~~~~~~~ \= \textbf{A}pplication \textbf{P}rogramming \textbf{I}nterface \\  
-\textbf{JSON} \> \textbf{J}ava\textbf{S}cript \textbf{O}bject \textbf{N}otation \\  
+\hspace{12em} \= \hspace{60em} \= \kill
+\textbf{c.p.a.} \> \textbf{c}odice della \textbf{p}ubblica \textbf{a}mministrazione \\
+\textbf{P. A.} \> \textbf{P}ubblica \textbf{A}mministrazione \\
 \end{tabbing}
 
 \newpage

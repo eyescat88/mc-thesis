@@ -73,6 +73,12 @@
   tlmgr install siunitx
   tlmgr install threeparttable
 
+  # ===( misc packages )=========================
+
+  tlmgr install bookman
+  tlmgr install charter
+  tlmgr install xcharter
+  tlmgr install titlesec
 
   # ===( l3 packages )=========================
 

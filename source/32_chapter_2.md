@@ -1,43 +1,155 @@
-# Literature review, with maths
+# L'esperienza tedesca 
 
-<!--
-After the introductory chapter, it seems fairly common to 
-include a chapter that reviews the literature and 
-introduces methodology used throughout the thesis.
--->
+## L’azione di annullamento (Anfechtungsklage) e l’azione di adempimento (Verplichtungsklage)
 
-## Introduction
-
-This is the introduction. Duis in neque felis. In hac habitasse platea dictumst. Cras eget rutrum elit. Pellentesque tristique venenatis pellentesque. Cras eu dignissim quam, vel sodales felis. Vestibulum efficitur justo a nibh cursus eleifend. Integer ultrices lorem at nunc efficitur lobortis.
-
-## The middle
-
-This is the literature review. Nullam quam odio, volutpat ac ornare quis, vestibulum nec nulla. Aenean nec dapibus in mL/min^-1^. Mathematical formula can be inserted using Latex and can be automatically numbered:
- 
-$f(x) = ax^3 + bx^2 + cx + d$ {#eq:my_equation}
-
-Nunc eleifend, ex a luctus porttitor, felis ex suscipit tellus, ut sollicitudin sapien purus in libero. Nulla blandit eget urna vel tempus. Praesent fringilla dui sapien, sit amet egestas leo sollicitudin at.  
-
-Later on in the text, you can reference Equation {!@eq:my_equation} and its mind-blowing ramifications. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed faucibus pulvinar volutpat. Ut semper fringilla erat non dapibus. Nunc vitae felis eget purus placerat finibus laoreet ut nibh.
-
-## A complicated math equation
-The following raw text in markdown behind Equation {!@eq:my_complicated_equation} shows that you can fall back on \LaTeX if it is more convenient for you. Note that this will only be rendered in `thesis.pdf`
-
-$$
-\begin{aligned}
-    \hat{\theta}_g = \argmin_{\theta_g} \Big\{ - &\sum^{N}_{n=1}\Big( 1-\mathbb{1}[f(\pmb x^{(n)})]\Big)\log f\Big(\pmb x^{(n)} \\ 
-    &+ g(\pmb x^{(n)};\theta_g)\Big) + \lambda|g(\pmb x^{(n)};\theta_g)|_2 \Big\} \ ,
-\end{aligned}
-$$ {#eq:my_complicated_equation}
+Il legislatore tedesco ha affrontato il problema dell'esecuzione della sentenza amministrativa avente ad oggetto un provvedimento amministrativo, prima ancora che attraverso la predisposizione di un meccanismo di coazione in presenza di un inadempimento dell'amministrazione, con la previsione di un articolato sistema di misure che consentono di prevenire la mancata spontanea esecuzione delle pronunce del giudice e cercando di definire già a livello normativo contenuto ed effetti che debbono assumere le decisioni giurisdizionali in presenza di determinati presupposti. 
+In questa prospettiva, è importante in primo luogo che gli obblighi dell'amministrazione derivanti dalla decisione del giudice amministrativo siano facili da assolvere e perfettamente determinati[^26].
+Con la legge del 21 gennaio 1960 _(VwGO - Verwaltungsgerichtsordnung)_ sull'ordinamento processuale amministrativo sono state introdotte due distinte azioni: una di impugnazione in senso stretto o di annullamento _(Anfechtungsklage)_ ed un'altra di condanna all'emissione di un dato provvedimento, altrimenti detta "di adempimento" _(Verplichtungsklage)_. Ove l'autorità emetta un provvedimento incidente negativamente nella sfera giuridica del destinatario, questi ricorrerrà alla _Anechtungsklage_ facendone valere eventuali vizi; ove invece il privato aspiri ad ottenere un provvedimento ampliativo della propria posizione giuridica soggettiva e si veda opporre un rifiuto espresso oppure debba constatare l'inerzia dell'amministrazione, azionerà il rimedio della _Verplichtungsklage_, chiedendo la condanna al rilascio del provvedimento rifiutato od omesso. 
+L'azione di annullamento o di impugnazione, così come quella di adempimento, sono disciplinate dal _§ 42 _VwGO_ che al primo comma prevede che _"mediante azione può essere richiesto l'annullamento di un atto amministrativo_ (azione di impugnazione), _come pure la condanna all'emanazione di un atto amministrativo rifiutato o omesso"_ (azione di inadempimento)  e al secondo comma che _"qualora la legge non disponga diversamente, l'azione è ammissibile solo quando l'attore fa valere di essere stato leso nei propri diritti dall'atto amministrativo o dal suo rifiuto o omissione"_[^27]. L'azione di annullamento è fondata allorquando ricorrano i requisiti previsti dal _§ 113 VwGO_, e cioè nella misura in cui l'atto risulti illegittimo e lesivo dei cosiddetti diritti civili pubblici dell'attore _(Kläger)_, quei diritti cioè che conferiscono al singolo la facoltà di pretendere dall'amministrazione una prestazione positiva o negativa. Verificata la sussistenza di questi presupposti, il tribunale potrà quindi annullare l'atto, ma la sentenza che conclude il giudizio di impugnazione potrà assumere un contenuto ulteriore e diverso dal mero annullamento del provvedimento impugnato, strettamente correlato all'attività esecutiva che l'amministrazione dovrebbe successivamente porre in essere per adeguarsi al _decisium_. L'effetto demolitorio del provvedimento illegittimo, previa la sospensione della sua efficacia esecutiva, potrebbe rendere non necessaria la successiva attività di adeguamento; diversamente, nell'ambito della stessa sentenza che definisce il giudizio cassatorio, è prevista la possibilità per il giudice di guidare l'amministrazione nella scelta delle modalità di esecuzione della sentenza, per il ripristino dello _status quo ante_ attraverso la cancellazione degli effetti che si sono nel frattempo prodotti. E' questo l'istituto del cosiddetto _Folgenbeseitigungsanspruch_[^28], indicato con l'abbreviazione _FBA_ e contemplato dal _§ 113/1_ secondo alinea _VwGO_, ove si prevede che _"se l'atto amministrativo è stato già eseguito, il tribunale può anche dichiarare, su richiesta, se e come l'autorità amministrativa debba revocare l'esecuzione_. Il _FBA_ è autonomo rispetto all'azione di annullamento, inquadrabile fra le cosiddette azioni di prestazione, ancorché il giudice dell'impugnazione si pronunci sull'eliminazione degli effetti dell'atto con la medesima sentenza che definisce il giudizio cassatorio. L'utilizzo del termine "può" _(Kann)_ da parte del legislatore indica la mera facoltà di cumulare la domanda di revoca dell'esecuzione a quella di annullamento dell'atto eseguito, ma ciò non esclude la possibilità di proporre separata istanza, instaurando un autonomo giudizio. Rimane impregiudicata la facoltà per il tribunale, ai sensi del _§ 93_ secondo alinea _VwGO_, di ordinare in ogni caso che le rispettive domande vengano trattate e decise in separati processi. Il c. 1, alinea terzo del _§113 VwGO_ stabilisce che la pretesa alla revoca dell'esecuzione è ammissibile solo laddove l'autorità amministrativa sia in grado di darvi seguito. In altri termini, l'attività di rimozione degli effetti dell'esecuzione del provvedimento annullato presuppone una prestazione possibile sotto il profilo giuridico-fattuale. Qualora l'amministrazione non sia in grado di ripristinare esattamente la situazione pregressa, dovrebbe ricostruirne una quantomeno simile a quella precedente l'esecuzione dell'atto annullato, in modo tale da eliminare al massimo i pregiudizi per il destinatario del provvedimento[^29]. Si ritiene inoltre che la revoca dell'esecuzione come disposta dal giudice possa consistere, oltre che nella rimozione di un'attività materiale dell'amministrazione, anche nell'adozione di un atto amministrativo, quale ad esempio l'ordine di sgombero di un appartamento a seguito dell'annullamento della confisca dell'immobile da parte delle forze di polizia, con susseguente sua occupazione da parte di un terzo[^30].
+Ulteriore presupposto di ammissibilità della pretesa, oltre al fatto che l'autorità sia in grado di darvi seguito, è che la questione sia matura per la decisione[^31]. Ciò significa che non deve più esserci necessità di accertare i fatti e non deve residuare alcuna discrezionalità in capo all'amministrazione per quanto riguarda le modalità di revoca dell'intervenuta esecuzione. Il _FBA_ sarà escluso laddove la rimozione delle conseguenze dell'esecuzione sia in contrasto con la legge al momento della decisione del tribunale[^32].
+In definitiva, l'amministrazione che si trovi a dover eseguire la sentenza di annullamento e, quindi, a ripristinare la situazione esistente prima del provvedimento caducato, potrà essere guidata dal giudice nella scelta delle misure necessarie all'esecuzione del _dictum_ giudiziale, almeno per quel che concerne la rimozione degli effetti strettamente connessi all'esecuzione del provvedimento annullato.
+L'inottemperanza alla decisione sotto tale profilo, seppur non assistita da alcun meccanismo di coazione diretta, potrà tuttavia essere sanzionata attraverso l'attivazione della peculiare procedura di coercizione indiretta di cui al _§ 172 VwGO_, consistente nell'assegnazione da parte del giudice, su richiesta dell'interessato, di un termine per l'esecuzione della pronuncia e, nel caso di inosservanza del medesimo, nell'irrogazione di un'ammenda, lo _Zwangsgeld_.
 
 
-## Conclusion
 
-This is the conclusion. Donec pulvinar molestie urna eu faucibus. In tristique ut neque vel eleifend. Morbi ut massa vitae diam gravida iaculis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+<!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-<!-- Insert an unordered list -->
+[^26]: M. FROMONT, _L'esecuzione delle decisioni del giudice amministrativo nel diritto francese e tedesco_, in _Problemi di amministrazione pubblica_, 3, 1989, 523.
+[^27]: G. FALCON, C. FRAENKEL, _Ordinamento processuale amministrativo tedesco (VwGO)_, Trento, 2000.
+[^28]: Letteralmente "pretesa o diritto all'eliminazione delle conseguenze dell'atto".
+[^29]: P. BECKER, H. KUNI, _Probleme des verwaltungsgerichtlichen Vergabeverfahrens für Studienplätze in der Humanmedizin,_ in _DVBl_ 1976, 863.
+[^30]:  _VGH Kassel, 11.11.1993, in _NVwZ_, 1995, 301; F. O. KOPP, W. R. SCHENKE, _Verwaltungsgerichtsordnung_, cit. sub. § 113, n. 91.
+[^31]: § 113/2, secondo alinea _VwGO_.
+[^32]: F. O. KOPP, W. R. SCHENKE, _Verwaltungsgerichtsordnung_, cit., sub § 113, n. 87.
 
-- first item in the list
-- second item in the list
-- third item in the list
+
+<!--- }}} //////////////////////////////////////////////// --->
+
+
+
+
+
+## Il contenzioso ingiuntivo: la c.d. _"Verpflichtungsklage"_
+
+La disposizione al § 113/5 _VwGO_ contempla la sentenza sulla c.d. _Verplichtungsklage_, azione di prestazione o, secondo definizione della dottrina italiana, di condanna, con la quale si ingiunge alla pubblica amministrazione l'emanazione di un atto rifiutato od omesso[^33]. Essa è diretta sostanzialmente a sindacare il rifiuto del provvedimento amministrativo richiesto dall'interessato che consegue all'assunzione di un provvedimento espresso di diniego; in tal caso l'azione assumerà, seppur in via sussidiaria, anche un contenuto annullatorio, dal momento che l'eventuale sentenza di accoglimento ne comporterà l'eliminazione[^34], ovvero l'omissione di un provvedimento non ancora denegato.
+Presupposti di fondatezza della _Verplichtungsklage_, così come per l'azione di annullamento, sono l'illegittimità del diniego o dell'inerzia e la lesione dei diritti del ricorrente. In presenza di tali condizioni, il giudice affermerà l'obbligo dell'autorità amministrativa di adottare il provvedimento richiesto, qualora la questione sottoposta al suo esame consenta una decisione definitiva. Tuttavia, una condanna dell'amministrazione all'emissione di un atto dotato di un ben preciso contenuto potrà intervenire soltanto nel caso in cui la stessa amministrazione non abbia poteri discrezionali, ovvero qualora l'adozione del provvedimento richiesto rappresenti l'unica manifestazione della discrezionalità amministrativa priva di errori, tenuto presente che la sentenza di condanna, in virtù del principio costituzionale della separazione dei poteri, non sostituisce la decisione dell'amministrazione, ma la obbliga ad agire. Laddove invece la controversia non consenta una decisione definitiva, il tribunale, previo riconoscimento della legittimità della pretesa del ricorrente ad una decisione dell'amministrazione, si limiterà a statuire l'obbligo di quest'ultima di decidere secondo la valutazione da esso espressa sulla questione[^35]. Partendo dalla considerazione che spesso l'amministrazione non ottempera, in quanto non sa come ottemperare, l'istituto della _Verplichtungsklage_ acquista notevole importanza nella misura in cui coinvolge il giudice sin dalla prima pronuncia nel chiarimento della portata operativa della decisione, ottenendo così una maggior "presa" sul successivo comportamento[^36].
+Per converso, ove l'amministrazione sia titolare di un più ampio potere discrezionale, il giudice incontrerà il limite della insostituibilità delle scelte discrezionali dell'autorità, quindi la susseguente attività amministrativa rimarrà pur sempre appannaggio dell'amministrazione, con l'unico limite costituito dall'obbligo di rispettare la "concezione giuridica" del tribunale (c.d. _Bescheidungsurteil_).
+
+
+<!--- {{{ NOTE: ////////////////////////////////////////// --->
+
+[^33]: Il § 113/5 _VwGO_, così come tradotto da G. FALCON, C. FRAENKEL, _Ordinamento processuale, cit., 94_, recita: _"Nella misura in cui il rifiuto o l'omissione dell'atto amministrativo è illegittimo e l'attore ne risulta leso nei propri diritti, il tribunale dichiara l'obbligo dell'autorità amministrativa di porre in essere la richiesta attività dell'ufficio, se la questione è matura per la decisione. Altrimenti esso dichiara l'obbligo di decidere nei confronti dell'attore nel rispetto della concezione giuridica del tribunale_.
+[^34]: Rileva D. DE PRETIS, _Il processo amministrativo in Europa, cit., 121_ come in questo caso oggetto del giudizio non è, se non in un secondo momento, il provvedimento di espresso diniego di quanto richiesto dal privato, ma, in primo luogo, il provvedimento che l'amministrazione avrebbe dovuto assumere per soddisfare la pretesa sostanziale del ricorrente, per cui è tale ultimo atto che l'amministrazione sarà tenuta ad adottare a seguito dell'eventuale sentenza di accoglimento della _Verpflightungsklage_.
+[^35]: § 113/5 _VwGO_. Si parla in questo caso di _Bescheidungsurteil_.
+[^36]: G. FALCON, _Per una migliore giustizia amministrativa_, cit., 151.
+
+
+<!--- }}} //////////////////////////////////////////////// --->
+
+
+
+
+
+## L'applicazione generalizzata della tutela cautelare
+
+Si è visto come, nei casi in cui l'amministrazione incontri delle difficoltà nell'ottemperare alle sentenze, dovute al fatto di non sapere come attuarle, il legislatore tedesco abbia cercato di determinare puntualmente gli effetti delle sentenze, in modo tale da guidare l'amministrazione nell'esecuzione del _decisium_. Quanto invece alla difficolta, se non a volte all'impossibilità, di di rimuovere completamente la situazione creata da un provvedimento sacrificativo poi annullato, si è cercato di affrontarla attraverso un'estesa applicazione della tutela interinale della posizione del ricorrente, la quale si diversifica a seconda del tipo di provvedimento che viene in rilievo. Nell'ipotesi di atto amministrativo che incide negativamente sulla sfera giuridica dell'interessato, cui nel nostro ordinamento corrispondono gli interessi oppositivi, si ammette, salvo alcune eccezioni, la sospensione automatica dei suoi effetti in derivazione, prima ancora che della mera proposizione dell'impugnativa in sede giurisdizionale, della proposizione del ricorso amministrativo previo che costituisce condizione di ammissibilità della _Anfechtungsklage_ ai sensi del § 68 _VwGO_ [^37]. Attraverso un impiego esteso e generalizzato della sospensione cautelare del provvedimento impugnato , ex § 80 _VwGO_, molti dei problemi legati alla esecuzione delle pronunce del tribunale finiscono per essere risolti o comunque attenuati in via preventiva, considerata, diversamente, la necessità di eliminare gli effetti materiale prodotti dal provvedimento fino al passaggio in giudicato della sentenza di annullamento[^38].
+La sospensione cautelare non è però idonea a tutelare il ricorrente che lamenti l'illegittimo diniego di un provvedimento ampliativo o, meglio, l'omesso rilascio del titolo. In questi casi, contraddistinti dall'emersione di interessi legittimi pretensivi, la tutela del privato è garantita dalla possibilità per il giudice, ai sensi del § 123 _VwGo_, di concedere misure provvisorie a contenuto positivo anche anteriormente al ricorso, volte ad evitare quelle modificazioni irreparabili che potrebbero _medio tempore_ investire la situazione di fatto, rendendo alla fine una sentenza favorevole, vantaggiosa sulla carta, ma nella sostanza inutile. 
+
+
+
+<!--- {{{ NOTE: ////////////////////////////////////////// --->
+
+[^37]:  BVerwG, 21.06.1961, in _BVerwGE_ 13, 5.
+[^38]: B. MARCHETTI, _L'esecuzione della sentenza amministrativa_, cit., 46.
+
+
+<!--- }}} //////////////////////////////////////////////// --->
+
+
+
+
+
+## Le misure coercitive: lo _Zwangsgeld (§ 172 VwGO)_ 
+
+Il _VwGO_ disciplina l'esecuzione coattiva delle sentenze del giudice amministrativo nei confronti della pubblica amministrazione ai §§ 167-172. In particolare, la legge sul processo amministrativo _(VwGO)_ determina il giudice dell'esecuzione (§ 167), i titoli esecutivi (§ 168), l'esecuzione a favore della mano pubblica (§ 169), l'esecuzione contro la mano pubblica (§§ 170 e 172), nonché i casi in cui non è necessaria la formula esecutiva (§ 171). I §§ 170 e 172 _VwGO_ rappresentano la base normativa dell'esecuzione forzata contro la pubblica amministrazione, ancorché i rispettivi ambiti di applicazione siano da tenere distinti. Il § 170 _VwGO_ disciplina l'esecuzione contro la mano pubblica per crediti pecuniari, compresa la penale di cui al § 172 (_Zwangsgeld_). Tale norma è modellata sul § 882a _ZPO_ relativo all'esecuzione per crediti di denaro nei confronti delle persone giuridiche di diritto pubblico e le modalità di esecuzione sono sostanzialmente quelle previste dal codice di procedura civile, nulla dicendo sul punto il § 170 _VwGO_ che tuttavia reca alcuni correttivi che tengono conto della particolare condizione giuridica del patrimonio pubblico e della sua tendenziale destinazione all'assolvimento dei compiti dell'amministrazione. Più nel dettaglio, il tribunale, da un lato, prima di procedere all'esecuzione forzata, deve intimare all'autorità amministrativa di eseguire il giudicato entro il termine massimo di un mese e, dall'altro, essendo l'esecuzione inammissibile in relazione a beni essenziali per l'adempimento di pubbliche funzioni o alla cui alienazione si contrapponga un pubblico interesse, non può ordinare il sequestro di beni destinati all'uso o al servizio pubblico. Il § 172 _VwGO_ attiene, in linea di principio, all'esecuzione di decisioni dichiarative dell'obbligo dell'amministrazione di rilasciare un provvedimento nei confronti della controparte. Esso prevede un mezzo di coercizione meramente indiretto, assistito dalla minaccia di una sanzione pecuniaria da applicarsi all'autorità inadempiente senza alcuna limitazione o particolare privilegio per la stessa, salva la misura massima dell'ammenda, di volta in volta erogabile, pari a diecimila Euro.
+Nella misura in cui il contenuto delle norme predette non dovesse essere esaustivo in relazione al caso concreto, sarà possibile integrarle con i precetti del codice di rito (_ZPO_), in nome del principio di effettività della tutela giurisdizionale[^39].
+Molto prima che venisse alla luce la legge sulla giustizia amministrativa e con essa il § 172 _VwGO_, l'idea di poter eseguire coattivamente le pronunce dei giudici nei confronti di un soggetto esercente un pubblico potere era stata decisamente avversata in dottrina. Si sosteneva, in particolare, che si sarebbe rivelato un non senso che lo Stato, quale fondamento del diritto (_Hort des Rechts_) potesse essere coartato al rispetto di quello stesso diritto di cui egli era portatore. Ciò si sarebbe rivelato inconciliabile con il rispetto che si deve allo Stato medesimo ed avrebbe leso la sua immagine, mettendone in discussione l'onore[^40].
+Così recita il § 172 _VwGO_: "_Se un'autorità, nei casi di cui al § 113, co. 1, secondo periodo, e co. 5 del § 123, non ottempera all'obbligo impostole nella sentenza o nel provvedimento provvisorio, il tribunale di primo grado può, su richiesta, comminare con ordinanza nei suoi confronti un'ammenda fino a Euro diecimila, previa assegnazione di un termine, applicarla dopo l'infruttuoso decorso del termine e portarla ad esecuzione d'ufficio. L'ammenda può essere ripetutamente comminata, applicata e portata ad esecuzione_"[^41]. La norma fa espresso riferimento all'esecuzione (indiretta) di una sentenza di annullamento nella parte in cui contestualmente ingiunge all'amministrazione la revoca della già introdotta esecuzione del provvedimento caducato (§ 113/1 secondo alinea _VwGO_), ovvero di adempimento dell'obbligo di emettere un certo atto o di provvedere nel rispetto della concezione giuridica del tribunale (§ 113/5 _VwGo_) o, infine, il rilascio di un provvedimento positivo (§ 123 _VwGO_).
+Rimedi indiretti ulteriori, prodromici allo _Zwangsgeld_, ma meno impattanti e di valore per lo più simbolico, sono l'interpello dell'autorità gerarchicamente superiore rispetto a quella che dovrebbe eseguire la sentenza, ovvero il ricorso all'opinione pubblica attraverso una petizione popolare o mediante il coinvolgimento della stampa al fine di sollecitare o quantomeno esercitare una pressione psicologica sull'amministrazione inottemperante[^42].
+La limitazione della procedura esecutiva nei confronti della pubblica amministrazione ad un rimedio come lo _Zwangsgeld_, perlomeno nei casi previsti dal § 172 _VwGO_, la mette al riparo dall'esecuzione diretta, anche se non è del tutto esclusa la possibilità di accedere alla tutela esecutiva secondo i dettami del codice di rito nel caso di insuccesso della procedura di coazione indiretta o, a certe condizioni, in alternativa alla stessa. Ciò sarà consentito laddove si richieda all'amministrazione una prestazione fungibile, mentre, per quanto riguarda l'emissione di un atto amministrativo, rimane ferma la rigida separazione dei poteri tra giurisdizione ed amministrazione. 
+Quanto alla natura giuridica, lo _Zwangsgeld_ è un semplice mezzo di coercizione e non già un istituto di matrice sanzionatoria. L'ammenda di cui al § 172 _VwGO_, così come altre disposizioni che fanno riferimento a tale rimedio, non potrebbe, salvo eccezioni, essere applicata e portata ad esecuzione laddove il destinatario abbia nel frattempo adempiuto. Lo scopo precipuo dello _Zwangsgeld_ è quello di determinare il debitore all'adempimento di un obbligo, attraverso la pressione mediata esercitata sul destinatario dalla minaccia di una penale nei casi in cui, in linea di massima, non sussiste la possibilità di attivare un meccanismo di coercizione diretta, oppure perché tale meccanismo è a forte rischio di insuccesso. La coazione indiretta viene dunque in rilievo quando debba darsi esecuzione ad obblighi di fare infungibili, la cui realizzazione è inevitabilmente rimessa alla volontà di un determinato soggetto, oppure nell'ambito degli obblighi di tollerare o di astenersi da una certa attività che, per definizione, possono essere solo indirettamente coercibili[^43].
+Il § 172 _VwGO_ si occupa della sentenza di annullamento solo in funzione della accessoria statuizione ingiuntiva dell'obbligo di ripristinare la situazione antecedente all'esecuzione dell'atto annullato e l'ambito privilegiato dello _Zwangsgeld_ risulterebbe essere quello dell'inottemperanza al giudicato formatosi sulle sentenze di adempimento, ex § 113/5 _VwGO_ (_Verpflichtungsurteil_), ma l'esecuzione coattiva indiretta secondo i dettami del § 172 _VwGO_ opera anche in conseguenza di un _Bescheidungsurteil_, con il quale viene unicamente sancito l'obbligo dell'autorità di provvedere nel rispetto del quadro giuridico delineato in sentenza, senza alcuna indicazione in ordine allo specifico contenuto dell'atto da adottare. In sostanza, l'omesso rilascio del richiesto provvedimento, così come la riedizione del potere amministrativo in contrasto con il quadro giuridico delineato nel _Bescheidungsurteil_, consentono di attivare il rimedio dello _Zwangsgeld_. In particolare, il ricorrente vittorioso potrà chiedere al tribunale di primo grado, con apposita istanza, di fissare un termine entro il quale l'autorità dovrà dare completa esecuzione alla sentenza, contestualmente determinando una penale nell'ammontare massimo di Euro diecimila, per il caso di persistente inottemperanza anche oltre la scadenza del termine predetto. In quest'ultima evenienza, sempre su richiesta di parte, il tribunale provvederà ad applicare all'amministrazione renitente l'ammenda stabilita ed a riscuoterla coattivamente d'ufficio, con l'ulteriore possibilità di reiterare in ipotesi all'infinito la procedura, fin tanto che permanga l'inadempimento della pubblica autorità. La definitiva impossibilità di dare esecuzione alla sentenza per causa imputabile all'amministrazione potrà dar luogo, in ogni caso, ad una responsabilità risarcitoria della stessa. 
+Per poter attivare la procedura esecutiva ai sensi del § 172 _VwGO_ nei confronti dell'amministrazione inadempiente, è necessario che ricorrano i seguenti presupposti: il titolo esecutivo che sarà costituito ad esempio da una sentenza di condanna al ripristino dello _status quo ante_ accessoria ad una sentenza di annullamento (§ 113/1 secondo alinea _VwGO_), di adempimento (§ 113/5 _VwGO_) o da un provvedimento provvisorio positivo (§ 123 _VwGO_), la notifica del titolo alla controparte, ai sensi del § 167/1 _VwGO_ in combinato disposto con i §§ 795, 724, 750/1 _ZPO_, la formula esecutiva da apporre alla decisione del giudice e l'inottemperanza dell'amministrazione alla statuizione giudiziale che deve essere definitiva, ove si tratti di sentenza. 
+
+
+
+<!--- {{{ NOTE: ////////////////////////////////////////// --->
+
+[^39]: Sul punto si è pronunciata la Corte costituzionale tedesca in una decisione di notevole importanza, con cui, nella parte motiva, fa esplicito riferimento alle misure previste dai §§ da 885 a 896 _ZPO_ la cui scelta, in ordine alle modalità ed eventuale successione delle misure da adottare, sarà rimessa alla valutazione del giudice competente. 
+[^40]: _"L'Etat toujours doit être réputé  honnête homme", E. LAFERRIERE, _Traité de la juridiction administrative et des recours contentieux_, Paris et Nancy 1896, I, 347 ss.
+[^41]: G. FALCON, C. FRAENKEL, _Ordinamento processuale amministrativo_, cit., § 172, 138.
+[^42]: W. BANK, _Zwangsvollstreckung gegen Behörde_, cit., 62.
+[^43]: O. R. REMIEN, _Zwangsgeld_, cit., 11, 12.
+
+
+<!--- }}} //////////////////////////////////////////////// --->
+
+
+
+
+
+## I mezzi di tutela esperibili dalle parti
+
+I provvedimenti del giudice dell'esecuzione relativi alla minaccia ed applicazione dello _Zwangsgeld_ possono essere eventualmente impugnati con ricorso, ai sensi del § 146 _VwGO_ entro due settimane dalla loro notifica, di regola davanti al tribunale amministrativo di grado intermedio. In tal caso, l'impugnativa proposta dalla pubblica amministrazione avverso l'ordinanza applicativa dell'ammenda, comporterà l'automatica sospensione dell'efficacia esecutiva del provvedimento[^44]. Allo stesso modo, il privato potrà avvalersene nel caso in cui il tribunale rigetti, sempre con ordinanza, l'istanza volta ad ottenere la minaccia o l'irrogazione della penale. Con tale rimedio possono essere fatti valere soltanto i vizi formali della procedura esecutiva, cioè il mancato rispetto delle regole procedurali disciplinanti la stessa[^45].
+Avverso la decisione sul predetto ricorso, non è dato alcun ulteriore mezzo di tutela, conformemente a quanto stabilito dal § 152/1 _VwGO_. Diversamente, ove sia in contestazione da parte dell'amministrazione il diritto di procedere ad esecuzione forzata da parte del privato, potrà essere introdotto ricorso per opposizione all'esecuzione, ai sensi del § 167/1 _VwGO_, in combinato disposto con il § 767 _ZPO_. Scopo di questo rimedio è quello di elidere l'efficacia esecutiva del titolo, non potendo chiaramente essere rimesso in discussione il giudicato. In tal senso, il § 767/2 _ZPO_ prescrive che possano essere fatte valere soltanto quelle eccezioni che si fondino su circostanze sopravvenute all'udienza per la discussione della causa, nell'ambito del processo di cognizione; inoltre, l'autorità amministrativa dovrà sollevare tutte le eccezioni deducibili al momento dell'opposizione, come previsto al § 767/3 _ZPO_, ad esempio la sopravvenuta modifica della situazione di fatto o di diritto rispetto a quella sulla quale è sceso il giudicato, così come il sopravvenuto adempimento dell'obbligo da esso discendente. Si pensi all'entrata in vigore di un nuovo piano regolatore in contrasto con il permesso di costruire al cui rilascio l'amministrazione veniva condannata con sentenza di adempimento (_Verplichtungsurteil_): fin tanto che non venga rilasciato il titolo autorizzativo, il giudicato avente ad oggetto il riconoscimento della relativa pretesa non è al riparo da eventuali sopravvenienze di diritto, a differenza di ciò che accade nel diritto civile, ove è sempre irrilevante il mutamento del quadro normativo entro il quale dovrebbe essere eseguito il giudicato[^46]. Competente a giudicare dell'opposizione è il tribunale di prima istanza.
+
+
+
+<!--- {{{ NOTE: ////////////////////////////////////////// --->
+
+[^44]: R. PIETZNER, in F. SCHOCH, E. SCHMIDT-AßMANN, R. PIETZNER, _VwGO_, cit. sub §172, n. 52.
+[^45]: R. PIETZNER, in F. SCHOCH, E. SCHMIDT-AßMANN, R. PIETZNER, _VwGO_, cit. sub §167, n. 5.
+[^46]: _BVerwG 26.10.1984, in _NVwZ_ 1985, 563.
+
+
+<!--- }}} //////////////////////////////////////////////// --->
+
+
+
+
+
+## Il rapporto fra lo Zwangsgeld ed il risarcimento del danno da giudicato
+
+Una delle peculiarità del sistema tedesco di coercizione indiretta è rappresentata dalla integrale devoluzione alle casse dello Stato delle somme ricavate dalle ammende. La diversa impostazione che vuole che il creditore sia beneficiario delle somme, abbracciata dai paesi che, come la Francia, hanno subito le influenze del diritto romano, in cui vi era una commistione fra l'_astreinte_ ed il risarcimento del danno, è stata fortemente criticata in quanto, avendo il ricorrente vittorioso la possibilità di agire in via risarcitoria per il caso di ritardata od omessa esecuzione del giudicato da parte dell'amministrazione, attribuire al privato anche l'importo della penale, vorrebbe dire arricchirlo ingiustificatamente. La soluzione seguita in Francia presenterebbe lo svantaggio di rendere incerti i confini tra lo _Zwangsgeld_ e il risarcimento del danno, poiché l'associazione tra i due istituti pregiudicherebbe l'effetto di coazione che è proprio dell'ammenda ex § 172 _VwGO_ e, allo stesso tempo, la possibilità di cumularli porterebbe il creditore a ricevere troppo. Inoltre, la destinazione dello _Zwangsgeld_ alle casse dello Stato sarebbe ulteriormente funzionale a garantire il rispetto delle decisioni giurisdizionali e quindi il prestigio dell'amministrazione della giustizia.
+Per quanto concerne il rimedio risarcitorio, la disciplina è quella valevole per tutte le ipotesi di responsabilità della pubblica amministrazione per i danni cagionati nell'esercizio dei propri doveri d'ufficio. Le norme fondamentali in materia sono l'art. 34 del _Grundgesetz_ e il § 839 del _Bürgerliches Gesetzbuch_, le quali vanno lette in combinato disposto[^47].
+In base al c. 1 del § 839 _BGB_ i danni causati intenzionalmente o con negligenza, in violazione di un dovere del funzionario vengono dallo stesso integralmente risarciti. Se si tratta di mera negligenza, la responsabilità del funzionario potrà essere invocata in via sussidiaria, ovvero soltanto nel caso in cui non vi sia un'altra via per ottenere il risarcimento, ad esempio per contratto, per legge, o in base al sistema di assicurazione sociale[^48].
+Per converso, l'art. 34 della _Grundnorm_ trasferisce la responsabilità sulla pubblica autorità da cui il funzionario dipende, salvo il regresso nei casi di dolo e colpa grave per evitare che i funzionari abusino dell'immunità della responsabilità personale loro garantita[^49] e radica in capo al giudice ordinario la giurisdizione per le azioni per le azioni di responsabilità nei confronti del potere pubblico, stabilendo al terzo alinea, con riferimento al diritto al risarcimento e al diritto di rivalsa, che non può mai essere esclusa l'azione di fronte alla giurisdizione ordinaria.
+
+
+
+<!--- {{{ NOTE: ////////////////////////////////////////// --->
+
+[^47]: S. DETTERBECK, _Allgemeines Verwaltungsrecht_, cit., 379.
+[^48]: U. KARPEN, _L'esperienza della Germania_, in D. SORACE (a cura di) _La responsabilità pubblica nell'esperienza giuridica europea_, Bologna, 1994, 140.
+[^49]: ...
+
+
+<!--- }}} //////////////////////////////////////////////// --->
+
+
+
+<!--- {{{TODO: index.2 -------------------------------------
+
+- L’azione di annullamento (Anfechtungsklage) e l’azione di adempimento (Verplichtungsklage)
+- L’esecuzione delle sentenze del giudice amministrativo – Il Folgenbeseitigunganspruch (FBA)
+- Il contenzioso ingiuntivo: la c.d. Verpflichtungsklage
+- L’applicazione generalizzata della tutela cautelare
+- L’esecuzione dei provvedimenti cautelari positivi (§123 VwGO)
+- Le misure coercitive: lo Zwangsgeld (§172 VwGO)
+- Presupposti per l’attivazione della procedura esecutiva ai sensi del §172 VwGO
+- Minaccia, applicazione ed esecuzione dell’ammenda
+- Rapporto tra Zwangsgeld e il risarcimento del danno da violazione del giudicato
+
+
+}}} ------------------------------------------------------- ---> 
 

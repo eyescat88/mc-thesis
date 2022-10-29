@@ -1,12 +1,15 @@
 ---
-pagetitle: This is the HTML document title
-title: This is the title of the thesis
-subtitle: This is the subtitle of the thesis
-author: Firstname Surname
-date: January 2015
-location: University College London, UK
+pagetitle: Inottemperanza della PA in alcuni ordinamenti europei
+title: I rimedi all’inottemperanza della PA in alcuni ordinamenti europei
+subtitle: Quisque porttitor quis augue sit amet auctor.
+author: Marina Chiapello
+date: Gennaio 2023
+location: Università degli Studi di Milano-Bicocca, IT
 supervisor:
-- Professor Louis Fage
-- Captain J. Y. Cousteau
-degree: Doctor of Philosophy
+- Prof. Alessandro Squazzoni
+degree: Laurea in Servizi Giuridici
+lang: it
+mainlang: italian
+fontfamily: XCharter
+mainfont: XCharter
 ---

@@ -1,5 +1,5 @@
-\documentclass[12pt,a4paper,]{report}
-\usepackage{lmodern}
+\documentclass[12pt,it,a4paper,]{report}
+\usepackage{XCharter}
 
 % Overwrite \begin{figure}[htbp] with \begin{figure}[H]
 \usepackage{float}
@@ -42,6 +42,7 @@
   \fi
   \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
   \newcommand{\euro}{€}
+    \setmainfont{XCharter}
 \fi
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -50,54 +51,6 @@
 \usepackage{microtype}
 \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
-\usepackage{color}
-\usepackage{fancyvrb}
-\newcommand{\VerbBar}{|}
-\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
-\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
-% Add ',fontsize=\small' for more characters per line
-\newenvironment{Shaded}{}{}
-\newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
-\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
-\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.49,0.56,0.16}{#1}}
-\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
-\newcommand{\BuiltInTok}[1]{#1}
-\newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
-\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{#1}}}
-\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
-\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.53,0.00,0.00}{#1}}
-\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
-\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{#1}}
-\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
-\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.73,0.13,0.13}{\textit{#1}}}
-\newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{#1}}}
-\newcommand{\ExtensionTok}[1]{#1}
-\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{#1}}
-\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{#1}}
-\newcommand{\ImportTok}[1]{#1}
-\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
-\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{#1}}}
-\newcommand{\NormalTok}[1]{#1}
-\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.40,0.40,0.40}{#1}}
-\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{#1}}
-\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.74,0.48,0.00}{#1}}
-\newcommand{\RegionMarkerTok}[1]{#1}
-\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
-\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.73,0.40,0.53}{#1}}
-\newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
-\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.10,0.09,0.49}{#1}}
-\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{#1}}
-\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textbf{\textit{#1}}}}
-\usepackage{longtable,booktabs}
-\usepackage{graphicx}
-\makeatletter
-\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
-\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
-\makeatother
-% Scale images if necessary, so that they will not overflow the page
-% margins by default, and it is still possible to overwrite the defaults
-% using explicit options in \includegraphics[width, height, ...]{}
-\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
 \ifxetex
   \usepackage[setpagesize=false, % page size defined by xetex
               unicode=false, % unicode breaks when used with xetex
@@ -107,8 +60,8 @@
 \fi
 \hypersetup{breaklinks=true,
             bookmarks=true,
-            pdfauthor={Firstname Surname},
-            pdftitle={This is the title of the thesis},
+            pdfauthor={Marina Chiapello},
+            pdftitle={I rimedi all'inottemperanza della PA in alcuni ordinamenti europei},
             colorlinks=true,
             citecolor=blue,
             urlcolor=blue,
@@ -119,33 +72,14 @@
 \setlength{\parskip}{6pt plus 2pt minus 1pt}
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 \setcounter{secnumdepth}{5}
+\ifxetex
+  \usepackage{polyglossia}
+  \setmainlanguage{italian}
+\else
+  \usepackage[it]{babel}
+\fi
 
-% % \newlength{\cslhangindent}
-% \setlength{\cslhangindent}{1.5em}
-% \newenvironment{cslreferences}%
-%   {}%
-%   {\par}
 % 
-\newlength{\cslhangindent}
-\setlength{\cslhangindent}{1.5em}
-\newlength{\csllabelwidth}
-\setlength{\csllabelwidth}{3em}
-\newenvironment{CSLReferences}[2] % #1 hanging-ident, #2 entry spacing
- {% don't indent paragraphs
-  \setlength{\parindent}{0pt}
-  % turn on hanging indent if param 1 is 1
-  \ifodd #1 \everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces\fi
-  % set entry spacing
-  \ifnum #2 > 0
-  \setlength{\parskip}{#2\baselineskip}
-  \fi
- }%
- {}
-\usepackage{calc}
-\newcommand{\CSLBlock}[1]{#1\hfill\break}
-\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
-\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
-\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
 
 
 
@@ -297,41 +231,41 @@
 
 \begin{document}
 
-
 \begin{titlepage}
     \begin{center}
 
     % Delete the following line
     % to remove the UCL header logo
     \ThisULCornerWallPaper{1.0}{style/univ_logo.eps}
-/work/mc/mc-thesis
+
         \vspace*{2.5cm}
 
         \huge
-        This is the title of the thesis
+        I rimedi all'inottemperanza della PA in alcuni ordinamenti
+        europei
 
                 \vspace{.5cm}
 
         \Large
-        This is the subtitle of the thesis
+        Quisque porttitor quis augue sit amet auctor.
         
 
         \vspace{1.5cm}
 
         \Large
-        Firstname Surname
+        Marina Chiapello
 
         \vspace{1.5cm}
 
         \normalsize
         A thesis presented for the degree of\\
-        Doctor of Philosophy
+        Laurea in Servizi Giuridici
 
         \vfill
 
         \normalsize
         Supervised by:\\
-        Professor Louis Fage \\ Captain J. Y. Cousteau
+        Prof.~Alessandro Squazzoni
 
         \vspace{0.8cm}
 
@@ -340,8 +274,8 @@
         % \includegraphics[width=0.4\textwidth]{style/univ_logo.eps}
 
         \normalsize
-        University College London, UK\\
-        January 2015
+        Università degli Studi di Milano-Bicocca, IT\\
+        Gennaio 2023
 
         % Except where otherwise noted, content in this thesis is licensed under a Creative Commons Attribution 4.0 License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. Copyright 2015,Tom Pollard.
 
@@ -353,7 +287,7 @@
 \vspace*{\fill}
 
 \noindent \textit{
-I, AUTHORNAME confirm that the work presented in this thesis is my own. Where information has been derived from other sources, I confirm that this has been indicated in the thesis.
+Io, AUTHORNAME Aliquam pellentesque lorem sem, molestie molestie ipsum sodales sit amet.
 } \vspace*{\fill} \pagenumbering{gobble} \newpage
 
 \hypertarget{abstract}{%
@@ -407,13 +341,14 @@ varius, sed finibus turpis placerat.
 
 \newpage
 
-\hypertarget{abbreviations}{%
-\chapter*{Abbreviations}\label{abbreviations}}
-\addcontentsline{toc}{chapter}{Abbreviations}
+\hypertarget{abbreviazioni}{%
+\chapter*{Abbreviazioni}\label{abbreviazioni}}
+\addcontentsline{toc}{chapter}{Abbreviazioni}
 
 \begin{tabbing}
-\textbf{API}~~~~~~~~~~~~ \= \textbf{A}pplication \textbf{P}rogramming \textbf{I}nterface \\  
-\textbf{JSON} \> \textbf{J}ava\textbf{S}cript \textbf{O}bject \textbf{N}otation \\  
+\hspace{12em} \= \hspace{60em} \= \kill
+\textbf{c.p.a.} \> \textbf{c}odice della \textbf{p}ubblica \textbf{a}mministrazione \\
+\textbf{P. A.} \> \textbf{P}ubblica \textbf{A}mministrazione \\
 \end{tabbing}
 
 \newpage
@@ -423,533 +358,976 @@ varius, sed finibus turpis placerat.
 \doublespacing
 \setlength{\parindent}{0.5in}
 
-\hypertarget{introduction-with-a-citation}{%
-\chapter{Introduction, with a
-citation}\label{introduction-with-a-citation}}
-
-\hypertarget{background}{%
-\section{Background}\label{background}}
-
-This is the introduction. Quisque finibus aliquet cursus. Integer in
-pellentesque tellus. Duis eu dignissim nulla, a porttitor enim. Quisque
-vehicula leo non ultrices finibus. Duis vehicula quis sem sit amet
-sollicitudin. Integer neque est, pharetra et auctor vel, iaculis
-interdum lectus.
-
-To include a citation to the text, just add the citation key shown in
-the references.bib file. The style of the citation is determined by the
-ref\_format.csl file. For example, in The Living Sea you can find
-pictures of the Calypso (Cousteau \& Dugan 1963).
-
-In neque mauris, maximus at sapien a, iaculis dignissim justo. Aliquam
-erat volutpat. Praesent varius risus auctor est ultricies, sit amet
-consequat nisi laoreet. Suspendisse non est et mauris pharetra sagittis
-non porta justo. Praesent malesuada metus ut sapien sodales ornare.
-
-\hypertarget{modello}{%
-\section{Modello}\label{modello}}
-
-\hypertarget{in-english}{%
-\subsection{In English}\label{in-english}}
-
-Template for writing a PhD thesis in Markdown, a super-friendly plain
-text format. Using Pandoc, the Markdown can be easily converted to
-popular formats such as LATEX, PDF, MS Word, HTML, etc. (Pollard et al.
-2016).
-
-\hypertarget{in-italiano}{%
-\subsection{In Italiano}\label{in-italiano}}
-
-Modello per scrivere una tesi di dottorato in Markdown, un formato di
-testo normale super intuitivo. Usando Pandoc, il Markdown può essere
-facilmente convertito in formati popolari come LATEX, PDF, MS Word,
-HTML, ecc. (Pollard et al. 2016).
-
-\hypertarget{the-middle-bit}{%
-\section{The middle bit}\label{the-middle-bit}}
-
-This is the middle bit. Phasellus quis ex in ipsum pellentesque lobortis
-tincidunt sed massa. Nullam euismod sem quis dictum condimentum.
-Suspendisse risus metus, elementum eu congue quis, viverra ac metus.
-Donec non lectus at lectus euismod laoreet pharetra semper dui. Donec
-sed eleifend erat, vel ultrices nibh. Nam scelerisque turpis ac nunc
-mollis, et rutrum nisl luctus.
-
-Duis faucibus vestibulum elit, sit amet lobortis libero. Class aptent
-taciti sociosqu ad litora torquent per conubia nostra, per inceptos
-himenaeos. Sed at cursus nibh. Sed accumsan imperdiet interdum. Proin id
-facilisis tortor. Proin posuere a neque nec iaculis. Suspendisse
-potenti. Nullam hendrerit ante mi, vitae iaculis dui laoreet eu.
-
-Cras eleifend velit diam, eu viverra mi volutpat ut. Cum sociis natoque
-penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec
-finibus leo nec dui imperdiet, tincidunt ornare orci venenatis. Maecenas
-placerat efficitur est, eu blandit magna hendrerit eu.
-
-\hypertarget{subsection-of-the-middle-bit}{%
-\subsection{Subsection of the middle
-bit}\label{subsection-of-the-middle-bit}}
-
-This is a subsection of the middle bit. Quisque sit amet tempus arcu, ac
-suscipit ante. Cras massa elit, pellentesque eget nisl ut, malesuada
-rutrum risus. Nunc in venenatis mi. Curabitur sit amet suscipit eros,
-non tincidunt nibh. Phasellus lorem lectus, iaculis non luctus eget,
-tempus non risus. Suspendisse ut felis mi.
-
-\hypertarget{summary-of-chapters}{%
-\section{Summary of chapters}\label{summary-of-chapters}}
-
-This is a brief outline of what went into each chapter, and a section
-which shows how to reference headers (which are labelled automatically
-for you). This chapter, \cref{introduction-with-a-citation}, shows how
-to use citations and how to reference section headers.
-\Cref{literature-review-with-maths} shows how use and reference
-equations. \Cref{first-research-study-with-code} shows how to use and
-reference code. \Cref{research-containing-a-figure} shows how to use,
-reference, and resize pdf and jpg figures.
-\Cref{research-containing-a-table} shows how to use and reference
-tables. \Cref{final-research-study} is truly revolutionary (but shows
-nothing functional).
-\textbf{\protect\hyperlink{appendix-1-some-extra-stuff}{Appendix 1}}
-shows how to add chapters which are not numbered, and has to be
-referenced manually, as does
-\textbf{\protect\hyperlink{appendix-2-some-more-extra-stuff}{Appendix
-2}}. See the base
-\href{https://github.com/tompollard/phd_thesis_markdown/blob/master/README.md}{\texttt{README.md}}
-for how References are handled - leave \texttt{*\_references.md} alone,
-and provide it to \texttt{pandoc} last.
-
-Proin faucibus nibh sit amet augue blandit varius.
-
-\hypertarget{literature-review-with-maths}{%
-\chapter{Literature review, with
-maths}\label{literature-review-with-maths}}
-
-\hypertarget{introduction}{%
-\section{Introduction}\label{introduction}}
-
-This is the introduction. Duis in neque felis. In hac habitasse platea
-dictumst. Cras eget rutrum elit. Pellentesque tristique venenatis
-pellentesque. Cras eu dignissim quam, vel sodales felis. Vestibulum
-efficitur justo a nibh cursus eleifend. Integer ultrices lorem at nunc
-efficitur lobortis.
-
-\hypertarget{the-middle}{%
-\section{The middle}\label{the-middle}}
-
-This is the literature review. Nullam quam odio, volutpat ac ornare
-quis, vestibulum nec nulla. Aenean nec dapibus in
-mL/min\textsuperscript{-1}. Mathematical formula can be inserted using
-Latex and can be automatically numbered:
-
-\begin{equation}f(x) = ax^3 + bx^2 + cx + d\label{eq:my_equation}\end{equation}
-
-Nunc eleifend, ex a luctus porttitor, felis ex suscipit tellus, ut
-sollicitudin sapien purus in libero. Nulla blandit eget urna vel tempus.
-Praesent fringilla dui sapien, sit amet egestas leo sollicitudin at.
-
-Later on in the text, you can reference Equation \ref{eq:my_equation}
-and its mind-blowing ramifications. Pellentesque habitant morbi
-tristique senectus et netus et malesuada fames ac turpis egestas. Sed
-faucibus pulvinar volutpat. Ut semper fringilla erat non dapibus. Nunc
-vitae felis eget purus placerat finibus laoreet ut nibh.
-
-\hypertarget{a-complicated-math-equation}{%
-\section{A complicated math
-equation}\label{a-complicated-math-equation}}
-
-The following raw text in markdown behind Equation
-\ref{eq:my_complicated_equation} shows that you can fall back on
-\LaTeX if it is more convenient for you. Note that this will only be
-rendered in \texttt{thesis.pdf}
-
-\begin{equation}
-\begin{aligned}
-    \hat{\theta}_g = \argmin_{\theta_g} \Big\{ - &\sum^{N}_{n=1}\Big( 1-\mathbb{1}[f(\pmb x^{(n)})]\Big)\log f\Big(\pmb x^{(n)} \\ 
-    &+ g(\pmb x^{(n)};\theta_g)\Big) + \lambda|g(\pmb x^{(n)};\theta_g)|_2 \Big\} \ ,
-\end{aligned}
-\label{eq:my_complicated_equation}\end{equation}
-
-\hypertarget{conclusion}{%
-\section{Conclusion}\label{conclusion}}
-
-This is the conclusion. Donec pulvinar molestie urna eu faucibus. In
-tristique ut neque vel eleifend. Morbi ut massa vitae diam gravida
-iaculis. Pellentesque habitant morbi tristique senectus et netus et
-malesuada fames ac turpis egestas.
-
-\begin{itemize}
-\tightlist
-\item
-  first item in the list
-\item
-  second item in the list
-\item
-  third item in the list
-\end{itemize}
-
-\hypertarget{first-research-study-with-code}{%
-\chapter{First research study, with
-code}\label{first-research-study-with-code}}
-
-\hypertarget{introduction-1}{%
-\section{Introduction}\label{introduction-1}}
-
-This is the introduction. Nam mollis congue tortor, sit amet convallis
-tortor mollis eget. Fusce viverra ut magna eu sagittis. Vestibulum at
-ultrices sapien, at elementum urna. Nam a blandit leo, non lobortis
-quam. Aliquam feugiat turpis vitae tincidunt ultricies. Mauris
-ullamcorper pellentesque nisl, vel molestie lorem viverra at.
-
-\hypertarget{method}{%
-\section{Method}\label{method}}
-
-Suspendisse iaculis in lacus ut dignissim. Cras dignissim dictum
-eleifend. Suspendisse potenti. Suspendisse et nisi suscipit, vestibulum
-est at, maximus sapien. Sed ut diam tortor.
-
-\hypertarget{subsection-1-with-example-code-block}{%
-\subsection{Subsection 1 with example code
-block}\label{subsection-1-with-example-code-block}}
-
-This is the first part of the methodology. Cras porta dui a dolor
-tincidunt placerat. Cras scelerisque sem et malesuada vestibulum.
-Vivamus faucibus ligula ac sodales consectetur. Aliquam vel tristique
-nisl. Aliquam erat volutpat. Pellentesque iaculis enim sit amet posuere
-facilisis. Integer egestas quam sit amet nunc maximus, id bibendum ex
-blandit.
-
-For syntax highlighting in code blocks, add three ```'' characters
-before and after a code block:
-
-\begin{Shaded}
-\begin{Highlighting}[]
-\NormalTok{mood }\OperatorTok{=} \StringTok{\textquotesingle{}happy\textquotesingle{}}
-\ControlFlowTok{if}\NormalTok{ mood }\OperatorTok{==} \StringTok{\textquotesingle{}happy\textquotesingle{}}\NormalTok{:}
-    \BuiltInTok{print}\NormalTok{(}\StringTok{"I am a happy robot"}\NormalTok{)}
-\end{Highlighting}
-\end{Shaded}
-
-\hypertarget{subsection-2}{%
-\subsection{Subsection 2}\label{subsection-2}}
-
-By running the code in \cref{subsection-1-with-example-code-block}, we
-solved AI completely. This is the second part of the methodology. Proin
-tincidunt odio non sem mollis tristique. Fusce pharetra accumsan
-volutpat. In nec mauris vel orci rutrum dapibus nec ac nibh. Praesent
-malesuada sagittis nulla, eget commodo mauris ultricies eget.
-Suspendisse iaculis finibus ligula.
-
-\hypertarget{results}{%
-\section{Results}\label{results}}
-
-These are the results. Ut accumsan tempus aliquam. Sed massa ex, egestas
-non libero id, imperdiet scelerisque augue. Duis rutrum ultrices arcu et
-ultricies. Proin vel elit eu magna mattis vehicula. Sed ex erat,
-fringilla vel feugiat ut, fringilla non diam.
-
-\hypertarget{discussion}{%
-\section{Discussion}\label{discussion}}
-
-This is the discussion. Duis ultrices tempor sem vitae convallis.
-Pellentesque lobortis risus ac nisi varius bibendum. Phasellus volutpat
-aliquam varius. Mauris vitae neque quis libero volutpat finibus. Nunc
-diam metus, imperdiet vitae leo sed, varius posuere orci.
-
-\hypertarget{conclusion-1}{%
-\section{Conclusion}\label{conclusion-1}}
-
-This is the conclusion to the chapter. Praesent bibendum urna orci, a
-venenatis tellus venenatis at. Etiam ornare, est sed lacinia elementum,
-lectus diam tempor leo, sit amet elementum ex elit id ex. Ut ac viverra
-turpis. Quisque in nisl auctor, ornare dui ac, consequat tellus.
-
-\hypertarget{research-containing-a-figure}{%
-\chapter{Research containing a
-figure}\label{research-containing-a-figure}}
-
-\hypertarget{introduction-2}{%
-\section{Introduction}\label{introduction-2}}
-
-This is the introduction. Sed vulputate tortor at nisl blandit interdum.
-Cras sagittis massa ex, quis eleifend purus condimentum congue. Maecenas
-tristique, justo vitae efficitur mollis, mi nulla varius elit, in
-consequat ligula nulla ut augue. Phasellus diam sapien, placerat sit
-amet tempor non, lobortis tempus ante.
-
-\hypertarget{method-1}{%
-\section{Method}\label{method-1}}
-
-Donec imperdiet, lectus vestibulum sagittis tempus, turpis dolor euismod
-justo, vel tempus neque libero sit amet tortor. Nam cursus commodo
-tincidunt.
-
-\hypertarget{subsection-1}{%
-\subsection{Subsection 1}\label{subsection-1}}
-
-This is the first part of the methodology. Duis tempor sapien sed tellus
-ultrices blandit. Sed porta mauris tortor, eu vulputate arcu dapibus ac.
-Curabitur sodales at felis efficitur sollicitudin. Quisque at neque
-sollicitudin, mollis arcu vitae, faucibus tellus.
-
-\hypertarget{subsection-2-1}{%
-\subsection{Subsection 2}\label{subsection-2-1}}
-
-This is the second part of the methodology. Sed ut ipsum ultrices,
-interdum ipsum vel, lobortis diam. Curabitur sit amet massa quis tortor
-molestie dapibus a at libero. Mauris mollis magna quis ante vulputate
-consequat. Integer leo turpis, suscipit ac venenatis pellentesque,
-efficitur non sem. Pellentesque eget vulputate turpis. Etiam id nibh at
-elit fermentum interdum.
-
-\hypertarget{results-1}{%
-\section{Results}\label{results-1}}
-
-These are the results. In vitae odio at libero elementum fermentum vel
-iaculis enim. Nullam finibus sapien in congue condimentum. Curabitur et
-ligula et ipsum mollis fringilla.
-
-\hypertarget{discussion-1}{%
-\section{Discussion}\label{discussion-1}}
-
-Fig. \ref{fig:my_fig} shows how to add a figure. Donec ut lacinia nibh.
-Nam tincidunt augue et tristique cursus. Vestibulum sagittis odio nisl,
-a malesuada turpis blandit quis. Cras ultrices metus tempor laoreet
-sodales. Nam molestie ipsum ac imperdiet laoreet. Pellentesque habitant
-morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
-\begin{figure}[htbp]
-\centering
-\includegraphics[width=1.0\textwidth]{source/figures/example_figure.pdf}
-\caption[It's a boat]{RV Calypso is a former British Royal Navy minesweeper converted into a research vessel for the oceanographic researcher Jacques-Yves Cousteau. It was equipped with a mobile laboratory for underwater field research.}\label{fig:my_fig}
-\end{figure}
-
-\hypertarget{conclusion-2}{%
-\section{Conclusion}\label{conclusion-2}}
-
-This is the conclusion to the chapter. Quisque nec purus a quam
-consectetur volutpat. Cum sociis natoque penatibus et magnis dis
-parturient montes, nascetur ridiculus mus. In lorem justo, convallis
-quis lacinia eget, laoreet eu metus. Fusce blandit tellus tellus.
-Curabitur nec cursus odio. Quisque tristique eros nulla, vitae finibus
-lorem aliquam quis. Interdum et malesuada fames ac ante ipsum primis in
-faucibus.
-
-\begin{figure}
-\hypertarget{fig:other_fig}{%
-\centering
-\includegraphics[width=1\textwidth,height=\textheight]{source/figures/full_caption_example.jpg}
-\caption{This is not a boat}\label{fig:other_fig}
-}
-\end{figure}
-
-\hypertarget{research-containing-a-table}{%
-\chapter{Research containing a
-table}\label{research-containing-a-table}}
-
-\hypertarget{introduction-3}{%
-\section{Introduction}\label{introduction-3}}
-
-This is the introduction. Phasellus non purus id mauris aliquam rutrum
-vitae quis tellus. Maecenas rhoncus ligula nulla, fringilla placerat mi
-consectetur eu. Aenean nec metus ac est ornare posuere. Nunc ipsum
-lacus, gravida commodo turpis quis, rutrum eleifend erat. Pellentesque
-id lorem eget ante porta tincidunt nec nec tellus.
-
-\hypertarget{method-2}{%
-\section{Method}\label{method-2}}
-
-Vivamus consectetur, velit in congue lobortis, massa massa lacinia urna,
-sollicitudin semper ipsum augue quis tortor. Donec quis nisl at arcu
-volutpat ultrices. Maecenas ex nibh, consequat ac blandit sit amet,
-molestie in odio. Morbi finibus libero et nisl dignissim, at ultricies
-ligula pulvinar.
-
-\hypertarget{subsection-1-1}{%
-\subsection{Subsection 1}\label{subsection-1-1}}
-
-This is the first part of the methodology. Integer leo erat, commodo in
-lacus vel, egestas varius elit. Nulla eget magna quam. Nullam
-sollicitudin dolor ut ipsum varius tincidunt. Duis dignissim massa in
-ipsum accumsan imperdiet. Maecenas suscipit sapien sed dui pharetra
-blandit. Morbi fermentum est vel quam pretium maximus.
-
-\hypertarget{subsection-2-2}{%
-\subsection{Subsection 2}\label{subsection-2-2}}
-
-This is the second part of the methodology. Nullam accumsan condimentum
-eros eu volutpat. Maecenas quis ligula tempor, interdum ante sit amet,
-aliquet sem. Fusce tellus massa, blandit id tempus at, cursus in tortor.
-Nunc nec volutpat ante. Phasellus dignissim ut lectus quis porta. Lorem
-ipsum dolor sit amet, consectetur adipiscing elit.
-
-\hypertarget{results-2}{%
-\section{Results}\label{results-2}}
-
-Table \ref{tbl:random} shows us how to add a table. Integer tincidunt
-sed nisl eget pellentesque. Mauris eleifend, nisl non lobortis
-fringilla, sapien eros aliquet orci, vitae pretium massa neque eu
-turpis. Pellentesque tincidunt aliquet volutpat. Ut ornare dui id ex
-sodales laoreet.
-
-\newpage
-
-\begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1529}}
-  >{\centering\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.0941}}
-  >{\centering\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1176}}
-  >{\centering\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1765}}
-  >{\centering\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1529}}
-  >{\centering\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1529}}
-  >{\centering\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1529}}@{}}
-\caption{Important data for various land masses.
-\label{tbl:random}}\tabularnewline
-\toprule()
-\begin{minipage}[b]{\linewidth}\raggedright
-Landmass
-\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
-\% stuff
-\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
-Number of Owls
-\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
-Dolphins per Capita
-\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
-How Many Foos
-\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
-How Many Bars
-\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
-Forbidden Float
-\end{minipage} \\
-\midrule()
-\endfirsthead
-\toprule()
-\begin{minipage}[b]{\linewidth}\raggedright
-Landmass
-\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
-\% stuff
-\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
-Number of Owls
-\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
-Dolphins per Capita
-\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
-How Many Foos
-\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
-How Many Bars
-\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
-Forbidden Float
-\end{minipage} \\
-\midrule()
-\endhead
-North America & 94\% & 20,028 & 17,465 & 12,084 & 20,659 & 1.71 \\
-Central America & 91\% & 6564 & 6350 & 8,189 & 12,012 & 1.52 \\
-South America & 86\% & 3902 & 4127 & 5,205 & 6,565 & 1.28 \\
-Africa & 84\% & 2892 & 3175 & 3,862 & 4,248 & 1.1 \\
-Europe & 92\% & 20,964 & 17,465 & 15,303 & 24,203 & 1.58 \\
-Asia & 87\% & 6852 & 6350 & 8,255 & 11,688 & 1.47 \\
-Oceania & 87\% & 4044 & 4127 & 5,540 & 6,972 & 1.28 \\
-Antarctica & 83\% & 2964 & 3175 & 4,402 & 4,941 & 1.13 \\
-\bottomrule()
-\end{longtable}
-
-\hypertarget{discussion-2}{%
-\section{Discussion}\label{discussion-2}}
-
-This is the discussion. As we saw in Table \ref{tbl:random}, many things
-are true, and other things are not. Etiam sit amet mi eros. Donec vel
-nisi sed purus gravida fermentum at quis odio. Vestibulum quis nisl sit
-amet justo maximus molestie. Maecenas vitae arcu erat. Nulla facilisi.
-Nam pretium mauris eu enim porttitor, a mattis velit dictum. Nulla sit
-amet ligula non mauris volutpat fermentum quis vitae sapien.
-
-\hypertarget{conclusion-3}{%
-\section{Conclusion}\label{conclusion-3}}
-
-This is the conclusion to the chapter. Nullam porta tortor id vehicula
-interdum. Quisque pharetra, neque ut accumsan suscipit, orci orci
-commodo tortor, ac finibus est turpis eget justo. Cras sodales nibh nec
-mauris laoreet iaculis. Morbi volutpat orci felis, id condimentum nulla
-suscipit eu. Fusce in turpis quis ligula tempus scelerisque eget quis
-odio. Vestibulum et dolor id erat lobortis ullamcorper quis at sem.
-
-\hypertarget{final-research-study}{%
-\chapter{Final research study}\label{final-research-study}}
-
-\hypertarget{introduction-4}{%
-\section{Introduction}\label{introduction-4}}
-
-This is the introduction. Nunc lorem odio, laoreet eu turpis at,
-condimentum sagittis diam. Phasellus metus ligula, auctor ac nunc vel,
-molestie mattis libero. Praesent id posuere ex, vel efficitur nibh.
-Quisque vestibulum accumsan lacus vitae mattis.
-
-\hypertarget{method-3}{%
-\section{Method}\label{method-3}}
-
-In tincidunt viverra dolor, ac pharetra tellus faucibus eget.
-Pellentesque tempor a enim nec venenatis. Morbi blandit magna imperdiet
-posuere auctor. Maecenas in maximus est.
-
-\hypertarget{subsection-1-2}{%
-\subsection{Subsection 1}\label{subsection-1-2}}
-
-This is the first part of the methodology. Praesent mollis sem diam, sit
-amet tristique lacus vulputate quis. Vivamus rhoncus est rhoncus tellus
-lacinia, a interdum sem egestas. Curabitur quis urna vel quam blandit
-semper vitae a leo. Nam vel lectus lectus.
-
-\hypertarget{subsection-2-3}{%
-\subsection{Subsection 2}\label{subsection-2-3}}
-
-This is the second part of the methodology. Aenean vel pretium tortor.
-Aliquam erat volutpat. Quisque quis lobortis mi. Nulla turpis leo,
-ultrices nec nulla non, ullamcorper laoreet risus.
-
-\hypertarget{results-3}{%
-\section{Results}\label{results-3}}
-
-These are the results. Curabitur vulputate nisl non ante tincidunt
-tempor. Aenean porta nisi quam, sed ornare urna congue sed. Curabitur in
-sapien justo. Quisque pulvinar ullamcorper metus, eu varius mauris
-pellentesque et. In hac habitasse platea dictumst. Pellentesque nec
-porttitor libero. Duis et magna a massa lacinia cursus.
-
-\hypertarget{discussion-3}{%
-\section{Discussion}\label{discussion-3}}
-
-This is the discussion. Curabitur gravida nisl id gravida congue. Duis
-est nisi, sagittis eget accumsan ullamcorper, semper quis turpis. Mauris
-ultricies diam metus, sollicitudin ultricies turpis lobortis vitae. Ut
-egestas vehicula enim, porta molestie neque consectetur placerat.
-Integer iaculis sapien dolor, non porta nibh condimentum ut.
-
-\hypertarget{conclusion-4}{%
-\section{Conclusion}\label{conclusion-4}}
-
-This is the conclusion to the chapter. Nulla sed condimentum lectus.
-Duis sed tempor erat, at cursus lacus. Nam vitae tempus arcu, id
-vestibulum sapien. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus.
-
-\hypertarget{conclusion-5}{%
-\chapter{Conclusion}\label{conclusion-5}}
-
-\hypertarget{thesis-summary}{%
-\section{Thesis summary}\label{thesis-summary}}
-
-In summary, pellentesque habitant morbi tristique senectus et netus et
-malesuada fames ac turpis egestas. Nunc eleifend, ex a luctus porttitor,
-felis ex suscipit tellus, ut sollicitudin sapien purus in libero. Nulla
-blandit eget urna vel tempus. Praesent fringilla dui sapien, sit amet
-egestas leo sollicitudin at.
-
-\hypertarget{future-work}{%
-\section{Future work}\label{future-work}}
-
-There are several potential directions for extending this thesis. Lorem
-ipsum dolor sit amet, consectetur adipiscing elit. Aliquam gravida ipsum
-at tempor tincidunt. Aliquam ligula nisl, blandit et dui eu, eleifend
-tempus nibh. Nullam eleifend sapien eget ante hendrerit commodo.
-Pellentesque pharetra erat sit amet dapibus scelerisque.
+\hypertarget{la-giustizia-amministrativa-in-italia}{%
+\chapter{La giustizia amministrativa in
+Italia}\label{la-giustizia-amministrativa-in-italia}}
+
+\hypertarget{lattuazione-del-giudicato-il-giudizio-di-ottemperanza}{%
+\section{L'attuazione del giudicato: il giudizio di
+ottemperanza}\label{lattuazione-del-giudicato-il-giudizio-di-ottemperanza}}
+
+Il giudizio di ottemperanza rappresenta uno strumento di particolare
+incisività per garantire nei confronti dell'Amministrazione l'attuazione
+delle decisioni giudiziali, come stabilito all'art. 112 c.p.a. e in
+risposta ai principi di di effettività ed efficacia della tutela
+giurisdizionale sanciti dagli artt. 24 e 113 Cost.\footnote{Cfr. art.
+  113 Cost: ``Contro gli atti della pubblica amministrazione è sempre
+  ammessa la tutela giurisdizionale dei diritti e degli interessi
+  legittimi dinanzi agli organi di giurisdizione ordinaria e
+  amministrativa''.}, nonché dall'art. 47 della Carta dei diritti
+fondamentali dell'UE e dall'art. 13 della CEDU. In base alla legge di
+abolizione del contenzioso amministrativo del 1865, dell'atto
+amministrativo lesivo di un diritto si poteva chiedere la modifica o
+l'annullamento esclusivamente con ricorso gerarchico all'Autorità
+amministrativa competente e l'Amministrazione che aveva emesso l'atto
+aveva semplicemente l'obbligo di conformarsi al giudicato del tribunale
+civile, ma tale obbligo rimaneva incoercibile, in quanto non
+accompagnato da un meccanismo volto a garantirne l'effettiva
+osservanza\footnote{Cfr. L. 2248 del 1865, art. 4, c.~2: ``L'atto
+  amministrativo non potrà essere rivocato o modificato se non sovra
+  ricorso alle competenti Autorità amministrative, le quali si
+  conformeranno al giudicato dei Tribunali in quanto riguarda il caso
+  deciso''.}.
+
+In origine il giudizio di ottemperanza, così come introdotto dall'art. 4
+n.~4 della legge 31 marzo 1889, n.~5992, era ammesso solo per le
+sentenze passate in giudicato dell'Autorità giudiziaria ordinaria,
+aventi per oggetto diritti civili e politici. E' a partire dagli anni
+venti del secolo scorso che la giurisprudenza del Consiglio di Stato
+estende analogicamente l'applicabilità dell'istituto anche
+all'esecuzione del giudicato amministrativo, ma esso trova un
+riconoscimento normativo solo con l'art. 37 della legge 6 dicembre 1971,
+n.~1034, istitutiva dei tribunali amministrativi regionali. Infine,
+viene compiutamente disciplinato con il decreto legislativo 2 luglio
+2010, n.~104, in attuazione della legge delega 18 giugno 2009, n.~69,
+per il riordino del processo amministrativo. Presupposto per
+l'attivazione del giudizio di ottemperanza è l'inosservanza da parte
+dell'Amministrazione del dovere di esecuzione della sentenza e l'oggetto
+del giudizio è costituito dalla verifica se l'Amministrazione abbia o
+meno adempiuto l'obbligo nascente dal giudicato, ovvero se abbia o meno
+attribuito all'interessato quell'utilità che la sentenza ha riconosciuto
+come dovuta. Mentre nella fase esecutiva della sentenza di condanna del
+giudice civile che ha per oggetto diritti soggettivi e stabilisce cosa
+deve fare l'Amministrazione soccombente nello specifico ci si trova di
+fronte ad una sentenza molto chiara nello stabilire cosa si pretende dal
+``debitore'', nel caso della sentenza del giudice amministrativo la
+condotta successiva non è sempre segnata con certezza: il vincolo
+conformativo ha un'intensità diversa a seconda del vizio accolto e
+l'Amministrazione può non essere tenuta solo ad un comportamento
+specifico. Il giudizio di ottemperanza non è la mera attuazione di un
+giudicato già preciso e sicuro della fase di cognizione, ma deve
+ricostruirne il significato. E' un giudizio c.d. ``misto'',
+necessariamente di esecuzione ed eventualmente di cognizione,
+assoggettato al termine di prescrizione ordinario di dieci anni,
+decorrente dalla data del passaggio in giudicato della
+sentenza\footnote{Art. 114, c.~1, c.p.a.}. La fase di cognizione non è
+necessaria quando l'attività amministrativa successiva al giudicato
+abbia carattere vincolato, ovvero quando le statuizioni della sentenza
+impartiscano all'amministrazione comandi tassativi e talmente puntuali
+da non lasciare spazio alcuno all'esercizio dei suoi poteri
+discrezionali. Per converso, gli spazi liberi che possono residuare al
+giudicato rendono la \emph{regola iuris} dallo stesso dettata
+``implicita, elastica, condizionata ed incompleta'' e, come tale,
+suscettibile di essere chiarita nel contesto del giudizio di
+ottemperanza\footnote{M. NIGRO, \emph{Giustizia amministrativa,
+  332,333.}} . Sempre riguardo alla natura del rito ed alla
+compenetrazione di momenti cognitivi con momenti esecutivi, la Corte
+costituzionale ha chiarito che \emph{``il giudizio di ottemperanza
+assume diversi modi di essere in relazione alla situazione concreta,
+alla statuizione giudiziale da attuare, alla natura dell'atto censurato.
+Il particolare il giudizio di ottemperanza può costituire semplice
+giudizio esecutivo che si aggiunge al procedimento espropriativo,
+disciplinato dal codice di procedura civile; lo stesso giudizio può
+essere preordinato al compimento di operazioni materiali o (\ldots) alla
+sollecitazione di attività provvedimentale amministrativa (\ldots) può
+essere utilizzato anche in difetto di completa individuazione del
+contenuto della prestazione o attività oggetto del dovere
+dell'Amministrazione (\ldots) non deve modellarsi necessariamente anche
+nei presupposti sul processo esecutivo ordinario, tenuto conto delle
+peculiarità funzionali del giudizio amministrativo, con potenzialità
+sostitutive e intromissive nell'azione amministrativa incomparabili ai
+poteri del giudice dell'esecuzione del processo civile''\footnote{Cfr.
+  Corte Cost., ord. 10 dicembre 1998, n.~406, in \emph{Foro amm.}, 2000,
+  751.}.} Il ricorso per l'ottemperanza va proposto nelle forme
+ordinarie, quindi notificato all'Amministrazione e a tutte le altre
+parti del giudizio di merito. Il ricorrente deve depositare una copia
+autentica della sentenza di cui si chiede l'esecuzione, con l'eventuale
+prova del passaggio in giudicato\footnote{Art. 114, c.~2, c.p.a.}. In
+passato il ricorso doveva essere preceduto dalla notifica
+all'Amministrazione di una diffida a provvedere, ma oggi il codice,
+all'art. 114, c.~1, stabilisce che tale adempimento non è più
+necessario. Il riparto di competenza ha carattere funzionale, ai sensi
+dell'art. 14, c.~3, c.p.a. Per l'esecuzione della sentenza
+amministrativa, competente è il giudice che ha pronunciato la sentenza.
+Nel caso si tratti di sentenza emessa dal Consiglio di Stato, esso può
+essere competente in unico grado, ma se la sentenza del Tar è stata
+confermata in appello, la competenza spetta sempre al Tar. Qualora
+invece si tratti dell'esecuzione della sentenza di un giudice ordinario
+o di un altro giudice speciale diverso dal giudice amministrativo, la
+competenza spetta sempre al Tar nella cui circoscrizione ha sede il
+giudice che ha emesso la sentenza da eseguire\footnote{Art. 113 c.p.a.}.
+
+Per quanto riguarda l'esecuzione delle sentenze del giudice
+amministrativo, il ricorso per l'ottemperanza è esperibile
+indipendentemente dal fatto che esse siano passate in giudicato o
+solamente esecutive e, ai fini del ricorso, non rileva se rispetto a
+queste sentenze inadempiente sia l'Amministrazione o una parte privata.
+Nel caso di una sentenza non ancora passata in giudicato, l'esecuzione
+riguarda una statuizione che non ha ancora carattere di definitività.
+Con la sentenza n.~5352/2002 il Consiglio di Stato ha sostenuto che
+l'esecuzione della sentenza non ancora passata in giudicato non dovrebbe
+mai determinare un assetto \emph{``definito ed immutabile''}, perché
+altrimenti verrebbe frustrato l'esito pratico di un eventuale appello
+contro la sentenza\footnote{Cfr. Cons. Stato, sez. IV, 9 ottobre 2002,
+  n.~5352.}. In generale, la stessa giurisprudenza che ha orientato
+anche la redazione del codice del processo amministrativo equipara la
+sentenza esecutiva alla sentenza passata in giudicato ai fini
+dell'ammissibilità del giudizio di ottemperanza, ma precisa che il
+giudice dell'ottemperanza, se la sentenza non sia passata in giudicato,
+ne determina le modalità esecutive\footnote{Art. 114, c.~4, lett. c.},
+motivo per cui sembra riconosciuta la necessità che l'esecuzione di tale
+sentenza non pregiudichi le ragioni di un eventuale appello. In base
+all'art. 114, c.~2, lett. \emph{c} ed \emph{e}, il ricorso per
+l'ottemperanza è esperibile anche per l'esecuzione delle sentenze
+passate in giudicato del giudice ordinario e dei giudici speciali avanti
+ai quali non sia previsto un giudizio di ottemperanza, nonché per
+l'esecuzione dei lodi arbitrali esecutivi divenuti inoppugnabili. In
+questi casi però il giudizio di ottemperanza si caratterizza sul piano
+soggettivo come strumento di esecuzione specifica nei confronti di
+un'Amministrazione, in quanto non è ammesso per soggetti diversi.
+
+L'elemento decisamente caratteristico del giudizio di ottemperanza è
+individuato dall'art. 134, c.~1, lett. \emph{a}, c.p.a., laddove si
+prevede che il giudice amministrativo, nello stesso giudizio, esercita
+una giurisdizione estesa al merito. Tale previsione comporta che il
+giudice amministrativo possa sostituirsi, direttamente o attraverso un
+commissario da esso eventualmente nominato, all'Amministrazione
+inadempiente. Questa possibilità di sostituzione comporta che nel
+giudizio di ottemperanza non possa opporsi al giudice alcuna riserva di
+potere all'Amministrazione, in quanto la necessità di dare esecuzione
+alla sentenza prevale anche su ogni esigenza di salvaguardia delle
+prerogative dell'Amministrazione stessa. Inoltre, la giurisprudenza
+largamente prevalente ammette che il giudice dell'ottemperanza possa
+compiere anche attività discrezionali, disattendendo l'assunto secondo
+cui il medesimo giudice potrebbe sostituirsi all'Amministrazione solo
+nei limiti delle statuizioni puntali del giudicato, in quanto le
+ulteriori scelte discrezionali dell'Amministrazione non sarebbero di
+pertinenza dell'autorità giurisdizionale. L'attività del giudice
+dell'ottemperanza o del commissario \emph{ad acta} da lui nominato
+infatti non costituisce manifestazione in senso stretto di
+discrezionalità amministrativa, poiché essa è essenzialmente preordinata
+al conseguimento dell'interesse del ricorrente e non già all'interesse
+primario perseguito dall'Amministrazione. Vi sono due ipotesi in cui
+l'Amministrazione viola il giudicato del giudice amministrativo: una si
+verifica quando la sentenza stabilisce che essa non deve adottare un
+provvedimento e la seconda quando l'Amministrazione è inadempiente,
+quindi rispetto ad una condotta omissiva, con un'inerzia elusiva del
+giudicato. Con l'art. 21 \emph{septies} della legge 241/1990, introdotto
+dalla legge 15 del 2005 di riforma del procedimento amministrativo, gli
+atti elusivi sono stati assimilati a quelli assunti in violazione del
+giudicato, ammettendosi anche nei loro confronti il ricorso per
+l'ottemperanza\footnote{Cfr. Cons. St., sez. IV, 10 aprile 1998, n.~565,
+  in \emph{Foro amm.}, 1998, 1021: \emph{Il ricorso per l'ottemperanza è
+  ammissibile non solo quando l'amministrazione mantiene un
+  comportamento inerte di fronte al decisium del giudice, ma anche
+  quando il provvedimento da essa adottato, in affermata ottemperanza al
+  giudicato stesso, è invece palesemente elusivo dei principi e delle
+  regole in esso enunciati. Ciò in quanto il giudicato amministrativo ha
+  un contenuto complesso, non limitato agli effetti demolitori e
+  ripristinatori rivolti al passato, ma comprensivo anche degli effetti
+  confermativi rivolti al futuro e consistenti nei vincoli imposti
+  all'autorità amministrativa nella rinnovazione del provvedimento
+  annullato, in relazione ai vizi di legittimità riconosciuti
+  esistenti}.}.
+
+L'ampia gamma di poteri spendibili dal giudice dell'ottemperanza ammanta
+lo stesso istituto di originalità, laddove nella maggior parte delle
+principali esperienze continentali domina, quale strumento a presidio
+dell'esecuzione del giudicato da parte dell'amministrazione, il rimedio
+delle misure patrimoniali di tipo compulsorio, quali lo
+\emph{Zwangsgeld} o l'\emph{astrainte}, dove i sistemi sono improntati,
+in punto di esecuzione della sentenza, ad una rigida separazione tra i
+poteri dell'amministrazione e quelli della giurisdizione, essendo
+inibita al giudice qualsiasi ingerenza nell'attività esecutiva del
+giudicato amministrativo che rimane appannaggio dell'amministrazione.
+Un'eccezione è rappresentata dal modello austriaco della
+\emph{Säumnisbeschwerde} quale rimedio avverso il silenzio in
+inadempimento dell'amministrazione, prevedendo il legislatore austriaco
+al \emph{§ 63/2 VwGG} la possibilità per il giudice amministrativo di
+surrogarsi all'amministrazione inadempiente designando l'amministrazione
+o il tribunale chiamato ad eseguire la sua decisione e
+\emph{``consacrando così una possibile sostituzione del potere
+giudiziario all'amministrazione attiva (\ldots) sul fronte
+dell'esecuzione''}\footnote{C. FRAENKEL, \_Giurisdizione sul silenzio e
+  discrezionalità amministrativa,} .
+
+\hypertarget{i-poteri-sostitutivi-indiretti-il-commissario-ad-acta}{%
+\section{\texorpdfstring{I poteri sostitutivi indiretti: il commissario
+\emph{ad
+acta}}{I poteri sostitutivi indiretti: il commissario ad acta}}\label{i-poteri-sostitutivi-indiretti-il-commissario-ad-acta}}
+
+Il giudice può adottare direttamente i provvedimenti necessari ad
+un'integrale esecuzione del giudicato quando essi siano vincolati,
+altrimenti si deve limitare a dichiarare l'obbligo di provvedere
+assegnando all'amministrazione un termine, nonché disponendo che si
+nomini un commissario il quale agisca al posto dell'amministrazione, se
+questa non ottemperi entro il termine assegnato. Il commissario \emph{ad
+acta} è chiamato ad esercitare quei poteri che il giudice
+dell'ottemperanza potrebbe esercitare anche in via diretta, attraverso
+un intervento nel merito volto a sostituire l'amministrazione e
+finalizzato a rendere effettiva la tutela sostanziale dell'interesse
+protetto. Di regola il giudice assegna all'amministrazione un termine e
+contestualmente designa un'autorità amministrativa che alla scadenza del
+termine assegnato si sostituirà all'amministrazione inadempiente ed
+emanerà il provvedimento o terrà il comportamento necessario per
+l'attuazione del giudicato. In sede di ottemperanza al giudicato, il
+giudice amministrativo, direttamente o per mezzo del commissario da lui
+nominato, può emanare provvedimenti di vario tipo, costitutivi,
+certificatori, declaratori di obblighi a carico dell'amministrazione e
+tutti quegli adempimenti strumentalmente necessari per l'esecuzione
+della sentenza. In pratica, si sostituisce all'amministrazione
+inadempiente ponendo in essere l'attività che questa avrebbe dovuto
+compiere per realizzare concretamente gli effetti scaturenti dalla
+sentenza da eseguire, conformando la realtà alle sue statuizioni. Poiché
+la discrezionalità amministrativa implica sovente decisioni di matrice
+politica, la nomina di un commissario \emph{ad acta} viene ritenuta
+preferibile rispetto all'adozione diretta da parte del giudice delle
+misure di competenza dell'amministrazione riottosa. Di regola, egli è
+scelto fra funzionari di altre amministrazioni e, spesso nella persona
+del Prefetto, rappresenta con la sua attività \emph{``il punto di sutura
+e saldatura''} tra attività giurisdizionale ed
+amministrativa\footnote{M. CLARICH, \emph{Il giudizio amministrativo di
+  esecuzione}, \emph{cit}., 344.}. In particolare, \emph{``in quanto
+delegato dal giudice amministrativo, ha il potere di emanare i necessari
+provvedimenti amministrativi anche in deroga alle vigenti competenze.
+Allo stesso è altresì demandato l'onere di porre in essere ogni attività
+idonea a dare esecuzione alla decisione''}\footnote{S. PELILLO, \emph{Il
+  giudizio di ottemperanza alle sentenze del giudice amministrativo,
+  cit.,} 313 ss.}. Una ormai risalente pronuncia della Corte
+costituzionale configura il commissario \emph{ad acta} come ausiliario
+del giudice e riconduce i suoi atti all'esercizio della giurisdizione
+esecutiva del giudice dell'ottemperanza\footnote{Cfr. Corte Cost., 12
+  maggio 1977, n.~75, in \emph{Giur. it.,} 1978, I, 980.}. Autorevole
+dottrina ha sostanzialmente qualificato l'attività commissariale come
+\emph{``proiezione nel mondo esterno di un comando del giudice e,
+quindi, della traduzione nel concreto della attribuzione della} potestas
+decidendi \emph{che non sempre ha o può avere contenuti rigidamente
+predeterminati}, tali da consentire al giudice di portarli direttamente
+ad attuazione\footnote{S. PELILLO, \emph{Il giudizio di ottemperanza
+  alle sentenze del giudice amministrativo, cit.,} 314, secondo il quale
+  sarebbero in realtà poche le situazioni che si prestano ad essere
+  compiutamente disciplinate in via immediata con la sentenza: nella
+  maggior parte dei casi si renderebbe necessario \emph{``gestire
+  nell'ambito naturale (con l'osservanza delle regole) il procedimento e
+  pervenire all'adozione finale del provvedimento''}.}. L'ampiezza dei
+poteri commissariali dipenderà dal contenuto del giudicato inadempiuto:
+essi potranno estrinsecarsi, a seconda delle situazioni dedotte in
+giudizio, in attività sia vincolata, come ad esempio la restituzione di
+beni illegittimamente espropriati, sia discrezionale, quindi comportante
+un potere di scelta\footnote{A. Sandulli, \emph{L'effettività delle
+  decisioni giurisdizionali amministrative, cit., 308, 309.}}. Una volta
+nominato il commissario, il giudice mantiene comunque un incisivo potere
+di vigilanza sul suo operato, nonché il potere di risolvere eventuali
+contestazioni, dal momento che le determinazioni del commissario,
+laddove esorbitanti dalle specifiche indicazioni del giudice, possono
+essere oggetto di un ricorso dinanzi allo stesso giudice, esperibile
+anche dall'amministrazione sostituita\footnote{Cfr. Cons. St., sez. V,
+  28 febbraio 1995, n.~298, in \emph{Cons. Stato}, 1995, I, 232 ss.}. Da
+tempo, sia in dottrina che in giurisprudenza, si dibatte sulla questione
+riguardante la misura del potere di adempiere che conserverebbe
+l'amministrazione, una volta che sia stato nominato il commissario o sia
+scaduto il nuovo termine imposto alla stessa amministrazione. La
+giurisprudenza ritiene, per lo più, che l'amministrazione verrebbe
+privata del suo potere nel momento in cui viene assunta direttamente dal
+giudice la decisione contenente il provvedimento concreto reso in
+ottemperanza al giudicato, ovvero in quello in cui viene nominato il
+commissario\footnote{Cfr. Cons. St., Ad. Plen., 14 luglio 1978 e Cons.
+  St., Ad. Plen., 9 marzo 1973, n.~1, in G. PASQUINI, A. SANDULLI (a
+  cura di), \emph{Le grandi decisioni del Consiglio di Stato}, Milano,
+  2001, 398 e ss.}. Ove invece venga fissato all'amministrazione un
+termine per adempiere, questo assume carattere perentorio, risultando
+evidente nel caso in cui la prefissione del termine sia accompagnata
+dalla nomina del commissario, poiché, una volta scaduto il termine, il
+potere provvedimentale si trasferirebbe in automatico a tale soggetto,
+ancorché il contenuto degli atti, eventualmente adottati
+dall'amministrazione dopo tale scadenza e sadisfattivi del giudicato,
+potrebbe essere confermato dal giudice dell'ottemperanza, il quale in
+tal modo avvalorerebbe una legittimazione a provvedere tardivamente in
+capo all'amministrazione\footnote{Cfr. Cons. St., sez. VI, 19 gennaio
+  1995, n.~41, in \emph{Foro amm., CS}, 1995, 1, 78 ss.}.
+
+Molti dei casi di inosservanza delle sentenze del giudice amministrativo
+non sono dettati da una volontà deliberata di disconoscere l'autorità
+della cosa giudicata, bensì alle oggettive difficoltà che
+l'amministrazione incontra nell'eseguire le sentenze, soprattutto
+qualora gli obblighi in esse enunciati appaiano indeterminati, vaghi o
+imprecisi e intercorra più tempo fra l'emissione del provvedimento
+impugnato e il suo definitivo annullamento. Il c.~5 dell'art. 112 c.p.a.
+e il c.~7 dell'art. 114 ammettono il ricorso al giudice
+dell'ottemperanza anche soltanto per \emph{``ottenere chiarimenti''} in
+merito alle modalità di esecuzione che non presuppone un'inottemperanza,
+ma semplicemente un'incertezza sull'interpretazione o sugli effetti
+della sentenza da eseguire. In questi casi quindi il ricorso può essere
+proposto anche dall'amministrazione tenuta a darvi esecuzione, quando
+abbia esigenza di chiarimenti. Per evitare abusi, la giurisprudenza ha
+comunque affermato che tale rimedio non deve rappresentare un espediente
+per mettere in discussione la sentenza da eseguire o per introdurre
+questioni estranee all'ottemperanza\footnote{Cfr. Cons. Stato, sez. VI,
+  19 giugno 2012, n.~3569.}.
+
+\hypertarget{il-risarcimento-del-danno-da-inottemperanza}{%
+\section{Il risarcimento del danno da
+inottemperanza}\label{il-risarcimento-del-danno-da-inottemperanza}}
+
+Una volta ottenuta soddisfazione attraverso il giudizio promosso ai
+sensi del c.~2 dell'art. 112 c.p.a., potrebbe ancora residuare al
+ricorrente vittorioso un danno connesso alla tardiva realizzazione di
+quell'assetto che sarebbe dovuto scaturire dall'annullamento del
+provvedimento illegittimo dell'amministrazione, ma che è venuto in
+essere solo a seguito di un notevole lasso di tempo oppure che ormai non
+risulta più attuabile, per cui il giudizio di ottemperanza, di per sè,
+non sarebbe in grado di garantire al ricorrente una tutela piena ed
+effettiva. In quest'ultimo caso, lo strumento dell'ottemperanza si
+rivelerebbe inutile, se non vi fosse la possibilità di ottenere
+contestualmente un risarcimento per equivalente a seguito della perdita
+definitiva del bene spettante dovuta alla inesecuzione del giudicato. Si
+pensi al caso del definitivo annullamento di un decreto di esproprio cui
+non sia seguita la spontanea restituzione dell'immobile al proprietario,
+per cui si è reso necessario instaurare il giudizio di ottemperanza. Ove
+l'amministrazione opponesse, in questa sede, una legittima
+sopravvenienza impediente l'esecuzione del giudicato, al ricorrente
+dovrebbe essere riconosciuto, in funzione surrogatoria, anche il danno
+c.d. petitorio, consistente nel controvalore del bene, derivante appunto
+dalla perdita definitiva dello stesso, cagionata dall'illecito ritardo
+nella conformazione al giudicato \footnote{Cfr. Cons. St., sez. IV, 30
+  gennaio 2006, n.~290, in \emph{Dir. giust.}, 2006, 10, 80 ove si
+  afferma che il proprietario del fondo illegittimamente occupato dalla
+  p.a. in esito a declaratoria di illegittimità dell'occupazione e
+  all'annullamento dei relativi provvedimenti può legittimamente
+  domandare nel giudizio di ottemperanza sia il risarcimento, sia la
+  restituzione del fondo che la sua riduzione in pristino. L'azione
+  risarcitoria costituisce strutturalmente attuazione del
+  \emph{decisium} e quindi trova la sua naturale allocazione nel
+  giudizio di ottemperanza, in quanto consente e determina
+  quell'adeguamento dello stato di fatto allo stato di diritto che
+  rappresenta la finalità tipica del giudizio di ottemperanza,
+  realizzando quell'esigenza di completamento della tutela
+  giurisdizionale amministrativa, ribadita anche dalla Consulta con
+  sentenza n.~204/2004.}. Da questa situazione, va tenuta distinta
+quella in cui, già al momento della pronuncia di annullamento, risulta
+chiaramente che non è più utile per il ricorrente la rinnovazione del
+potere conformemente alla regola concreta dedotta in sentenza, potendo
+il giudice amministrativo in tal caso accogliere immediatamente la
+domanda di risarcimento del danno per equivalente. In molti altri casi,
+invece, il giudice della cognizione non è in grado di prevedere già
+all'atto dell'annullamento se ed in quale misura l'ottemperanza potrà
+effettivamente ripristinare la situazione soggettiva lesa. In
+particolare, in tutti quei casi in cui la domanda del privato è diretta
+a conseguire il bene della vita, molto spesso la possibilità e i limiti
+entro cui attribuire il bene dipendono dal momento in cui
+l'amministrazione esegue il giudicato. Ad esempio, in materia di
+appalti, se l'annullamento dell'aggiudicazione in sede giurisdizionale
+interviene nell'immediatezza dei fatti, consente al ricorrente di
+stipulare il contratto con l'amministrazione; al contrario, se
+interviene quando il contratto con l'originale aggiudicatario è già
+stato non solo stipulato, ma anche parzialmente eseguito, l'esecuzione
+della pronuncia e quindi l'attribuzione del bene della vita, cioè
+l'appalto, è possibile solo parzialmente per la parte residua non
+eseguita, mentre per la prima parte la tutela può avvenire solo
+attraverso il risarcimento, sempre per equivalente. Spesso, quindi, solo
+all'esito dell'ottemperanza di un giudicato di annullamento è possibile
+accertare e quantificare il danno risarcibile per equivalente. Laddove
+non risulta più satisfattiva la pronuncia di annullamento, supplisce la
+tutela risarcitoria e il momento in cui emerge con chiarezza lo spazio
+per l'esecuzione del giudicato e per il risarcimento del danno è proprio
+quello dell'ottemperanza.
+
+Nell'ipotesi di annullamento di un provvedimento ampliativo della sfera
+giuridica del privato, occorre distinguere il caso in cui
+l'amministrazione, in esecuzione spontanea del giudicato di
+annullamento, renda il provvedimento precedentemente negato, dal caso in
+cui il bene della vita agognato dal ricorrente venga conseguito soltanto
+in esito al giudizio di ottemperanza. Mentre nella prima situazione la
+pretesa risarcitoria azionabile riguarderà esclusivamente un danno da
+attività provvedimentale illegittima, non avendo luogo una violazione
+del giudicato, in quanto l'amministrazione accorda l'utilità prima
+negata, a seguito della rinnovazione del potere discrezionale successivo
+al giudicato di annullamento\footnote{Il ritardo produttivo del danno
+  deriva dal fatto che l'amministrazione ha prima adottato un
+  provvedimento illegittimo, sfavorevole al privato (es. diniego di
+  permesso di costruire), ed ha poi emanato altro provvedimento, questa
+  volta legittimo e favorevole, a seguito dell'annullamento in sede
+  giurisdizionale del primo atto. Cfr. R. CHIEPPA, V. LOPILATO,
+  \emph{Studi di diritto amministrativo}, Milano, 2007, 624, 625.},
+nella seconda la pretesa risarcitoria sarà duplice e riguarderà un danno
+scomponibile in una prima voce, relativa al ritardo antecedente alla
+formazione del giudicato e commisurato al pregiudizio patito dal
+ricorrente, qualora l'amministrazione si fosse spontaneamente conformata
+al giudicato, e una seconda voce di danno, propriamente da inadempimento
+dell'obbligo conformativo scaturente dalla pronuncia del giudice
+amministrativo, volta a coprire il segmento temporale intercorrente fra
+il giudicato e la sua concreta attuazione. In entrambe le ipotesi, il
+danno c.d. da ritardo potrà essere compiutamente apprezzato soltanto a
+posteriori, ovvero una volta che il privato abbia effettivamente
+ottenuto il bene della vita cui aspirava con l'istanza a suo tempo
+illegittimamente rigettata dall'amministrazione, a meno che non si
+tratti di potere amministrativo vincolato, per cui la spettanza del bene
+si cristallizza già in esito al giudizio di cognizione\footnote{Cfr.
+  Cons. St., sez. IV, 31 marzo 2006, n.~5323, in \emph{Foro amm. CS},
+  2006, 9, 2585 - nelle ipotesi nelle quali l'amministrazione sia
+  titolare di un potere discrezionale, solo dal nuovo esercizio del
+  potere possono derivare certezze in ordine alla spettanza del bene cui
+  il privato aspira. Per converso, allorché si tratti di attività
+  vincolata, il giudice, riscontrata la sussistenza dei presupposti di
+  legge, potrà stabilire che, data quella situazione, la p.a. avrebbe
+  dovuto adottare quella certa determinazione.}. In giurisprudenza
+ricorre il principio secondo cui, essendo l'oggetto del giudizio di
+ottemperanza costituito dalla verifica se l'amministrazione abbia o meno
+adempiuto all'obbligo nascente dal giudicato, ovvero abbia o meno
+attribuito all'interessato quell'utilità concreta che la sentenza ha
+riconosciuta come dovuta, a prescindere dal fatto che residuino o meno
+in capo all'amministrazione stessa poteri discrezionali, l'esecuzione
+deve essere esatta, al pari di quanto avviene nell'obbligazione civile,
+il cui inesatto adempimento viene sanzionato con la condanna al
+risarcimento del danno\footnote{Cons. St., sez. V, 27 maggio 1991,
+  n.~874, \emph{cit.}, nota 73, 3723.}. L'utilità concreta potrà
+consistere \emph{'' nel diritto alla restitutio in integrum sotto forma
+di pretesa alla restituzione del bene in caso di annullamento di
+provvedimenti ablatori, sotto forma di annullamento del contratto
+stipulato in seguito ad aggiudicazione illegittima, nel caso di
+provvedimento incidente su interessi legittimi pretensivi; può
+consistere nel diritto alla conformazione alla regola contenuta nel
+giudicato in caso di riedizione dell'atto che va dal diritto alla non
+riedizione o all'ottenimento dell'atto in caso di effetto vincolante
+pieno, al diritto alla riedizione nel rispetto delle regole sostanziali
+e formali in caso di effetto vincolante semipieno o
+strumentale}\footnote{L. MANCINI, \emph{La responsabilità della pubblica
+  amministrazione, cit.}, nota 73, 3723.}. Sul piano dell'accertamento e
+della prova, se nel giudizio avente ad oggetto il pregiudizio
+conseguente al provvedimento amministrativo illegittimo il privato deve
+provare tutti gli elementi costitutivi del fatto illecito, in quello
+avente ad oggetto il danno da violazione del giudicato opera, invece, il
+principio dell'inversione dell'onere della prova di cui all'art. 1218
+c.c. nella misura in cui viene posta a carico del debitore la prova che
+l'inadempimento è stato determinato da impossibilità della prestazione
+derivante da causa non imputabile. Ne consegue che l'interessato deve
+dimostrare esclusivamente il suo diritto e la sussistenza di un
+giudicato di accoglimento, mentre spetterà all'amministrazione la prova
+di avervi ottemperato.
+
+\hypertarget{lesperienza-tedesca}{%
+\chapter{L'esperienza tedesca}\label{lesperienza-tedesca}}
+
+\hypertarget{lazione-di-annullamento-anfechtungsklage-e-lazione-di-adempimento-verplichtungsklage}{%
+\section{L'azione di annullamento (Anfechtungsklage) e l'azione di
+adempimento
+(Verplichtungsklage)}\label{lazione-di-annullamento-anfechtungsklage-e-lazione-di-adempimento-verplichtungsklage}}
+
+Il legislatore tedesco ha affrontato il problema dell'esecuzione della
+sentenza amministrativa avente ad oggetto un provvedimento
+amministrativo, prima ancora che attraverso la predisposizione di un
+meccanismo di coazione in presenza di un inadempimento
+dell'amministrazione, con la previsione di un articolato sistema di
+misure che consentono di prevenire la mancata spontanea esecuzione delle
+pronunce del giudice e cercando di definire già a livello normativo
+contenuto ed effetti che debbono assumere le decisioni giurisdizionali
+in presenza di determinati presupposti. In questa prospettiva, è
+importante in primo luogo che gli obblighi dell'amministrazione
+derivanti dalla decisione del giudice amministrativo siano facili da
+assolvere e perfettamente determinati\footnote{M. FROMONT,
+  \emph{L'esecuzione delle decisioni del giudice amministrativo nel
+  diritto francese e tedesco}, in \emph{Problemi di amministrazione
+  pubblica}, 3, 1989, 523.}. Con la legge del 21 gennaio 1960
+\emph{(VwGO - Verwaltungsgerichtsordnung)} sull'ordinamento processuale
+amministrativo sono state introdotte due distinte azioni: una di
+impugnazione in senso stretto o di annullamento
+\emph{(Anfechtungsklage)} ed un'altra di condanna all'emissione di un
+dato provvedimento, altrimenti detta ``di adempimento''
+\emph{(Verplichtungsklage)}. Ove l'autorità emetta un provvedimento
+incidente negativamente nella sfera giuridica del destinatario, questi
+ricorrerrà alla \emph{Anechtungsklage} facendone valere eventuali vizi;
+ove invece il privato aspiri ad ottenere un provvedimento ampliativo
+della propria posizione giuridica soggettiva e si veda opporre un
+rifiuto espresso oppure debba constatare l'inerzia dell'amministrazione,
+azionerà il rimedio della \emph{Verplichtungsklage}, chiedendo la
+condanna al rilascio del provvedimento rifiutato od omesso. L'azione di
+annullamento o di impugnazione, così come quella di adempimento, sono
+disciplinate dal \emph{§ 42 \emph{VwGO} che al primo comma prevede che
+}''mediante azione può essere richiesto l'annullamento di un atto
+amministrativo\_ (azione di impugnazione), \emph{come pure la condanna
+all'emanazione di un atto amministrativo rifiutato o omesso''} (azione
+di inadempimento) e al secondo comma che \emph{``qualora la legge non
+disponga diversamente, l'azione è ammissibile solo quando l'attore fa
+valere di essere stato leso nei propri diritti dall'atto amministrativo
+o dal suo rifiuto o omissione''}\footnote{G. FALCON, C. FRAENKEL,
+  \emph{Ordinamento processuale amministrativo tedesco (VwGO)}, Trento,
+  2000.}. L'azione di annullamento è fondata allorquando ricorrano i
+requisiti previsti dal \emph{§ 113 VwGO}, e cioè nella misura in cui
+l'atto risulti illegittimo e lesivo dei cosiddetti diritti civili
+pubblici dell'attore \emph{(Kläger)}, quei diritti cioè che conferiscono
+al singolo la facoltà di pretendere dall'amministrazione una prestazione
+positiva o negativa. Verificata la sussistenza di questi presupposti, il
+tribunale potrà quindi annullare l'atto, ma la sentenza che conclude il
+giudizio di impugnazione potrà assumere un contenuto ulteriore e diverso
+dal mero annullamento del provvedimento impugnato, strettamente
+correlato all'attività esecutiva che l'amministrazione dovrebbe
+successivamente porre in essere per adeguarsi al \emph{decisium}.
+L'effetto demolitorio del provvedimento illegittimo, previa la
+sospensione della sua efficacia esecutiva, potrebbe rendere non
+necessaria la successiva attività di adeguamento; diversamente,
+nell'ambito della stessa sentenza che definisce il giudizio cassatorio,
+è prevista la possibilità per il giudice di guidare l'amministrazione
+nella scelta delle modalità di esecuzione della sentenza, per il
+ripristino dello \emph{status quo ante} attraverso la cancellazione
+degli effetti che si sono nel frattempo prodotti. E' questo l'istituto
+del cosiddetto \emph{Folgenbeseitigungsanspruch}\footnote{Letteralmente
+  ``pretesa o diritto all'eliminazione delle conseguenze dell'atto''.},
+indicato con l'abbreviazione \emph{FBA} e contemplato dal \emph{§ 113/1}
+secondo alinea \emph{VwGO}, ove si prevede che \emph{``se l'atto
+amministrativo è stato già eseguito, il tribunale può anche dichiarare,
+su richiesta, se e come l'autorità amministrativa debba revocare
+l'esecuzione\_. Il \emph{FBA} è autonomo rispetto all'azione di
+annullamento, inquadrabile fra le cosiddette azioni di prestazione,
+ancorché il giudice dell'impugnazione si pronunci sull'eliminazione
+degli effetti dell'atto con la medesima sentenza che definisce il
+giudizio cassatorio. L'utilizzo del termine''può'' }(Kann)\_ da parte
+del legislatore indica la mera facoltà di cumulare la domanda di revoca
+dell'esecuzione a quella di annullamento dell'atto eseguito, ma ciò non
+esclude la possibilità di proporre separata istanza, instaurando un
+autonomo giudizio. Rimane impregiudicata la facoltà per il tribunale, ai
+sensi del \emph{§ 93} secondo alinea \emph{VwGO}, di ordinare in ogni
+caso che le rispettive domande vengano trattate e decise in separati
+processi. Il c.~1, alinea terzo del \emph{§113 VwGO} stabilisce che la
+pretesa alla revoca dell'esecuzione è ammissibile solo laddove
+l'autorità amministrativa sia in grado di darvi seguito. In altri
+termini, l'attività di rimozione degli effetti dell'esecuzione del
+provvedimento annullato presuppone una prestazione possibile sotto il
+profilo giuridico-fattuale. Qualora l'amministrazione non sia in grado
+di ripristinare esattamente la situazione pregressa, dovrebbe
+ricostruirne una quantomeno simile a quella precedente l'esecuzione
+dell'atto annullato, in modo tale da eliminare al massimo i pregiudizi
+per il destinatario del provvedimento\footnote{P. BECKER, H. KUNI,
+  \emph{Probleme des verwaltungsgerichtlichen Vergabeverfahrens für
+  Studienplätze in der Humanmedizin,} in \emph{DVBl} 1976, 863.}. Si
+ritiene inoltre che la revoca dell'esecuzione come disposta dal giudice
+possa consistere, oltre che nella rimozione di un'attività materiale
+dell'amministrazione, anche nell'adozione di un atto amministrativo,
+quale ad esempio l'ordine di sgombero di un appartamento a seguito
+dell'annullamento della confisca dell'immobile da parte delle forze di
+polizia, con susseguente sua occupazione da parte di un
+terzo\footnote{\_VGH Kassel, 11.11.1993, in \emph{NVwZ}, 1995, 301; F.
+  O. KOPP, W. R. SCHENKE, \emph{Verwaltungsgerichtsordnung}, cit. sub. §
+  113, n.~91.}. Ulteriore presupposto di ammissibilità della pretesa,
+oltre al fatto che l'autorità sia in grado di darvi seguito, è che la
+questione sia matura per la decisione\footnote{§ 113/2, secondo alinea
+  \emph{VwGO}.}. Ciò significa che non deve più esserci necessità di
+accertare i fatti e non deve residuare alcuna discrezionalità in capo
+all'amministrazione per quanto riguarda le modalità di revoca
+dell'intervenuta esecuzione. Il \emph{FBA} sarà escluso laddove la
+rimozione delle conseguenze dell'esecuzione sia in contrasto con la
+legge al momento della decisione del tribunale\footnote{F. O. KOPP, W.
+  R. SCHENKE, \emph{Verwaltungsgerichtsordnung}, cit., sub § 113, n.~87.}.
+In definitiva, l'amministrazione che si trovi a dover eseguire la
+sentenza di annullamento e, quindi, a ripristinare la situazione
+esistente prima del provvedimento caducato, potrà essere guidata dal
+giudice nella scelta delle misure necessarie all'esecuzione del
+\emph{dictum} giudiziale, almeno per quel che concerne la rimozione
+degli effetti strettamente connessi all'esecuzione del provvedimento
+annullato. L'inottemperanza alla decisione sotto tale profilo, seppur
+non assistita da alcun meccanismo di coazione diretta, potrà tuttavia
+essere sanzionata attraverso l'attivazione della peculiare procedura di
+coercizione indiretta di cui al \emph{§ 172 VwGO}, consistente
+nell'assegnazione da parte del giudice, su richiesta dell'interessato,
+di un termine per l'esecuzione della pronuncia e, nel caso di
+inosservanza del medesimo, nell'irrogazione di un'ammenda, lo
+\emph{Zwangsgeld}.
+
+\hypertarget{il-contenzioso-ingiuntivo-la-c.d.-verpflichtungsklage}{%
+\section{\texorpdfstring{Il contenzioso ingiuntivo: la c.d.
+\emph{``Verpflichtungsklage''}}{Il contenzioso ingiuntivo: la c.d. ``Verpflichtungsklage''}}\label{il-contenzioso-ingiuntivo-la-c.d.-verpflichtungsklage}}
+
+La disposizione al § 113/5 \emph{VwGO} contempla la sentenza sulla c.d.
+\emph{Verplichtungsklage}, azione di prestazione o, secondo definizione
+della dottrina italiana, di condanna, con la quale si ingiunge alla
+pubblica amministrazione l'emanazione di un atto rifiutato od
+omesso\footnote{Il § 113/5 \emph{VwGO}, così come tradotto da G. FALCON,
+  C. FRAENKEL, \emph{Ordinamento processuale, cit., 94}, recita:
+  \emph{``Nella misura in cui il rifiuto o l'omissione dell'atto
+  amministrativo è illegittimo e l'attore ne risulta leso nei propri
+  diritti, il tribunale dichiara l'obbligo dell'autorità amministrativa
+  di porre in essere la richiesta attività dell'ufficio, se la questione
+  è matura per la decisione. Altrimenti esso dichiara l'obbligo di
+  decidere nei confronti dell'attore nel rispetto della concezione
+  giuridica del tribunale}.}. Essa è diretta sostanzialmente a sindacare
+il rifiuto del provvedimento amministrativo richiesto dall'interessato
+che consegue all'assunzione di un provvedimento espresso di diniego; in
+tal caso l'azione assumerà, seppur in via sussidiaria, anche un
+contenuto annullatorio, dal momento che l'eventuale sentenza di
+accoglimento ne comporterà l'eliminazione\footnote{Rileva D. DE PRETIS,
+  \emph{Il processo amministrativo in Europa, cit., 121} come in questo
+  caso oggetto del giudizio non è, se non in un secondo momento, il
+  provvedimento di espresso diniego di quanto richiesto dal privato, ma,
+  in primo luogo, il provvedimento che l'amministrazione avrebbe dovuto
+  assumere per soddisfare la pretesa sostanziale del ricorrente, per cui
+  è tale ultimo atto che l'amministrazione sarà tenuta ad adottare a
+  seguito dell'eventuale sentenza di accoglimento della
+  \emph{Verpflightungsklage}.}, ovvero l'omissione di un provvedimento
+non ancora denegato. Presupposti di fondatezza della
+\emph{Verplichtungsklage}, così come per l'azione di annullamento, sono
+l'illegittimità del diniego o dell'inerzia e la lesione dei diritti del
+ricorrente. In presenza di tali condizioni, il giudice affermerà
+l'obbligo dell'autorità amministrativa di adottare il provvedimento
+richiesto, qualora la questione sottoposta al suo esame consenta una
+decisione definitiva. Tuttavia, una condanna dell'amministrazione
+all'emissione di un atto dotato di un ben preciso contenuto potrà
+intervenire soltanto nel caso in cui la stessa amministrazione non abbia
+poteri discrezionali, ovvero qualora l'adozione del provvedimento
+richiesto rappresenti l'unica manifestazione della discrezionalità
+amministrativa priva di errori, tenuto presente che la sentenza di
+condanna, in virtù del principio costituzionale della separazione dei
+poteri, non sostituisce la decisione dell'amministrazione, ma la obbliga
+ad agire. Laddove invece la controversia non consenta una decisione
+definitiva, il tribunale, previo riconoscimento della legittimità della
+pretesa del ricorrente ad una decisione dell'amministrazione, si
+limiterà a statuire l'obbligo di quest'ultima di decidere secondo la
+valutazione da esso espressa sulla questione\footnote{§ 113/5
+  \emph{VwGO}. Si parla in questo caso di \emph{Bescheidungsurteil}.}.
+Partendo dalla considerazione che spesso l'amministrazione non
+ottempera, in quanto non sa come ottemperare, l'istituto della
+\emph{Verplichtungsklage} acquista notevole importanza nella misura in
+cui coinvolge il giudice sin dalla prima pronuncia nel chiarimento della
+portata operativa della decisione, ottenendo così una maggior ``presa''
+sul successivo comportamento\footnote{G. FALCON, \emph{Per una migliore
+  giustizia amministrativa}, cit., 151.}. Per converso, ove
+l'amministrazione sia titolare di un più ampio potere discrezionale, il
+giudice incontrerà il limite della insostituibilità delle scelte
+discrezionali dell'autorità, quindi la susseguente attività
+amministrativa rimarrà pur sempre appannaggio dell'amministrazione, con
+l'unico limite costituito dall'obbligo di rispettare la ``concezione
+giuridica'' del tribunale (c.d. \emph{Bescheidungsurteil}).
+
+\hypertarget{lapplicazione-generalizzata-della-tutela-cautelare}{%
+\section{L'applicazione generalizzata della tutela
+cautelare}\label{lapplicazione-generalizzata-della-tutela-cautelare}}
+
+Si è visto come, nei casi in cui l'amministrazione incontri delle
+difficoltà nell'ottemperare alle sentenze, dovute al fatto di non sapere
+come attuarle, il legislatore tedesco abbia cercato di determinare
+puntualmente gli effetti delle sentenze, in modo tale da guidare
+l'amministrazione nell'esecuzione del \emph{decisium}. Quanto invece
+alla difficolta, se non a volte all'impossibilità, di di rimuovere
+completamente la situazione creata da un provvedimento sacrificativo poi
+annullato, si è cercato di affrontarla attraverso un'estesa applicazione
+della tutela interinale della posizione del ricorrente, la quale si
+diversifica a seconda del tipo di provvedimento che viene in rilievo.
+Nell'ipotesi di atto amministrativo che incide negativamente sulla sfera
+giuridica dell'interessato, cui nel nostro ordinamento corrispondono gli
+interessi oppositivi, si ammette, salvo alcune eccezioni, la sospensione
+automatica dei suoi effetti in derivazione, prima ancora che della mera
+proposizione dell'impugnativa in sede giurisdizionale, della
+proposizione del ricorso amministrativo previo che costituisce
+condizione di ammissibilità della \emph{Anfechtungsklage} ai sensi del §
+68 \emph{VwGO} \footnote{BVerwG, 21.06.1961, in \emph{BVerwGE} 13, 5.}.
+Attraverso un impiego esteso e generalizzato della sospensione cautelare
+del provvedimento impugnato , ex § 80 \emph{VwGO}, molti dei problemi
+legati alla esecuzione delle pronunce del tribunale finiscono per essere
+risolti o comunque attenuati in via preventiva, considerata,
+diversamente, la necessità di eliminare gli effetti materiale prodotti
+dal provvedimento fino al passaggio in giudicato della sentenza di
+annullamento\footnote{B. MARCHETTI, \emph{L'esecuzione della sentenza
+  amministrativa}, cit., 46.}. La sospensione cautelare non è però
+idonea a tutelare il ricorrente che lamenti l'illegittimo diniego di un
+provvedimento ampliativo o, meglio, l'omesso rilascio del titolo. In
+questi casi, contraddistinti dall'emersione di interessi legittimi
+pretensivi, la tutela del privato è garantita dalla possibilità per il
+giudice, ai sensi del § 123 \emph{VwGo}, di concedere misure provvisorie
+a contenuto positivo anche anteriormente al ricorso, volte ad evitare
+quelle modificazioni irreparabili che potrebbero \emph{medio tempore}
+investire la situazione di fatto, rendendo alla fine una sentenza
+favorevole, vantaggiosa sulla carta, ma nella sostanza inutile.
+
+\hypertarget{le-misure-coercitive-lo-zwangsgeld-172-vwgo}{%
+\section{\texorpdfstring{Le misure coercitive: lo \emph{Zwangsgeld (§
+172
+VwGO)}}{Le misure coercitive: lo Zwangsgeld (§ 172 VwGO)}}\label{le-misure-coercitive-lo-zwangsgeld-172-vwgo}}
+
+Il \emph{VwGO} disciplina l'esecuzione coattiva delle sentenze del
+giudice amministrativo nei confronti della pubblica amministrazione ai
+§§ 167-172. In particolare, la legge sul processo amministrativo
+\emph{(VwGO)} determina il giudice dell'esecuzione (§ 167), i titoli
+esecutivi (§ 168), l'esecuzione a favore della mano pubblica (§ 169),
+l'esecuzione contro la mano pubblica (§§ 170 e 172), nonché i casi in
+cui non è necessaria la formula esecutiva (§ 171). I §§ 170 e 172
+\emph{VwGO} rappresentano la base normativa dell'esecuzione forzata
+contro la pubblica amministrazione, ancorché i rispettivi ambiti di
+applicazione siano da tenere distinti. Il § 170 \emph{VwGO} disciplina
+l'esecuzione contro la mano pubblica per crediti pecuniari, compresa la
+penale di cui al § 172 (\emph{Zwangsgeld}). Tale norma è modellata sul §
+882a \emph{ZPO} relativo all'esecuzione per crediti di denaro nei
+confronti delle persone giuridiche di diritto pubblico e le modalità di
+esecuzione sono sostanzialmente quelle previste dal codice di procedura
+civile, nulla dicendo sul punto il § 170 \emph{VwGO} che tuttavia reca
+alcuni correttivi che tengono conto della particolare condizione
+giuridica del patrimonio pubblico e della sua tendenziale destinazione
+all'assolvimento dei compiti dell'amministrazione. Più nel dettaglio, il
+tribunale, da un lato, prima di procedere all'esecuzione forzata, deve
+intimare all'autorità amministrativa di eseguire il giudicato entro il
+termine massimo di un mese e, dall'altro, essendo l'esecuzione
+inammissibile in relazione a beni essenziali per l'adempimento di
+pubbliche funzioni o alla cui alienazione si contrapponga un pubblico
+interesse, non può ordinare il sequestro di beni destinati all'uso o al
+servizio pubblico. Il § 172 \emph{VwGO} attiene, in linea di principio,
+all'esecuzione di decisioni dichiarative dell'obbligo
+dell'amministrazione di rilasciare un provvedimento nei confronti della
+controparte. Esso prevede un mezzo di coercizione meramente indiretto,
+assistito dalla minaccia di una sanzione pecuniaria da applicarsi
+all'autorità inadempiente senza alcuna limitazione o particolare
+privilegio per la stessa, salva la misura massima dell'ammenda, di volta
+in volta erogabile, pari a diecimila Euro. Nella misura in cui il
+contenuto delle norme predette non dovesse essere esaustivo in relazione
+al caso concreto, sarà possibile integrarle con i precetti del codice di
+rito (\emph{ZPO}), in nome del principio di effettività della tutela
+giurisdizionale\footnote{Sul punto si è pronunciata la Corte
+  costituzionale tedesca in una decisione di notevole importanza, con
+  cui, nella parte motiva, fa esplicito riferimento alle misure previste
+  dai §§ da 885 a 896 \emph{ZPO} la cui scelta, in ordine alle modalità
+  ed eventuale successione delle misure da adottare, sarà rimessa alla
+  valutazione del giudice competente.}. Molto prima che venisse alla
+luce la legge sulla giustizia amministrativa e con essa il § 172
+\emph{VwGO}, l'idea di poter eseguire coattivamente le pronunce dei
+giudici nei confronti di un soggetto esercente un pubblico potere era
+stata decisamente avversata in dottrina. Si sosteneva, in particolare,
+che si sarebbe rivelato un non senso che lo Stato, quale fondamento del
+diritto (\emph{Hort des Rechts}) potesse essere coartato al rispetto di
+quello stesso diritto di cui egli era portatore. Ciò si sarebbe rivelato
+inconciliabile con il rispetto che si deve allo Stato medesimo ed
+avrebbe leso la sua immagine, mettendone in discussione
+l'onore\footnote{\_``L'Etat toujours doit être réputé honnête homme'',
+  E. LAFERRIERE, \emph{Traité de la juridiction administrative et des
+  recours contentieux}, Paris et Nancy 1896, I, 347 ss.}. Così recita il
+§ 172 \emph{VwGO}: ``\emph{Se un'autorità, nei casi di cui al § 113, co.
+1, secondo periodo, e co. 5 del § 123, non ottempera all'obbligo
+impostole nella sentenza o nel provvedimento provvisorio, il tribunale
+di primo grado può, su richiesta, comminare con ordinanza nei suoi
+confronti un'ammenda fino a Euro diecimila, previa assegnazione di un
+termine, applicarla dopo l'infruttuoso decorso del termine e portarla ad
+esecuzione d'ufficio. L'ammenda può essere ripetutamente comminata,
+applicata e portata ad esecuzione}''\footnote{G. FALCON, C. FRAENKEL,
+  \emph{Ordinamento processuale amministrativo}, cit., § 172, 138.}. La
+norma fa espresso riferimento all'esecuzione (indiretta) di una sentenza
+di annullamento nella parte in cui contestualmente ingiunge
+all'amministrazione la revoca della già introdotta esecuzione del
+provvedimento caducato (§ 113/1 secondo alinea \emph{VwGO}), ovvero di
+adempimento dell'obbligo di emettere un certo atto o di provvedere nel
+rispetto della concezione giuridica del tribunale (§ 113/5 \emph{VwGo})
+o, infine, il rilascio di un provvedimento positivo (§ 123 \emph{VwGO}).
+Rimedi indiretti ulteriori, prodromici allo \emph{Zwangsgeld}, ma meno
+impattanti e di valore per lo più simbolico, sono l'interpello
+dell'autorità gerarchicamente superiore rispetto a quella che dovrebbe
+eseguire la sentenza, ovvero il ricorso all'opinione pubblica attraverso
+una petizione popolare o mediante il coinvolgimento della stampa al fine
+di sollecitare o quantomeno esercitare una pressione psicologica
+sull'amministrazione inottemperante\footnote{W. BANK,
+  \emph{Zwangsvollstreckung gegen Behörde}, cit., 62.}. La limitazione
+della procedura esecutiva nei confronti della pubblica amministrazione
+ad un rimedio come lo \emph{Zwangsgeld}, perlomeno nei casi previsti dal
+§ 172 \emph{VwGO}, la mette al riparo dall'esecuzione diretta, anche se
+non è del tutto esclusa la possibilità di accedere alla tutela esecutiva
+secondo i dettami del codice di rito nel caso di insuccesso della
+procedura di coazione indiretta o, a certe condizioni, in alternativa
+alla stessa. Ciò sarà consentito laddove si richieda all'amministrazione
+una prestazione fungibile, mentre, per quanto riguarda l'emissione di un
+atto amministrativo, rimane ferma la rigida separazione dei poteri tra
+giurisdizione ed amministrazione. Quanto alla natura giuridica, lo
+\emph{Zwangsgeld} è un semplice mezzo di coercizione e non già un
+istituto di matrice sanzionatoria. L'ammenda di cui al § 172
+\emph{VwGO}, così come altre disposizioni che fanno riferimento a tale
+rimedio, non potrebbe, salvo eccezioni, essere applicata e portata ad
+esecuzione laddove il destinatario abbia nel frattempo adempiuto. Lo
+scopo precipuo dello \emph{Zwangsgeld} è quello di determinare il
+debitore all'adempimento di un obbligo, attraverso la pressione mediata
+esercitata sul destinatario dalla minaccia di una penale nei casi in
+cui, in linea di massima, non sussiste la possibilità di attivare un
+meccanismo di coercizione diretta, oppure perché tale meccanismo è a
+forte rischio di insuccesso. La coazione indiretta viene dunque in
+rilievo quando debba darsi esecuzione ad obblighi di fare infungibili,
+la cui realizzazione è inevitabilmente rimessa alla volontà di un
+determinato soggetto, oppure nell'ambito degli obblighi di tollerare o
+di astenersi da una certa attività che, per definizione, possono essere
+solo indirettamente coercibili\footnote{O. R. REMIEN, \emph{Zwangsgeld},
+  cit., 11, 12.}. Il § 172 \emph{VwGO} si occupa della sentenza di
+annullamento solo in funzione della accessoria statuizione ingiuntiva
+dell'obbligo di ripristinare la situazione antecedente all'esecuzione
+dell'atto annullato e l'ambito privilegiato dello \emph{Zwangsgeld}
+risulterebbe essere quello dell'inottemperanza al giudicato formatosi
+sulle sentenze di adempimento, ex § 113/5 \emph{VwGO}
+(\emph{Verpflichtungsurteil}), ma l'esecuzione coattiva indiretta
+secondo i dettami del § 172 \emph{VwGO} opera anche in conseguenza di un
+\emph{Bescheidungsurteil}, con il quale viene unicamente sancito
+l'obbligo dell'autorità di provvedere nel rispetto del quadro giuridico
+delineato in sentenza, senza alcuna indicazione in ordine allo specifico
+contenuto dell'atto da adottare. In sostanza, l'omesso rilascio del
+richiesto provvedimento, così come la riedizione del potere
+amministrativo in contrasto con il quadro giuridico delineato nel
+\emph{Bescheidungsurteil}, consentono di attivare il rimedio dello
+\emph{Zwangsgeld}. In particolare, il ricorrente vittorioso potrà
+chiedere al tribunale di primo grado, con apposita istanza, di fissare
+un termine entro il quale l'autorità dovrà dare completa esecuzione alla
+sentenza, contestualmente determinando una penale nell'ammontare massimo
+di Euro diecimila, per il caso di persistente inottemperanza anche oltre
+la scadenza del termine predetto. In quest'ultima evenienza, sempre su
+richiesta di parte, il tribunale provvederà ad applicare
+all'amministrazione renitente l'ammenda stabilita ed a riscuoterla
+coattivamente d'ufficio, con l'ulteriore possibilità di reiterare in
+ipotesi all'infinito la procedura, fin tanto che permanga
+l'inadempimento della pubblica autorità. La definitiva impossibilità di
+dare esecuzione alla sentenza per causa imputabile all'amministrazione
+potrà dar luogo, in ogni caso, ad una responsabilità risarcitoria della
+stessa. Per poter attivare la procedura esecutiva ai sensi del § 172
+\emph{VwGO} nei confronti dell'amministrazione inadempiente, è
+necessario che ricorrano i seguenti presupposti: il titolo esecutivo che
+sarà costituito ad esempio da una sentenza di condanna al ripristino
+dello \emph{status quo ante} accessoria ad una sentenza di annullamento
+(§ 113/1 secondo alinea \emph{VwGO}), di adempimento (§ 113/5
+\emph{VwGO}) o da un provvedimento provvisorio positivo (§ 123
+\emph{VwGO}), la notifica del titolo alla controparte, ai sensi del §
+167/1 \emph{VwGO} in combinato disposto con i §§ 795, 724, 750/1
+\emph{ZPO}, la formula esecutiva da apporre alla decisione del giudice e
+l'inottemperanza dell'amministrazione alla statuizione giudiziale che
+deve essere definitiva, ove si tratti di sentenza.
+
+\hypertarget{i-mezzi-di-tutela-esperibili-dalle-parti}{%
+\section{I mezzi di tutela esperibili dalle
+parti}\label{i-mezzi-di-tutela-esperibili-dalle-parti}}
+
+I provvedimenti del giudice dell'esecuzione relativi alla minaccia ed
+applicazione dello \emph{Zwangsgeld} possono essere eventualmente
+impugnati con ricorso, ai sensi del § 146 \emph{VwGO} entro due
+settimane dalla loro notifica, di regola davanti al tribunale
+amministrativo di grado intermedio. In tal caso, l'impugnativa proposta
+dalla pubblica amministrazione avverso l'ordinanza applicativa
+dell'ammenda, comporterà l'automatica sospensione dell'efficacia
+esecutiva del provvedimento\footnote{R. PIETZNER, in F. SCHOCH, E.
+  SCHMIDT-AßMANN, R. PIETZNER, \emph{VwGO}, cit. sub §172, n.~52.}. Allo
+stesso modo, il privato potrà avvalersene nel caso in cui il tribunale
+rigetti, sempre con ordinanza, l'istanza volta ad ottenere la minaccia o
+l'irrogazione della penale. Con tale rimedio possono essere fatti valere
+soltanto i vizi formali della procedura esecutiva, cioè il mancato
+rispetto delle regole procedurali disciplinanti la stessa\footnote{R.
+  PIETZNER, in F. SCHOCH, E. SCHMIDT-AßMANN, R. PIETZNER, \emph{VwGO},
+  cit. sub §167, n.~5.}. Avverso la decisione sul predetto ricorso, non
+è dato alcun ulteriore mezzo di tutela, conformemente a quanto stabilito
+dal § 152/1 \emph{VwGO}. Diversamente, ove sia in contestazione da parte
+dell'amministrazione il diritto di procedere ad esecuzione forzata da
+parte del privato, potrà essere introdotto ricorso per opposizione
+all'esecuzione, ai sensi del § 167/1 \emph{VwGO}, in combinato disposto
+con il § 767 \emph{ZPO}. Scopo di questo rimedio è quello di elidere
+l'efficacia esecutiva del titolo, non potendo chiaramente essere rimesso
+in discussione il giudicato. In tal senso, il § 767/2 \emph{ZPO}
+prescrive che possano essere fatte valere soltanto quelle eccezioni che
+si fondino su circostanze sopravvenute all'udienza per la discussione
+della causa, nell'ambito del processo di cognizione; inoltre, l'autorità
+amministrativa dovrà sollevare tutte le eccezioni deducibili al momento
+dell'opposizione, come previsto al § 767/3 \emph{ZPO}, ad esempio la
+sopravvenuta modifica della situazione di fatto o di diritto rispetto a
+quella sulla quale è sceso il giudicato, così come il sopravvenuto
+adempimento dell'obbligo da esso discendente. Si pensi all'entrata in
+vigore di un nuovo piano regolatore in contrasto con il permesso di
+costruire al cui rilascio l'amministrazione veniva condannata con
+sentenza di adempimento (\emph{Verplichtungsurteil}): fin tanto che non
+venga rilasciato il titolo autorizzativo, il giudicato avente ad oggetto
+il riconoscimento della relativa pretesa non è al riparo da eventuali
+sopravvenienze di diritto, a differenza di ciò che accade nel diritto
+civile, ove è sempre irrilevante il mutamento del quadro normativo entro
+il quale dovrebbe essere eseguito il giudicato\footnote{\_BVerwG
+  26.10.1984, in \emph{NVwZ} 1985, 563.}. Competente a giudicare
+dell'opposizione è il tribunale di prima istanza.
+
+\hypertarget{il-rapporto-fra-lo-zwangsgeld-ed-il-risarcimento-del-danno-da-giudicato}{%
+\section{Il rapporto fra lo Zwangsgeld ed il risarcimento del danno da
+giudicato}\label{il-rapporto-fra-lo-zwangsgeld-ed-il-risarcimento-del-danno-da-giudicato}}
+
+Una delle peculiarità del sistema tedesco di coercizione indiretta è
+rappresentata dalla integrale devoluzione alle casse dello Stato delle
+somme ricavate dalle ammende. La diversa impostazione che vuole che il
+creditore sia beneficiario delle somme, abbracciata dai paesi che, come
+la Francia, hanno subito le influenze del diritto romano, in cui vi era
+una commistione fra l'\emph{astreinte} ed il risarcimento del danno, è
+stata fortemente criticata in quanto, avendo il ricorrente vittorioso la
+possibilità di agire in via risarcitoria per il caso di ritardata od
+omessa esecuzione del giudicato da parte dell'amministrazione,
+attribuire al privato anche l'importo della penale, vorrebbe dire
+arricchirlo ingiustificatamente. La soluzione seguita in Francia
+presenterebbe lo svantaggio di rendere incerti i confini tra lo
+\emph{Zwangsgeld} e il risarcimento del danno, poiché l'associazione tra
+i due istituti pregiudicherebbe l'effetto di coazione che è proprio
+dell'ammenda ex § 172 \emph{VwGO} e, allo stesso tempo, la possibilità
+di cumularli porterebbe il creditore a ricevere troppo. Inoltre, la
+destinazione dello \emph{Zwangsgeld} alle casse dello Stato sarebbe
+ulteriormente funzionale a garantire il rispetto delle decisioni
+giurisdizionali e quindi il prestigio dell'amministrazione della
+giustizia. Per quanto concerne il rimedio risarcitorio, la disciplina è
+quella valevole per tutte le ipotesi di responsabilità della pubblica
+amministrazione per i danni cagionati nell'esercizio dei propri doveri
+d'ufficio. Le norme fondamentali in materia sono l'art. 34 del
+\emph{Grundgesetz} e il § 839 del \emph{Bürgerliches Gesetzbuch}, le
+quali vanno lette in combinato disposto\footnote{S. DETTERBECK,
+  \emph{Allgemeines Verwaltungsrecht}, cit., 379.}. In base al c.~1 del
+§ 839 \emph{BGB} i danni causati intenzionalmente o con negligenza, in
+violazione di un dovere del funzionario vengono dallo stesso
+integralmente risarciti. Se si tratta di mera negligenza, la
+responsabilità del funzionario potrà essere invocata in via sussidiaria,
+ovvero soltanto nel caso in cui non vi sia un'altra via per ottenere il
+risarcimento, ad esempio per contratto, per legge, o in base al sistema
+di assicurazione sociale\footnote{U. KARPEN, \emph{L'esperienza della
+  Germania}, in D. SORACE (a cura di) \emph{La responsabilità pubblica
+  nell'esperienza giuridica europea}, Bologna, 1994, 140.}. Per
+converso, l'art. 34 della \emph{Grundnorm} trasferisce la responsabilità
+sulla pubblica autorità da cui il funzionario dipende, salvo il regresso
+nei casi di dolo e colpa grave per evitare che i funzionari abusino
+dell'immunità della responsabilità personale loro garantita\footnote{\ldots{}}
+e radica in capo al giudice ordinario la giurisdizione per le azioni per
+le azioni di responsabilità nei confronti del potere pubblico,
+stabilendo al terzo alinea, con riferimento al diritto al risarcimento e
+al diritto di rivalsa, che non può mai essere esclusa l'azione di fronte
+alla giurisdizione ordinaria.
+
+\hypertarget{la-giustizia-amministrativa-francese}{%
+\chapter{La giustizia amministrativa
+francese}\label{la-giustizia-amministrativa-francese}}
+
+\ldots{}
+
+\hypertarget{la-giustizia-amministrativa-nel-regno-unito}{%
+\chapter{La giustizia amministrativa nel Regno
+Unito}\label{la-giustizia-amministrativa-nel-regno-unito}}
+
+\ldots{}
+
+\hypertarget{il-sistema-spagnolo}{%
+\chapter{Il sistema spagnolo}\label{il-sistema-spagnolo}}
+
+\ldots{}
+
+\hypertarget{conclusioni}{%
+\chapter{Conclusioni}\label{conclusioni}}
+
+\hypertarget{riepilogo}{%
+\section{Riepilogo}\label{riepilogo}}
+
+pellentesque habitant morbi tristique senectus et netus et malesuada
+fames ac turpis egestas. Nunc eleifend, ex a luctus porttitor, felis ex
+suscipit tellus, ut sollicitudin sapien purus in libero. Nulla blandit
+eget urna vel tempus. Praesent fringilla dui sapien, sit amet egestas
+leo sollicitudin at.
+
+\hypertarget{approfondimenti}{%
+\section{Approfondimenti}\label{approfondimenti}}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam gravida
+ipsum at tempor tincidunt. Aliquam ligula nisl, blandit et dui eu,
+eleifend tempus nibh. Nullam eleifend sapien eget ante hendrerit
+commodo. Pellentesque pharetra erat sit amet dapibus scelerisque.
 
 Vestibulum suscipit tellus risus, faucibus vulputate orci lobortis eget.
 Nunc varius sem nisi. Nunc tempor magna sapien, euismod blandit elit
@@ -957,47 +1335,33 @@ pharetra sed. In dapibus magna convallis lectus sodales, a consequat sem
 euismod. Curabitur in interdum purus. Integer ultrices laoreet aliquet.
 Nulla vel dapibus urna. Nunc efficitur erat ac nisi auctor sodales.
 
-\hypertarget{appendix-1-some-extra-stuff}{%
-\chapter*{Appendix 1: Some extra
-stuff}\label{appendix-1-some-extra-stuff}}
-\addcontentsline{toc}{chapter}{Appendix 1: Some extra stuff}
+\hypertarget{appendice-1-extra-a}{%
+\chapter*{Appendice 1: Extra-A}\label{appendice-1-extra-a}}
+\addcontentsline{toc}{chapter}{Appendice 1: Extra-A}
 
-Add appendix 1 here. Vivamus hendrerit rhoncus interdum. Sed ullamcorper
-et augue at porta. Suspendisse facilisis imperdiet urna, eu pellentesque
-purus suscipit in. Integer dignissim mattis ex aliquam blandit.
-Curabitur lobortis quam varius turpis ultrices egestas.
+Vivamus hendrerit rhoncus interdum. Sed ullamcorper et augue at porta.
+Suspendisse facilisis imperdiet urna, eu pellentesque purus suscipit in.
+Integer dignissim mattis ex aliquam blandit. Curabitur lobortis quam
+varius turpis ultrices egestas.
 
-\hypertarget{appendix-2-some-more-extra-stuff}{%
-\chapter*{Appendix 2: Some more extra
-stuff}\label{appendix-2-some-more-extra-stuff}}
-\addcontentsline{toc}{chapter}{Appendix 2: Some more extra stuff}
+\hypertarget{appendice-2-extra-b}{%
+\chapter*{Appendice 2: Extra-B}\label{appendice-2-extra-b}}
+\addcontentsline{toc}{chapter}{Appendice 2: Extra-B}
 
-Add appendix 2 here. Aliquam rhoncus mauris ac neque imperdiet, in
-mattis eros aliquam. Etiam sed massa et risus posuere rutrum vel et
-mauris. Integer id mauris sed arcu venenatis finibus. Etiam nec
-hendrerit purus, sed cursus nunc. Pellentesque ac luctus magna. Aenean
-non posuere enim, nec hendrerit lacus. Etiam lacinia facilisis tempor.
-Aenean dictum nunc id felis rhoncus aliquam.
+Aliquam rhoncus mauris ac neque imperdiet, in mattis eros aliquam. Etiam
+sed massa et risus posuere rutrum vel et mauris. Integer id mauris sed
+arcu venenatis finibus. Etiam nec hendrerit purus, sed cursus nunc.
+Pellentesque ac luctus magna. Aenean non posuere enim, nec hendrerit
+lacus. Etiam lacinia facilisis tempor. Aenean dictum nunc id felis
+rhoncus aliquam.
 
 \footnotesize
 \singlespacing
 \setlength{\parindent}{0in}
 
-\hypertarget{references}{%
-\chapter*{References}\label{references}}
-\addcontentsline{toc}{chapter}{References}
+\hypertarget{riferimenti}{%
+\chapter{Riferimenti}\label{riferimenti}}
 
-\hypertarget{refs}{}
-\begin{CSLReferences}{1}{0}
-\leavevmode\vadjust pre{\hypertarget{ref-cousteauLivingSeaJacquesYves1963}{}}%
-Cousteau, J. \& Dugan, J., 1963. \emph{The {Living Sea}: By
-{Jacques-Yves Cousteau}}, {London}: {Hamish Hamilton}.
 
-\leavevmode\vadjust pre{\hypertarget{ref-pollardTemplateWritingPhd2016}{}}%
-Pollard, T. et al., 2016. \emph{Template {For Writing A Phd Thesis In
-Markdown}}, {Zenodo}. Available at:
-\url{https://zenodo.org/record/58490} {[}Accessed July 17, 2022{]}.
-
-\end{CSLReferences}
 
 \end{document}
