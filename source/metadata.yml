@@ -1,12 +1,16 @@
 ---
 pagetitle: Inottemperanza della PA in alcuni ordinamenti europei
 title: I rimedi all’inottemperanza della PA in alcuni ordinamenti europei
-subtitle: Quisque porttitor quis augue sit amet auctor.
 author: Marina Chiapello
-date: Gennaio 2023
-location: Università degli Studi di Milano-Bicocca, IT
-supervisor:
-- Prof. Alessandro Squazzoni
+serial: 00112233
+aayear: 2022-2023
+university: Università degli Studi di Milano - Bicocca
+school: 
+department: Dipartimento di Giurisprudenza
+study: Corso di Laurea in Scienze dei servizi giuridici
+supervisor: Prof. Alessandro Squazzoni
+cosupervisors:
+#- Prof. Alessandro Squazzoni
 degree: Laurea in Servizi Giuridici
 lang: it
 mainlang: italian
