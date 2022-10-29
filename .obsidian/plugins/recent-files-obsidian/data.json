@@ -5,6 +5,18 @@
       "path": "source/CAPITOLO I.md"
     },
     {
+      "basename": "32_chapter_2",
+      "path": "source/32_chapter_2.md"
+    },
+    {
+      "basename": "34_chapter_4",
+      "path": "source/34_chapter_4.md"
+    },
+    {
+      "basename": "33_chapter_3",
+      "path": "source/33_chapter_3.md"
+    },
+    {
       "basename": "37_conclusion",
       "path": "sample/37_conclusion.md"
     },
@@ -69,18 +81,6 @@
       "path": "source/35_chapter_5.md"
     },
     {
-      "basename": "34_chapter_4",
-      "path": "source/34_chapter_4.md"
-    },
-    {
-      "basename": "33_chapter_3",
-      "path": "source/33_chapter_3.md"
-    },
-    {
-      "basename": "32_chapter_2",
-      "path": "source/32_chapter_2.md"
-    },
-    {
       "basename": "note",
       "path": "notes/note.md"
     },
@@ -131,14 +131,6 @@
     {
       "basename": "14_chapter_6",
       "path": "source/14_chapter_6.md"
-    },
-    {
-      "basename": "13_chapter_5",
-      "path": "source/13_chapter_5.md"
-    },
-    {
-      "basename": "12_chapter_4",
-      "path": "source/12_chapter_4.md"
     },
     {
       "basename": "11_chapter_3",
