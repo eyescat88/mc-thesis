@@ -1,6 +1,0 @@
-\listoftables
-
-\newpage
-
-
-
