@@ -199,35 +199,63 @@ $endfor$
 
     \begin{titlepage}
         
-        \noindent
-        \begin{minipage}[t]{0.19\textwidth}{
-            \vspace{-4mm}
-            {\includegraphics[scale=1.15]{style/univ_logo.pdf}}
-          }
-        \end{minipage}
-        \hspace{0.5cm}
-        \begin{minipage}[t]{1.81\textwidth}
-        {
-          \setstretch{1.42}
-          {\textsc{$university$}} \\
-          \textbf{$faculty$} \\
-          \textbf{$department$} \\
-          \textbf{$degree$} \\
-          \par
-        }
-        \end{minipage}
+        % \noindent
+        % \begin{minipage}[t]{0.19\textwidth}{
+        %     \vspace{-4mm}
+        %     {\includegraphics[scale=1.15]{style/univ_logo.pdf}}
+        %   }
+        % \end{minipage}
+        % \hspace{0.5cm}
+        % \begin{minipage}[t]{1.81\textwidth}
+        % {
+        %   \setstretch{1.42}
+        %   {\textsc{$university$}} \\
+        %   \textbf{$faculty$} \\
+        %   \textbf{$department$} \\
+        %   \textbf{$degree$} \\
+        %   \par
+        % }
+        % \end{minipage}
         
-	\vspace{20mm}
+	% \vspace{20mm}
+
+        
+        \noindent
+
+	\vspace{1mm}
+	\begin{center}
+            {
+              \setstretch{1.42}
+              {\textsc{$university$}} \\
+              \textbf{$faculty$} \\
+              \textbf{$department$} \\
+              \textbf{$degree$} \\
+              \par
+            }
+        \end{center}
+        
+	\vspace{4mm}
         
 	\begin{center}
+          \begin{minipage}[t]{0.19\textwidth}{
+              \vspace{-4mm}
+              {\includegraphics[scale=1.5]{style/univ_logo.pdf}}
+            }
+          \end{minipage}
+        \end{center}
+
+        \vspace{10mm}
+        
+      	\begin{center}
             {\LARGE{
                     \setstretch{1.2}
                     \textbf{$title$}
                     \par
             }}
         \end{center}
+
         
-        \vspace{30mm}
+        \vspace{8mm}
 
         \noindent
         {\large \textbf{Relatore:}  $supervisor$ } \\
@@ -237,7 +265,7 @@ $endfor$
         % {\large \textbf{Correlatore:} $cosupervisors$} \\
         % $endfor$
         
-        \vspace{15mm}
+        \vspace{5mm}
 
         \begin{flushright}
             {\large \textbf{Relazione della prova finale di:}} \\
@@ -245,7 +273,7 @@ $endfor$
             \large{Matricola $serial$} 
         \end{flushright}
         
-        \vspace{15mm}
+        \vspace{5mm}
         \begin{center}
             {\large{\bf Anno Accademico $aayear$}}
         \end{center}

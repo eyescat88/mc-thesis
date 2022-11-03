@@ -4,7 +4,7 @@
 \vspace*{\fill}
 \noindent
 \textit{
-Io, AUTHORNAME Aliquam pellentesque lorem sem, molestie molestie ipsum sodales sit amet.
+Foreword ...
 }
 \vspace*{\fill}
 \pagenumbering{gobble}

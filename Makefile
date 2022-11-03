@@ -1,14 +1,20 @@
 PY=python
 PANDOC=pandoc
+AUTHOR=mchiapello
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/source
 OUTPUTDIR=$(BASEDIR)/output
+DRAFTDIR=$(BASEDIR)/drafts
 TEMPLATEDIR=$(INPUTDIR)/templates
 STYLEDIR=$(BASEDIR)/style
 SCRATCHDIR=$(BASEDIR)/scratch
 
 BIBFILE=$(INPUTDIR)/references.bib
+
+DATE := $(shell date -Idate)
+TIME := $(shell date -Isec)
+
 
 help:
 	@echo ''
@@ -101,21 +107,27 @@ html:
 	mkdir "$(OUTPUTDIR)/source"
 	cp -r "$(INPUTDIR)/figures" "$(OUTPUTDIR)/source/figures"
 
-docx:
+docx: tex
 	pandoc  \
-		--output "$(OUTPUTDIR)/thesis.docx" \
+		--output "$(DRAFTDIR)/$(AUTHOR)-draft-$(DATE).docx" \
 		--toc \
-		"$(INPUTDIR)"/*.md \
-		"$(INPUTDIR)/metadata.yml" \
-		--filter=pandoc-shortcaption \
-		--filter=pandoc-xnos \
+		"$(OUTPUTDIR)/thesis.tex" \
 		--bibliography="$(BIBFILE)" \
 		--citeproc \
-		--csl="$(STYLEDIR)/ref_format.csl" \
+		--reference-doc="$(STYLEDIR)/reference.docx" \
+		--filter=pandoc-shortcaption \
+		--filter=pandoc-xnos \
 		--number-sections \
 		--verbose \
-		2>pandoc.docx.log
+		2>pandoc.docx.log && \
+		rm -f "$(OUTPUTDIR)/thesis.docx" && \
+		ln -s  "$(DRAFTDIR)/$(AUTHOR)-draft-$(DATE).docx" "$(OUTPUTDIR)/thesis.docx" && \
+		ls -l "$(OUTPUTDIR)/thesis.docx" && \
+		ls -l "$(DRAFTDIR)" && \
+		echo "xdg-open $(DRAFTDIR)/$(AUTHOR)-draft-$(DATE).docx"
 
-all: pdf tex html docx
+
+#all: pdf tex html docx
+all: pdf tex docx
 
 .PHONY: help install pdf docx html tex
