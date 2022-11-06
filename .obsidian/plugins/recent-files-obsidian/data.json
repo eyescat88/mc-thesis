@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "33_chapter_3",
+      "path": "source/33_chapter_3.md"
+    },
+    {
       "basename": "32_chapter_2",
       "path": "source/32_chapter_2.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "34_chapter_4",
       "path": "source/34_chapter_4.md"
-    },
-    {
-      "basename": "33_chapter_3",
-      "path": "source/33_chapter_3.md"
     },
     {
       "basename": "37_conclusion",
