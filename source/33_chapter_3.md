@@ -7,7 +7,7 @@ Durante la fine dell'_Ancien regime_ si formalizza la specialità del diritto am
 
 La Rivoluzione francese, pur portando innovazioni rilevanti, lascia immutata l'ampia discrezionalità delle amministrazioni pubbliche che conservano e potenziano le loro prerogative. In ossequio al principio della separazione dei poteri, i giudici sono estromessi dalla conoscenza degli affari amministrativi e non potranno in alcun modo turbare le attività dei corpi amministrativi. Le forze rivoluzionarie avevano dimostrato infatti una certa differenza verso la magistratura, tradizionalmente formata da elementi vicini alle classi aristocratiche e, nel 1789-1790, prima l'Assemblea nazionale e poi l'Assemblea costituente avevano sancito in forma solenne che gli organi giurisdizionali non avrebbero potuto intervenire sull'amministrazione [^2]. Ora, ad occuparsi delle controversie amministrative saranno i ministri; scompare il _Conseil du Roi_, viene introdotto il Prefetto e, come agente dell'Esecutivo in provincia, reintrodotta la figura dell'intendente.
 
-### Dalla giustizia "ritenuta" alla giustizia delegata: il _Conseil d'Etat_ 
+## Dalla giustizia "ritenuta" alla giustizia delegata: il _Conseil d'Etat_ 
 
 La Costituzione dell'anno VIII (dicembre 1799) istituisce il _Conseil d'Etat_ (Consiglio di Stato), concepito inizialmente come organo consultivo del Governo, al quale, nell'epoca napoleonica, verranno affidate attribuzioni assai ampie, tra cui principalmente il potere di redigere i progetti di legge e i regolamenti dell'amministrazione pubblica, gli atti legislativi primari e secondari, l'alta amministrazione, il controllo sui ministri e sugli enti pubblici e la risoluzione di controversie amministrative. 
 
