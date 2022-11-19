@@ -33,7 +33,38 @@ L'articolo L. 8-3 del codice dei tribunali amministrativi e delle corti amminist
 
 L'art. L. 8-4 prevede che, nel caso di mancata esecuzione della sentenza emessa dal tribunale amministrativo o della corte amministrativa di appello, la parte interessata all'ottemperanza può chiedere al giudice dello stesso tribunale o della stessa corte amministrativa di appello che ha pronunciato la decisione di assicurarne l'esecuzione. Il giudice potrà così definire le modalità di esecuzione, fissare un termine per l'esecuzione e stabilire una penale (_astreinte_), ferma restando la possibilità di rimettere la richiesta di esecuzione al Consiglio di Stato[^10].
 
-Tuttavia oggi, venticinque anni dopo aver ottenuto la facoltà di ingiungere all'amministrazione l'esecuzione delle sentenze, il giudice amministrativo si dimostra normalmente molto prudente nell'esercizio di tale potere. Tale constatazione deriva dalla lettura di alcune ordinanze da esso pronunciate durante la pandemia da Covid-19, dalla cui lettura emerge che le circostanze eccezionali del momento, parallelamente al rafforzamento dei poteri normalmente attribuiti alle autorità esecutive, legittimavano un utilizzo più esteso del _pouvoir d'injonction_. In generale, si nota da parte del giudice amministrativo una qualche reticenza nell'esplicitare il suo pieno potere ingiuntivo: sia esso o meno giuridicamente fondato, egli dimostra una sorta di autolimitazione quando si tratta di agire d'imperio[^11]. In particolare, quando pronuncia un'ingiunzione, si obbliga a non sostituire il suo apprezzamento a quello dell'amministrazione e cerca di non interferire con essa in presenza di poteri discrezionali. In questa prospettiva, il potere ingiuntivo che il giudice indirizza verso l'amministrazione è costantemente circoscritto e le conseguenze giuridiche che ne derivano sono normalmente limitate[^12]. 
+Tuttavia oggi, venticinque anni dopo aver ottenuto la facoltà di ingiungere all'amministrazione l'esecuzione delle sentenze, il giudice amministrativo si dimostra normalmente molto prudente nell'esercizio di tale potere. Tale constatazione deriva dalla lettura di alcune ordinanze da esso pronunciate durante la pandemia da Covid-19, dalla cui lettura emerge che le circostanze eccezionali del momento, parallelamente al rafforzamento dei poteri normalmente attribuiti alle autorità esecutive, legittimavano un utilizzo più esteso del _pouvoir d'injonction_. In generale, si è notata da parte del giudice amministrativo una qualche reticenza nell'esplicitare il suo pieno potere ingiuntivo: sia esso o meno giuridicamente fondato, egli dimostra una sorta di autolimitazione quando si tratta di agire d'imperio[^11]. In particolare, quando pronuncia un'ingiunzione, si obbliga a non sostituire il suo apprezzamento a quello dell'amministrazione e cerca di non interferire con essa in presenza di poteri discrezionali. In questa prospettiva, il potere ingiuntivo che il giudice indirizza verso l'amministrazione è costantemente circoscritto, così come sono limitate le conseguenze giuridiche che ne derivano[^12]. 
+
+## L'esecuzione delle sentenze del giudice amministrativo
+
+L'amministrazione è tenuta a conformarsi spontaneamente alla sentenza pronunciata dal giudice amministrativo il quale talvolta indica anche come l'amministrazione stessa debba procedere in tal senso. Tuttavia, qualora invece l'amministrazione non ottemperi, o alla decisione del giudice segua solo un'esecuzione parziale, la parte interessata può agire secondo due modalità, a seconda che l'amministrazione sia stata condannata a versare una somma di denaro, oppure debba adottare un nuovo provvedimento a seguito della sentenza di annullamento di un atto amministrativo[^13].
+
+Nel primo caso, se la domanda del privato verte unicamente sul versamento di una somma di denaro da parte dell'amministrazione, egli può attivare la _procédure de la contrainte au paiement_, chiamata anche _procédure du paiment forcé_[^14]che gli permetterà di ottenere il pagamento della somma dovuta, a condizione che la decisione del giudice sia divenuta definitiva, ne stabilisca precisamente l'ammontare e che l'amministrazione non abbia versato la somma entro il termine stabilito di due mesi dalla notifica della sentenza. La domanda, se il debitore è lo Stato, deve essere indirizzata al _Comptable public_, normalmente la Direzione Regionale delle Finanze Pubbliche, per ottenere il pagamento. Qualora invece il debitore sia un ente territoriale (regione, dipartimento o comune) o un'altra struttura pubblica (_établissement public_), occorre rivolgersi al Prefetto o all'autorità di tutela preposta, sollecitando l'erogazione d'ufficio della somma dovuta.
+
+In tutti gli altri casi di inottemperanza da parte dell'amministrazione, il privato può richiedere al giudice l'esecuzione. In generale, tale richiesta al giudice non può essere presentata prima della scadenza del termine di tre mesi dalla notificazione della sentenza, ma può essere inoltrata entro un termine diverso nei casi seguenti:
+
+1) qualora la sentenza stabilisca un termine preciso per l'esecuzione, la domanda non può che essere presentata entro tale termine;
+2) se l'amministrazione rifiuta espressamente di conformarsi alla sentenza, non sussiste un termine per la richiesta al giudice;
+3) nel caso di sentenza che stabilisca l'attuazione di misure urgenti, l'esecuzione può essere richiesta immediatamente.
+
+Per l'esecuzione di una sentenza pronunciata da un tribunale amministrativo, la domanda di esecuzione dovrà essere presentata allo stesso tribunale che ha reso il giudizio e, se il giudizio è stato emesso da una corte amministrativa d'appello, occorrerà rivolgersi alla stessa corte.
+Per l'esecuzione delle decisioni del Consiglio di Stato o di una giurisdizione amministrativa speciale (in particolare, la _Cour nationale du droit d'asile_), la domanda dovrà essere indirizzata alla delegazione all'esecuzione delle decisioni di giustizia della _section du rapport et des études du Conseil d'Etat_.
+Nel caso in cui la domanda sia rivolta per errore ad un giudice non competente, questi la inoltrerà al giudice competente informando le parti[^15]. 
+
+Per il privato, al fine di presentare la domanda di esecuzione, non è obbligatorio ricorrere all'assistenza di un avvocato. La domanda può essere inoltrata a mezzo dell'applicazione _Télérecours citoyens_, accessibile dal sito www.telerecours.fr , oppure a mezzo posta con raccomandata A/R alla giurisdizione competente, avendo cura di indicare la decisione del giudice che si ritiene non ottemperata, le difficoltà che si riscontrano, le misure che si ritengono dover essere intraprese per rimediare alla situazione specifica e, contestualmente, richiedere la pronuncia di una _astreinte_ a carico dell'amministrazione renitente, volta ad indurre la medesima amministrazione ad eseguire quanto statuito dal giudice.
+
+La procedura di esame della domanda di esecuzione si svolge in due fasi[^16]. Durante la prima fase, denominata _phase administrative_, entro un termine massimo di sei mesi, il presidente del tribunale amministrativo, della corte amministrativa di appello o della sezione di rapporto e di studi del Consiglio di Stato, promuove tutte le iniziative e le indagini necessarie ad assicurare l'esecuzione della sentenza da parte dell'amministrazione. Qualora rilevi che l'amministrazione abbia nel frattempo ottemperato o che la domanda sia infondata, procederà all'archiviazione dandone comunicazione alle parti.
+
+La seconda fase, la _phase juridictionelle_, può essere avviata sia su iniziativa della giurisdizione competente, quando il presidente ritenga sia necessario prescrivere determinate misure di esecuzione, ad esempio la pronuncia di una _astreinte_, oppure se la domanda di esecuzione non è stata soddisfatta entro il termine di sei mesi, sia su iniziativa di parte, qualora venga impugnata l'archiviazione entro il termine di un mese dalla sua notifica. Tale impugnazione dovrà essere proposta alla _section du contentieux_ del Consiglio di Stato. La _phase juridictionelle_ può sfociare nella pronuncia di un'ingiunzione all'amministrazione, accompagnata da una _astreinte_, se il giudice ritiene che la sentenza sia rimasta inadempiuta. L'ingiunzione consiste nell'imporre all'amministrazione di adottare un determinato provvedimento o di riesaminarne la spettanza entro un termine fissato dal medesimo giudice, mentre l'_astreinte_ consiste in una penale stabilita a carico dell'amministrazione, il cui ammontare è suscettibile di aumentare fin tanto che l'inottemperanza persiste. Tuttavia, qualora il presidente della giurisdizione competente ritenga che le cautele adoperate siano suscettibili di permettere l'esecuzione della sentenza a breve termine può stabilire, dandone previa informazione alle parti, che l'avvio della procedura giudiziale abbia luogo solo una volta scaduto un termine supplementare di quattro mesi[^17].
+
+## L'_astreinte_
+
+
+
+
+
+
+
 
 
 
@@ -57,6 +88,13 @@ Tuttavia oggi, venticinque anni dopo aver ottenuto la facoltà di ingiungere all
 [^10]: Cfr. art. L. 8-4 del _code des tribunaux administratifs et des cours administratives d'appel_ in https://www.senat.fr/rap/l98-380/l98-3805.html
 [^11]: Cfr. Dupre de Boulois X, _« Le référé-liberté pour autrui »_, AJDA 2013, p. 2137
 [^12]: Cfr. https://www.actu-juridique.fr/administratif/le-pouvoir-dinjonction-du-juge-administratif-revisite-par-les-circonstances-exceptionnelles-de-la-crise-sanitaire-du-covid-19/
+[^13]: Cfr. _Qu'est-ce que l'exécution des décisions?_ in _L'exécution des décisions du Juge administratif_  http://paris.cour-administrative-appel.fr/Demarches-procedures/Les-fiches-pratiques-de-la-justice-administrative 
+[^14]: Tradotto letteralmente come procedura di costrizione al pagamento, anche chiamata procedura di pagamento forzato.
+[^15]: Cfr. _Comment faire exécuter les décisions rendues par le juge administratif?_ in _L'exécution des décisions du juge administratif_ http://paris.cour-administrative-appel.fr/Demarches-procedures/Les-fiches-pratiques-de-la-justice-administrative
+[^16]: Cfr. _Comment se déroule l'examen de ma demande d'exécution?_ in _L'exécution des décisions du juge administratif_ http://paris.cour-administrative-appel.fr/Demarches-procedures/Les-fiches-pratiques-de-la-justice-administrative
+[^17]: Cfr. _Que faire lorsque l'Administration n'exécute pas le jugement d'un tribunal administratif ou l'arrêt d'une cour d'appel?_ in http://paris.tribunal-administratif.fr/Demarches-procedures/L-execution-des-decisions-du-juge-administratif
+
+
 
 
 
