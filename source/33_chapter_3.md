@@ -75,6 +75,12 @@ Infine, l'art. 114, comma 4, lett. _e)_ c.p.a., in considerazione della speciali
 
 ## Gli strumenti di prevenzione dell'inottemperanza della Pubblica Amministrazione
 
+Accanto alle vere e proprie misure coattive fin qui esaminate, ve ne sono altre di minore impatto quali il cosiddetto _système d'aide à l'exécution_ e il _mediateur de la Republique_, le cui funzioni, dal 2011, sono esercitate dal _Défenseur des droits_.
+
+Al fine di prevenire un'inottemperanza o un'esecuzione incompleta od erronea, nonché di pungolare l'amministrazione ad adempiere gli obblighi discendenti dal giudicato, il ricorrente vittorioso può, attraverso un'apposita domanda, chiedere chiarimenti in merito alle modalità con le quali l'autorità soccombente debba conformarsi al giudicato ai tribunali amministrativi e alle corti amministrative d'appello per quanto attiene all'esecuzione delle loro decisioni[^22], nonché al Consiglio di Stato e, segnatamente, alla _Section du rapport et des études_, relativamente all'esecuzione delle sue decisioni, oltre a quelle promananti dalle giurisdizioni amministrative speciali[^23]. I tribunali e le corti d'appello vengono interessati della questione, nella persona del loro presidente o del relatore che, per l'occasione viene designato. Il Consiglio di Stato invece riceve i reclami nei confronti delle amministrazioni inadempienti e interviene per mezzo della sezione _du rapport et des études_, affinché l'autorità competente ottemperi al giudicato. In quest'ultimo caso, non è né necessario il ministero di un difensore, né attendere il decorso di un termine dilatorio, di regola di almeno tre mesi, quando si tratti di dare esecuzione ad una decisione involgente misure urgenti ovvero nei casi di rifiuto esplicito di adempiere. In giurisprudenza si propende per l'inoppugnabilità in sede contenziosa di un eventuale rifiuto opposto dal presidente della _section du rapport et des études_ alla richiesta _d'aide à l'exécution_[^24].
+
+Il _mediateur_ è una figura istituita con la legge del 3 gennaio 1973 (art. 11, al. 2) e succ. mod., alla quale è attribuito il compito di invitare l'organo inadempiente a conformarsi al giudicato entro un termine dal medesimo fissato, pena la diffusione della notizia del biasimevole comportamento tenuto nella fattispecie dall'amministrazione, attraverso una relazione da pubblicarsi sul cosiddetto _Journal officiel ("l'inexécution du jugement fera l'objet de sa part d'un rapport spécial, publié au journal officiel")_. In definitiva, si tratterebbe di un mezzo di pressione morale, volto a far leva sulla minaccia di pubblicità della vicenda. Nel 1994 il _mediateur_ aveva redatto per la prima volta un rapporto speciale su di un caso di persistente inottemperanza (_Rapport du 20 septembre 1994, JO 14 octobre, p. 14588_), peraltro ancora in atto al momento del rapporto, relativamente all'inesecuzione di una sentenza del Tribunale amministrativo di Versailles del 22 giugno 1993 che aveva condannato il comune di Mennecy ad erogare lo stipendio dovuto ad un suo impiegato[^25]. L'istituto del _mediateur_ non sarebbe però peculiare del diritto amministrativo, in quanto l'ordinamento francese conosce una figura simile, detentrice di analoghi poteri, il c.d. _Défenseur des enfants_ di cui all'rt. 10 della legge 6 marzo 2000[^26].
+
 
 
 
@@ -119,6 +125,13 @@ Infine, l'art. 114, comma 4, lett. _e)_ c.p.a., in considerazione della speciali
 [^19]: La prima applicazione _ex officio_ di un'_astreinte_ si deve a CE 28 maggio 2001 (_Bandesapt_), in _Rec. Lebon 251_, nonché in _DA_ 2001, n. 176, con la quale lo Stato veniva condannato al pagamento di una sanzione pecuniaria di 10.000 franchi al giorno, per la mancata ottemperanza da parte del governo francese all'obbligo di emanare un regolamento come risultante da un decreto del 30 dicembre 1998.
 [^20]: Come da definizione data da FRANCESCO M. CARALLI, nell'articolo _Il nuovo giudizio di ottemperanza, con particolare riguardo alle astreintes_, in Italiappalti.it, 2017, 4.
 [^21]: FRANCESCO M. CARALLI, _Il nuovo giudizio di ottemperanza, con particolare riguardo alle astreintes_, in Italiappalti.it, 2017, 11.
+[^22]: Cfr. Art. 12, decreto n. 831 del 3 luglio 1995 - _CJA_, art. R 921-5.
+[^23]: Cfr. Art. 59, decreto n. 766 del 30 luglio 1963 e succ. mod. - _CJA_, art. R931-1 _et_ 2.
+[^24]: R. CHAPUS, _Droit du contentieux administratif_, 12 ed., Paris, 2006, 1132.
+[^25]: R. CHAPUS, _Droit du contentieux adminisratif_, 12 ed., Paris, 2006, 1135.
+[^26]: J. VIGUIER, _Le contentieux administratif_, Paris, 1998, 43.
+
+
 
 
 
