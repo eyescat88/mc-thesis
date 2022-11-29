@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1415e4005909d687",
+        "id": "4fac8190f2ab4e72",
         "type": "tabs",
         "children": [
           {
-            "id": "199206b9179a3f59",
+            "id": "ccc92585b4437749",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/33_chapter_3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -73,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -161,7 +158,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7dbacf34992484b8",
+  "active": "eb9437ae3a8934dc",
   "lastOpenFiles": [
     "source/31_chapter_1.md",
     "source/32_chapter_2.md",
