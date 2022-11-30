@@ -11,8 +11,12 @@
             "id": "ccc92585b4437749",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "source/33_chapter_3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -158,7 +162,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb9437ae3a8934dc",
+  "active": "ccc92585b4437749",
   "lastOpenFiles": [
     "source/31_chapter_1.md",
     "source/32_chapter_2.md",
