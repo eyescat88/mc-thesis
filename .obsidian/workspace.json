@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -161,7 +162,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7dbacf34992484b8",
+  "active": "eb9437ae3a8934dc",
   "lastOpenFiles": [
     "source/33_chapter_3.md",
     "source/34_chapter_4.md",
