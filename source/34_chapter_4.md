@@ -36,6 +36,15 @@ Il rapporto tra l'implementazione dei principi CEDU e l'area di sindacato rimess
 
 Il _judicial review_ si caratterizza per essere "_a claim to review the lawfulness of an administrative action_"[^21]. Per quanto riguarda l'iter processuale che lo connota, esso è articolato in due fasi, secondo la logica del _two stage process_: la prima rappresenta una fase filtro, diretta alla verifica dei presupposti formali necessari per accedere alla tutela innanzi al giudice competente (c.d. _permission_ o _leave_)[^22], mentre nella seconda viene celebrata l'udienza (_hearing_) in contraddittorio tra le parti. Il _judicial review_ è stato oggetto di una recente iniziativa di riforma, realizzata attraverso le modifiche introdotte con il _Criminal Justice and Courts Act (CJCA)_ nel 2015. La _ratio_ dell'intervento si individua nell'avvertita necessità di arginare il diffuso fenomeno di impiego del rimedio giurisdizionale come mera "_delaying tactic_", ossia a scopi dilatori e solo al fine di evitare il dispiegamento degli effetti dell'atto amministrativo impugnato, data la sospensione della sua efficacia che segue all'apertura del contenzioso. Il CJCA ha rappresentato in parte l'antidoto ai malfunzionamenti della macchina della giustizia britannica, incidendo soprattutto in punto di accesso alla tutela giurisdizionale, attraverso l'aumento della somma da versare per l'apertura della fase filtro, una misura volta a scoraggiare il ricorso alla tutela per _judicial review_ se non ove strettamente necessario: si prevede infatti la corresponsione di un elevato contributo alle spese legali per ottenere la pronuncia da parte dell'autorità giudiziaria[^23]. Tuttavia, le critiche mosse a tale soluzione sono state numerose, fondate soprattutto sul valido assunto in base al quale le _chances_ di ottenere una tutela piena ed effettiva, davanti ad un giudice terzo ed imparziale, a fronte di una decisione amministrativa illegittima, rischiano di essere riservate solo ai pochi in grado di sostenerne i costi procedurali.
 
+Con riguardo all'accesso alla tutela e ai presupposti del giudizio, il sindacato nella forma del _judicial review_ è sottoposto a limiti di natura teleologica e funzionale piuttosto definiti che corrispondo ad altrettanti limiti procedurali e sostanziali. Con riferimento ai primi, si tratta dei c.d. _grounds for judicial review_, identificati dalla giurisprudenza inglese nei caratteri di _illegality, irrationality, procedural impropriety_ e _breach of legittimate expectations_. Per quel che concerne la materia degli _human rights_, il canone che più rileva è quello della _illegality_, in quanto, così come statuito dallo HRA "_it is unlawful for a public authority to act in a way which is incompatible with a Convention right_"[^24]. Di conseguenza, in tali casi, l'atto adottato deve essere dichiarato illegittimo dal giudice, in quanto incompatibile con la normativa convenzionale (_declaration of incompatibility_)[^25].
+
+Per quel che attiene ai limiti sostanziali, il riferimento è ai criteri di giudizio (_standard_) in base ai quali il giudice è chiamato a decidere e, indirettamente, l'incisività del suo sindacato. In particolare, la questione riguarda l'opzione tra l'applicazione del principio di proporzionalità di matrice europea, così come formulato dalla Corte EDU e quello invece tipico della tradizione di _common law_, riconducibile alla _Wednesbury unreasonabless_[^26]. Laddove i giudici europei sono chiamati a soppesare la rilevanza dei relativi diritti ed interessi in gioco, anche entrando parzialmente nell'area di valutazione dell'amministrazione se necessario, nell'ambito dei procedimenti di _judicial review_ i giudici inglesi, in genere, sono chiamati ad astenersi dal giudicare su _questions of fact_, potendo verificare al più solo la correttezza formale dell'iter procedurale tenuto in sede di decisione della pubblica autorità, al fine di verificarne la rispondenza con le garanzie del giusto procedimento. Le eventuali criticità che pure si sono evidenziate in sede applicativa sono state comunque risolte, anche attraverso le statuizioni della giurisprudenza di Strasburgo. Da un lato, e per quel che riguarda la pienezza e l'incisività del sindacato giurisdizionale in ambito di _judicial review_, una soluzione è data dall'adozione del canone di _full jurisdiction_; dall'altro e con riferimento alle differenze tra i diversi standard di giudizio adottati dalle corti nella decisione, il riferimento è alla c.d. dottrina del "_margin of appreciation_"[^27], in base alla quale si precisa la funzione armonizzatrice della giurisprudenza euro-convenzionale, la quale si limita a dettare delle linee di principio a cui ciascuno Stato è libero di decidere se aderire o meno, fatto comunque sempre salvo il rispetto degli obblighi e delle garanzie fissate nella CEDU.
+
+## Gli ombudsmen
+
+
+
+
 
 
 
@@ -65,6 +74,14 @@ Il _judicial review_ si caratterizza per essere "_a claim to review the lawfulne
 [^21]: P. CANE, _Understanding Judicial Review and its Impact_, in M. Hertogh - S. Halliday (a cura di), _Judicial Review and Bureaucratic Impact: International and Interdisciplinary Perspectives_, Cambridge, 2004, pp. 17 e ss.
 [^22]: Cfr. CPR (_Civil Procedure Rules_), art. 54, r. 54.4.
 [^23]: Cfr. CJCA, s. 85-86 e 88-90.
+[^24]: Cfr. s. 6(1) HRA.
+[^25]: Cfr. s. 4(2) HRA.
+[^26]: H.W.R. WADE - C.F. FORSYTH, _Administration Law_, pp. 305 ss.
+[^27]: R. RYSSDALL, _The Coming of Age of European Convention on Human Rights_, in _European Human Rights Law Journal_, 18, 1996, pp. 24 e ss.
+
+
+
+
 
 
 
