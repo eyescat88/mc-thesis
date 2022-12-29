@@ -162,7 +162,19 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb9437ae3a8934dc",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "0a186096bad9ab0b",
   "lastOpenFiles": [
     "source/33_chapter_3.md",
     "source/34_chapter_4.md",
