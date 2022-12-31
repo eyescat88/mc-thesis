@@ -64,7 +64,8 @@ E' possibile adire le vie giudiziarie contro la decisione di un LGO, ma non suss
 
 ## La corretta gestione delle rimostranze (_Principles of good complaint handling_)
 
-
+La gestione dei ricorsi indirizzati al _Parliamentary Ombudsman_ e al _Health Service Ombudsman_ si basa su alcuni principi che possono essere identificati e sintetizzati sotto la descrizione di _Principles of good complaint handling_[^35]. La corretta gestione delle rimostranze rileva infatti quale modalità fondamentale per assicurare ai beneficiari il bene/servizio oggetto della loro pretesa, qualora ne abbiano diritto, e ciò in base alla regola generale secondo cui ognuno ha diritto di ricevere una buona prestazione dagli enti che erogano un pubblico servizio, con il conseguente diritto ad ottenere i giusti rimedi laddove si verifichino disservizi e malfunzionamenti.
+Occorre tenere presente inoltre che, nel momento in cui le lamentele e i ricorsi sono gestiti con rapidità ed efficacia, possono costituire un'opportunità di miglioramento per gli stessi enti pubblici, con riguardo alla loro reputazione e alle loro perfomances, poiché, dalla loro trattazione, si possono trarre insegnamenti e nuove conoscenze che portano alla riduzione delle rimostranze in futuro. 
 
 
 
@@ -108,6 +109,8 @@ E' possibile adire le vie giudiziarie contro la decisione di un LGO, ma non suss
 [^32]:  Mark Sandford,  _House of Commons Library_, _The role of the Local Government Ombudsman_, _Complaints_, in _Briefing Paper Number_ 04117, 17 July 2017.
 [^33]: _Local Government Act 2000, section 92_. 
 [^34]: http://www.lgo.org.uk/information-centre/about-us/our-performance/challenging-our-decision
+[^35]: https://www.ombudsman.org.uk/about-us/our-principles/principles-good-complaint-handling/introduction
+
 
 
 
