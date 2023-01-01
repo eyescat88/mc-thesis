@@ -64,9 +64,23 @@ E' possibile adire le vie giudiziarie contro la decisione di un LGO, ma non suss
 
 ## La corretta gestione delle rimostranze (_Principles of good complaint handling_)
 
-La gestione dei ricorsi indirizzati al _Parliamentary Ombudsman_ e al _Health Service Ombudsman_ si basa su alcuni principi che possono essere identificati e sintetizzati sotto la descrizione di _Principles of good complaint handling_[^35]. La corretta gestione delle rimostranze rileva infatti quale modalità fondamentale per assicurare ai beneficiari il bene/servizio oggetto della loro pretesa, qualora ne abbiano diritto, e ciò in base alla regola generale secondo cui ognuno ha diritto di ricevere una buona prestazione dagli enti che erogano un pubblico servizio, con il conseguente diritto ad ottenere i giusti rimedi laddove si verifichino disservizi e malfunzionamenti.
-Occorre tenere presente inoltre che, nel momento in cui le lamentele e i ricorsi sono gestiti con rapidità ed efficacia, possono costituire un'opportunità di miglioramento per gli stessi enti pubblici, con riguardo alla loro reputazione e alle loro perfomances, poiché, dalla loro trattazione, si possono trarre insegnamenti e nuove conoscenze che portano alla riduzione delle rimostranze in futuro. 
+La gestione dei ricorsi indirizzati al _Parliamentary Ombudsman_ e al _Health Service Ombudsman_ si basa su alcuni principi che possono essere identificati nella categoria generale dei "_Principles of good complaint handling_"[^35]. La corretta gestione delle rimostranze rileva infatti quale modalità fondamentale per assicurare ai beneficiari il bene/servizio oggetto della loro pretesa, qualora ne abbiano diritto, e ciò in base alla regola generale secondo cui ognuno ha diritto di ricevere una buona prestazione dagli enti che erogano un pubblico servizio, cui consegue il diritto ad ottenere i giusti rimedi laddove si verifichino disservizi e malfunzionamenti.
+Occorre tenere presente inoltre che, nel momento in cui le lamentele e i ricorsi sono gestiti con rapidità ed efficacia, possono costituire un'opportunità di miglioramento per gli stessi enti pubblici, con riguardo alla loro reputazione e alle loro prestazioni, poiché, dalla trattazione delle varie casistiche, essi possono trarre insegnamenti e nuove conoscenze che portano alla riduzione delle rimostranze in futuro. 
 
+In ossequio ai principi di buona gestione, l'attività della pubblica amministrazione deve essere dunque improntata al rispetto di sei condizioni che si possono riassumere come di seguito:
+
+1) approccio adeguato ad ogni vicenda (_getting it right_);
+2) focalizzazione sulle esigenze dei vari utenti (_being customer focused_);
+3) disponibilità e affidabilità (_being open and accountable_);
+4) svolgimento di un'attività equa e misurata (_acting fairly and proportionately_);
+5) proposta delle soluzioni più idonee (_putting things right_);
+6) costante ricerca del miglioramento (_seeking continuous improvement_).
+
+Per quanto riguarda l'approccio adeguato di cui al punto 1), l'amministrazione deve agire in conformità alle norme di legge e a quanto stabilito nei regolamenti relativi alle procedure di erogazione dei vari servizi e sempre nel rispetto dei diritti di coloro che vi sono coinvolti. La corretta gestione dei reclami deve essere parte integrante dei servizi offerti al pubblico e il personale che presta la sua opera deve essere abilitato e attrezzato in modo da poter fornire prontamente le risposte più adeguate qualora si verifichino malfunzionamenti. La stessa amministrazione deve poi informare chiaramente i ricorrenti circa i tempi di risposta o di adozione del provvedimento finale e, una volta giunti a questo stadio, gli stessi devono essere indirizzati verso il passo successivo da compiere in caso di risposta non satisfattiva, anche nel caso in cui sia per essi necessario ricorrere a strumenti di appello alternativi. 
+
+Secondo quanto previsto al punto 2), l'amministrazione deve assicurare che i procedimenti si svolgano in modo semplice, chiaro e nel più breve tempo possibile e che le disposizioni che regolano la gestione dei ricorsi siano facilmente accessibili. Gli utenti devono poi essere messi a conoscenza dei mezzi di supporto a loro disposizione qualora considerino di presentare ricorso[^36]; il linguaggio utilizzato deve essere di facile comprensione e le comunicazioni fra l'autorità amministrativa e il ricorrente devono svolgersi in maniera adeguata rispetto alle condizioni in cui si trova quest'ultimo, ad esempio se non è di madrelingua inglese o se ha bisogni speciali. Nel caso in cui la rimostranza sia riferita a provvedimenti emanati da più amministrazioni, se una di queste non può rispondere, deve poter informare tempestivamente su quali possano essere le vie alternative di accesso alla tutela.
+
+In base al punto 3), l'amministrazione deve informare accuratamente e chiaramente circa la portata dei ricorsi che può prendere in considerazione, sulle aspettative che i ricorrenti possono avere durante lo svolgimento della procedure, sulle tempistiche e sugli esiti delle stesse ed essere disponibile a rendere conto delle proprie azioni e decisioni. Deve inoltre poter fornire una documentazione affidabile e idonea ad essere utilizzata per dimostrare l'attività svolta: tale documentazione deve ricomprendere le prove considerate e le motivazioni che hanno portato alla decisione finale dell'autorità che potranno essere utilizzate ai fini del ricorso oppure per consentire all'Ombudsman di istruire la pratica qualora si rendesse necessario il suo intervento.
 
 
 
@@ -110,6 +124,8 @@ Occorre tenere presente inoltre che, nel momento in cui le lamentele e i ricorsi
 [^33]: _Local Government Act 2000, section 92_. 
 [^34]: http://www.lgo.org.uk/information-centre/about-us/our-performance/challenging-our-decision
 [^35]: https://www.ombudsman.org.uk/about-us/our-principles/principles-good-complaint-handling/introduction
+[^36]: ad esempio, la _Community Legal Advice_ offre consulenza legale generale e L'_Independent Complaints Advocacy Service_ (ICAS) offre assistenza legale per i ricorrenti verso il _National Health Service_ (NHS).
+
 
 
 
