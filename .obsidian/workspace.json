@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,17 +173,17 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "eb9437ae3a8934dc",
+  "active": "0a186096bad9ab0b",
   "lastOpenFiles": [
-    "source/33_chapter_3.md",
+    "source/35_chapter_5.md",
     "source/34_chapter_4.md",
+    "sample/35_chapter_5.md",
+    "source/33_chapter_3.md",
     "sample/34_chapter_4.md",
     "source/31_chapter_1.md",
     "source/32_chapter_2.md",
-    "source/35_chapter_5.md",
     "source/23_list_of_tables.md",
     "source/22_list_of_figures.md",
-    "source/CAPITOLO I.md",
-    "sample/37_conclusion.md"
+    "source/CAPITOLO I.md"
   ]
 }

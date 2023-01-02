@@ -5,6 +5,14 @@
       "path": "source/34_chapter_4.md"
     },
     {
+      "basename": "35_chapter_5",
+      "path": "source/35_chapter_5.md"
+    },
+    {
+      "basename": "35_chapter_5",
+      "path": "sample/35_chapter_5.md"
+    },
+    {
       "basename": "33_chapter_3",
       "path": "source/33_chapter_3.md"
     },
@@ -21,10 +29,6 @@
       "path": "source/32_chapter_2.md"
     },
     {
-      "basename": "35_chapter_5",
-      "path": "source/35_chapter_5.md"
-    },
-    {
       "basename": "CAPITOLO I",
       "path": "source/CAPITOLO I.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "36_chapter_6",
       "path": "sample/36_chapter_6.md"
-    },
-    {
-      "basename": "35_chapter_5",
-      "path": "sample/35_chapter_5.md"
     },
     {
       "basename": "33_chapter_3",
