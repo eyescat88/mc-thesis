@@ -78,6 +78,9 @@
   tlmgr install bookman
   tlmgr install charter
   tlmgr install xcharter
+  tlmgr install oswald
+  tlmgr install roboto
+  tlmgr install tocloft
   tlmgr install titlesec
 
   # ===( l3 packages )=========================
@@ -87,6 +90,9 @@
   tlmgr update l3experimental
   tlmgr update l3backend
 
+  # ===( update fornts )=========================
+
+  updmap-user
 
 #+END_SRC
 

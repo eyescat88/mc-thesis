@@ -4,6 +4,9 @@ $if(fontfamily)$
 $else$
 \usepackage{lmodern}
 $endif$
+$if(sansfamily)$
+\usepackage[$sansoptions$]{$sansfamily$}
+$endif$
 
 % Overwrite \begin{figure}[htbp] with \begin{figure}[H]
 \usepackage{float}
@@ -58,6 +61,10 @@ $if(mainfont)$
 $endif$
 $if(sansfont)$
     \setsansfont{$sansfont$}
+% \setmainfont{$sansfont$}[
+%   UprightFont = * Medium ,
+%   BoldFont = * SemiBold ]
+
 $endif$
 $if(monofont)$
     \setmonofont[Mapping=tex-ansi]{$monofont$}
@@ -292,7 +299,7 @@ $if(toc)$
 {
 \hypersetup{linkcolor=black}
 \setcounter{tocdepth}{$toc-depth$}
-\tableofcontents
+{\sffamily\tableofcontents}
 }
 $endif$
 $if(lot)$

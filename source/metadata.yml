@@ -15,4 +15,13 @@ lang: it
 mainlang: italian
 fontfamily: XCharter
 mainfont: XCharter
+sansfamily: roboto
+sansoptions: condensed
+sansfont: 
+# sansfamily: opensans
+# sansoptions: defaultsans,oldstyle,scale=0.95
+# sansfont: 
+# sansfamily: Oswald
+# sansoptions: 
+# sansfont: Zeroswald
 ---

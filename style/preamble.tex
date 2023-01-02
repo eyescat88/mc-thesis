@@ -85,12 +85,25 @@
 % HEADINGS
 \usepackage{sectsty}
 \usepackage[normalem]{ulem}
-\sectionfont{\rmfamily\mdseries\Large}
-\subsectionfont{\rmfamily\mdseries\scshape\large}
-\subsubsectionfont{\rmfamily\bfseries\upshape\large}
+\chapterfont{\sffamily\mdseries\huge}
+\sectionfont{\sffamily\bfseries\Large}
+\subsectionfont{\sffamily\mdseries\scshape\large}
+\subsubsectionfont{\sffamily\bfseries\upshape\large}
+
+\usepackage{tocloft}
+\renewcommand{\cfttoctitlefont}{\hfill\sffamily\mdseries\huge}
+\renewcommand{\cftchapfont}{\normalfont\sffamily\bfseries}   
+\renewcommand{\cftsecfont}{\normalfont\sffamily}   
+\renewcommand{\cftchappagefont}{\normalfont\sffamily\bfseries}   
+\renewcommand{\cftsecpagefont}{\normalfont\sffamily}   
+
+% \chapterfont{\OswaldMedium\huge}
+% \sectionfont{\OswaldSemiBold\Large}
+% \subsectionfont{\OswaldMedium\scshape\large}
+% \subsubsectionfont{\OswaldSemiBold\upshape\large}
 % \sectionfont{\rmfamily\mdseries\Large}
-% \subsectionfont{\rmfamily\mdseries\scshape\normalsize}
-% \subsubsectionfont{\rmfamily\bfseries\upshape\normalsize}
+% \subsectionfont{\rmfamily\mdseries\scshape\large}
+% \subsubsectionfont{\rmfamily\bfseries\upshape\large}
 
 % Set figure legends and captions to be smaller sized sans serif font
 \usepackage[font={footnotesize,sf}]{caption}

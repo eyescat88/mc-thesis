@@ -1,5 +1,6 @@
 \documentclass[12pt,it,a4paper,]{report}
 \usepackage{XCharter}
+\usepackage[condensed]{roboto}
 
 % Overwrite \begin{figure}[htbp] with \begin{figure}[H]
 \usepackage{float}
@@ -193,12 +194,25 @@
 % HEADINGS
 \usepackage{sectsty}
 \usepackage[normalem]{ulem}
-\sectionfont{\rmfamily\mdseries\Large}
-\subsectionfont{\rmfamily\mdseries\scshape\large}
-\subsubsectionfont{\rmfamily\bfseries\upshape\large}
+\chapterfont{\sffamily\mdseries\huge}
+\sectionfont{\sffamily\bfseries\Large}
+\subsectionfont{\sffamily\mdseries\scshape\large}
+\subsubsectionfont{\sffamily\bfseries\upshape\large}
+
+\usepackage{tocloft}
+\renewcommand{\cfttoctitlefont}{\hfill\sffamily\mdseries\huge}
+\renewcommand{\cftchapfont}{\normalfont\sffamily\bfseries}   
+\renewcommand{\cftsecfont}{\normalfont\sffamily}   
+\renewcommand{\cftchappagefont}{\normalfont\sffamily\bfseries}   
+\renewcommand{\cftsecpagefont}{\normalfont\sffamily}   
+
+% \chapterfont{\OswaldMedium\huge}
+% \sectionfont{\OswaldSemiBold\Large}
+% \subsectionfont{\OswaldMedium\scshape\large}
+% \subsubsectionfont{\OswaldSemiBold\upshape\large}
 % \sectionfont{\rmfamily\mdseries\Large}
-% \subsectionfont{\rmfamily\mdseries\scshape\normalsize}
-% \subsubsectionfont{\rmfamily\bfseries\upshape\normalsize}
+% \subsectionfont{\rmfamily\mdseries\scshape\large}
+% \subsubsectionfont{\rmfamily\bfseries\upshape\large}
 
 % Set figure legends and captions to be smaller sized sans serif font
 \usepackage[font={footnotesize,sf}]{caption}
@@ -495,13 +509,14 @@ ordinario, tenuto conto delle peculiarità funzionali del giudizio
 amministrativo, con potenzialità sostitutive e intromissive nell'azione
 amministrativa incomparabili ai poteri del giudice dell'esecuzione del
 processo civile''\footnote{M. D'ALBERTI, \emph{Diritto amministrativo
-  comparato}, cit., 76. àò}.} Il ricorso per l'ottemperanza va proposto
+  comparato}, cit., 76.}.} Il ricorso per l'ottemperanza va proposto
 nelle forme ordinarie, quindi notificato all'amministrazione e a tutte
 le altre parti del giudizio di merito. Il ricorrente deve depositare una
 copia autentica della sentenza di cui si chiede l'esecuzione, con
-l'eventuale prova del passaggio in giudicato\footnote{Cfr.
-  https://www.vie-publique.fr/fiches/20284-justice-administrative-origines-role-et-specificites}.
-In passato il ricorso doveva essere preceduto dalla notifica
+l'eventuale prova del passaggio in giudicato\footnote{M. NIGRO, \emph{Il
+  Consiglio di Stato giudice e amministratore (aspetti di effettività
+  dell'organo)} ora in \emph{Scritti giuridici}, t. II, Milano, 1996,
+  1054.}. In passato il ricorso doveva essere preceduto dalla notifica
 all'amministrazione di una diffida a provvedere, ma oggi il codice,
 all'art. 114, c.~1, stabilisce che tale adempimento non è più
 necessario. Il riparto di competenza ha carattere funzionale, ai sensi
@@ -513,12 +528,9 @@ confermata in appello, la competenza spetta sempre al Tar. Qualora
 invece si tratti dell'esecuzione della sentenza di un giudice ordinario
 o di un altro giudice speciale diverso dal giudice amministrativo, la
 competenza spetta sempre al Tar nella cui circoscrizione ha sede il
-giudice che ha emesso la sentenza da eseguire\footnote{Tre sono i gradi
-  della giurisdizione amministrativa francese: i tribunali
-  amministrativi (\emph{tribunaux administratifs}), le corti
-  amministrative d'Appello (\emph{courts administratives d'Appel}) e il
-  Consiglio di Stato, Cfr.
-  https://www.justice.gouv.fr/organisation-de-la-justice-10031/lordre-administratif-10034/}.
+giudice che ha emesso la sentenza da eseguire\footnote{FRANK'S COMMITEE,
+  \emph{Report of the Committee on Administrative Tribunals and
+  Enquires}, London, 1957.}.
 
 Per quanto riguarda l'esecuzione delle sentenze del giudice
 amministrativo, il ricorso per l'ottemperanza è esperibile
@@ -531,19 +543,17 @@ Con la sentenza n.~5352/2002 il Consiglio di Stato ha sostenuto che
 l'esecuzione della sentenza non ancora passata in giudicato non dovrebbe
 mai determinare un assetto \emph{``definito ed immutabile''}, perché
 altrimenti verrebbe frustrato l'esito pratico di un eventuale appello
-contro la sentenza\footnote{Cfr. \emph{``juridictions placées au sommet
-  de chacun des deux ordres de juridiction reconnus par la
-  Constitution''}, \emph{Décision du Conseil constitutionnel n° 2009-595
-  DC~du 3 décembre 2009}, § 3, in
-  https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2009-594-dc-du-3-decembre-2009-communique-de-presse\#:\textasciitilde:text=Le\%203\%20d\%C3\%A9cembre\%202009\%2C\%20par,portant\%20diverses\%20dispositions\%20relatives\%20aux}.
-In generale, la stessa giurisprudenza che ha orientato anche la
-redazione del codice del processo amministrativo equipara la sentenza
-esecutiva alla sentenza passata in giudicato ai fini dell'ammissibilità
-del giudizio di ottemperanza, ma precisa che il giudice
-dell'ottemperanza, se la sentenza non sia passata in giudicato, ne
-determina le modalità esecutive\footnote{Cfr. art. L. 8-3 del \emph{code
-  des tribunaux administratifs et des cours administratives d'appel} in
-  https://www.senat.fr/rap/l98-380/l98-3805.html}, motivo per cui sembra
+contro la sentenza\footnote{S. CATTANEO, \emph{``Agencies''} e
+  \emph{``Regulation'' nel Regno Unito}, in \emph{Le autorità
+  indipendenti}. \emph{Da fattori evolutivi ad elementi della
+  transizione nel diritto pubblico italiano}, a cura di S. Labriola,
+  Milano, 1999, 253.}. In generale, la stessa giurisprudenza che ha
+orientato anche la redazione del codice del processo amministrativo
+equipara la sentenza esecutiva alla sentenza passata in giudicato ai
+fini dell'ammissibilità del giudizio di ottemperanza, ma precisa che il
+giudice dell'ottemperanza, se la sentenza non sia passata in giudicato,
+ne determina le modalità esecutive\footnote{C. HARLOW, R. RAWLINGS,
+  \emph{Law and Administration}, cit., 460.}, motivo per cui sembra
 riconosciuta la necessità che l'esecuzione di tale sentenza non
 pregiudichi le ragioni di un eventuale appello. In base all'art. 114,
 c.~2, lett. \emph{c} ed \emph{e}, il ricorso per l'ottemperanza è
@@ -585,9 +595,8 @@ giudicato. Con l'art. 21 \emph{septies} della legge 241/1990, introdotto
 dalla legge 15 del 2005 di riforma del procedimento amministrativo, gli
 atti elusivi sono stati assimilati a quelli assunti in violazione del
 giudicato, ammettendosi anche nei loro confronti il ricorso per
-l'ottemperanza\footnote{Cfr. art. L. 8-4 del \emph{code des tribunaux
-  administratifs et des cours administratives d'appel} in
-  https://www.senat.fr/rap/l98-380/l98-3805.html}.
+l'ottemperanza\footnote{T. BUCK, \emph{Tribunal Reform in the UK:
+  Precedent and Reporting in the New Unified Structure}, cit.}.
 
 L'ampia gamma di poteri spendibili dal giudice dell'ottemperanza ammanta
 lo stesso istituto di originalità, laddove nella maggior parte delle
@@ -607,8 +616,13 @@ surrogarsi all'amministrazione inadempiente designando l'amministrazione
 o il tribunale chiamato ad eseguire la sua decisione e
 \emph{``consacrando così una possibile sostituzione del potere
 giudiziario all'amministrazione attiva (\ldots) sul fronte
-dell'esecuzione''}\footnote{Cfr. Dupre de Boulois~X, \emph{«~Le
-  référé-liberté pour autrui~»}, AJDA~2013, p.~2137} .
+dell'esecuzione''}\footnote{Secondo la definizione contenuta nel
+  \emph{White paper}: ``\emph{the aim is to develop a range of policies
+  and services that, so far as possible, will help people to avoid
+  problems and legal dispute in the first place, and where they cannot,
+  provides tailored solutions to resolve the dispute as quickly and cost
+  effectively as possible. It can be summed up as ``proportionate
+  dispute resolution''}.} .
 
 \hypertarget{i-poteri-sostitutivi-indiretti-il-commissario-ad-acta}{%
 \section{\texorpdfstring{I poteri sostitutivi indiretti: il commissario
@@ -645,79 +659,62 @@ misure di competenza dell'amministrazione riottosa. Di regola, egli è
 scelto fra funzionari di altre amministrazioni e, spesso nella persona
 del Prefetto, rappresenta con la sua attività \emph{``il punto di sutura
 e saldatura''} tra attività giurisdizionale ed
-amministrativa\footnote{Cfr.
-  https://www.actu-juridique.fr/administratif/le-pouvoir-dinjonction-du-juge-administratif-revisite-par-les-circonstances-exceptionnelles-de-la-crise-sanitaire-du-covid-19/}.
-In particolare, \emph{``in quanto delegato dal giudice amministrativo,
-ha il potere di emanare i necessari provvedimenti amministrativi anche
-in deroga alle vigenti competenze. Allo stesso è altresì demandato
-l'onere di porre in essere ogni attività idonea a dare esecuzione alla
-decisione''}\footnote{Cfr. \emph{Qu'est-ce que l'exécution des
-  décisions?} in \emph{L'exécution des décisions du Juge administratif}
-  http://paris.cour-administrative-appel.fr/Demarches-procedures/Les-fiches-pratiques-de-la-justice-administrative}.
-Una ormai risalente pronuncia della Corte costituzionale configura il
-commissario \emph{ad acta} come ausiliario del giudice e riconduce i
-suoi atti all'esercizio della giurisdizione esecutiva del giudice
-dell'ottemperanza\footnote{Tradotto letteralmente come procedura di
-  costrizione al pagamento, anche chiamata procedura di pagamento
-  forzato.}. Autorevole dottrina ha sostanzialmente qualificato
-l'attività commissariale come \emph{``proiezione nel mondo esterno di un
-comando del giudice e, quindi, della traduzione nel concreto della
-attribuzione della} potestas decidendi \emph{che non sempre ha o può
-avere contenuti rigidamente predeterminati}, tali da consentire al
-giudice di portarli direttamente ad attuazione\footnote{Cfr.
-  \emph{Comment faire exécuter les décisions rendues par le juge
-  administratif?} in \emph{L'exécution des décisions du juge
-  administratif}
-  http://paris.cour-administrative-appel.fr/Demarches-procedures/Les-fiches-pratiques-de-la-justice-administrative}.
-L'ampiezza dei poteri commissariali dipenderà dal contenuto del
-giudicato inadempiuto: essi potranno estrinsecarsi, a seconda delle
-situazioni dedotte in giudizio, in attività sia vincolata, come ad
-esempio la restituzione di beni illegittimamente espropriati, sia
-discrezionale, quindi comportante un potere di scelta\footnote{Cfr.
-  \emph{Comment se déroule l'examen de ma demande d'exécution?} in
-  \emph{L'exécution des décisions du juge administratif}
-  http://paris.cour-administrative-appel.fr/Demarches-procedures/Les-fiches-pratiques-de-la-justice-administrative}.
-Una volta nominato il commissario, il giudice mantiene comunque un
-incisivo potere di vigilanza sul suo operato, nonché il potere di
-risolvere eventuali contestazioni, dal momento che le determinazioni del
-commissario, laddove esorbitanti dalle specifiche indicazioni del
-giudice, possono essere oggetto di un ricorso dinanzi allo stesso
-giudice, esperibile anche dall'amministrazione sostituita\footnote{Cfr.
-  \emph{Que faire lorsque l'Administration n'exécute pas le jugement
-  d'un tribunal administratif ou l'arrêt d'une cour d'appel?} in
-  http://paris.tribunal-administratif.fr/Demarches-procedures/L-execution-des-decisions-du-juge-administratif}.
-Da tempo, sia in dottrina che in giurisprudenza, si dibatte sulla
-questione riguardante la misura del potere di adempiere che
-conserverebbe l'amministrazione, una volta che sia stato nominato il
-commissario o sia scaduto il nuovo termine imposto alla stessa
-amministrazione. La giurisprudenza ritiene, per lo più, che
-l'amministrazione verrebbe privata del suo potere nel momento in cui
-viene assunta direttamente dal giudice la decisione contenente il
+amministrativa\footnote{G. RICHARDSON, H. GENN, \emph{Tribunals in
+  Transition: Resolution or Adjudication?}, cit., 117.}. In particolare,
+\emph{``in quanto delegato dal giudice amministrativo, ha il potere di
+emanare i necessari provvedimenti amministrativi anche in deroga alle
+vigenti competenze. Allo stesso è altresì demandato l'onere di porre in
+essere ogni attività idonea a dare esecuzione alla
+decisione''}\footnote{Tribunals, Courts and Enforcement Act, ch.~2, s. 3
+  (5).}. Una ormai risalente pronuncia della Corte costituzionale
+configura il commissario \emph{ad acta} come ausiliario del giudice e
+riconduce i suoi atti all'esercizio della giurisdizione esecutiva del
+giudice dell'ottemperanza\footnote{Tribunals, Courts and Enforcement
+  Act, ch.~2, s. 11.}. Autorevole dottrina ha sostanzialmente
+qualificato l'attività commissariale come \emph{``proiezione nel mondo
+esterno di un comando del giudice e, quindi, della traduzione nel
+concreto della attribuzione della} potestas decidendi \emph{che non
+sempre ha o può avere contenuti rigidamente predeterminati}, tali da
+consentire al giudice di portarli direttamente ad attuazione\footnote{Tribunals,
+  Courts and Enforcement Act, ch.~2, s. 13.}. L'ampiezza dei poteri
+commissariali dipenderà dal contenuto del giudicato inadempiuto: essi
+potranno estrinsecarsi, a seconda delle situazioni dedotte in giudizio,
+in attività sia vincolata, come ad esempio la restituzione di beni
+illegittimamente espropriati, sia discrezionale, quindi comportante un
+potere di scelta\footnote{M. D'ALBERTI, \emph{Diritto amministrativo
+  comparato}, cit., 75.}. Una volta nominato il commissario, il giudice
+mantiene comunque un incisivo potere di vigilanza sul suo operato,
+nonché il potere di risolvere eventuali contestazioni, dal momento che
+le determinazioni del commissario, laddove esorbitanti dalle specifiche
+indicazioni del giudice, possono essere oggetto di un ricorso dinanzi
+allo stesso giudice, esperibile anche dall'amministrazione
+sostituita\footnote{Come sottolineato da G. RICHARDSON, H. GENN,
+  \emph{Tribunals in Transition: Resolution or Adjudication?}, cit.,
+  117, i \emph{tribunals} sono stati istituiti \emph{``specifically to
+  adjudicate disputes, tipically between citizens and the state, not to
+  resolve them through mediation, conciliation or any other form of
+  non-adjudicative dispute resolution''}.}. Da tempo, sia in dottrina
+che in giurisprudenza, si dibatte sulla questione riguardante la misura
+del potere di adempiere che conserverebbe l'amministrazione, una volta
+che sia stato nominato il commissario o sia scaduto il nuovo termine
+imposto alla stessa amministrazione. La giurisprudenza ritiene, per lo
+più, che l'amministrazione verrebbe privata del suo potere nel momento
+in cui viene assunta direttamente dal giudice la decisione contenente il
 provvedimento concreto reso in ottemperanza al giudicato, ovvero in
-quello in cui viene nominato il commissario\footnote{Osserva D. DE
-  PRETIS, \emph{Il processo amministrativo in Europa}, cit., 84, che il
-  problema dell'esecuzione della sentenza amministrativa risiede,
-  nell'ordinamento francese così come in altri ordinamenti continentali,
-  nella difficile coesistenza tra la riserva amministrativa del potere
-  di rinnovare l'attività provvedimentale a seguito della decisione del
-  giudice e la garanzia dell'effettività della tutela giurisdizionale e
-  quindi dell'esecuzione delle statuizioni giudiziali.}. Ove invece
-venga fissato all'amministrazione un termine per adempiere, questo
-assume carattere perentorio, risultando evidente nel caso in cui la
-prefissione del termine sia accompagnata dalla nomina del commissario,
-poiché, una volta scaduto il termine, il potere provvedimentale si
-trasferirebbe in automatico a tale soggetto, ancorché il contenuto degli
-atti, eventualmente adottati dall'amministrazione dopo tale scadenza e
-sadisfattivi del giudicato, potrebbe essere confermato dal giudice
-dell'ottemperanza, il quale in tal modo avvalorerebbe una legittimazione
-a provvedere tardivamente in capo all'amministrazione\footnote{La prima
-  applicazione \emph{ex officio} di un'\emph{astreinte} si deve a CE 28
-  maggio 2001 (\emph{Bandesapt}), in \emph{Rec. Lebon 251}, nonché in
-  \emph{DA} 2001, n.~176, con la quale lo Stato veniva condannato al
-  pagamento di una sanzione pecuniaria di 10.000 franchi al giorno, per
-  la mancata ottemperanza da parte del governo francese all'obbligo di
-  emanare un regolamento come risultante da un decreto del 30 dicembre
-  1998.}.
+quello in cui viene nominato il commissario\footnote{Tale espressione si
+  ritrova nei documenti adottati dal \emph{Tribunal Service}.}. Ove
+invece venga fissato all'amministrazione un termine per adempiere,
+questo assume carattere perentorio, risultando evidente nel caso in cui
+la prefissione del termine sia accompagnata dalla nomina del
+commissario, poiché, una volta scaduto il termine, il potere
+provvedimentale si trasferirebbe in automatico a tale soggetto, ancorché
+il contenuto degli atti, eventualmente adottati dall'amministrazione
+dopo tale scadenza e sadisfattivi del giudicato, potrebbe essere
+confermato dal giudice dell'ottemperanza, il quale in tal modo
+avvalorerebbe una legittimazione a provvedere tardivamente in capo
+all'amministrazione\footnote{F. GOISIS, \emph{La full jurisdiction nel
+  contesto della giustizia amministrativa: concetto, funzione e nodi
+  irrisolti}, in \emph{Dir. proc. amm.}, 2/2015, pp.~546 ss.}.
 
 Molti dei casi di inosservanza delle sentenze del giudice amministrativo
 non sono dettati da una volontà deliberata di disconoscere l'autorità
@@ -735,10 +732,9 @@ proposto anche dall'amministrazione tenuta a darvi esecuzione, quando
 abbia esigenza di chiarimenti. Per evitare abusi, la giurisprudenza ha
 comunque affermato che tale rimedio non deve rappresentare un espediente
 per mettere in discussione la sentenza da eseguire o per introdurre
-questioni estranee all'ottemperanza\footnote{Come da definizione data da
-  FRANCESCO M. CARALLI, nell'articolo \emph{Il nuovo giudizio di
-  ottemperanza, con particolare riguardo alle astreintes}, in
-  Italiappalti.it, 2017, 4.}.
+questioni estranee all'ottemperanza\footnote{P. CRAIG, \emph{The Human
+  Rights Act, Article 6 and procedural rights}, in \emph{Public Law},
+  2003, pp.~753 ss.}.
 
 \hypertarget{il-risarcimento-del-danno-da-inottemperanza}{%
 \section{Il risarcimento del danno da
@@ -764,21 +760,22 @@ sopravvenienza impediente l'esecuzione del giudicato, al ricorrente
 dovrebbe essere riconosciuto, in funzione surrogatoria, anche il danno
 c.d. petitorio, consistente nel controvalore del bene, derivante appunto
 dalla perdita definitiva dello stesso, cagionata dall'illecito ritardo
-nella conformazione al giudicato \footnote{FRANCESCO M. CARALLI,
-  \emph{Il nuovo giudizio di ottemperanza, con particolare riguardo alle
-  astreintes}, in Italiappalti.it, 2017, 11.}. Da questa situazione, va
-tenuta distinta quella in cui, già al momento della pronuncia di
-annullamento, risulta chiaramente che non è più utile per il ricorrente
-la rinnovazione del potere conformemente alla regola concreta dedotta in
-sentenza, potendo il giudice amministrativo in tal caso accogliere
-immediatamente la domanda di risarcimento del danno per equivalente. In
-molti altri casi, invece, il giudice della cognizione non è in grado di
-prevedere già all'atto dell'annullamento se ed in quale misura
-l'ottemperanza potrà effettivamente ripristinare la situazione
-soggettiva lesa. In particolare, in tutti quei casi in cui la domanda
-del privato è diretta a conseguire il bene della vita, molto spesso la
-possibilità e i limiti entro cui attribuire il bene dipendono dal
-momento in cui l'amministrazione esegue il giudicato. Ad esempio, in
+nella conformazione al giudicato \footnote{P. CANE, \emph{Understanding
+  Judicial Review and its Impact}, in M. Hertogh - S. Halliday (a cura
+  di), \emph{Judicial Review and Bureaucratic Impact: International and
+  Interdisciplinary Perspectives}, Cambridge, 2004, pp.~17 e ss.}. Da
+questa situazione, va tenuta distinta quella in cui, già al momento
+della pronuncia di annullamento, risulta chiaramente che non è più utile
+per il ricorrente la rinnovazione del potere conformemente alla regola
+concreta dedotta in sentenza, potendo il giudice amministrativo in tal
+caso accogliere immediatamente la domanda di risarcimento del danno per
+equivalente. In molti altri casi, invece, il giudice della cognizione
+non è in grado di prevedere già all'atto dell'annullamento se ed in
+quale misura l'ottemperanza potrà effettivamente ripristinare la
+situazione soggettiva lesa. In particolare, in tutti quei casi in cui la
+domanda del privato è diretta a conseguire il bene della vita, molto
+spesso la possibilità e i limiti entro cui attribuire il bene dipendono
+dal momento in cui l'amministrazione esegue il giudicato. Ad esempio, in
 materia di appalti, se l'annullamento dell'aggiudicazione in sede
 giurisdizionale interviene nell'immediatezza dei fatti, consente al
 ricorrente di stipulare il contratto con l'amministrazione; al
@@ -805,11 +802,11 @@ pretesa risarcitoria azionabile riguarderà esclusivamente un danno da
 attività provvedimentale illegittima, non avendo luogo una violazione
 del giudicato, in quanto l'amministrazione accorda l'utilità prima
 negata, a seguito della rinnovazione del potere discrezionale successivo
-al giudicato di annullamento\footnote{Cfr. Art. 12, decreto n.~831 del 3
-  luglio 1995 - \emph{CJA}, art. R 921-5.}, nella seconda la pretesa
-risarcitoria sarà duplice e riguarderà un danno scomponibile in una
-prima voce, relativa al ritardo antecedente alla formazione del
-giudicato e commisurato al pregiudizio patito dal ricorrente, qualora
+al giudicato di annullamento\footnote{Cfr. CPR (\emph{Civil Procedure
+  Rules}), art. 54, r. 54.4.}, nella seconda la pretesa risarcitoria
+sarà duplice e riguarderà un danno scomponibile in una prima voce,
+relativa al ritardo antecedente alla formazione del giudicato e
+commisurato al pregiudizio patito dal ricorrente, qualora
 l'amministrazione si fosse spontaneamente conformata al giudicato, e una
 seconda voce di danno, propriamente da inadempimento dell'obbligo
 conformativo scaturente dalla pronuncia del giudice amministrativo,
@@ -820,41 +817,38 @@ ovvero una volta che il privato abbia effettivamente ottenuto il bene
 della vita cui aspirava con l'istanza a suo tempo illegittimamente
 rigettata dall'amministrazione, a meno che non si tratti di potere
 amministrativo vincolato, per cui la spettanza del bene si cristallizza
-già in esito al giudizio di cognizione\footnote{Cfr. Art. 59, decreto
-  n.~766 del 30 luglio 1963 e succ. mod. - \emph{CJA}, art. R931-1
-  \emph{et} 2.}. In giurisprudenza ricorre il principio secondo cui,
-essendo l'oggetto del giudizio di ottemperanza costituito dalla verifica
-se l'amministrazione abbia o meno adempiuto all'obbligo nascente dal
+già in esito al giudizio di cognizione\footnote{Cfr. CJCA, s. 85-86 e
+  88-90.}. In giurisprudenza ricorre il principio secondo cui, essendo
+l'oggetto del giudizio di ottemperanza costituito dalla verifica se
+l'amministrazione abbia o meno adempiuto all'obbligo nascente dal
 giudicato, ovvero abbia o meno attribuito all'interessato quell'utilità
 concreta che la sentenza ha riconosciuto come dovuta, a prescindere dal
 fatto che residuino o meno in capo all'amministrazione stessa poteri
 discrezionali, l'esecuzione deve essere esatta, al pari di quanto
 avviene nell'obbligazione civile, il cui inesatto adempimento viene
-sanzionato con la condanna al risarcimento del danno\footnote{R. CHAPUS,
-  \emph{Droit du contentieux administratif}, 12 ed., Paris, 2006, 1132.}.
-L'utilità concreta potrà consistere \emph{'' nel diritto alla restitutio
-in integrum sotto forma di pretesa alla restituzione del bene in caso di
-annullamento di provvedimenti ablatori, sotto forma di annullamento del
-contratto stipulato in seguito ad aggiudicazione illegittima, nel caso
-di provvedimento incidente su interessi legittimi pretensivi; può
-consistere nel diritto alla conformazione alla regola contenuta nel
-giudicato in caso di riedizione dell'atto che va dal diritto alla non
-riedizione o all'ottenimento dell'atto in caso di effetto vincolante
-pieno, al diritto alla riedizione nel rispetto delle regole sostanziali
-e formali in caso di effetto vincolante semipieno o
-strumentale}\footnote{R. CHAPUS, \emph{Droit du contentieux
-  adminisratif}, 12 ed., Paris, 2006, 1135.}. Sul piano
-dell'accertamento e della prova, se nel giudizio avente ad oggetto il
-pregiudizio conseguente al provvedimento amministrativo illegittimo il
-privato deve provare tutti gli elementi costitutivi del fatto illecito,
-in quello avente ad oggetto il danno da violazione del giudicato opera,
-invece, il principio dell'inversione dell'onere della prova di cui
-all'art. 1218 c.c. nella misura in cui viene posta a carico del debitore
-la prova che l'inadempimento è stato determinato da impossibilità della
-prestazione derivante da causa non imputabile. Ne consegue che
-l'interessato deve dimostrare esclusivamente il suo diritto e la
-sussistenza di un giudicato di accoglimento, mentre spetterà
-all'amministrazione la prova di avervi ottemperato.
+sanzionato con la condanna al risarcimento del danno\footnote{Cfr. s.
+  6(1) HRA.}. L'utilità concreta potrà consistere \emph{'' nel diritto
+alla restitutio in integrum sotto forma di pretesa alla restituzione del
+bene in caso di annullamento di provvedimenti ablatori, sotto forma di
+annullamento del contratto stipulato in seguito ad aggiudicazione
+illegittima, nel caso di provvedimento incidente su interessi legittimi
+pretensivi; può consistere nel diritto alla conformazione alla regola
+contenuta nel giudicato in caso di riedizione dell'atto che va dal
+diritto alla non riedizione o all'ottenimento dell'atto in caso di
+effetto vincolante pieno, al diritto alla riedizione nel rispetto delle
+regole sostanziali e formali in caso di effetto vincolante semipieno o
+strumentale}\footnote{Cfr. s. 4(2) HRA.}. Sul piano dell'accertamento e
+della prova, se nel giudizio avente ad oggetto il pregiudizio
+conseguente al provvedimento amministrativo illegittimo il privato deve
+provare tutti gli elementi costitutivi del fatto illecito, in quello
+avente ad oggetto il danno da violazione del giudicato opera, invece, il
+principio dell'inversione dell'onere della prova di cui all'art. 1218
+c.c. nella misura in cui viene posta a carico del debitore la prova che
+l'inadempimento è stato determinato da impossibilità della prestazione
+derivante da causa non imputabile. Ne consegue che l'interessato deve
+dimostrare esclusivamente il suo diritto e la sussistenza di un
+giudicato di accoglimento, mentre spetterà all'amministrazione la prova
+di avervi ottemperato.
 
 \hypertarget{lesperienza-tedesca}{%
 \chapter{L'esperienza tedesca}\label{lesperienza-tedesca}}
@@ -875,11 +869,11 @@ contenuto ed effetti che debbono assumere le decisioni giurisdizionali
 in presenza di determinati presupposti. In questa prospettiva, è
 importante in primo luogo che gli obblighi dell'amministrazione
 derivanti dalla decisione del giudice amministrativo siano facili da
-assolvere e perfettamente determinati\footnote{Cfr. \emph{A quoi sert le
-  mediateur de la Republique?} in www.dhellencourt-avocats.fr}. Con la
-legge del 21 gennaio 1960 \emph{(VwGO - Verwaltungsgerichtsordnung)}
-sull'ordinamento processuale amministrativo sono state introdotte due
-distinte azioni: una di impugnazione in senso stretto o di annullamento
+assolvere e perfettamente determinati\footnote{H.W.R. WADE - C.F.
+  FORSYTH, \emph{Administration Law}, pp.~305 ss.}. Con la legge del 21
+gennaio 1960 \emph{(VwGO - Verwaltungsgerichtsordnung)} sull'ordinamento
+processuale amministrativo sono state introdotte due distinte azioni:
+una di impugnazione in senso stretto o di annullamento
 \emph{(Anfechtungsklage)} ed un'altra di condanna all'emissione di un
 dato provvedimento, altrimenti detta ``di adempimento''
 \emph{(Verplichtungsklage)}. Ove l'autorità emetta un provvedimento
@@ -898,9 +892,9 @@ all'emanazione di un atto amministrativo rifiutato o omesso''} (azione
 di inadempimento) e al secondo comma che \emph{''qualora la legge non
 disponga diversamente, l'azione è ammissibile solo quando l'attore fa
 valere di essere stato leso nei propri diritti dall'atto amministrativo
-o dal suo rifiuto o omissione''}\footnote{Cfr. \emph{Litige avec
-  l'administration: saisir le Défenseur des droits} in
-  www.service-public.fr/particuliers/vosdroits}. L'azione di
+o dal suo rifiuto o omissione''}\footnote{R. RYSSDALL, \emph{The Coming
+  of Age of European Convention on Human Rights}, in \emph{European
+  Human Rights Law Journal}, 18, 1996, pp.~24 e ss.}. L'azione di
 annullamento è fondata allorquando ricorrano i requisiti previsti dal
 \emph{§ 113 VwGO}, e cioè nella misura in cui l'atto risulti illegittimo
 e lesivo dei cosiddetti diritti civili pubblici dell'attore
@@ -920,67 +914,69 @@ giudice di guidare l'amministrazione nella scelta delle modalità di
 esecuzione della sentenza, per il ripristino dello \emph{status quo
 ante} attraverso la cancellazione degli effetti che si sono nel
 frattempo prodotti. E' questo l'istituto del cosiddetto
-\emph{Folgenbeseitigungsanspruch}\footnote{Letteralmente ``pretesa o
-  diritto all'eliminazione delle conseguenze dell'atto''.}, indicato con
-l'abbreviazione \emph{FBA} e contemplato dal \emph{§ 113/1} secondo
-alinea \emph{VwGO}, ove si prevede che \emph{''se l'atto amministrativo
-è stato già eseguito, il tribunale può anche dichiarare, su richiesta,
-se e come l'autorità amministrativa debba revocare l'esecuzione''}. Il
-\emph{FBA} è autonomo rispetto all'azione di annullamento, inquadrabile
-fra le cosiddette azioni di prestazione, ancorché il giudice
-dell'impugnazione si pronunci sull'eliminazione degli effetti dell'atto
-con la medesima sentenza che definisce il giudizio cassatorio.
-L'utilizzo del termine''può'' }(Kann)\_ da parte del legislatore indica
-la mera facoltà di cumulare la domanda di revoca dell'esecuzione a
-quella di annullamento dell'atto eseguito, ma ciò non esclude la
-possibilità di proporre separata istanza, instaurando un autonomo
-giudizio. Rimane impregiudicata la facoltà per il tribunale, ai sensi
-del \emph{§ 93} secondo alinea \emph{VwGO}, di ordinare in ogni caso che
-le rispettive domande vengano trattate e decise in separati processi. Il
-c.~1, alinea terzo del \emph{§113 VwGO} stabilisce che la pretesa alla
-revoca dell'esecuzione è ammissibile solo laddove l'autorità
-amministrativa sia in grado di darvi seguito. In altri termini,
-l'attività di rimozione degli effetti dell'esecuzione del provvedimento
-annullato presuppone una prestazione possibile sotto il profilo
-giuridico-fattuale. Qualora l'amministrazione non sia in grado di
-ripristinare esattamente la situazione pregressa, dovrebbe ricostruirne
-una quantomeno simile a quella precedente l'esecuzione dell'atto
-annullato, in modo tale da eliminare al massimo i pregiudizi per il
-destinatario del provvedimento\footnote{P. BECKER, H. KUNI,
-  \emph{Probleme des verwaltungsgerichtlichen Vergabeverfahrens für
-  Studienplätze in der Humanmedizin,} in \emph{DVBl} 1976, 863.}. Si
-ritiene inoltre che la revoca dell'esecuzione come disposta dal giudice
-possa consistere, oltre che nella rimozione di un'attività materiale
+\emph{Folgenbeseitigungsanspruch}\footnote{``Complaints are made through
+  Members of the Westminster Parliament and may be made by any member of
+  the public, including a corporation'' in \emph{Parliamentary
+  Commissioner Act, 1967}, ss. 5-6.}, indicato con l'abbreviazione
+\emph{FBA} e contemplato dal \emph{§ 113/1} secondo alinea \emph{VwGO},
+ove si prevede che \emph{''se l'atto amministrativo è stato già
+eseguito, il tribunale può anche dichiarare, su richiesta, se e come
+l'autorità amministrativa debba revocare l'esecuzione''}. Il \emph{FBA}
+è autonomo rispetto all'azione di annullamento, inquadrabile fra le
+cosiddette azioni di prestazione, ancorché il giudice dell'impugnazione
+si pronunci sull'eliminazione degli effetti dell'atto con la medesima
+sentenza che definisce il giudizio cassatorio. L'utilizzo del
+termine''può'' }(Kann)\_ da parte del legislatore indica la mera facoltà
+di cumulare la domanda di revoca dell'esecuzione a quella di
+annullamento dell'atto eseguito, ma ciò non esclude la possibilità di
+proporre separata istanza, instaurando un autonomo giudizio. Rimane
+impregiudicata la facoltà per il tribunale, ai sensi del \emph{§ 93}
+secondo alinea \emph{VwGO}, di ordinare in ogni caso che le rispettive
+domande vengano trattate e decise in separati processi. Il c.~1, alinea
+terzo del \emph{§113 VwGO} stabilisce che la pretesa alla revoca
+dell'esecuzione è ammissibile solo laddove l'autorità amministrativa sia
+in grado di darvi seguito. In altri termini, l'attività di rimozione
+degli effetti dell'esecuzione del provvedimento annullato presuppone una
+prestazione possibile sotto il profilo giuridico-fattuale. Qualora
+l'amministrazione non sia in grado di ripristinare esattamente la
+situazione pregressa, dovrebbe ricostruirne una quantomeno simile a
+quella precedente l'esecuzione dell'atto annullato, in modo tale da
+eliminare al massimo i pregiudizi per il destinatario del
+provvedimento\footnote{I rapporti del PO sono pubblicati online e
+  visibili al link: http://www.ombudsman.org.uk/.}. Si ritiene inoltre
+che la revoca dell'esecuzione come disposta dal giudice possa
+consistere, oltre che nella rimozione di un'attività materiale
 dell'amministrazione, anche nell'adozione di un atto amministrativo,
 quale ad esempio l'ordine di sgombero di un appartamento a seguito
 dell'annullamento della confisca dell'immobile da parte delle forze di
 polizia, con susseguente sua occupazione da parte di un
-terzo\footnote{\_VGH Kassel, 11.11.1993, in \emph{NVwZ}, 1995, 301; F.
-  O. KOPP, W. R. SCHENKE, \emph{Verwaltungsgerichtsordnung}, cit. sub. §
-  113, n.~91.}. Ulteriore presupposto di ammissibilità della pretesa,
+terzo\footnote{``bias, neglect, inattention, delay, incompetence,
+  ineptitude, arbitrariness and so on'' in \emph{Crossman catalogue} -
+  \emph{R v Local Commissioner for Administration, ex p Bradford MCC},
+  1979, QB 287.}. Ulteriore presupposto di ammissibilità della pretesa,
 oltre al fatto che l'autorità sia in grado di darvi seguito, è che la
-questione sia matura per la decisione\footnote{§ 113/2, secondo alinea
-  \emph{VwGO}.}. Ciò significa che non deve più esserci necessità di
-accertare i fatti e non deve residuare alcuna discrezionalità in capo
-all'amministrazione per quanto riguarda le modalità di revoca
-dell'intervenuta esecuzione. Il \emph{FBA} sarà escluso laddove la
-rimozione delle conseguenze dell'esecuzione sia in contrasto con la
-legge al momento della decisione del tribunale\footnote{F. O. KOPP, W.
-  R. SCHENKE, \emph{Verwaltungsgerichtsordnung}, cit., sub § 113, n.~87.}.
-In definitiva, l'amministrazione che si trovi a dover eseguire la
-sentenza di annullamento e, quindi, a ripristinare la situazione
-esistente prima del provvedimento caducato, potrà essere guidata dal
-giudice nella scelta delle misure necessarie all'esecuzione del
-\emph{dictum} giudiziale, almeno per quel che concerne la rimozione
-degli effetti strettamente connessi all'esecuzione del provvedimento
-annullato. L'inottemperanza alla decisione sotto tale profilo, seppur
-non assistita da alcun meccanismo di coazione diretta, potrà tuttavia
-essere sanzionata attraverso l'attivazione della peculiare procedura di
-coercizione indiretta di cui al \emph{§ 172 VwGO}, consistente
-nell'assegnazione da parte del giudice, su richiesta dell'interessato,
-di un termine per l'esecuzione della pronuncia e, nel caso di
-inosservanza del medesimo, nell'irrogazione di un'ammenda, lo
-\emph{Zwangsgeld}.
+questione sia matura per la decisione\footnote{https://www.lgo.org.uk/make-a-complaint/what-we-can-and-cannot-look-at}.
+Ciò significa che non deve più esserci necessità di accertare i fatti e
+non deve residuare alcuna discrezionalità in capo all'amministrazione
+per quanto riguarda le modalità di revoca dell'intervenuta esecuzione.
+Il \emph{FBA} sarà escluso laddove la rimozione delle conseguenze
+dell'esecuzione sia in contrasto con la legge al momento della decisione
+del tribunale\footnote{Mark Sandford, \emph{House of Commons Library},
+  \emph{The role of the Local Government Ombudsman}, \emph{Complaints},
+  in \emph{Briefing Paper Number} 04117, 17 July 2017.}. In definitiva,
+l'amministrazione che si trovi a dover eseguire la sentenza di
+annullamento e, quindi, a ripristinare la situazione esistente prima del
+provvedimento caducato, potrà essere guidata dal giudice nella scelta
+delle misure necessarie all'esecuzione del \emph{dictum} giudiziale,
+almeno per quel che concerne la rimozione degli effetti strettamente
+connessi all'esecuzione del provvedimento annullato. L'inottemperanza
+alla decisione sotto tale profilo, seppur non assistita da alcun
+meccanismo di coazione diretta, potrà tuttavia essere sanzionata
+attraverso l'attivazione della peculiare procedura di coercizione
+indiretta di cui al \emph{§ 172 VwGO}, consistente nell'assegnazione da
+parte del giudice, su richiesta dell'interessato, di un termine per
+l'esecuzione della pronuncia e, nel caso di inosservanza del medesimo,
+nell'irrogazione di un'ammenda, lo \emph{Zwangsgeld}.
 
 \hypertarget{il-contenzioso-ingiuntivo-la-c.d.-verpflichtungsklage}{%
 \section{\texorpdfstring{Il contenzioso ingiuntivo: la c.d.
@@ -990,58 +986,45 @@ La disposizione al § 113/5 \emph{VwGO} contempla la sentenza sulla c.d.
 \emph{Verplichtungsklage}, azione di prestazione o, secondo definizione
 della dottrina italiana, di condanna, con la quale si ingiunge alla
 pubblica amministrazione l'emanazione di un atto rifiutato od
-omesso\footnote{Il § 113/5 \emph{VwGO}, così come tradotto da G. FALCON,
-  C. FRAENKEL, \emph{Ordinamento processuale, cit., 94}, recita:
-  \emph{``Nella misura in cui il rifiuto o l'omissione dell'atto
-  amministrativo è illegittimo e l'attore ne risulta leso nei propri
-  diritti, il tribunale dichiara l'obbligo dell'autorità amministrativa
-  di porre in essere la richiesta attività dell'ufficio, se la questione
-  è matura per la decisione. Altrimenti esso dichiara l'obbligo di
-  decidere nei confronti dell'attore nel rispetto della concezione
-  giuridica del tribunale}.}. Essa è diretta sostanzialmente a sindacare
-il rifiuto del provvedimento amministrativo richiesto dall'interessato
-che consegue all'assunzione di un provvedimento espresso di diniego; in
-tal caso l'azione assumerà, seppur in via sussidiaria, anche un
-contenuto annullatorio, dal momento che l'eventuale sentenza di
-accoglimento ne comporterà l'eliminazione\footnote{Rileva D. DE PRETIS,
-  \emph{Il processo amministrativo in Europa, cit., 121} come in questo
-  caso oggetto del giudizio non è, se non in un secondo momento, il
-  provvedimento di espresso diniego di quanto richiesto dal privato, ma,
-  in primo luogo, il provvedimento che l'amministrazione avrebbe dovuto
-  assumere per soddisfare la pretesa sostanziale del ricorrente, per cui
-  è tale ultimo atto che l'amministrazione sarà tenuta ad adottare a
-  seguito dell'eventuale sentenza di accoglimento della
-  \emph{Verpflightungsklage}.}, ovvero l'omissione di un provvedimento
-non ancora denegato. Presupposti di fondatezza della
-\emph{Verplichtungsklage}, così come per l'azione di annullamento, sono
-l'illegittimità del diniego o dell'inerzia e la lesione dei diritti del
-ricorrente. In presenza di tali condizioni, il giudice affermerà
-l'obbligo dell'autorità amministrativa di adottare il provvedimento
-richiesto, qualora la questione sottoposta al suo esame consenta una
-decisione definitiva. Tuttavia, una condanna dell'amministrazione
-all'emissione di un atto dotato di un ben preciso contenuto potrà
-intervenire soltanto nel caso in cui la stessa amministrazione non abbia
-poteri discrezionali, ovvero qualora l'adozione del provvedimento
-richiesto rappresenti l'unica manifestazione della discrezionalità
-amministrativa priva di errori, tenuto presente che la sentenza di
-condanna, in virtù del principio costituzionale della separazione dei
-poteri, non sostituisce la decisione dell'amministrazione, ma la obbliga
-ad agire. Laddove invece la controversia non consenta una decisione
-definitiva, il tribunale, previo riconoscimento della legittimità della
-pretesa del ricorrente ad una decisione dell'amministrazione, si
-limiterà a statuire l'obbligo di quest'ultima di decidere secondo la
-valutazione da esso espressa sulla questione\footnote{§ 113/5
-  \emph{VwGO}. Si parla in questo caso di \emph{Bescheidungsurteil}.}.
+omesso\footnote{\emph{Local Government Act 2000, section 92}.}. Essa è
+diretta sostanzialmente a sindacare il rifiuto del provvedimento
+amministrativo richiesto dall'interessato che consegue all'assunzione di
+un provvedimento espresso di diniego; in tal caso l'azione assumerà,
+seppur in via sussidiaria, anche un contenuto annullatorio, dal momento
+che l'eventuale sentenza di accoglimento ne comporterà
+l'eliminazione\footnote{http://www.lgo.org.uk/information-centre/about-us/our-performance/challenging-our-decision},
+ovvero l'omissione di un provvedimento non ancora denegato. Presupposti
+di fondatezza della \emph{Verplichtungsklage}, così come per l'azione di
+annullamento, sono l'illegittimità del diniego o dell'inerzia e la
+lesione dei diritti del ricorrente. In presenza di tali condizioni, il
+giudice affermerà l'obbligo dell'autorità amministrativa di adottare il
+provvedimento richiesto, qualora la questione sottoposta al suo esame
+consenta una decisione definitiva. Tuttavia, una condanna
+dell'amministrazione all'emissione di un atto dotato di un ben preciso
+contenuto potrà intervenire soltanto nel caso in cui la stessa
+amministrazione non abbia poteri discrezionali, ovvero qualora
+l'adozione del provvedimento richiesto rappresenti l'unica
+manifestazione della discrezionalità amministrativa priva di errori,
+tenuto presente che la sentenza di condanna, in virtù del principio
+costituzionale della separazione dei poteri, non sostituisce la
+decisione dell'amministrazione, ma la obbliga ad agire. Laddove invece
+la controversia non consenta una decisione definitiva, il tribunale,
+previo riconoscimento della legittimità della pretesa del ricorrente ad
+una decisione dell'amministrazione, si limiterà a statuire l'obbligo di
+quest'ultima di decidere secondo la valutazione da esso espressa sulla
+questione\footnote{https://www.ombudsman.org.uk/about-us/our-principles/principles-good-complaint-handling/introduction}.
 Partendo dalla considerazione che spesso l'amministrazione non
 ottempera, in quanto non sa come ottemperare, l'istituto della
 \emph{Verplichtungsklage} acquista notevole importanza nella misura in
 cui coinvolge il giudice sin dalla prima pronuncia nel chiarimento della
 portata operativa della decisione, ottenendo così una maggior ``presa''
-sul successivo comportamento\footnote{G. FALCON, \emph{Per una migliore
-  giustizia amministrativa}, cit., 151.}. Per converso, ove
-l'amministrazione sia titolare di un più ampio potere discrezionale, il
-giudice incontrerà il limite della insostituibilità delle scelte
-discrezionali dell'autorità, quindi la susseguente attività
+sul successivo comportamento\footnote{ad esempio, la \emph{Community
+  Legal Advice} offre consulenza legale generale e L'\emph{Independent
+  Complaints Advocacy Service} (ICAS) offre assistenza legale per i
+  ricorrenti verso il \emph{National Health Service} (NHS).}. Per
+converso, ove l'amministrazione sia titolare di un più ampio potere
+discrezionale, il giudice incontrerà il limite della insostituibilità
+delle scelte discrezionali dell'autorità, quindi la susseguente attività
 amministrativa rimarrà pur sempre appannaggio dell'amministrazione, con
 l'unico limite costituito dall'obbligo di rispettare la ``concezione
 giuridica'' del tribunale (c.d. \emph{Bescheidungsurteil}).
@@ -1484,7 +1467,7 @@ o al giudice amministrativo: il Tribunale dei conflitti. Tale tribunale,
 per assicurare l'equilibrio tra le due giurisdizioni, è composto da uno
 stesso numero di magistrati della Cassazione e di consiglieri di
 Stato\footnote{M. D'ALBERTI, \emph{Diritto amministrativo comparato},
-  cit., 76. àò}.
+  cit., 76.}.
 
 Con l'entrata in vigore, il 4 ottobre 1958, della Costituzione francese
 che ha dato origine alla Quinta Repubblica, è stato istituito il
@@ -1493,23 +1476,21 @@ accentrato che svolge anche un controllo di legittimità costituzionale.
 Successivamente, con due decisioni del Consiglio costituzionale, la
 prima del 22 luglio 1980 e la seconda del 23 gennaio 1987, si è
 conferito valore costituzionale all'indipendenza ed alla competenza
-della giurisdizione amministrativa\footnote{Cfr.
-  https://www.vie-publique.fr/fiches/20284-justice-administrative-origines-role-et-specificites}.
-La revisione costituzionale del 23 luglio 2008 ha confermato questo
-radicamento costituzionale introducendo la nozione di \emph{ordre
-administratif} \footnote{Tre sono i gradi della giurisdizione
-  amministrativa francese: i tribunali amministrativi (\emph{tribunaux
-  administratifs}), le corti amministrative d'Appello (\emph{courts
-  administratives d'Appel}) e il Consiglio di Stato, Cfr.
-  https://www.justice.gouv.fr/organisation-de-la-justice-10031/lordre-administratif-10034/}
-all'art. 65 della Carta e, con decisione del 3 dicembre 2009, il
-Consiglio costituzionale ha qualificato la Corte di cassazione e il
-Consiglio di Stato quali organi al vertice delle due giurisdizioni
-riconosciute dalla Costituzione\footnote{Cfr. \emph{``juridictions
-  placées au sommet de chacun des deux ordres de juridiction reconnus
-  par la Constitution''}, \emph{Décision du Conseil constitutionnel n°
-  2009-595 DC~du 3 décembre 2009}, § 3, in
-  https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2009-594-dc-du-3-decembre-2009-communique-de-presse\#:\textasciitilde:text=Le\%203\%20d\%C3\%A9cembre\%202009\%2C\%20par,portant\%20diverses\%20dispositions\%20relatives\%20aux}.
+della giurisdizione amministrativa\footnote{M. NIGRO, \emph{Il Consiglio
+  di Stato giudice e amministratore (aspetti di effettività
+  dell'organo)} ora in \emph{Scritti giuridici}, t. II, Milano, 1996,
+  1054.}. La revisione costituzionale del 23 luglio 2008 ha confermato
+questo radicamento costituzionale introducendo la nozione di \emph{ordre
+administratif} \footnote{FRANK'S COMMITEE, \emph{Report of the Committee
+  on Administrative Tribunals and Enquires}, London, 1957.} all'art. 65
+della Carta e, con decisione del 3 dicembre 2009, il Consiglio
+costituzionale ha qualificato la Corte di cassazione e il Consiglio di
+Stato quali organi al vertice delle due giurisdizioni riconosciute dalla
+Costituzione\footnote{S. CATTANEO, \emph{``Agencies''} e
+  \emph{``Regulation'' nel Regno Unito}, in \emph{Le autorità
+  indipendenti}. \emph{Da fattori evolutivi ad elementi della
+  transizione nel diritto pubblico italiano}, a cura di S. Labriola,
+  Milano, 1999, 253.}.
 
 \hypertarget{il-pouvoir-dinjonction-del-giudice-amministrativo}{%
 \section{\texorpdfstring{Il \emph{pouvoir d'Injonction} del giudice
@@ -1537,17 +1518,15 @@ pubblico, debba adottare un nuovo provvedimento, a seguito di una nuova
 fase istruttoria, il tribunale amministrativo o la corte amministrativa
 di appello, precedentemente chiamati a decidere in tal senso,
 stabiliscono che l'adozione del nuovo provvedimento debba avvenire entro
-un determinato termine\footnote{Cfr. art. L. 8-3 del \emph{code des
-  tribunaux administratifs et des cours administratives d'appel} in
-  https://www.senat.fr/rap/l98-380/l98-3805.html}.
+un determinato termine\footnote{C. HARLOW, R. RAWLINGS, \emph{Law and
+  Administration}, cit., 460.}.
 
 L'articolo L. 8-3 del codice dei tribunali amministrativi e delle corti
 amministrative di appello permette al giudice chiamato a decidere di
 accompagnare al potere ingiuntivo prescritto dall'articolo L. 8-2 la
 previsione di una penale, la cosiddetta \emph{astreinte}, nell'ambito
-della stessa decisione\footnote{Cfr. art. L. 8-3 del \emph{code des
-  tribunaux administratifs et des cours administratives d'appel} in
-  https://www.senat.fr/rap/l98-380/l98-3805.html}.
+della stessa decisione\footnote{C. HARLOW, R. RAWLINGS, \emph{Law and
+  Administration}, cit., 460.}.
 
 L'art. L. 8-4 prevede che, nel caso di mancata esecuzione della sentenza
 emessa dal tribunale amministrativo o della corte amministrativa di
@@ -1557,9 +1536,8 @@ che ha pronunciato la decisione di assicurarne l'esecuzione. Il giudice
 potrà così definire le modalità di esecuzione, fissare un termine per
 l'esecuzione e stabilire una penale (\emph{astreinte}), ferma restando
 la possibilità di rimettere la richiesta di esecuzione al Consiglio di
-Stato\footnote{Cfr. art. L. 8-4 del \emph{code des tribunaux
-  administratifs et des cours administratives d'appel} in
-  https://www.senat.fr/rap/l98-380/l98-3805.html}.
+Stato\footnote{T. BUCK, \emph{Tribunal Reform in the UK: Precedent and
+  Reporting in the New Unified Structure}, cit.}.
 
 Tuttavia oggi, venticinque anni dopo aver ottenuto la facoltà di
 ingiungere all'amministrazione l'esecuzione delle sentenze, il giudice
@@ -1572,15 +1550,21 @@ legittimavano un utilizzo più esteso del \emph{pouvoir d'injonction}. In
 generale, si è notata da parte del giudice amministrativo una qualche
 reticenza nell'esplicitare il suo pieno potere ingiuntivo: sia esso o
 meno giuridicamente fondato, egli dimostra una sorta di autolimitazione
-quando si tratta di agire d'imperio\footnote{Cfr. Dupre de Boulois~X,
-  \emph{«~Le référé-liberté pour autrui~»}, AJDA~2013, p.~2137}. In
-particolare, quando pronuncia un'ingiunzione, si obbliga a non
-sostituire il suo apprezzamento a quello dell'amministrazione e cerca di
-non interferire con essa in presenza di poteri discrezionali. In questa
-prospettiva, il potere ingiuntivo che il giudice indirizza verso
-l'amministrazione è costantemente circoscritto, così come sono limitate
-le conseguenze giuridiche che ne derivano\footnote{Cfr.
-  https://www.actu-juridique.fr/administratif/le-pouvoir-dinjonction-du-juge-administratif-revisite-par-les-circonstances-exceptionnelles-de-la-crise-sanitaire-du-covid-19/}.
+quando si tratta di agire d'imperio\footnote{Secondo la definizione
+  contenuta nel \emph{White paper}: ``\emph{the aim is to develop a
+  range of policies and services that, so far as possible, will help
+  people to avoid problems and legal dispute in the first place, and
+  where they cannot, provides tailored solutions to resolve the dispute
+  as quickly and cost effectively as possible. It can be summed up as
+  ``proportionate dispute resolution''}.}. In particolare, quando
+pronuncia un'ingiunzione, si obbliga a non sostituire il suo
+apprezzamento a quello dell'amministrazione e cerca di non interferire
+con essa in presenza di poteri discrezionali. In questa prospettiva, il
+potere ingiuntivo che il giudice indirizza verso l'amministrazione è
+costantemente circoscritto, così come sono limitate le conseguenze
+giuridiche che ne derivano\footnote{G. RICHARDSON, H. GENN,
+  \emph{Tribunals in Transition: Resolution or Adjudication?}, cit.,
+  117.}.
 
 \hypertarget{lesecuzione-delle-sentenze-del-giudice-amministrativo}{%
 \section{L'esecuzione delle sentenze del giudice
@@ -1594,18 +1578,16 @@ giudice segua solo un'esecuzione parziale, la parte interessata può
 agire secondo due modalità, a seconda che l'amministrazione sia stata
 condannata a versare una somma di denaro, oppure debba adottare un nuovo
 provvedimento a seguito della sentenza di annullamento di un atto
-amministrativo\footnote{Cfr. \emph{Qu'est-ce que l'exécution des
-  décisions?} in \emph{L'exécution des décisions du Juge administratif}
-  http://paris.cour-administrative-appel.fr/Demarches-procedures/Les-fiches-pratiques-de-la-justice-administrative}.
+amministrativo\footnote{Tribunals, Courts and Enforcement Act, ch.~2, s.
+  3 (5).}.
 
 Nel primo caso, se la domanda del privato verte unicamente sul
 versamento di una somma di denaro da parte dell'amministrazione, egli
 può attivare la \emph{procédure de la contrainte au paiement}, chiamata
-anche \emph{procédure du paiment forcé}\footnote{Tradotto letteralmente
-  come procedura di costrizione al pagamento, anche chiamata procedura
-  di pagamento forzato.}che gli permetterà di ottenere il pagamento
-della somma dovuta, a condizione che la decisione del giudice sia
-divenuta definitiva, ne stabilisca precisamente l'ammontare e che
+anche \emph{procédure du paiment forcé}\footnote{Tribunals, Courts and
+  Enforcement Act, ch.~2, s. 11.}che gli permetterà di ottenere il
+pagamento della somma dovuta, a condizione che la decisione del giudice
+sia divenuta definitiva, ne stabilisca precisamente l'ammontare e che
 l'amministrazione non abbia versato la somma entro il termine stabilito
 di due mesi dalla notifica della sentenza. La domanda, se il debitore è
 lo Stato, deve essere indirizzata al \emph{Comptable public},
@@ -1647,10 +1629,7 @@ indirizzata alla delegazione all'esecuzione delle decisioni di giustizia
 della \emph{section du rapport et des études du Conseil d'Etat}. Nel
 caso in cui la domanda sia rivolta per errore ad un giudice non
 competente, questi la inoltrerà al giudice competente informando le
-parti\footnote{Cfr. \emph{Comment faire exécuter les décisions rendues
-  par le juge administratif?} in \emph{L'exécution des décisions du juge
-  administratif}
-  http://paris.cour-administrative-appel.fr/Demarches-procedures/Les-fiches-pratiques-de-la-justice-administrative}.
+parti\footnote{Tribunals, Courts and Enforcement Act, ch.~2, s. 13.}.
 
 Per il privato, al fine di presentare la domanda di esecuzione, non è
 obbligatorio ricorrere all'assistenza di un avvocato. La domanda può
@@ -1665,18 +1644,15 @@ renitente, volta ad indurre la medesima amministrazione ad eseguire
 quanto statuito dal giudice.
 
 La procedura di esame della domanda di esecuzione si svolge in due
-fasi\footnote{Cfr. \emph{Comment se déroule l'examen de ma demande
-  d'exécution?} in \emph{L'exécution des décisions du juge
-  administratif}
-  http://paris.cour-administrative-appel.fr/Demarches-procedures/Les-fiches-pratiques-de-la-justice-administrative}.
-Durante la prima fase, denominata \emph{phase administrative}, entro un
-termine massimo di sei mesi, il presidente del tribunale amministrativo,
-della corte amministrativa di appello o della sezione di rapporto e di
-studi del Consiglio di Stato, promuove tutte le iniziative e le indagini
-necessarie ad assicurare l'esecuzione della sentenza da parte
-dell'amministrazione. Qualora rilevi che l'amministrazione abbia nel
-frattempo ottemperato o che la domanda sia infondata, procederà
-all'archiviazione dandone comunicazione alle parti.
+fasi\footnote{M. D'ALBERTI, \emph{Diritto amministrativo comparato},
+  cit., 75.}. Durante la prima fase, denominata \emph{phase
+administrative}, entro un termine massimo di sei mesi, il presidente del
+tribunale amministrativo, della corte amministrativa di appello o della
+sezione di rapporto e di studi del Consiglio di Stato, promuove tutte le
+iniziative e le indagini necessarie ad assicurare l'esecuzione della
+sentenza da parte dell'amministrazione. Qualora rilevi che
+l'amministrazione abbia nel frattempo ottemperato o che la domanda sia
+infondata, procederà all'archiviazione dandone comunicazione alle parti.
 
 La seconda fase, la \emph{phase juridictionelle}, può essere avviata sia
 su iniziativa della giurisdizione competente, quando il presidente
@@ -1699,10 +1675,12 @@ ritenga che le cautele adoperate siano suscettibili di permettere
 l'esecuzione della sentenza a breve termine può stabilire, dandone
 previa informazione alle parti, che l'avvio della procedura giudiziale
 abbia luogo solo una volta scaduto un termine supplementare di quattro
-mesi\footnote{Cfr. \emph{Que faire lorsque l'Administration n'exécute
-  pas le jugement d'un tribunal administratif ou l'arrêt d'une cour
-  d'appel?} in
-  http://paris.tribunal-administratif.fr/Demarches-procedures/L-execution-des-decisions-du-juge-administratif}.
+mesi\footnote{Come sottolineato da G. RICHARDSON, H. GENN,
+  \emph{Tribunals in Transition: Resolution or Adjudication?}, cit.,
+  117, i \emph{tribunals} sono stati istituiti \emph{``specifically to
+  adjudicate disputes, tipically between citizens and the state, not to
+  resolve them through mediation, conciliation or any other form of
+  non-adjudicative dispute resolution''}.}.
 
 \hypertarget{lastreinte}{%
 \section{\texorpdfstring{L'\emph{astreinte}}{L'astreinte}}\label{lastreinte}}
@@ -1718,14 +1696,8 @@ coazione indiretta volte a piegare la resistenza dell'amministrazione
 inottemperante e cioè le \emph{astreintes} rispetto allo
 \emph{Zwangsgeld}, con il naturale corollario, comune ad entrambi i
 sistemi, di un rigoroso recepimento del principio della separazione dei
-poteri\footnote{Osserva D. DE PRETIS, \emph{Il processo amministrativo
-  in Europa}, cit., 84, che il problema dell'esecuzione della sentenza
-  amministrativa risiede, nell'ordinamento francese così come in altri
-  ordinamenti continentali, nella difficile coesistenza tra la riserva
-  amministrativa del potere di rinnovare l'attività provvedimentale a
-  seguito della decisione del giudice e la garanzia dell'effettività
-  della tutela giurisdizionale e quindi dell'esecuzione delle
-  statuizioni giudiziali.}.
+poteri\footnote{Tale espressione si ritrova nei documenti adottati dal
+  \emph{Tribunal Service}.}.
 
 La legge di riforma del contenzioso amministrativo 95-125 dell'8
 febbraio 1995 ridefinisce la disciplina sull'esecuzione del giudicato
@@ -1736,30 +1708,25 @@ separazione dei poteri, non poteva ordinare un \emph{facere} o un
 \emph{non facere} alla pubblica autorità e, in secondo luogo, ampliava
 il potere di \emph{astreinte}, prima attribuito in via esclusiva al
 \emph{Conseil d'Etat} ed esercitabile anche \emph{ex
-officio}\footnote{La prima applicazione \emph{ex officio} di
-  un'\emph{astreinte} si deve a CE 28 maggio 2001 (\emph{Bandesapt}), in
-  \emph{Rec. Lebon 251}, nonché in \emph{DA} 2001, n.~176, con la quale
-  lo Stato veniva condannato al pagamento di una sanzione pecuniaria di
-  10.000 franchi al giorno, per la mancata ottemperanza da parte del
-  governo francese all'obbligo di emanare un regolamento come risultante
-  da un decreto del 30 dicembre 1998.}, con la devoluzione dello stesso
-anche ai tribunali e alle corti di appello.
+officio}\footnote{F. GOISIS, \emph{La full jurisdiction nel contesto
+  della giustizia amministrativa: concetto, funzione e nodi irrisolti},
+  in \emph{Dir. proc. amm.}, 2/2015, pp.~546 ss.}, con la devoluzione
+dello stesso anche ai tribunali e alle corti di appello.
 
 L'\emph{astreinte}, quale principale mezzo di coercizione indiretta, è
 uno strumento a carattere esclusivamente patrimoniale che ha lo scopo di
 incentivare l'esecuzione di una sentenza di condanna, attraverso la
 previsione di una sanzione pecuniaria che la parte inadempiente dovrà
-versare a favore del creditore vittorioso in giudizio\footnote{Come da
-  definizione data da FRANCESCO M. CARALLI, nell'articolo \emph{Il nuovo
-  giudizio di ottemperanza, con particolare riguardo alle astreintes},
-  in Italiappalti.it, 2017, 4.}. Le prime applicazioni dei mezzi di
-esecuzione indiretta si rinvengono nel diritto romano classico secondo
-cui, nei casi di condanna a rilasciare un fondo o a realizzare un
-\emph{opus}, si stabiliva che il soccombente avrebbe dovuto, in difetto,
-pagare una somma pari ad una multa del valore del fondo o dell'opera da
-realizzare. Viceversa, in epoca medioevale, l'applicazione degli
-strumenti di induzione all'adempimento era circoscritta ai casi in cui
-l'interesse del creditore non potesse essere soddisfatto attraverso
+versare a favore del creditore vittorioso in giudizio\footnote{P. CRAIG,
+  \emph{The Human Rights Act, Article 6 and procedural rights}, in
+  \emph{Public Law}, 2003, pp.~753 ss.}. Le prime applicazioni dei mezzi
+di esecuzione indiretta si rinvengono nel diritto romano classico
+secondo cui, nei casi di condanna a rilasciare un fondo o a realizzare
+un \emph{opus}, si stabiliva che il soccombente avrebbe dovuto, in
+difetto, pagare una somma pari ad una multa del valore del fondo o
+dell'opera da realizzare. Viceversa, in epoca medioevale, l'applicazione
+degli strumenti di induzione all'adempimento era circoscritta ai casi in
+cui l'interesse del creditore non potesse essere soddisfatto attraverso
 l'esperimento dell'esecuzione diretta per cui era necessaria la
 partecipazione del debitore. In Francia, l'applicazione
 dell'\emph{astreinte} è stata per la prima volta formalizzata da una
@@ -1854,9 +1821,10 @@ difficoltà nell'adempimento collegate a vincoli normativi e di bilancio,
 allo stato della finanza pubblica e alla rilevanza di specifici
 interessi pubblici, ha aggiunto al limite negativo della manifesta
 iniquità quello della sussistenza di ``altre ragioni
-ostative''\footnote{FRANCESCO M. CARALLI, \emph{Il nuovo giudizio di
-  ottemperanza, con particolare riguardo alle astreintes}, in
-  Italiappalti.it, 2017, 11.}.
+ostative''\footnote{P. CANE, \emph{Understanding Judicial Review and its
+  Impact}, in M. Hertogh - S. Halliday (a cura di), \emph{Judicial
+  Review and Bureaucratic Impact: International and Interdisciplinary
+  Perspectives}, Cambridge, 2004, pp.~17 e ss.}.
 
 \hypertarget{gli-strumenti-di-prevenzione-dellinottemperanza-della-pubblica-amministrazione}{%
 \section{Gli strumenti di prevenzione dell'inottemperanza della Pubblica
@@ -1874,13 +1842,12 @@ discendenti dal giudicato, il ricorrente vittorioso può, attraverso
 un'apposita domanda, chiedere chiarimenti in ordine alla modalità con le
 quali le autorità soccombenti devono conformarsi al giudicato ai
 tribunali amministrativi e alle corti amministrative d'appello, per quel
-che attiene all'esecuzione delle loro decisioni\footnote{Cfr. Art. 12,
-  decreto n.~831 del 3 luglio 1995 - \emph{CJA}, art. R 921-5.}, nonché
-al Consiglio di Stato e, segnatamente, alla \emph{Section du rapport et
-des études}, relativamente all'esecuzione delle sue pronunce oltre a
-quelle promananti dalle giurisdizioni speciali\footnote{Cfr. Art. 59,
-  decreto n.~766 del 30 luglio 1963 e succ. mod. - \emph{CJA}, art.
-  R931-1 \emph{et} 2.}.
+che attiene all'esecuzione delle loro decisioni\footnote{Cfr. CPR
+  (\emph{Civil Procedure Rules}), art. 54, r. 54.4.}, nonché al
+Consiglio di Stato e, segnatamente, alla \emph{Section du rapport et des
+études}, relativamente all'esecuzione delle sue pronunce oltre a quelle
+promananti dalle giurisdizioni speciali\footnote{Cfr. CJCA, s. 85-86 e
+  88-90.}.
 
 I tribunali e le corti d'appello vengono interessate della questione,
 nella persona del loro presidente o del relatore che viene per
@@ -1894,8 +1861,8 @@ dare esecuzione ad una decisione involgente misure urgenti, ovvero nei
 casi di rifiuto esplicito ad adempiere. Inoltre, in giurisprudenza si
 propende per l'inoppugnabilità in sede contenziosa di un eventuale
 rifiuto opposto dal presidente della \emph{section du rapport et des
-études} alla richiesta di \emph{aide à l'exécution}\footnote{R. CHAPUS,
-  \emph{Droit du contentieux administratif}, 12 ed., Paris, 2006, 1132.}.
+études} alla richiesta di \emph{aide à l'exécution}\footnote{Cfr. s.
+  6(1) HRA.}.
 
 Il \emph{mediateur de la Republique} era una figura istituita con la
 legge del 3 gennaio 1973 (art. 11, al.~2) e succ. mod., alla quale
@@ -1913,8 +1880,7 @@ septembre 1994, JO 14 octobre, p.~14588}), peraltro ancora in atto al
 momento del rapporto, relativamente all'inesecuzione di una sentenza del
 Tribunale amministrativo di Versailles del 22 giugno 1993 che aveva
 condannato il comune di Mennecy ad erogare lo stipendio dovuto ad un suo
-impiegato\footnote{R. CHAPUS, \emph{Droit du contentieux adminisratif},
-  12 ed., Paris, 2006, 1135.}. Fino al 2011, il ruolo del
+impiegato\footnote{Cfr. s. 4(2) HRA.}. Fino al 2011, il ruolo del
 \emph{mediateur de la Republique} è stato quello di dirimere le
 controversie tra i privati e la pubblica amministrazione sorte in
 seguito a disservizi e malfunzionamenti nell'operato di quest'ultima,
@@ -1927,8 +1893,8 @@ fondata, intraprendeva una sorta di dialogo di mediazione con
 l'amministrazione, a seguito del quale, se la risposta
 dell'amministrazione non era ancora ritenuta soddisfacente, poteva
 giungere alla formulazione di raccomandazioni che rendeva
-pubbliche\footnote{Cfr. \emph{A quoi sert le mediateur de la
-  Republique?} in www.dhellencourt-avocats.fr}.
+pubbliche\footnote{H.W.R. WADE - C.F. FORSYTH, \emph{Administration
+  Law}, pp.~305 ss.}.
 
 A seguito della revisione costituzionale del 23 luglio 2008 e della
 legge del 29 marzo 2011 che l'ha istituito, le persone fisiche o
@@ -1962,9 +1928,10 @@ previste nell'ambito della stessa amministrazione per contestarne la
 decisione, ad esempio un ricorso gerarchico. Per quanto riguarda i
 costi, l'assistenza del \emph{Défenseur des droits} è gratuita, ma
 l'istanza a lui rivolta non interrompe i termini di prescrizione
-normalmente stabiliti per intraprendere l'azione giudiziaria\footnote{Cfr.
-  \emph{Litige avec l'administration: saisir le Défenseur des droits} in
-  www.service-public.fr/particuliers/vosdroits}.
+normalmente stabiliti per intraprendere l'azione giudiziaria\footnote{R.
+  RYSSDALL, \emph{The Coming of Age of European Convention on Human
+  Rights}, in \emph{European Human Rights Law Journal}, 18, 1996, pp.~24
+  e ss.}.
 
 \hypertarget{la-giustizia-amministrativa-nel-regno-unito}{%
 \chapter{La giustizia amministrativa nel Regno
@@ -1989,14 +1956,15 @@ pronunce giudiziali, ma altre volte più somiglianti ad atti
 amministrativi, in una prima fase sono largamente sottratte al controllo
 delle corti ordinarie\footnote{M. D'ALBERTI, \emph{Diritto
   amministrativo comparato}, Bologna, 1992, 67.}. Nel Regno Unito, la
-mancanza di una netta divisione tra il potere esecutivo e il giudiziario
-ha rappresentato un terreno fertile per organi di questo tipo, mentre
-nei ``paesi a diritto amministrativo'', in cui tale separazione vi è
-stata, ciò non è avvenuto\footnote{Avanzando un parallelo con
-  l'ordinamento italiano, nel Regno Unito è in pratica mancato un
-  provvedimento normativo simile alla legge 31 marzo 1889, n.~5992, che
-  ha istituito un sistema di giudici speciali per l'amministrazione.
-  Cfr. M. D'ALBERTI, \emph{Diritto amministrativo comparato}, cit., 64.}.
+mancanza di una netta divisione tra il potere esecutivo e quello
+giudiziario ha rappresentato un terreno fertile per organi di questo
+tipo, mentre nei ``paesi a diritto amministrativo'', in cui tale
+separazione vi è stata, ciò non è avvenuto\footnote{Avanzando un
+  parallelo con l'ordinamento italiano, nel Regno Unito è in pratica
+  mancato un provvedimento normativo simile alla legge 31 marzo 1889,
+  n.~5992, che ha istituito un sistema di giudici speciali per
+  l'amministrazione. Cfr. M. D'ALBERTI, \emph{Diritto amministrativo
+  comparato}, cit., 64.}.
 
 I tribunali non si inseriscono nel sistema di governo e non partecipano
 alla realizzazione delle \emph{policies} dell'esecutivo, in quanto
@@ -2013,15 +1981,15 @@ snella e spedita nel giungere a termine. Essi risolvono conflitti in
 numerose materie, quali quella fiscale, assistenziale, previdenziale,
 sanitaria, oppure attinente all'immigrazione. In tal modo, il ricorso di
 chi si sente leso dall'operato amministrativo è rivolto ad una autorità
-diversa da quella che ha emanato il provvedimento, ma che prima della
-riforma era legata da un rapporto organizzatorio con quest'ultima. La
+diversa da quella che ha emanato il provvedimento, ma che, prima della
+riforma, era legata da un rapporto organizzatorio con quest'ultima. La
 diffusione dei \emph{tribunals} che, in ipotesi residuali, si occupano
-anche di conflitti che intervengono fra i privati, dipende anche dal
-fatto che comportano costi inferiori rispetto a quelli dei rimedi
-giurisdizionali e decidono più speditamente. Essi non agiscono nelle
-forme del procedimento, ma in quelle del processo, poiché esercitano
+di conflitti che intervengono fra i privati, dipende anche dal fatto che
+comportano costi inferiori rispetto a quelli dei rimedi giurisdizionali
+tradizionali e decidono più speditamente. Essi non agiscono nelle forme
+del procedimento, ma in quelle del processo, poiché esercitano
 \emph{quasi-judicial functions}, ossia funzioni che non sono giudiziarie
-in senso stretto, ma che vanno esercitate sotto molti aspetti
+in senso stretto, ma che vengono esercitate sotto molti aspetti
 \emph{judicially}, applicando proprio le regole del procedimento
 giudiziario\footnote{S. CASSESE, \emph{Il privato e il procedimento
   amministrativo. Una analisi della legislazione e della
@@ -2042,9 +2010,711 @@ dagli stessi \emph{administrative tribunals}. Ne discende una serie di
 ``regole speciali elaborate dai \emph{tribunals} che venivano componendo
 un diritto progressista contro il conservatorismo della \emph{common
 law} costruita dalle corti giudiziarie\footnote{M. D'ALBERTI,
-  \emph{Diritto amministrativo comparato}, cit., 76. àò}.
+  \emph{Diritto amministrativo comparato}, cit., 76.}. Allo stesso
+tempo, sulla scorta di una sostanziale ricerca dell'efficienza, sembrava
+valere nel dibattito d'oltre Manica la formula in base alla quale''il
+miglior giudice dell'amministrazione è chi ne fa parte e la conosce e,
+cioè la stessa amministrazione, perché il giudice che appartiene
+all'amministrazione non prova alcun timore reverenziale di fronte a
+questa ed è più preparato a cogliere i difetti e le malizie del
+comportamento di essa''\footnote{M. NIGRO, \emph{Il Consiglio di Stato
+  giudice e amministratore (aspetti di effettività dell'organo)} ora in
+  \emph{Scritti giuridici}, t. II, Milano, 1996, 1054.}. Ciò nonostante,
+nel giro di mezzo secolo, la creazione di nuovi tribunali non si è
+arrestata, ma, da questa proliferazione nel numero, derivavano una serie
+di conseguenze ulteriori che minavano l'efficacia del sistema nel suo
+complesso, perché all'eccessiva frammentazione sul piano delle
+competenze, seguiva anche una diversità di regole procedurali, con
+conseguenti disparità di trattamento. Alcuni tribunali erano infatti
+retti da regole di procedura, altri invece ne risultavano privi, ovvero
+vigevano regole di composizione non uniformi o, ancora, alcuni erano
+obbligati ad emettere decisioni motivate, mentre altri avevano il potere
+di derogare a questa regola. Ne risultava quindi un sistema inefficiente
+e poco affidabile, non in grado di garantire una tutela effettiva ai
+diritti dei cittadini, che doveva essere razionalizzato e connotato di
+maggiore uniformità, tenuto conto del maggior volume di ricorsi da
+definire rispetto a quello delle corti giudiziarie. Nel 1957, una
+commissione propose la riorganizzazione del sistema dei
+\emph{tribunals}\footnote{FRANK'S COMMITEE, \emph{Report of the
+  Committee on Administrative Tribunals and Enquires}, London, 1957.} e,
+sulla base dei lavori della \emph{Franks Committee}, s'intervenne con il
+\emph{Tribunals and Enquires Act}, adottato nel 1958. L'idea di fondo
+che ispirava questo intervento è basata sull'assunto che questi corpi
+amministrativi di decisione contenziosa dovevano ``essere considerati
+per le loro funzioni, più che per la loro appartenenza
+formale''\footnote{S. CATTANEO, \emph{``Agencies''} e
+  \emph{``Regulation'' nel Regno Unito}, in \emph{Le autorità
+  indipendenti}. \emph{Da fattori evolutivi ad elementi della
+  transizione nel diritto pubblico italiano}, a cura di S. Labriola,
+  Milano, 1999, 253.}. Dovevano essere organizzati non sulla base
+dell'apparato amministrativo di cui facevano parte, ma secondo l'insieme
+dei compiti che essi erano chiamati a svolgere. Secondo il \emph{Franks
+Report}, la decisione del tribunale doveva essere considerata come un
+controllo esterno sull'amministrazione: attraverso i suoi organi
+venivano accertati fatti e veniva applicato il diritto agli stessi
+fatti, decidendo su questioni legali. Da ciò discendeva che il
+\emph{chairman} doveva avere una preparazione legale, che dovevano
+essere previste garanzie di tipo giurisdizionale attinenti sia alla
+procedura (osservanza del contraddittorio, diritto di appello, udienza
+pubblica), sia al soggetto giudicante (di cui si sanciva l'indipendenza
+rispetto all'autorità governativa); che doveva essere garantita la
+rappresentanza legale degli interessi e che dovevano poter essere
+assunte le prove in giudizio, compresa la testimonianza. L'indipendenza
+dei tribunali, grazie a questa riforma, diviene più puntuale e in
+sostanza simile a quella delle \emph{courts of law}. Ciò rappresenta una
+garanzia del potere dei tribunali dall'interferenza politica e
+corrisponde ad una maggiore autonomia nelle scelte.
 
-+è091
+Con il \emph{Tribunals and Inquiries Act} del 1992 veniva riformato il
+\emph{Council on Tribunals}, organismo già istituito nel 1958 e preposto
+al ruolo di sorveglianza sull'attività dei tribunali. Sebbene la
+funzione svolta da tale organismo fosse limitata all'esercizio di un
+potere consultivo, ciò non ha impedito a quest'ultimo di svolgere un
+ruolo importante anche nell'assicurare \emph{fairness, openness} e
+\emph{impartiality}, a garanzia di coloro che presentano le loro istanze
+a tali strutture. A dispetto dei citati interventi riformatori, tesi a
+difendere \emph{``cheapness, accessibility, freedom from technicality,
+expedition and expert knowledge of their particular
+subject''}\footnote{C. HARLOW, R. RAWLINGS, \emph{Law and
+  Administration}, cit., 460.}, questi caratteri sono gradualmente
+venuti meno, poiché gli aspetti processuali si sono venuti complicando e
+la presenza di regole complesse, proprie di determinate strutture, ha
+avuto l'effetto di rendere alcuni tribunali concretamente accessibili
+solo a quanti avevano l'occasione di frequentarli con regolarità.
+Permanevano alcune questioni non risolte, come la scarsa uniformità, la
+mancanza di un unico apparato complessivo, l'assenza di un coordinamento
+centrale. L'assenza di razionalità nell'organizzazione e di uniformità
+nelle strutture e nella procedura spingono, nel maggio 2000, Lord
+Irvine, in qualità di Lord Chancellor, ad affidare una valutazione del
+sistema a Sir Andrew Leggatt, ``\emph{a retired Lord Justice of
+Appeal}''\footnote{T. BUCK, \emph{Tribunal Reform in the UK: Precedent
+  and Reporting in the New Unified Structure}, cit.}. Il rapporto
+\emph{Leggatt}, intitolato \emph{Tribunals for Users. One System, One
+Service}, si propone di semplificare l'assetto, in modo da rendere i
+tribunali quanto più possibile \emph{user friendly}. Le proposte in esso
+contenute sono state, per la maggior parte, recepite e fatte proprie
+dall'autorità governativa, titolare dell'iniziativa legislativa. Fra di
+esse, il punto maggiormente qualificante sta nel tentativo di
+concentrare le competenze, prima spalmate su una pluralità di organi a
+competenza settoriale, in capo a due soli organismi, coadiuvati da
+un'unica struttura preposta alla gestione dei servizi amministrativi.
+
+A questo rapporto fa seguito il \emph{White paper} del 2004, adottato
+dal Ministero della Giustizia, intitolato \emph{Transforming Public
+Servies: complaints, Redress and Tribunals}, nel quale la posizione dei
+tribunali si inserisce in un più ampio processo di revisione dei sistemi
+alternativi di risoluzione delle controversie tra cittadino e potere
+pubblico. Nell'ambito di questi, i \emph{tribunals} sono individuati
+come un modello informale ed economico capace di fornire giustizia ,
+nell'accoglimento delle principali indicazioni provenienti dal rapporto
+\emph{Leggatt}. Nel \emph{paper} l'oggetto dell'indagine è la
+\emph{proportionate dispute resolution}\footnote{Secondo la definizione
+  contenuta nel \emph{White paper}: ``\emph{the aim is to develop a
+  range of policies and services that, so far as possible, will help
+  people to avoid problems and legal dispute in the first place, and
+  where they cannot, provides tailored solutions to resolve the dispute
+  as quickly and cost effectively as possible. It can be summed up as
+  ``proportionate dispute resolution''}.}, ossia il rafforzamento di
+tutte le procedure volte a tutelare, in via preventiva, il cittadino
+contro i pubblici poteri, in modo da ridurre i casi di ricorso dinanzi
+alle \emph{courts of law}, nell'auspicio di ``\emph{to avoid disputes
+arising in the first place by improving initial
+decision-making}''\footnote{G. RICHARDSON, H. GENN, \emph{Tribunals in
+  Transition: Resolution or Adjudication?}, cit., 117.}.
+
+Sulla base del \emph{Leggatt Report}, nonché del contenuto del
+\emph{White paper}, è stato adottato il \emph{Tribunals, Courts and
+Enforcement Act 2007}, entrato in vigore il 3 novembre 2008, che
+interviene ad ampio spettro su molti istituti dedicati agli
+\emph{administrative tribunals}. L'innovazione maggiore della riforma
+consiste nell'istituzione di due tribunali a competenza generale: il
+\emph{First-tier Tribunal} e l'\emph{Upper Tribunal}, ove si concentrano
+le funzioni giustiziali di tipo settoriale, finora esercitate dai
+tribunali esistenti. Mentre il primo rappresenta l'organo di prima
+istanza, il secondo vanta sia le funzioni di organo di appello, sia di
+organo di primo grado in particolari ipotesi. I tribunali a competenza
+generale sono divisi al loro interno in \emph{chambers} che
+costituiscono sezioni specializzate, con propria \emph{jurisdiction},
+organizzate per materia. In particolare, quelle del \emph{First-tier}
+sono tre: La \emph{Social Entitlement Chamber} che include \emph{Asylum
+Support, Social Security and Child Support, and Criminal Injuries
+Compensation}; La \emph{Health, Education and Social Care Chamber} che
+include \emph{Care Standards, Mental Health} e \emph{Special Education
+Needs and Disability}; ed infine la \emph{War Pensions and Armed Forces
+Compensation Chamber} che include la \emph{War Pensions and Armed Forces
+Compensation}. Nel 2009 è stata istituita una \emph{Tax jurisdiction}.
+
+Anche le \emph{chambers} dell'\emph{Upper Tribunal}, definito una
+``\emph{superior court of records}''\footnote{Tribunals, Courts and
+  Enforcement Act, ch.~2, s. 3 (5).}, sono tre. Esse sono
+\emph{Administrative Appeals, Finance and Tax, Lands}. L'\emph{Upper
+Tribunal} opera, nella maggioranza dei casi, quale sede di appello,
+gestendo un contenzioso nettamente inferiore rispetto al tribunale di
+primo grado: poco numerose sono infatti le ipotesi in cui esso
+rappresenta la sede di prima istanza alla quale il cittadino può
+rivolgersi per una revisione della decisione amministrativa.
+
+Con il \emph{Tribunals, Courts and Enforcement Act} si interviene anche
+sulla disciplina delle impugnazioni, migliorandola e rendendola più
+omogenea. I tribunali valutano il merito delle decisioni dell'autorità
+pubblica, riesaminando il provvedimento finale e, se del caso, assumendo
+una decisione più favorevole al ricorrente. Gli esiti del procedimento
+dinanzi ai \emph{tribunals} possono essere schematizzati in tre
+differenti tipologie: a) \emph{adjurned}, che consiste in una decisione
+di rinvio; b) \emph{overturned}, quando i \emph{tribunals} accolgono
+favorevolmente l'istanza del ricorrente e respingono la determinazione
+dell'autorità amministrativa (\emph{decision-maker}); c) \emph{upheld},
+che si ha quando invece viene confermata la determinazione del
+\emph{decision-maker}. Definito il procedimento contenzioso, l'operato
+dei \emph{tribunals} può essere sindacato, su istanza di parte, sia in
+via di \emph{appeal}, sia in via di \emph{judicial review}. Una
+decisione del \emph{First-tier Tribunal} può essere impugnata, per
+motivi di legittimità (\emph{on a point of law}), dinanzi
+all'\emph{Upper Tribunal}\footnote{Tribunals, Courts and Enforcement
+  Act, ch.~2, s. 11.}, la cui decisione è a sua volta appellabile
+dinanzi ad una corte ordinaria. E' previsto un diritto di appello presso
+la \emph{Court of Appeal}, circoscritto ``\emph{to points of law of
+general importance}''\footnote{Tribunals, Courts and Enforcement Act,
+  ch.~2, s. 13.}.
+
+Quanto alla \emph{judicial review of administrative action}, questa non
+è toccata dall'intervento riformatore, poiché ``prescinde da quel che
+stabiliscono gli \emph{statutes} e rientra in un \emph{inherent power}
+del giudiziario secondo la \emph{common law}''\footnote{M. D'ALBERTI,
+  \emph{Diritto amministrativo comparato}, cit., 75.}. Pertanto, in
+forza della \emph{supervisory jurisdiction}, la \emph{Queen's Bench
+Division} della \emph{High Court} può esercitare nei confronti delle
+decisioni dei tribunali il suo sindacato mediante i \emph{prerogative
+orders}. Fra questi, l'\emph{order of certiorari} assicura che gli
+\emph{administrative tribunals} restino nell'ambito delle loro
+competenze, che siano osservati i principi di \emph{natural justice},
+che gli errori di diritto siano corretti. L'\emph{order of prohibition}
+ha la funzione di prevenire un \emph{tribunal} dall'eccedere dalla
+propria giurisdizione, ma non è ammissibile quando sia stata pronunciata
+una decisione definitiva. Il \emph{mandamus}, invece, è emesso per
+ingiungere di esercitare la giurisdizione o le proprie funzioni.
+
+Sul versante organizzativo discendono due ulteriori aspetti innovativi
+dal delineato intervento riformatore. Il primo riguarda l'istituzione
+del \emph{Administrative Justice and Tribunal Council} che sostituisce
+il \emph{Council on Tribunals} costituito nel 1958, a cui sono assegnati
+compiti di sorveglianza sul funzionamento dei tribunali; il secondo
+attiene invece alla neo istituita agenzia che si occupa della gestione
+del personale che svolge la sua attività al servizio di tali organi
+contenziosi. La rinnovata struttura è tenuta a monitorare l'evoluzione
+della giustizia amministrativa e a verificare che il sistema risponda
+sempre a tre caratteri essenziali: equità, efficienza e facile accesso
+alla giustizia.
+
+Nelle regole di composizione dei collegi, ovvero nel sistema delle
+impugnazioni, sono sempre meno numerosi gli elementi che differenziano i
+\emph{tribunals} dalle corti ordinarie\footnote{Come sottolineato da G.
+  RICHARDSON, H. GENN, \emph{Tribunals in Transition: Resolution or
+  Adjudication?}, cit., 117, i \emph{tribunals} sono stati istituiti
+  \emph{``specifically to adjudicate disputes, tipically between
+  citizens and the state, not to resolve them through mediation,
+  conciliation or any other form of non-adjudicative dispute
+  resolution''}.}. Di certo, i \emph{tribunals} rimangono organi di
+appello in senso devolutivo, in quanto ripetono \emph{ex novo} un
+giudizio, di fatto e di diritto, di un'autorità pubblica, oppure
+riformano l'atto amministrativo, riproducendo in altra sede il giudizio
+di ponderazione degli interessi, mentre le corti giurisdizionali non
+riconsiderano il provvedimento in ogni suo aspetto, perché il loro
+controllo è circoscritto al sindacato di legittimità. Tuttavia, molte
+differenze sono venute a cadere, in quanto il \emph{Tribunals Act}
+attribuisce il titolo di ``giudici'' ad alcuni membri dei tribunali,
+sebbene la loro composizione sia mista, partecipandovi anche esperti
+laici del settore; inoltre, i tribunali sono organismi \emph{super
+partes} rispetto agli interessi dell'autorità e dell'amministrato, che
+agiscono nelle forme del processo, qualificati sul piano delle
+conoscenze tecniche e specialistiche. La formula organizzativa del
+giudizio è basata sul contraddittorio, in alcuni casi orale e in altri
+scritto: le parti si scambiano gli atti, sono stabiliti termini di
+deposito per i documenti e per le memorie, vi è accessibilità delle
+parti agli atti del giudizio. E' stata resa omogenea la disciplina delle
+impugnative. Al di là della struttura dei tribunali assolutamente
+ibrida, il punto è che gli \emph{administrative tribunals}, nello
+svolgimento dell'attività di risoluzione delle controversie, sono
+inseriti in un contesto più ampio, nel quale operano quasi sullo stesso
+piano delle corti ordinarie, per cui, i primi per un verso, e le
+seconde, per l'altro, ``\emph{work in partnership with one another to
+ensure that the public at large have an opportunity to exercise their
+rights and to seek effective redress against Government
+decisions}''\footnote{Tale espressione si ritrova nei documenti adottati
+  dal \emph{Tribunal Service}.}.
+
+\hypertarget{la-procedura-di-judicial-review}{%
+\section{La procedura di judicial
+review}\label{la-procedura-di-judicial-review}}
+
+La disciplina della Convenzione Europea dei Diritti dell'Uomo (CEDU)
+vede la sua piena operatività nell'ordinamento inglese solo all'indomani
+del recepimento delle previsioni convenzionali mediante l'emanazione
+dello \emph{Human Rights Act} (HRA). La norma di riferimento è quella di
+cui all'art. 6, §1, CEDU, rispetto alla quale è stato osservato come le
+garanzie ivi fissate non operino soltanto nel contesto civile e penale,
+ma anche in ambito amministrativo e come l'efficacia della disposizione
+si manifesti non solo nella fase processuale strettamente intesa, ma
+nell'ambito di qualsiasi iter procedimentale genericamente considerato
+(\emph{decision making process}), in cui sia coinvolta una pubblica
+autorità. Di conseguenza, le garanzie convenzionali sono state ritenute
+applicabili anche al procedimento e non solo al processo amministrativo.
+
+Il tema della pienezza di poteri riconosciuti al giudice nella
+risoluzione di controversie in cui siano parti la Pubblica
+Amministrazione e i cittadini attiene a quel che la giurisprudenza della
+Corte EDU ha ormai da tempo qualificato come il canone di ``\emph{full
+jiurisdiction}''\footnote{F. GOISIS, \emph{La full jurisdiction nel
+  contesto della giustizia amministrativa: concetto, funzione e nodi
+  irrisolti}, in \emph{Dir. proc. amm.}, 2/2015, pp.~546 ss.}. La stessa
+Corte EDU ha specificato che, oggetto di valutazione, ai fini
+dell'integrazione del canone di \emph{full jurisdiction}, non è soltanto
+l'iter processuale, ma l'intera vicenda procedimentale, concepita come
+un \emph{unicum}, a partire dal procedimento. Inoltre, l'accertamento
+della pienezza della tutela giurisdizionale in capo al giudice deve
+sempre essere effettuato in concreto, ovvero in relazione ai confini
+verso cui può spingersi l'autorità nel sindacato della decisione
+amministrativa e in base agli strumenti che questi ha a
+disposizione\footnote{P. CRAIG, \emph{The Human Rights Act, Article 6
+  and procedural rights}, in \emph{Public Law}, 2003, pp.~753 ss.}.
+Pertanto, qualora emerga che i fatti siano stati assunti e ponderati
+dall'amministrazione nel rispetto dei parametri della \emph{procedural
+fairness}, le garanzie convenzionali si presumono integrate e ciò anche
+se nel successivo giudizio l'autorità giurisdizionale non possiede
+formalmente il potere di sindacare la decisione nel merito, in quanto
+anche la mera verifica del rispetto dei principi del contraddittorio e
+di parità delle armi in sede procedimentale vale a garantire un
+sindacato pieno del giudice amministrativo. Qualora invece sia
+riscontrabile un mancato rispetto delle garanzie necessarie in sede
+procedimentale, ciò comporterà la violazione dei principi del giusto
+processo.
+
+Il rapporto tra l'implementazione dei principi CEDU e l'area di
+sindacato rimessa al giudice nel \emph{judicial review} ha effetti, da
+un lato, sul novero dei motivi di ricorso (\emph{grounds}) e,
+dall'altro, nei confronti dei canoni di giudizio (\emph{standard})
+impiegati nella valutazione da parte delle corti. Con riferimento ai
+\emph{grounds}, si evidenzia come le nuove forme di tutela entrate a far
+parte della \emph{domestic legislation} via HRA abbiano avuto l'effetto
+di ampliare il raggio d'azione (\emph{scope}) del \emph{judicial
+review}, mentre, per quanto attiene agli \emph{standard}, il dibattito
+ha interessato principalmente il possibile disallineamento tra il
+criterio della \emph{Wednesbury unreasonabless}, tipico dell'ordinamento
+inglese, e quello di proporzionalità elaborato in sede europea.
+
+Il \emph{judicial review} si caratterizza per essere ``\emph{a claim to
+review the lawfulness of an administrative action}''\footnote{P. CANE,
+  \emph{Understanding Judicial Review and its Impact}, in M. Hertogh -
+  S. Halliday (a cura di), \emph{Judicial Review and Bureaucratic
+  Impact: International and Interdisciplinary Perspectives}, Cambridge,
+  2004, pp.~17 e ss.}. Per quanto riguarda l'iter processuale che lo
+connota, esso è articolato in due fasi, secondo la logica del \emph{two
+stage process}: la prima rappresenta una fase filtro, diretta alla
+verifica dei presupposti formali necessari per accedere alla tutela
+innanzi al giudice competente (c.d. \emph{permission} o
+\emph{leave})\footnote{Cfr. CPR (\emph{Civil Procedure Rules}), art. 54,
+  r. 54.4.}, mentre nella seconda viene celebrata l'udienza
+(\emph{hearing}) in contraddittorio tra le parti. Il \emph{judicial
+review} è stato oggetto di una recente iniziativa di riforma, realizzata
+attraverso le modifiche introdotte con il \emph{Criminal Justice and
+Courts Act (CJCA)} nel 2015. La \emph{ratio} dell'intervento si
+individua nell'avvertita necessità di arginare il diffuso fenomeno di
+impiego del rimedio giurisdizionale come mera ``\emph{delaying
+tactic}'', ossia a scopi dilatori e solo al fine di evitare il
+dispiegamento degli effetti dell'atto amministrativo impugnato, data la
+sospensione della sua efficacia che segue all'apertura del contenzioso.
+Il CJCA ha rappresentato in parte l'antidoto ai malfunzionamenti della
+macchina della giustizia britannica, incidendo soprattutto in punto di
+accesso alla tutela giurisdizionale, attraverso l'aumento della somma da
+versare per l'apertura della fase filtro, una misura volta a scoraggiare
+il ricorso alla tutela per \emph{judicial review} se non ove
+strettamente necessario: si prevede infatti la corresponsione di un
+elevato contributo alle spese legali per ottenere la pronuncia da parte
+dell'autorità giudiziaria\footnote{Cfr. CJCA, s. 85-86 e 88-90.}.
+Tuttavia, le critiche mosse a tale soluzione sono state numerose,
+fondate soprattutto sul valido assunto in base al quale le
+\emph{chances} di ottenere una tutela piena ed effettiva, davanti ad un
+giudice terzo ed imparziale, a fronte di una decisione amministrativa
+illegittima, rischiano di essere riservate solo ai pochi in grado di
+sostenerne i costi procedurali.
+
+Con riguardo all'accesso alla tutela e ai presupposti del giudizio, il
+sindacato nella forma del \emph{judicial review} è sottoposto a limiti
+di natura teleologica e funzionale piuttosto definiti che corrispondo ad
+altrettanti limiti procedurali e sostanziali. Con riferimento ai primi,
+si tratta dei c.d. \emph{grounds for judicial review}, identificati
+dalla giurisprudenza inglese nei caratteri di \emph{illegality,
+irrationality, procedural impropriety} e \emph{breach of legittimate
+expectations}. Per quel che concerne la materia degli \emph{human
+rights}, il canone che più rileva è quello della \emph{illegality}, in
+quanto, così come statuito dallo HRA ``\emph{it is unlawful for a public
+authority to act in a way which is incompatible with a Convention
+right}''\footnote{Cfr. s. 6(1) HRA.}. Di conseguenza, in tali casi,
+l'atto adottato deve essere dichiarato illegittimo dal giudice, in
+quanto incompatibile con la normativa convenzionale (\emph{declaration
+of incompatibility})\footnote{Cfr. s. 4(2) HRA.}.
+
+Per quel che attiene ai limiti sostanziali, il riferimento è ai criteri
+di giudizio (\emph{standard}) in base ai quali il giudice è chiamato a
+decidere e, indirettamente, l'incisività del suo sindacato. In
+particolare, la questione riguarda l'opzione tra l'applicazione del
+principio di proporzionalità di matrice europea, così come formulato
+dalla Corte EDU e quello invece tipico della tradizione di \emph{common
+law}, riconducibile alla \emph{Wednesbury unreasonabless}\footnote{H.W.R.
+  WADE - C.F. FORSYTH, \emph{Administration Law}, pp.~305 ss.}. Laddove
+i giudici europei sono chiamati a soppesare la rilevanza dei relativi
+diritti ed interessi in gioco, anche entrando parzialmente nell'area di
+valutazione dell'amministrazione se necessario, nell'ambito dei
+procedimenti di \emph{judicial review} i giudici inglesi, in genere,
+sono chiamati ad astenersi dal giudicare su \emph{questions of fact},
+potendo verificare al più solo la correttezza formale dell'iter
+procedurale tenuto in sede di decisione della pubblica autorità, al fine
+di verificarne la rispondenza con le garanzie del giusto procedimento.
+Le eventuali criticità che pure si sono evidenziate in sede applicativa
+sono state comunque risolte, anche attraverso le statuizioni della
+giurisprudenza di Strasburgo. Da un lato, e per quel che riguarda la
+pienezza e l'incisività del sindacato giurisdizionale in ambito di
+\emph{judicial review}, una soluzione è data dall'adozione del canone di
+\emph{full jurisdiction}; dall'altro e con riferimento alle differenze
+tra i diversi standard di giudizio adottati dalle corti nella decisione,
+il riferimento è alla c.d. dottrina del ``\emph{margin of
+appreciation}''\footnote{R. RYSSDALL, \emph{The Coming of Age of
+  European Convention on Human Rights}, in \emph{European Human Rights
+  Law Journal}, 18, 1996, pp.~24 e ss.}, in base alla quale si precisa
+la funzione armonizzatrice della giurisprudenza euro-convenzionale, la
+quale si limita a dettare delle linee di principio a cui ciascuno Stato
+è libero di decidere se aderire o meno, fatto comunque sempre salvo il
+rispetto degli obblighi e delle garanzie fissate nella CEDU.
+
+\hypertarget{il-parliamentary-ombudsman}{%
+\section{\texorpdfstring{Il \emph{Parliamentary
+Ombudsman}}{Il Parliamentary Ombudsman}}\label{il-parliamentary-ombudsman}}
+
+Sorta nel 1809 in Svezia, quella dell'ombudsman è divenuta una figura di
+notevole rilievo nel panorama amministrativo inglese. L'ombudsman
+rappresenta uno strumento di tutela, alternativo sia alla giurisdizione
+delle corti, sia a quella dei \emph{tribunals}, di interessi collettivi
+e individuali lesi dall'inerzia dell'amministrazione o dai suoi
+comportamenti attivi illegittimi o inopportuni. Il \emph{Parliamentary
+Commissioner for Administration} (PCA), successivamente definito
+\emph{Parliamentary Ombudsman} (PO), è stato istituito con il
+\emph{Parliamentary Commissioner Act} del 1967. Esso è nominato dalla
+Corona e, nella sua struttura, è organo indipendente ed imparziale,
+espressione di un incardinamento parlamentare che si manifesta
+attraverso due meccanismi, il primo rappresentato da ``\emph{the MP
+filter}'', ovvero la necessità, per qualsiasi cittadino che intenda
+adire il PO, di presentare ricorso dinanzi al rappresentante
+parlamentare della propria circoscrizione\footnote{``Complaints are made
+  through Members of the Westminster Parliament and may be made by any
+  member of the public, including a corporation'' in \emph{Parliamentary
+  Commissioner Act, 1967}, ss. 5-6.}, il quale costituisce un
+significativo filtro teso ad evitare il sovraccarico degli uffici del
+PO. Dinanzi al ricorso del cittadino infatti il parlamentare ha la
+possibilità di occuparsene in prima persona o di trasmetterlo al PO che,
+al termine dell'inchiesta, dovrà presentare un rapporto allo stesso
+parlamentare che gli ha trasmesso il caso\footnote{I rapporti del PO
+  sono pubblicati online e visibili al link:
+  http://www.ombudsman.org.uk/.}. Il secondo meccanismo di
+incardinamento parlamentare concerne la regolare presentazione di un
+rapporto annuale dinanzi al \emph{Select Commettee} della Camera dei
+comuni, deputato alla vigilanza sull'attività del PO, nonché l'audizione
+su singole questioni ogniqualvolta a ciò sia invitato dalla Camera dei
+comuni o qualora lo stesso \emph{Select Commettee} lo ritenga
+necessario.
+
+Il modello del PO è stato utilizzato per altre figure; tra tutte, le più
+importanti nel settore pubblico sono il \emph{Local Government
+Ombudsman} (LGO), il \emph{Health Service Ombudsman} (HSO), il
+\emph{European Ombudsman}, il \emph{Prison and Probation Ombudsman} e
+l'\emph{Housing Ombudsman}. Mentre il PO è competente per tutti gli atti
+e i comportamenti dei dipartimenti governativi e di numerose altre
+attività pubbliche, nonché dei gestori privati di pubblici servizi, il
+LGO si occupa invece dei reclami nei confronti dei casi di
+\emph{maladministration} all'interno dell'amministrazione locale. Con
+questa nozione, pur soggetta a diverse interpretazioni, si vuole fare
+riferimento ad atti e comportamenti caratterizzati da contraddittorietà,
+irragionevolezza, scarsa trasparenza, disparità di trattamento e
+negligenza\footnote{``bias, neglect, inattention, delay, incompetence,
+  ineptitude, arbitrariness and so on'' in \emph{Crossman catalogue} -
+  \emph{R v Local Commissioner for Administration, ex p Bradford MCC},
+  1979, QB 287.} che comportino un'ingiustizia per il cittadino e nei
+confronti dei quali non sia possibile ricorrere né alle corti, né ai
+\emph{tribunals} per l'onerosità in termini economici e di tempo o,
+ancora più semplicemente, per l'assenza di una violazione di legge. Il
+percorso prospettato al cittadino si struttura quindi in maniera più
+rapida ed immediata rispetto al ricorso giurisdizionale, in quanto la
+questione può e vuole essere risolta ad uno stadio precedente,
+affiancando alla pretesa del cittadino l'indagine, l'accertamento e
+quindi le raccomandazioni di un soggetto autorevole che possa spingere
+l'amministrazione a rivedere il suo comportamento. L'esito dell'indagine
+è una formale \emph{recommendation} rivolta all'amministrazione che
+consiste in un invito a porre riparo al motivo di doglianza o alla
+disfunzionalità procedurale. Di fatto, il semplice invito fatto dal PO
+all'amministrazione di esaminare l'istanza del cittadino è spesso
+sufficiente per trovare una soluzione soddisfacente per il medesimo.
+
+Prima di ricorrere al PO, il privato deve innanzitutto rivolgersi
+all'amministrazione per richiedere la revisione della decisione o del
+provvedimento che reputa lesivo nei suoi confronti. Chiamato
+principalmente a sindacare i casi di \emph{maladministration}, sempre su
+istanza del cittadino e non d'ufficio, l'ombudsman è un soggetto
+chiamato a stimolare la pubblica amministrazione verso un continuo
+miglioramento e gode di un significativo potere discrezionale
+relativamente all'introduzione, allo svolgimento e alla chiusura
+dell'indagine. Tuttavia, le sue decisioni non sono vincolanti: qualora
+al termine dell'indagine dovesse effettivamente riscontrare un caso di
+\emph{maladministration}, l'ombudsman non ha alcun potere per
+costringere la pubblica amministrazione a rivedere la sua decisione o
+correggere il suo comportamento. La stessa amministrazione potrebbe
+infatti disattendere le indicazioni contenute nel report del PO, ad
+esempio rifiutandosi di pagare il risarcimento stabilito dal PO quale
+mezzo di risoluzione della controversia. In tal caso il PO ha, come
+unica soluzione, la possibilità di presentare uno \emph{special report}
+al \emph{Select Commettee}, denunciando il caso di
+\emph{maladministration} e il successivo comportamento della pubblica
+amministrazione. Di fatto comunque, il semplice invito fatto
+dall'ombudsman all'amministrazione di esaminare le doglianze del
+cittadino è spesso sufficiente per trovare una soluzione soddisfacente
+per quest'ultimo, in quanto l'autorevolezza e il buon senso delle sue
+misure portano le pubbliche amministrazioni ad adeguarvisi, pur non
+essendovi formalmente costrette.
+
+\hypertarget{il-local-government-ombudsman-lgo}{%
+\section{\texorpdfstring{Il \emph{Local Government Ombudsman}
+(LGO)}{Il Local Government Ombudsman (LGO)}}\label{il-local-government-ombudsman-lgo}}
+
+La \emph{Commission for Local Administration}, normalmente conosciuta
+come \emph{Local Government and Social Care Ombudsman} (LGO), è stata
+istituita con il \emph{Local Government Act} del 1974 ed è un organo
+indipendente, la cui costituzione è basata su sovvenzione annuale del
+Governo. L'Ombudsman è nominato dalla Corona su raccomandazione del
+Segretario di Stato; in seguito al \emph{Local Government and Public
+Involvement in Health Act} del 2007, il LGO è ora nominato per un
+periodo massimo di sette anni e può essere rimosso dall'ufficio dietro
+sua richiesta oppure per incapacità o a causa di comportamenti
+scorretti. Il LGO ha sedi a Londra, York e Coventry. Il \emph{Local
+Government Act} del 1974 originariamente richiedeva di dividere il
+territorio inglese in aree di competenza, ciascuna con separata
+giurisdizione per i ricorsi relativi a \emph{maladministration}, ma
+l'atto del 2007 ha introdotto maggior flessibilità a riguardo e le
+materie oggetto di indagine possono essere classificate come appare più
+appropriato e assegnate ad uno o più \emph{commissioners}. Le stesse
+funzioni del LGO inglese sono svolte dal \emph{Public Services
+Ombudsman} in Galles, dallo \emph{Scottish Public Services Ombudsman} in
+Scozia e dal \emph{Northern Ireland Ombudsman} in Irlanda del Nord.
+
+I vari tipi di pubblica autorità la cui attività può essere oggetto di
+indagine sono elencati sul sito web del LGO che fornisce anche le
+istruzioni su come inoltrare il ricorso\footnote{https://www.lgo.org.uk/make-a-complaint/what-we-can-and-cannot-look-at}.
+Tale ricorso può essere proposto dal cittadino a seguito di ingiustizia
+subita, conseguente a \emph{maladministration} o disservizi
+(\emph{service failures}), e connessa all'azione o all'inazione
+dell'autorità o di chi opera per conto della stessa. L'obbiettivo del
+LGO è quello di giungere ad un'indagine completa entro ventisei
+settimane, ma ci sono materie di cui il LGO non si può occupare e
+problematiche che non può seguire. Ciò accade ad esempio quando sono
+trascorsi più di dodici mesi dal verificarsi di un evento o
+dall'emissione di un provvedimento, quando la questione non concerne il
+ricorrente personalmente o quando questi non ha effettivamente subito
+un'ingiustizia, quando ha avuto o ha diritto di appello o di
+intraprendere un'azione legale e il LGO ritiene che sia ragionevole che
+proceda in tal senso e, infine, qualora la vertenza riguardi questioni
+personali quali il rapporto di lavoro e i relativi provvedimenti
+disciplinari. Come regola generale, l'Ombudsman prenderà in
+considerazione solo le istanze concernenti eventi o circostanze
+verificatisi non oltre i dodici mesi dalla data in cui il ricorrente ne
+è venuto a conoscenza. Inoltre, lo stesso ricorrente dovrà prima aver
+espletato la ``\emph{council's own complaints procedure}'' di cui non
+sarà necessario che egli abbia esaurito tutti gli stadi, ma perlomeno
+dovrà concedere al consiglio un termine ragionevole per l'esame della
+domanda, consistente normalmente in dodici settimane dalla presentazione
+del ricorso\footnote{Mark Sandford, \emph{House of Commons Library},
+  \emph{The role of the Local Government Ombudsman}, \emph{Complaints},
+  in \emph{Briefing Paper Number} 04117, 17 July 2017.}.
+
+Laddove il LGO accerti che effettivamente la sfera giuridica del
+ricorrente sia stata lesa da malfunzionamenti e disservizi
+dell'amministrazione, potrà rivolgere raccomandazioni a quest'ultima al
+fine di porgergli delle scuse, sollecitare la fornitura del
+bene/servizio a cui il ricorrente aveva diritto, di emettere il
+provvedimento precedentemente richiesto, di rivedere una decisione sulla
+quale inizialmente l'amministrazione si era soffermata solo
+superficialmente e di effettuare un pagamento. Le decisioni del LGO sono
+pubblicate in forma anonima dopo tre mesi, a meno che egli decida che
+non sia nell'interesse del ricorrente procedere in tal modo. In alcuni
+casi, l'Ombudsman può redigere un \emph{Public interest report} per
+rendere noto al pubblico il verificarsi di una particolare casistica,
+ma, in questo rapporto, non verranno comunque rese note le generalità
+del ricorrente.
+
+La sezione n.~92 del \emph{Local Government Act 2000} ha attribuito alle
+autorità locali la facoltà di risarcire o erogare altri benefit ai
+privati afflitti da casi di \emph{maladministration}, indipendentemente
+dal fatto che il LGO sia stato o meno chiamato in causa\footnote{\emph{Local
+  Government Act 2000, section 92}.}.
+
+Avverso le raccomandazioni del LGO, non sussiste diritto di appello.
+Come il \emph{Parliamentary Ombudsman}, il LGO è un organismo istituito
+dalla legge, indipendente sia dal Parlamento, sia dal Governo. Sebbene
+di istituzione pubblica, non risponde delle sue decisioni né al
+Segretario di Stato, né al Parlamento, così come non è possibile
+rivolgersi ad altro ombudsman o altro ente per la revisione della sua
+valutazione qualora il LGO non abbia ravvisato colpe o mancanze
+nell'azione o inazione dell'amministrazione locale. Egli procederà ad
+una revisione della sua decisione solo al verificarsi di particolari
+circostanze, ad esempio qualora emergano importanti testimonianze circa
+il verificarsi di fatti precedentemente non accertati, oppure siano
+acquisite nuove informazioni rilevanti ai fini della determinazione del
+contenuto della decisione\footnote{http://www.lgo.org.uk/information-centre/about-us/our-performance/challenging-our-decision}.
+
+E' possibile adire le vie giudiziarie contro la decisione di un LGO, ma
+non sussiste un diritto automatico alla \emph{Judicial review}: chi
+agisce deve prima ottenere l'autorizzazione a procedere dalla \emph{High
+Court}, la quale comunque non si pronuncerà nel merito del caso, ma solo
+sulla legittimità di quanto stabilito dal LGO.
+
+\hypertarget{la-corretta-gestione-delle-rimostranze-principles-of-good-complaint-handling}{%
+\section{\texorpdfstring{La corretta gestione delle rimostranze
+(\emph{Principles of good complaint
+handling})}{La corretta gestione delle rimostranze (Principles of good complaint handling)}}\label{la-corretta-gestione-delle-rimostranze-principles-of-good-complaint-handling}}
+
+La gestione dei ricorsi indirizzati al \emph{Parliamentary Ombudsman} e
+al \emph{Health Service Ombudsman} si basa su alcuni principi che
+possono essere identificati nella categoria generale dei
+``\emph{Principles of good complaint handling}''\footnote{https://www.ombudsman.org.uk/about-us/our-principles/principles-good-complaint-handling/introduction}.
+La corretta gestione delle rimostranze rileva infatti quale modalità
+fondamentale per assicurare ai beneficiari il bene/servizio oggetto
+della loro pretesa, qualora ne abbiano diritto, e ciò in base alla
+regola generale secondo cui ognuno ha diritto di ricevere una buona
+prestazione dagli enti che erogano un pubblico servizio, cui consegue il
+diritto ad ottenere i giusti rimedi laddove si verifichino disservizi e
+malfunzionamenti. Occorre tenere presente inoltre che, nel momento in
+cui le lamentele e i ricorsi sono gestiti con rapidità ed efficacia,
+possono costituire un'opportunità di miglioramento per gli stessi enti
+pubblici, con riguardo alla loro reputazione e alle loro prestazioni,
+poiché, dalla trattazione delle varie casistiche, essi possono trarre
+insegnamenti e nuove conoscenze che portano alla riduzione delle
+rimostranze in futuro.
+
+In ossequio ai principi di buona gestione, l'attività della pubblica
+amministrazione deve essere dunque improntata al rispetto di sei
+condizioni che si possono riassumere come di seguito:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi})}
+\tightlist
+\item
+  approccio adeguato ad ogni vicenda (\emph{getting it right});
+\item
+  focalizzazione sulle esigenze dei vari utenti (\emph{being customer
+  focused});
+\item
+  disponibilità e affidabilità (\emph{being open and accountable});
+\item
+  svolgimento di un'attività equa e misurata (\emph{acting fairly and
+  proportionately});
+\item
+  proposta delle soluzioni più idonee (\emph{putting things right});
+\item
+  costante ricerca del miglioramento (\emph{seeking continuous
+  improvement}).
+\end{enumerate}
+
+Per quanto riguarda l'approccio adeguato di cui al punto 1),
+l'amministrazione deve agire in conformità alle norme di legge e a
+quanto stabilito nei regolamenti relativi alle procedure di erogazione
+dei vari servizi e sempre nel rispetto dei diritti di coloro che vi sono
+coinvolti. La corretta gestione dei reclami deve essere parte integrante
+dei servizi offerti al pubblico e il personale che presta la sua opera
+deve essere abilitato e attrezzato in modo da poter fornire prontamente
+le risposte più adeguate qualora si verifichino malfunzionamenti. La
+stessa amministrazione deve poi informare chiaramente i ricorrenti circa
+i tempi di risposta o di adozione del provvedimento finale e, una volta
+giunti a questo stadio, gli stessi devono essere indirizzati verso il
+passo successivo da compiere in caso di risposta non satisfattiva, anche
+nel caso in cui sia per essi necessario ricorrere a strumenti di appello
+alternativi.
+
+Secondo quanto previsto al punto 2) sul \emph{``being customer
+focused''}, l'amministrazione deve assicurare che i procedimenti si
+svolgano in modo semplice, chiaro e nel più breve tempo possibile e che
+le disposizioni che regolano la gestione dei ricorsi siano facilmente
+accessibili. Gli utenti devono poi essere messi a conoscenza dei mezzi
+di supporto a loro disposizione qualora considerino di presentare
+ricorso\footnote{ad esempio, la \emph{Community Legal Advice} offre
+  consulenza legale generale e L'\emph{Independent Complaints Advocacy
+  Service} (ICAS) offre assistenza legale per i ricorrenti verso il
+  \emph{National Health Service} (NHS).}; il linguaggio utilizzato deve
+essere di facile comprensione e le comunicazioni fra l'autorità
+amministrativa e il ricorrente devono svolgersi in maniera adeguata
+rispetto alle condizioni in cui si trova quest'ultimo, ad esempio se non
+è di madrelingua inglese o se ha bisogni speciali. Nel caso in cui la
+rimostranza sia riferita a provvedimenti emanati da più amministrazioni,
+se una di queste non può rispondere, deve poter informare
+tempestivamente su quali possano essere le vie alternative di accesso
+alla tutela.
+
+In base al punto 3), l'amministrazione deve informare accuratamente e
+chiaramente circa la portata dei ricorsi che può prendere in
+considerazione, sulle aspettative che i ricorrenti possono avere durante
+lo svolgimento della procedure, sulle tempistiche e sugli esiti delle
+stesse ed essere disponibile a rendere conto delle proprie azioni e
+decisioni. Deve inoltre poter fornire una documentazione affidabile e
+idonea ad essere utilizzata per dimostrare l'attività svolta: tale
+documentazione deve ricomprendere le prove considerate e le motivazioni
+che hanno portato alla decisione finale dell'autorità che potranno
+essere utilizzate ai fini del ricorso, oppure per consentire
+all'Ombudsman di istruire la pratica qualora si rendesse necessario il
+suo intervento. Infine, se lo svolgimento dell'attività amministrativa
+deve svolgersi all'insegna della trasparenza, allo stesso tempo durante
+le stesse procedure occorre garantire il rispetto della privacy delle
+persone coinvolte e la riservatezza delle informazioni confidenziali che
+le riguardano.
+
+Nel rispetto del \emph{``acting fairly and proportionately''} del punto
+4, l'amministrazione deve comprendere e rispettare la diversità dei vari
+utenti e assicurare l'accesso ai servizi in maniera equa ed imparziale,
+così come deve esaminare approfonditamente i reclami, basando le sue
+valutazioni sui fatti e sulle prove oggettivamente disponibili, evitando
+indebiti ritardi e rigide condotte prestabilite nella gestione dei
+ricorsi. Ciò significa garantire una risposta proporzionata alle
+circostanze del singolo caso e tenere nella giusta considerazione la
+gravità delle questioni sollevate, gli effetti derivati sulla posizione
+del ricorrente e la possibilità che altri soggetti abbiano subito
+pregiudizi all'esito dell'adozione dello stesso provvedimento. L'azione
+dell'amministrazione deve però essere svolta in modo equo anche nei
+confronti del personale che vi presta servizio, il quale deve venire a
+conoscenza del fatto che le sue prestazioni sono state oggetto di
+reclamo per garantirgli così la possibilità di giustificarsi.
+
+Nel momento in cui da parte dell'amministrazione non vi è stato un
+approccio adeguato nella gestione della singola richiesta, occorre
+``sistemare le cose'', ovvero, secondo il punto 5), ``\emph{put things
+right}''. Questo implica, nei limiti del possibile, ripristinare la
+posizione di coloro che hanno subito un pregiudizio dall'emanazione di
+un provvedimento illegittimo o un disservizio da parte
+dell'amministrazione stessa, così che torni ad essere quella che era
+prima che tale pregiudizio o disservizio si verificassero. Qualora
+questo non sia più possibile, occorre corrispondere un risarcimento per
+equivalente. In molti casi, porgere le scuse e fornire una sollecita
+spiegazione è la risposta appropriata e idonea a prevenire l'aggravarsi
+di un conflitto.
+
+Infine, in coerenza con il punto 6) ``\emph{seeking continuous
+improvement}'', la corretta gestione delle rimostranze non deve
+limitarsi ad offrire un rimedio al singolo ricorso, ma l'amministrazione
+deve fare proprio ogni contributo che possa derivare dal comportamento
+del ricorrente ai fini del miglioramento del servizio fornito agli
+utenti. E' buona norma infatti che essa riferisca pubblicamente sulla
+gestione dei reclami, includendo indagini statistiche sul loro numero e
+sul loro esito dopo la trattazione: questo perché il resoconto sui vari
+tipi di ricorso e lamentele può agevolare il raggiungimento di una
+migliore offerta dei servizi richiesti, attraverso l'individuazione di
+esigenze comuni nelle istanze presentate che permettono di implementare
+modelli di risposta idonei a soddisfare interessi non solo individuali,
+ma di un maggior numero di soggetti che potrebbero essere coinvolti
+nell'adozione dei vari provvedimenti, così da accrescere la fiducia del
+pubblico in generale verso l'attività dell'autorità amministrativa.
 
 \hypertarget{il-sistema-spagnolo}{%
 \chapter{Il sistema spagnolo}\label{il-sistema-spagnolo}}
