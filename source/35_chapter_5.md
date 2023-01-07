@@ -31,6 +31,19 @@ c) se la sentenza condanna l'amministrazione a realizzare una data attività o a
 d) decorsi i termini stabiliti per l'esecuzione della sentenza senza che l'amministrazione abbia provveduto, il giudice o l'organo giurisdizionale, sentite le parti, adotta le misure necessarie al conseguimento di quanto stabilito, potendo, con apposito preavviso, imporre il pagamento di una penale di importo variabile da centocinquanta a millecinquecento Euro alle autorità, ai funzionari od agenti che non ottemperino alle prescrizioni. Tale penale, a titolo di sanzione, può essere reiterata fino alla completa esecuzione della sentenza, ferme restando le altre responsabilità patrimoniali che dovessero insorgere[^7].
 
 
+## Il _Defensor del Pueblo_
+
+L'art. 54 della Costituzione spagnola prevede, nell'ambito delle garanzie e delle libertà fondamentali di tutti gli individui, la figura del _Defensor del Pueblo_ (Difensore del Popolo), una sorta di difensore civico le cui attribuzioni però lo rendono più paragonabile agli ombudsman britannici. 
+Il _Defensor del Pueblo_ è l'Alto Commissario delle _Cortes Generales_, incaricato di difendere i diritti fondamentali e le libertà pubbliche dei cittadini vigilando sull'attività delle pubbliche amministrazioni spagnole. 
+E' eletto dal Congresso dei Deputati e dal Senato, a maggioranza dei tre quinti. Il suo mandato dura cinque anni, è indipendente dagli ordini e dalle istruzioni di qualsiasi altra autorità, svolge le proprie funzioni con imparzialità e autonomia, secondo propri criteri e godendo ​​dell'inviolabilità e dell'immunità nell'esercizio della sua carica. Qualsiasi cittadino può rivolgersi al _Defensor del Pueblo_ e richiedere il suo intervento che è gratuito    per indagare su qualsiasi presunta azione irregolare della Pubblica Amministrazione o dei suoi agenti. Può anche intervenire d'ufficio nei casi pervenuti alla sua attenzione, anche se non è stata sporta denuncia.
+Il _Defensor del Pueblo_ riferisce della sua gestione alle Cortes Generali in una relazione annuale e può presentare relazioni monografiche su questioni che considera gravi, urgenti o che richiedono una particolare attenzione[^8].
+
+I reclami possono essere presentati individualmente o collettivamente, quando i cittadini ritengono che l'azione di un'amministrazione (centrale, regionale o locale) o di un ente erogatore di pubblico servizio abbia violato i loro diritti. I cittadini possono anche chiedere al _Defensor del Pueblo_ di presentare ricorso per incostituzionalità e per ricevere tutela dinanzi alla Corte costituzionale. Nel caso in cui il _Defensor del Pueblo_ non possa indagare su un reclamo perché non rientrante nella competenza, invia una lettera al cittadino spiegandone i motivi. Quando invece ritiene possibile il suo intervento, fornisce l'assistenza adeguata al caso specifico, monitorando ogni violazione di diritti e può agire d'ufficio, aprendo procedimenti o consultazioni senza indugi. Sebbene egli non possa annullare o modificare gli atti o le deliberazioni delle pubbliche amministrazioni, nel caso in cui accerti che dei diritti fondamentali siano stati violati, la sua missione sarà quella di convincere l'amministrazione ad adottare le misure più idonee per porre rimedio alle violazioni. Qualsiasi individuo o persona giuridica può presentare istanza al _Defensor del Pueblo_ gratuitamente, senza la necessità di ricorrere al patrocinio di un legale. La denuncia o richiesta di assistenza può essere presentata via internet tramite l'apposito sito dedicato, per posta o di persona, rivolgendosi agli uffici dedicati ai servizi per il cittadino. La stessa denuncia o istanza dovrà essere accuratamente motivata e corredata di qualsiasi documento o prova pertinente alla questione da trattare. 
+
+Il _Defensor del Pueblo_ non può intervenire nelle controversie tra cittadini e società private, laddove cioè la Pubblica Amministrazione non sia parte in causa, quando sia trascorso più di un anno dal momento in cui si sia venuti a conoscenza dei fatti o delle circostanze oggetto d'esame, in presenza di una denuncia anonima o di un reclamo per il quale non siano specificati i motivi, in caso di accertata malafede nella presentazione dell'istanza, denuncia o reclamo, quando dalla trattazione del ricorso possa derivare pregiudizio per i diritti di terzi e, infine, in caso di disaccordo con il dispositivo di una sentenza o quando la decisione sulla controversia sia ancora pendente innanzi ad un tribunale[^9].
+
+
+
 
 
 
@@ -42,6 +55,9 @@ d) decorsi i termini stabiliti per l'esecuzione della sentenza senza che l'ammin
 [^5]: Cfr. art. 104, c. 2 e 3, LJCA.
 [^6]: Cfr. art. 108, c. 1, LJCA.
 [^7]: Cfr. art. 112, LJCA.
+[^8]: Cfr. https://www.defensordelpueblo.es/el-defensor/que-es-el-defensor/
+[^9]: Cfr. https://www.defensordelpueblo.es/el-defensor/como-te-podemos-ayudar/
+
 
 
 
@@ -58,6 +74,7 @@ d) decorsi i termini stabiliti per l'esecuzione della sentenza senza che l'ammin
 - L'evoluzione dell'organizzazione della giustizia amministrativa
 - La legge riformatrice n. 29/1988
 - La Jurisdiccion Contencioso Administrativa
+- Il _Defensor del pueblo_ 
 
 }}} ------------------------------------------------------- ---> 
 

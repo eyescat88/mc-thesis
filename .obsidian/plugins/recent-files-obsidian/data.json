@@ -9,6 +9,10 @@
       "path": "source/34_chapter_4.md"
     },
     {
+      "basename": "37_conclusion",
+      "path": "source/37_conclusion.md"
+    },
+    {
       "basename": "35_chapter_5",
       "path": "sample/35_chapter_5.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "29_heading",
       "path": "source/29_heading.md"
-    },
-    {
-      "basename": "37_conclusion",
-      "path": "source/37_conclusion.md"
     },
     {
       "basename": "36_chapter_6",
