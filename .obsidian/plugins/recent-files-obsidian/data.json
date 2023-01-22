@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "15_abstract",
-      "path": "source/15_abstract.md"
-    },
-    {
-      "basename": "32_chapter_2",
-      "path": "source/32_chapter_2.md"
-    },
-    {
       "basename": "37_conclusion",
       "path": "source/37_conclusion.md"
     },
@@ -17,16 +9,24 @@
       "path": "source/35_chapter_5.md"
     },
     {
-      "basename": "35_chapter_5",
-      "path": "sample/35_chapter_5.md"
-    },
-    {
       "basename": "34_chapter_4",
       "path": "source/34_chapter_4.md"
     },
     {
       "basename": "33_chapter_3",
       "path": "source/33_chapter_3.md"
+    },
+    {
+      "basename": "15_abstract",
+      "path": "source/15_abstract.md"
+    },
+    {
+      "basename": "32_chapter_2",
+      "path": "source/32_chapter_2.md"
+    },
+    {
+      "basename": "35_chapter_5",
+      "path": "sample/35_chapter_5.md"
     },
     {
       "basename": "34_chapter_4",
