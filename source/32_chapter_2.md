@@ -46,7 +46,7 @@ La sospensione cautelare non è però idonea a tutelare il ricorrente che lament
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^237]:  BVerwG, 21.06.1961, in _BVerwGE_ 13, 5.
+[^237]: §§ BVerwG, 21.06.1961, in _BVerwGE_ 13, 5.
 [^238]: B. MARCHETTI, _L'esecuzione della sentenza amministrativa_, cit., 46.
 
 <!--- }}} //////////////////////////////////////////////// --->
@@ -69,10 +69,10 @@ Per poter attivare la procedura esecutiva ai sensi del § 172 _VwGO_ nei confron
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
 [^239]: Sul punto si è pronunciata la Corte costituzionale tedesca in una decisione di notevole importanza, con cui, nella parte motiva, fa esplicito riferimento alle misure previste dai §§ da 885 a 896 _ZPO_ la cui scelta, in ordine alle modalità ed eventuale successione delle misure da adottare, sarà rimessa alla valutazione del giudice competente.
-[^240]: _"L'Etat toujours doit être réputé  honnête homme", E. LAFERRIERE, _Traité de la juridiction administrative et des recours contentieux_, Paris et Nancy 1896, I, 347 ss.
-[^241]: G. FALCON, C. FRAENKEL, _Ordinamento processuale amministrativo_, cit., § 172, 138.
+[^240]: §§ _"L'Etat toujours doit être réputé  honnête homme", E. LAFERRIERE, _Traité de la juridiction administrative et des recours contentieux_, Paris et Nancy 1896, I, 347 ss.
+[^241]: §§ G. FALCON, C. FRAENKEL, _Ordinamento processuale amministrativo_, cit., § 172, 138.
 [^242]: W. BANK, _Zwangsvollstreckung gegen Behörde_, cit., 62.
-[^243]: O. R. REMIEN, _Zwangsgeld_, cit., 11, 12.
+[^243]: §§ O. R. REMIEN, _Zwangsgeld_, cit., 11, 12.
 
 <!--- }}} //////////////////////////////////////////////// --->
 
@@ -83,9 +83,9 @@ Avverso la decisione sul predetto ricorso, non è dato alcun ulteriore mezzo di 
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^244]: R. PIETZNER, in F. SCHOCH, E. SCHMIDT-AßMANN, R. PIETZNER, _VwGO_, cit. sub §172, n. 52.
-[^245]: R. PIETZNER, in F. SCHOCH, E. SCHMIDT-AßMANN, R. PIETZNER, _VwGO_, cit. sub §167, n. 5.
-[^246]: _BVerwG 26.10.1984, in _NVwZ_ 1985, 563.
+[^244]: §§ R. PIETZNER, in F. SCHOCH, E. SCHMIDT-AßMANN, R. PIETZNER, _VwGO_, cit. sub §172, n. 52.
+[^245]: §§ R. PIETZNER, in F. SCHOCH, E. SCHMIDT-AßMANN, R. PIETZNER, _VwGO_, cit. sub §167, n. 5.
+[^246]: §§ _BVerwG 26.10.1984, in _NVwZ_ 1985, 563.
 
 <!--- }}} //////////////////////////////////////////////// --->
 
@@ -95,15 +95,14 @@ Una delle peculiarità del sistema tedesco di coercizione indiretta è rappresen
 
 Per quanto concerne il rimedio risarcitorio, la disciplina è quella valevole per tutte le ipotesi di responsabilità della pubblica amministrazione per i danni cagionati nell'esercizio dei propri doveri d'ufficio. Le norme fondamentali in materia sono l'art. 34 del _Grundgesetz_ e il § 839 del _Bürgerliches Gesetzbuch_, le quali vanno lette in combinato disposto[^247].
 In base al c. 1 del § 839 _BGB_ i danni causati intenzionalmente o con negligenza, in violazione di un dovere del funzionario, vengono dallo stesso integralmente risarciti. Se si tratta di mera negligenza, la responsabilità del funzionario potrà essere invocata in via sussidiaria, ovvero soltanto nel caso in cui non vi sia un'altra via per ottenere il risarcimento, ad esempio per contratto, per legge, o in base al sistema di assicurazione sociale[^248].
-Per converso, l'art. 34 della _Grundnorm_ trasferisce la responsabilità sulla pubblica autorità da cui il funzionario dipende, salvo il regresso nei casi di dolo e colpa grave per evitare che i funzionari abusino dell'immunità della responsabilità personale loro garantita[^249] e radica in capo al giudice ordinario la giurisdizione per le azioni per le azioni di responsabilità nei confronti del potere pubblico, stabilendo al terzo alinea, con riferimento al diritto al risarcimento e al diritto di rivalsa, che non può mai essere esclusa l'azione di fronte alla giurisdizione ordinaria.
+Per converso, l'art. 34 della _Grundnorm_ trasferisce la responsabilità sulla pubblica autorità da cui il funzionario dipende, salvo il regresso nei casi di dolo e colpa grave per evitare che i funzionari abusino dell'immunità della responsabilità personale loro garantita e radica in capo al giudice ordinario la giurisdizione per le azioni per le azioni di responsabilità nei confronti del potere pubblico, stabilendo al terzo alinea, con riferimento al diritto al risarcimento e al diritto di rivalsa, che non può mai essere esclusa l'azione di fronte alla giurisdizione ordinaria.
 
 
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^247]: S. DETTERBECK, _Allgemeines Verwaltungsrecht_, cit., 379.
-[^248]: U. KARPEN, _L'esperienza della Germania_, in D. SORACE (a cura di) _La responsabilità pubblica nell'esperienza giuridica europea_, Bologna, 1994, 140.
-[^249]: ...
+[^247]: §§ S. DETTERBECK, _Allgemeines Verwaltungsrecht_, cit., 379.
+[^248]: §§ U. KARPEN, _L'esperienza della Germania_, in D. SORACE (a cura di) _La responsabilità pubblica nell'esperienza giuridica europea_, Bologna, 1994, 140.
 
 <!--- }}} //////////////////////////////////////////////// --->
 

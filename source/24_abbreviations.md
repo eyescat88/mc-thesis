@@ -11,7 +11,8 @@
 \textbf{L. costituzionale} \> Legge costituzionale \\
 \textbf{D.M.} \> Decreto ministeriale \\
 \textbf{L.R.} \> Legge regionale \\
-\textbf{D.P.R.} \> Decreto del presidente della repubblica \\
+\textbf{D.P.R.} \> Decreto del Presidente della Repubblica \\
+\textbf{D.P.C.M.} \> Decreto del Presidente del Consiglio dei ministri \\
 \textbf{D.Lgs.} \> Decreto legislativo \\
 \textbf{R.D.} \> Regio decreto \\
 \textbf{D.L.P.} \> Decreto legislativo presidenziale \\
@@ -22,5 +23,8 @@
 \textbf{Reg.} \> Regolamento \\
 \textbf{D.M.} \> Decreto ministeriale \\
 \textbf{D.P.} \> Decreto presidenziale \\
+\textbf{VwGO} \> Verwaltungsgerichtsordnung \\
+\textbf{CJA} \> Code de Justice Administrative \\
+
 \end{tabbing}
 \newpage

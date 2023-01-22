@@ -24,6 +24,13 @@ giustizia amministrativa nelle Regioni e Province a Statuto speciale, in Informa
 diritto italiano, comunitario e comparato, Milano, 2010
 
 ---
+
+De Pretis Daria and Rotooffset Paganella. 2000. Il Processo Amministrativo in Europa : Caratteri E Tendenze in Francia Germania Gran Bretagna E Nell'unione Europea Ed. provvisoria ed. Trento: editore non identificato.
+
+https://worldcat.org/it/title/801155069
+
+---
+
 -->
 
 # Riferimenti
