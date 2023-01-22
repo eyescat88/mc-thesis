@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "15_abstract",
+      "path": "source/15_abstract.md"
+    },
+    {
       "basename": "32_chapter_2",
       "path": "source/32_chapter_2.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "02_statement",
       "path": "source/02_statement.md"
-    },
-    {
-      "basename": "15_abstract",
-      "path": "source/15_abstract.md"
     },
     {
       "basename": "18_acknowledgements",

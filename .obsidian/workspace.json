@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/32_chapter_2.md",
+                "file": "source/15_abstract.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/32_chapter_2.md",
+                "file": "source/15_abstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/32_chapter_2.md",
+                "file": "source/15_abstract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/32_chapter_2.md"
+                "file": "source/15_abstract.md"
               }
             }
           },
@@ -173,8 +173,9 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "0a186096bad9ab0b",
+  "active": "7dbacf34992484b8",
   "lastOpenFiles": [
+    "source/32_chapter_2.md",
     "source/37_conclusion.md",
     "source/35_chapter_5.md",
     "sample/35_chapter_5.md",
@@ -182,7 +183,6 @@
     "source/33_chapter_3.md",
     "sample/34_chapter_4.md",
     "source/31_chapter_1.md",
-    "source/32_chapter_2.md",
     "source/23_list_of_tables.md",
     "source/22_list_of_figures.md"
   ]
