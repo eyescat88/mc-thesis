@@ -2,6 +2,8 @@
 
 \begin{tabbing}
 \hspace{12em} \= \hspace{60em} \= \kill
+\textsc{Italia} \> \\
+ \> \\
 \textbf{c.p.a.} \> Codice della Pubblica Amministrazione \\
 \textbf{P. A.} \> Pubblica Amministrazione \\
 \textbf{D.L.} \> Decreto legge \\
@@ -23,8 +25,32 @@
 \textbf{Reg.} \> Regolamento \\
 \textbf{D.M.} \> Decreto ministeriale \\
 \textbf{D.P.} \> Decreto presidenziale \\
+ \> \\
+ \> \\
+\textsc{Germania} \> \\
+ \> \\
 \textbf{VwGO} \> Verwaltungsgerichtsordnung \\
+ \> \\
+ \> \\
+\textsc{Francia} \> \\
+ \> \\
 \textbf{CJA} \> Code de Justice Administrative \\
+ \> \\
+ \> \\
+\textsc{Regno Unito} \> \\
+ \> \\
+\textbf{CPR} \> Civil Procedure Rules \\
+\textbf{CJCA} \> ... \\
+\textbf{HRA} \> ... \\
+\textbf{QB} \> ... \\
+\textbf{...} \> ... \\
+\textbf{...} \> ... \\
+\textbf{...} \> ... \\
+ \> \\
+ \> \\
+\textsc{Spagna} \> \\
+ \> \\
+\textbf{LJCA} \> Ley de la Jurisdicción Contencioso-Administrativa \\
 
 \end{tabbing}
 \newpage

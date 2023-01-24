@@ -6,6 +6,8 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam congue fer
 
 Donec pharetra arcu vitae euismod tincidunt.
 
+Il modello di tesi di Tom Pollard: _"Template for writing a PhD thesis in Markdown"_ [@pollardTemplateWritingPhd2016]
+
 <!-- Use the \newpage command to force a new page -->
 
 \newpage
