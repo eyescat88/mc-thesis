@@ -9,6 +9,8 @@
 \textbf{D.L.} \> Decreto legge \\
 \textbf{D. lgs.} \> Decreto legislativo \\
 \textbf{Cost.} \> Costituzione della Repubblica \\
+  \textbf{Corte Cost.} \> Corte Costituzionale \\
+  \textbf{Cons. St.} \> Consiglio di Stato \\
 \textbf{L.} \> Legge \\
 \textbf{L. costituzionale} \> Legge costituzionale \\
 \textbf{D.M.} \> Decreto ministeriale \\
@@ -29,12 +31,17 @@
  \> \\
 \textsc{Germania} \> \\
  \> \\
+\textbf{BVerwG} \> Bundesverwaltungsgericht \\
+\textbf{BVerwGE} \> Entscheidungen des Bundesverwaltungsgerichts \\
+\textbf{NVwZ} \> Neue Zeitschrift für Verwaltungsrecht \\
 \textbf{VwGO} \> Verwaltungsgerichtsordnung \\
  \> \\
  \> \\
 \textsc{Francia} \> \\
  \> \\
 \textbf{CJA} \> Code de Justice Administrative \\
+\textbf{CE} \> ... \\
+\textbf{DA} \> ... \\
  \> \\
  \> \\
 \textsc{Regno Unito} \> \\

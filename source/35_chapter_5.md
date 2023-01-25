@@ -43,15 +43,15 @@ I reclami possono essere presentati individualmente o collettivamente, quando i 
 Il _Defensor del Pueblo_ non può intervenire nelle controversie tra cittadini e società private, laddove cioè la Pubblica Amministrazione non sia parte in causa, quando sia trascorso più di un anno dal momento in cui si sia venuti a conoscenza dei fatti o delle circostanze oggetto d'esame, in presenza di una denuncia anonima o di un reclamo per il quale non siano specificati i motivi, in caso di accertata malafede nella presentazione dell'istanza, denuncia o reclamo, quando dalla trattazione del ricorso possa derivare pregiudizio per i diritti di terzi e, infine, in caso di disaccordo con il dispositivo di una sentenza o quando la decisione sulla controversia sia ancora pendente innanzi ad un tribunale[^509].
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
-[^501]: §§ E. Garcìa De Enterrìa y T. R. Fernandez, _Curso de Derecho Administrativo_, t. II, Civitas, Madrid, 1999, 650.
+[^501]: [@garciadeenterriaCursoDerechoAdministrativo1974], 650.
 [^502]: Cfr. art. 103, c. 1, LJCA.
 [^503]: Cfr. art. 109, c. 1, LJCA. L'_Incidente de ejecución_ è il processo incidentale di trattazione di tutte le questioni che, senza contraddire il contenuto della sentenza, sorgono e sono correlate all'esecuzione della medesima.
 [^504]: Cfr. art. 104, c. 1, LJCA.
 [^505]: Cfr. art. 104, c. 2 e 3, LJCA.
 [^506]: Cfr. art. 108, c. 1, LJCA.
 [^507]: Cfr. art. 112, LJCA.
-[^508]: §§ Cfr. https://www.defensordelpueblo.es/el-defensor/que-es-el-defensor/
-[^509]: §§ Cfr. https://www.defensordelpueblo.es/el-defensor/como-te-podemos-ayudar/
+[^508]: Cfr. [@QueEsDefensor]
+[^509]: Cfr. [@puebloComoTePodemos]
 
 <!--- }}} //////////////////////////////////////////////// --->
 

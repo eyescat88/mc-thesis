@@ -22,17 +22,17 @@ L'ampia gamma di poteri spendibili dal giudice dell'ottemperanza ammanta lo stes
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^101]: Cfr. art. 113 Cost: "Contro gli atti della pubblica amministrazione è sempre ammessa la tutela giurisdizionale dei diritti e degli interessi legittimi dinanzi agli organi di giurisdizione ordinaria e amministrativa".
+[^101]: Cfr. art. 113 Cost.: "Contro gli atti della pubblica amministrazione è sempre ammessa la tutela giurisdizionale dei diritti e degli interessi legittimi dinanzi agli organi di giurisdizione ordinaria e amministrativa".
 [^102]: Cfr. L. 2248 del 1865, art. 4, c. 2: "L'atto amministrativo non potrà essere rivocato o modificato se non sovra ricorso alle competenti Autorità amministrative, le quali si conformeranno al giudicato dei Tribunali in quanto riguarda il caso deciso".
 [^103]: Art. 114, c. 1, c.p.a.
-[^104]: §§ M. NIGRO, _Giustizia amministrativa, 332,333._
+[^104]: [@nigroGiustiziaAmministrativa1995], 332,333.
 [^105]: Cfr. Corte Cost., ord. 10 dicembre 1998, n. 406, in _Foro amm._, 2000, 751.
-[^106]:  Art. 114, c. 2, c.p.a.
-[^107]:  Art. 113 c.p.a.
-[^108]:  Cfr. Cons. Stato, sez. IV, 9 ottobre 2002, n. 5352.
-[^109]:  Art. 114, c. 4, lett. c.
-[^110]:  Cfr. Cons. St., sez. IV, 10 aprile 1998, n. 565, in _Foro amm._, 1998, 1021: _Il ricorso per l'ottemperanza è ammissibile non solo quando l'amministrazione mantiene un comportamento inerte di fronte al decisium del giudice, ma anche quando il provvedimento da essa adottato, in affermata ottemperanza al giudicato stesso, è invece palesemente elusivo dei principi e delle regole in esso enunciati. Ciò in quanto il giudicato amministrativo ha un contenuto complesso, non limitato agli effetti demolitori e ripristinatori rivolti al passato, ma comprensivo anche degli effetti confermativi rivolti al futuro e consistenti nei vincoli imposti all'autorità amministrativa nella rinnovazione del provvedimento annullato, in relazione ai vizi di legittimità riconosciuti esistenti_.
-[^111]: C. FRAENKEL, _Giurisdizione sul silenzio e discrezionalità amministrativa,
+[^106]: Art. 114, c. 2, c.p.a.
+[^107]: Art. 113 c.p.a.
+[^108]: Cfr. Cons. Stato, sez. IV, 9 ottobre 2002, n. 5352.
+[^109]: Art. 114, c. 4, lett. c.
+[^110]: Cfr. Cons. Stato, sez. IV, 10 aprile 1998, n. 565, in _Foro amm._, 1998, 1021: _Il ricorso per l'ottemperanza è ammissibile non solo quando l'amministrazione mantiene un comportamento inerte di fronte al decisium del giudice, ma anche quando il provvedimento da essa adottato, in affermata ottemperanza al giudicato stesso, è invece palesemente elusivo dei principi e delle regole in esso enunciati. Ciò in quanto il giudicato amministrativo ha un contenuto complesso, non limitato agli effetti demolitori e ripristinatori rivolti al passato, ma comprensivo anche degli effetti confermativi rivolti al futuro e consistenti nei vincoli imposti all'autorità amministrativa nella rinnovazione del provvedimento annullato, in relazione ai vizi di legittimità riconosciuti esistenti_.
+[^111]: [@fraenkel-haeberleGiurisdizioneSulSilenzio2004]
 
 <!--- }}} //////////////////////////////////////////////// --->
 
@@ -52,14 +52,14 @@ Molti dei casi d'inosservanza delle sentenze del giudice amministrativo non sono
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
 [^112]: M. CLARICH, _Il giudizio amministrativo di esecuzione_, _cit_., 344.
-[^113]: §§ S. PELILLO, _Il giudizio di ottemperanza alle sentenze del giudice amministrativo, cit.,_ 313 ss.
+[^113]: [@pelilloGiudizioDiOttemperanza1990], 313 ss.
 [^114]: Cfr. Corte Cost., 12 maggio 1977, n. 75, in _Giur. it.,_ 1978, I, 980.
-[^115]: §§ S. PELILLO, _Il giudizio di ottemperanza alle sentenze del giudice amministrativo, cit.,_ 314, secondo il quale sarebbero in realtà poche le situazioni che si prestano ad essere compiutamente disciplinate in via immediata con la sentenza: nella maggior parte dei casi si renderebbe necessario _"gestire nell'ambito naturale (con l'osservanza delle regole) il procedimento e pervenire all'adozione finale del provvedimento"_.
+[^115]: [@pelilloGiudizioDiOttemperanza1990]
 [^116]: A. Sandulli, _L'effettività delle decisioni giurisdizionali amministrative, cit., 308, 309._
 [^117]: Cfr. Cons. St., sez. V, 28 febbraio 1995, n. 298, in _Cons. Stato_, 1995, I, 232 ss.
-[^118]: §§ Cfr. Cons. St., Ad. Plen., 14 luglio 1978 e Cons. St., Ad. Plen., 9 marzo 1973, n. 1, in G. PASQUINI, A. SANDULLI (a cura di), _Le grandi decisioni del Consiglio di Stato_, Milano, 2001, 398 e ss.
+[^118]: Cfr. Cons. St., Ad. Plen., 14 luglio 1978 e Cons. St., Ad. Plen., 9 marzo 1973, n. 1, in G. PASQUINI, A. SANDULLI (a cura di), _Le grandi decisioni del Consiglio di Stato_, Milano, 2001, 398 e ss.
 [^119]: Cfr. Cons. St., sez. VI, 19 gennaio 1995, n. 41, in _Foro amm., CS_, 1995, 1, 78 ss.
-[^120]: Cfr. Cons. Stato, sez. VI, 19 giugno 2012, n. 3569.
+[^120]: Cfr. Cons. St., sez. VI, 19 giugno 2012, n. 3569.
 
 <!--- }}} //////////////////////////////////////////////// --->
 

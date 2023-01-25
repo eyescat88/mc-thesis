@@ -90,41 +90,41 @@ Infine, in coerenza con il punto 6) "_seeking continuous improvement_", la corre
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^401]: §§ F. DE FRANCHIS, _Dizionario giuridico_, vol. 1, Milano, 1984, 1457.
-[^402]: §§ M. D'ALBERTI, _Diritto amministrativo comparato_, Bologna, 1992, 67.
-[^403]: §§ Avanzando un parallelo con l'ordinamento italiano, nel Regno Unito è in pratica mancato un provvedimento normativo simile alla legge 31 marzo 1889, n. 5992, che ha istituito un sistema di giudici speciali per l'amministrazione. Cfr. M. D'ALBERTI, _Diritto amministrativo comparato_, cit., 64.
-[^404]: §§ S. CASSESE, _Il privato e il procedimento amministrativo. Una analisi della legislazione e della giurisprudenza_, in _Arch. giur._, 1970, 2, 36 ss.
-[^405]: §§ M. D'ALBERTI, _Diritto amministrativo comparato_, cit., 76.
-[^406]: §§ M. NIGRO, _Il Consiglio di Stato giudice e amministratore (aspetti di effettività dell'organo)_ ora in _Scritti giuridici_, t. II, Milano, 1996, 1054.
-[^407]: §§ FRANK'S COMMITEE, _Report of the Committee on Administrative Tribunals and Enquires_, London, 1957.
+[^401]: [@defranchisDizionarioGiuridicoIngleseItaliano1984], 1457.
+[^402]: [@dalbertiDirittoAmministrativoComparato2019], 67.
+[^403]: Avanzando un parallelo con l'ordinamento italiano, nel Regno Unito è in pratica mancato un provvedimento normativo simile alla legge 31 marzo 1889, n. 5992, che ha istituito un sistema di giudici speciali per l'amministrazione. Cfr. [@dalbertiDirittoAmministrativoComparato2019], 64.
+[^404]: [@cassese1971privato], 36 ss.
+[^405]: [@dalbertiDirittoAmministrativoComparato2019], 76.
+[^406]: [@nigro1974consiglio].
+[^407]: [@marshallFranksReportAdministrative1957]
 [^408]: S. CATTANEO, _"Agencies"_ e _"Regulation" nel Regno Unito_, in _Le autorità indipendenti_. _Da fattori evolutivi ad elementi della transizione nel diritto pubblico italiano_, a cura di S. Labriola, Milano, 1999, 253.
 [^409]: C. CATTANEO "Agencies" eu "Regulation" nel Regno Unito in "Le autorità indipendenti_. _Da fattori evolutivi ad elementi della transizione nel diritto pubblico italiano"_, cit., 460.
-[^410]: §§ T. BUCK, _Tribunal Reform in the UK: Precedent and Reporting in the New Unified Structure_, cit.
+[^410]: [@Buck2007TribunalRI]
 [^411]: Secondo la definizione contenuta nel _White paper_: "_the aim is to develop a range of policies and services that, so far as possible, will help people to avoid problems and legal dispute in the first place, and where they cannot, provides tailored solutions to resolve the dispute as quickly and cost effectively as possible. It can be summed up as "proportionate dispute resolution"_.
-[^412]: §§ G. RICHARDSON, H. GENN, _Tribunals in Transition: Resolution or Adjudication?_, cit., 117.
+[^412]: [@ae58aae3e457425485dcebf1e158bb92], 117.
 [^413]: Tribunals, Courts and Enforcement Act, ch. 2, s. 3 (5).
 [^414]: Tribunals, Courts and Enforcement Act, ch. 2, s. 11.
 [^415]: Tribunals, Courts and Enforcement Act, ch. 2, s. 13.
-[^416]: §§ M. D'ALBERTI, _Diritto amministrativo comparato_, cit., 75.
-[^417]: §§ Come sottolineato da G. RICHARDSON, H. GENN, _Tribunals in Transition: Resolution or Adjudication?_, cit., 117, i _tribunals_ sono stati istituiti _"specifically to adjudicate disputes, tipically between citizens and the state, not to resolve them through mediation, conciliation or any other form of non-adjudicative dispute resolution"_.
+[^416]: [@dalbertiDirittoAmministrativoComparato2019], 75.
+[^417]: Come sottolineato in [@ae58aae3e457425485dcebf1e158bb92], 117, i _tribunals_ sono stati istituiti _"specifically to adjudicate disputes, tipically between citizens and the state, not to resolve them through mediation, conciliation or any other form of non-adjudicative dispute resolution"_.
 [^418]: Tale espressione si ritrova nei documenti adottati dal _Tribunal Service_.
-[^419]: §§ F. GOISIS, _La full jurisdiction nel contesto della giustizia amministrativa: concetto, funzione e nodi irrisolti_, in _Dir. proc. amm._, 2/2015, pp. 546 ss.
-[^420]: §§ P. CRAIG, _The Human Rights Act, Article 6 and procedural rights_, in _Public Law_, 2003, pp. 753 ss.
-[^421]: §§ P. CANE, _Understanding Judicial Review and its Impact_, in M. Hertogh - S. Halliday (a cura di), _Judicial Review and Bureaucratic Impact: International and Interdisciplinary Perspectives_, Cambridge, 2004, pp. 17 e ss.
+[^419]: [@goisis2018full], pp. 546 ss.
+[^420]: [@craig2003human], pp. 753 ss.
+[^421]: [@caneUnderstandingJudicialReview2004], pp. 17 e ss.
 [^422]: Cfr. CPR (_Civil Procedure Rules_), art. 54, r. 54.4.
 [^423]: Cfr. CJCA, s. 85-86 e 88-90.
 [^424]: Cfr. s. 6(1) HRA.
 [^425]: Cfr. s. 4(2) HRA.
-[^426]: §§ H.W.R. WADE - C.F. FORSYTH, _Administration Law_, pp. 305 ss.
-[^427]: §§ R. RYSSDALL, _The Coming of Age of European Convention on Human Rights_, in _European Human Rights Law Journal_, 18, 1996, pp. 24 e ss.
+[^426]: [@forsythAdministrativeLaw2014], pp. 305 ss.
+[^427]: [@ryssdallOpinionComingAge1996], pp. 24 e ss.
 [^428]: "Complaints are made through Members of the Westminster Parliament and may be made by any member of the public, including a corporation" in _Parliamentary Commissioner Act, 1967_, ss. 5-6.
-[^429]: §§ I rapporti del PO sono pubblicati online e visibili al link: http://www.ombudsman.org.uk/.
-[^430]: §§ Richard Crossman: "bias, neglect, inattention, delay, incompetence, ineptitude, arbitrariness and so on" in _Crossman catalogue_ - _R v Local Commissioner for Administration, ex p Bradford MCC_, 1979, QB 287.
-[^431]: Vedi: https://www.lgo.org.uk/make-a-complaint/what-we-can-and-cannot-look-at
+[^429]: I rapporti del PO sono pubblicati online in [@ParliamentaryHealthService]
+[^430]: Richard Crossman: "bias, neglect, inattention, delay, incompetence, ineptitude, arbitrariness and so on" in [@dlsReginaLocalCommissioner2022], QB 287.
+[^431]: Cfr. [@ChallengingOurDecisions]
 [^432]:  Mark Sandford,  _House of Commons Library_, _The role of the Local Government Ombudsman_, _Complaints_, in _Briefing Paper Number_ 04117, 17 July 2017.
 [^433]: _Local Government Act 2000, section 92_.
-[^434]: §§ Vedi: http://www.lgo.org.uk/information-centre/about-us/our-performance/challenging-our-decision
-[^435]: Vedi: https://www.ombudsman.org.uk/about-us/our-principles/principles-good-complaint-handling/introduction
+[^434]: Cfr. [@ChallengingOurDecisions]
+[^435]: Cfr. [@PrinciplesGoodComplaint]
 [^436]: ad esempio, la _Community Legal Advice_ offre consulenza legale generale e L'_Independent Complaints Advocacy Service_ (ICAS) offre assistenza legale per i ricorrenti verso il _National Health Service_ (NHS).
 
 <!--- }}} //////////////////////////////////////////////// --->

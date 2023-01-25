@@ -14,13 +14,13 @@ L'inottemperanza alla decisione sotto tale profilo, seppur non assistita da alcu
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^226]: §§ M. FROMONT, _L'esecuzione delle decisioni del giudice amministrativo nel diritto francese e tedesco_, in _Problemi di amministrazione pubblica_, 3, 1989, 523.
-[^227]: §§ G. FALCON, C. FRAENKEL, _Ordinamento processuale amministrativo tedesco (VwGO)_, Trento, 2000.
+[^226]: [@fromont1989esecuzione].
+[^227]: [@falconOrdinamentoProcessualeAmministrativo2000b]
 [^228]: Letteralmente "pretesa o diritto all'eliminazione delle conseguenze dell'atto".
 [^229]: P. BECKER, H. KUNI, _Probleme des verwaltungsgerichtlichen Vergabeverfahrens für Studienplätze in der Humanmedizin,_ in _DVBl_ 1976, 863.
-[^230]: §§ _VGH Kassel, 11.11.1993, in _NVwZ_, 1995, 301; F. O. KOPP, W. R. SCHENKE, _Verwaltungsgerichtsordnung_, cit. sub. § 113, n. 91.
+[^230]: [@schenkeVerwaltungsgerichtsordnungKommentar2022] § 113, n. 91.
 [^231]: § 113/2, secondo alinea _VwGO_.
-[^232]: §§ F. O. KOPP, W. R. SCHENKE, _Verwaltungsgerichtsordnung_, cit., sub § 113, n. 87.
+[^232]: [@schenkeVerwaltungsgerichtsordnungKommentar2022] § 113, n. 87.
 
 <!--- }}} //////////////////////////////////////////////// --->
 
@@ -33,7 +33,7 @@ Per converso, ove l'amministrazione sia titolare di un più ampio potere discrez
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
 [^233]: Il § 113/5 _VwGO_, così come tradotto da G. FALCON, C. FRAENKEL, _Ordinamento processuale, cit., 94_, recita: _"Nella misura in cui il rifiuto o l'omissione dell'atto amministrativo è illegittimo e l'attore ne risulta leso nei propri diritti, il tribunale dichiara l'obbligo dell'autorità amministrativa di porre in essere la richiesta attività dell'ufficio, se la questione è matura per la decisione. Altrimenti esso dichiara l'obbligo di decidere nei confronti dell'attore nel rispetto della concezione giuridica del tribunale_.
-[^234]: §§ Rileva D. DE PRETIS, _Il processo amministrativo in Europa, cit., 121_ come in questo caso oggetto del giudizio non è, se non in un secondo momento, il provvedimento di espresso diniego di quanto richiesto dal privato, ma, in primo luogo, il provvedimento che l'amministrazione avrebbe dovuto assumere per soddisfare la pretesa sostanziale del ricorrente, per cui è tale ultimo atto che l'amministrazione sarà tenuta ad adottare a seguito dell'eventuale sentenza di accoglimento della _Verpflightungsklage_.
+[^234]: In [de2000processo] si rileva come in questo caso oggetto del giudizio non è, se non in un secondo momento, il provvedimento di espresso diniego di quanto richiesto dal privato, ma, in primo luogo, il provvedimento che l'amministrazione avrebbe dovuto assumere per soddisfare la pretesa sostanziale del ricorrente, per cui è tale ultimo atto che l'amministrazione sarà tenuta ad adottare a seguito dell'eventuale sentenza di accoglimento della _Verpflightungsklage_.
 [^235]: § 113/5 _VwGO_. Si parla in questo caso di _Bescheidungsurteil_.
 [^236]: G. FALCON, _Per una migliore giustizia amministrativa_, cit., 151.
 
@@ -46,7 +46,7 @@ La sospensione cautelare non è però idonea a tutelare il ricorrente che lament
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^237]: §§ BVerwG, 21.06.1961, in _BVerwGE_ 13, 5.
+[^237]: BVerwG, 21.06.1961, in _BVerwGE_ 13, 5.
 [^238]: B. MARCHETTI, _L'esecuzione della sentenza amministrativa_, cit., 46.
 
 <!--- }}} //////////////////////////////////////////////// --->
@@ -69,23 +69,23 @@ Per poter attivare la procedura esecutiva ai sensi del § 172 _VwGO_ nei confron
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
 [^239]: Sul punto si è pronunciata la Corte costituzionale tedesca in una decisione di notevole importanza, con cui, nella parte motiva, fa esplicito riferimento alle misure previste dai §§ da 885 a 896 _ZPO_ la cui scelta, in ordine alle modalità ed eventuale successione delle misure da adottare, sarà rimessa alla valutazione del giudice competente.
-[^240]: §§ _"L'Etat toujours doit être réputé  honnête homme", E. LAFERRIERE, _Traité de la juridiction administrative et des recours contentieux_, Paris et Nancy 1896, I, 347 ss.
-[^241]: §§ G. FALCON, C. FRAENKEL, _Ordinamento processuale amministrativo_, cit., § 172, 138.
+[^240]: "L'Etat toujours doit être réputé  honnête homme", [@laferriere1896traite], 347 ss.
+[^241]: [@falconOrdinamentoProcessualeAmministrativo2000b], § 172, 138.
 [^242]: W. BANK, _Zwangsvollstreckung gegen Behörde_, cit., 62.
-[^243]: §§ O. R. REMIEN, _Zwangsgeld_, cit., 11, 12.
+[^243]: [@remienRechtsverwirklichungDurchZwangsgeld1992], 11, 12.
 
 <!--- }}} //////////////////////////////////////////////// --->
 
 ## I mezzi di tutela esperibili dalle parti
 
 I provvedimenti del giudice dell'esecuzione relativi alla minaccia ed applicazione dello _Zwangsgeld_ possono essere eventualmente impugnati con ricorso, ai sensi del § 146 _VwGO_ entro due settimane dalla loro notifica, di regola davanti al tribunale amministrativo di grado intermedio. In tal caso, l'impugnativa proposta dalla pubblica amministrazione avverso l'ordinanza applicativa dell'ammenda, comporterà l'automatica sospensione dell'efficacia esecutiva del provvedimento[^244]. Allo stesso modo, il privato potrà avvalersene nel caso in cui il tribunale rigetti, sempre con ordinanza, l'istanza volta ad ottenere la minaccia o l'irrogazione della penale. Con tale rimedio possono essere fatti valere soltanto i vizi formali della procedura esecutiva, cioè il mancato rispetto delle regole procedurali disciplinanti la stessa[^245].
-Avverso la decisione sul predetto ricorso, non è dato alcun ulteriore mezzo di tutela, conformemente a quanto stabilito dal § 152/1 _VwGO_. Diversamente, ove sia in contestazione da parte dell'amministrazione il diritto di procedere ad esecuzione forzata da parte del privato, potrà essere introdotto ricorso per opposizione all'esecuzione, ai sensi del § 167/1 _VwGO_, in combinato disposto con il § 767 _ZPO_. Scopo di questo rimedio è quello di elidere l'efficacia esecutiva del titolo, non potendo chiaramente essere rimesso in discussione il giudicato. In tal senso, il § 767/2 _ZPO_ prescrive che possono essere fatte valere soltanto quelle eccezioni che si fondino su circostanze sopravvenute all'udienza per la discussione della causa, nell'ambito del processo di cognizione; inoltre, l'autorità amministrativa dovrà sollevare tutte le eccezioni deducibili al momento dell'opposizione, come previsto al § 767/3 _ZPO_, ad esempio la sopravvenuta modifica della situazione di fatto o di diritto rispetto a quella sulla quale è sceso il giudicato, così come il sopravvenuto adempimento dell'obbligo da esso discendente. Si pensi all'entrata in vigore di un nuovo piano regolatore in contrasto con il permesso di costruire al cui rilascio l'amministrazione veniva condannata con sentenza di adempimento (_Verplichtungsurteil_): fintanto che non venga rilasciato il titolo autorizzativo, il giudicato avente ad oggetto il riconoscimento della relativa pretesa non è al riparo da eventuali sopravvenienze di diritto, a differenza di ciò che accade nel diritto civile, ove è sempre irrilevante il mutamento del quadro normativo entro il quale dovrebbe essere eseguito il giudicato[^246]. Competente a giudicare dell'opposizione è il tribunale di prima istanza.
+Avverso la decisione sul predetto ricorso, non è dato alcun ulteriore mezzo di tutela, conformemente a quanto stabilito dal § 152/1 _VwGO_. Diversamente, ove sia in contestazione da parte dell'amministrazione il diritto di procedere ad esecuzione forzata da parte del privato, potrà essere introdotto ricorso per opposizione all'esecuzione, ai sensi del § 167/1 _VwGO_, in combinato disposto con il § 767 _ZPO_. Scopo di questo rimedio è quello di elidere l'efficacia esecutiva del titolo, non potendo chiaramente essere rimesso in discussione il giudicato. In tal senso, il § 767/2 _ZPO_ prescrive che possono essere fatte valere soltanto quelle eccezioni che si fondino su circostanze sopravvenute all'udienza per la discussione della causa, nell'ambito del processo di cognizione; inoltre, l'autorità amministrativa dovrà sollevare tutte le eccezioni deducibili al momento dell'opposizione, come previsto al § 767/3 _ZPO_, ad esempio la sopravvenuta modifica della situazione di fatto o di diritto rispetto a quella sulla quale è sceso il giudicato, così come il sopravvenuto adempimento dell'obbligo da esso discendente. Si pensi all'entrata in vigore di un nuovo piano regolatore in contrasto con il permesso di costruire al cui rilascio l'amministrazione veniva condannata con sentenza di adempimento (_Verplichtungsurteil_): fintanto che non venga rilasciato il titolo autorizzativo, il giudicato avente a oggetto il riconoscimento della relativa pretesa non è al riparo da eventuali sopravvenienze di diritto, a differenza di ciò che accade nel diritto civile, ove è sempre irrilevante il mutamento del quadro normativo entro il quale dovrebbe essere eseguito il giudicato[^246]. Competente a giudicare dell'opposizione è il tribunale di prima istanza.
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^244]: §§ R. PIETZNER, in F. SCHOCH, E. SCHMIDT-AßMANN, R. PIETZNER, _VwGO_, cit. sub §172, n. 52.
-[^245]: §§ R. PIETZNER, in F. SCHOCH, E. SCHMIDT-AßMANN, R. PIETZNER, _VwGO_, cit. sub §167, n. 5.
-[^246]: §§ _BVerwG 26.10.1984, in _NVwZ_ 1985, 563.
+[^244]: [@schochVerwaltungsrechtVwGOKommentar2020] §172, n. 52.
+[^245]: [@schochVerwaltungsrechtVwGOKommentar2020] §167, n. 5.
+[^246]: _BVerwG 26.10.1984, in _NVwZ_ 1985, 563.
 
 <!--- }}} //////////////////////////////////////////////// --->
 
@@ -101,8 +101,8 @@ Per converso, l'art. 34 della _Grundnorm_ trasferisce la responsabilità sulla p
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^247]: §§ S. DETTERBECK, _Allgemeines Verwaltungsrecht_, cit., 379.
-[^248]: §§ U. KARPEN, _L'esperienza della Germania_, in D. SORACE (a cura di) _La responsabilità pubblica nell'esperienza giuridica europea_, Bologna, 1994, 140.
+[^247]: [@detterbeckAllgemeinesVerwaltungsrechtMit2022], 379.
+[^248]: U. KARPEN, _L'esperienza della Germania_, in [@soraceResponsabilitaPubblicaNell1994].
 
 <!--- }}} //////////////////////////////////////////////// --->
 
