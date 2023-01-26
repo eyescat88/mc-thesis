@@ -2,11 +2,11 @@
 
 <!-- This is for acknowledging all of the people who helped out -->
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam congue fermentum ante, semper porta nisl consectetur ut. Duis ornare sit amet dui ac faucibus. Phasellus ullamcorper leo vitae arcu ultricies cursus. Duis tristique lacus eget metus bibendum, at dapibus ante malesuada. In dictum nulla nec porta varius. 
+Ringrazio il mio relatore, Prof. Alessandro Squazzoni, per l'attenzione che mi ha dedicato nella stesura di questo lavoro.
 
-Donec pharetra arcu vitae euismod tincidunt.
+Nella descrizione del sistema di giustizia amministrativa tedesco mi sono riferita ai contenuti dello studio di Federico Secchi dell'Università di Trento [@secchi2010esecuzione].
 
-Il modello di tesi di Tom Pollard: _"Template for writing a PhD thesis in Markdown"_ [@pollardTemplateWritingPhd2016]
+Ringrazio inoltre Tom Pollard per il suo modello di tesi: _"Template for writing a PhD thesis in Markdown"_ [@pollardTemplateWritingPhd2016] che ho utilizzato nella stesura del documento.
 
 <!-- Use the \newpage command to force a new page -->
 

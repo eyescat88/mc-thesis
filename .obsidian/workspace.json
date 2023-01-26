@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b8ffaef3323531b5",
+        "id": "e4efbe6e4771273d",
         "type": "tabs",
         "children": [
           {
-            "id": "0a186096bad9ab0b",
+            "id": "eab458526ce7c031",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/37_conclusion.md",
+                "file": "source/21_table_of_contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/37_conclusion.md",
+                "file": "source/21_table_of_contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/37_conclusion.md",
+                "file": "source/21_table_of_contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/37_conclusion.md"
+                "file": "source/21_table_of_contents.md"
               }
             }
           },
@@ -173,17 +173,17 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "0a186096bad9ab0b",
+  "active": "eab458526ce7c031",
   "lastOpenFiles": [
+    "source/02_statement.md",
+    "source/37_conclusion.md",
+    "source/33_chapter_3.md",
+    "source/18_acknowledgements.md",
+    "source/32_chapter_2.md",
+    "source/24_abbreviations.md",
+    "source/21_table_of_contents.md",
     "source/35_chapter_5.md",
     "source/34_chapter_4.md",
-    "source/33_chapter_3.md",
-    "source/15_abstract.md",
-    "source/32_chapter_2.md",
-    "source/37_conclusion.md",
-    "sample/35_chapter_5.md",
-    "sample/34_chapter_4.md",
-    "source/31_chapter_1.md",
-    "source/23_list_of_tables.md"
+    "source/15_abstract.md"
   ]
 }

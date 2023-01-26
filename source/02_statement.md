@@ -3,9 +3,10 @@
 
 \vspace*{\fill}
 \noindent
+\hfill{
 \textit{
-Foreword ...
-}
+A Giovanni e alle mie figlie
+}}
 \vspace*{\fill}
 \pagenumbering{gobble}
 \newpage
