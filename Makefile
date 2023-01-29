@@ -10,7 +10,8 @@ TEMPLATEDIR=$(INPUTDIR)/templates
 STYLEDIR=$(BASEDIR)/style
 SCRATCHDIR=$(BASEDIR)/scratch
 
-BIBFILE=$(INPUTDIR)/references.bib
+#BIBFILE=$(INPUTDIR)/references.bib
+BIBFILE=$(INPUTDIR)/references.yaml
 
 DATE := $(shell date -Idate)
 TIME := $(shell date -Isec)

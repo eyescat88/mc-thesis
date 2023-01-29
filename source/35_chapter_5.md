@@ -51,7 +51,7 @@ Il _Defensor del Pueblo_ non può intervenire nelle controversie tra cittadini e
 [^506]: Cfr. art. 108, c. 1, LJCA.
 [^507]: Cfr. art. 112, LJCA.
 [^508]: Cfr. [@QueEsDefensor]
-[^509]: Cfr. [@puebloComoTePodemos]
+[^509]: Cfr. [@ComoTePodemos]
 
 <!--- }}} //////////////////////////////////////////////// --->
 

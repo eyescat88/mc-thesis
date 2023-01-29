@@ -90,32 +90,32 @@ Prima di ricorrere al _Défenseur des droits_ però, è necessario da parte dell
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^301]: Termine francese, utilizzato sia in Francia che in Italia, che significa _corrogare_, nel senso di chiedere una giornata di lavoro. Nel Medioevo, la _corvée_ indicava un'imposta, poi abolita durante la rivoluzione, che veniva richiesta dal signore ai suoi servi, da estinguere con un certo numero di giornate di lavoro - Cfr. [@dijauxCorvee]. Nella Francia dell'_Ancien régime_, il termine indicava le giornate di lavoro che i sudditi dovevano al re per la manutenzione delle strade pubbliche - Cfr. [@CorveeNellEnciclopedia].
+[^301]: Termine francese, utilizzato sia in Francia che in Italia, che significa _corrogare_, nel senso di chiedere una giornata di lavoro. Nel Medioevo, la _corvée_ indicava un'imposta, poi abolita durante la rivoluzione, che veniva richiesta dal signore ai suoi servi, da estinguere con un certo numero di giornate di lavoro - Cfr. [@dijauxCorvee]. Nella Francia dell'_Ancien régime_, il termine indicava le giornate di lavoro che i sudditi dovevano al re per la manutenzione delle strade pubbliche - Cfr. [@Corvee].
 [^302]: Cfr. il decreto 16 agosto 1790 sull'ordinamento giudiziario, in [@traviLezioniDiGiustizia2021], 8, 9: _"Le funzioni giurisdizionali sono distinte e rimangono sempre separate dalle funzioni amministrative. I giudici non potranno, sotto pena di prevaricazione, interferire in qualunque modo sulle operazioni dei corpi amministrativi, né citare avanti a sé gli amministratori a motivo dell'esercizio delle loro funzioni"_.
 [^303]: [@traviLezioniDiGiustizia2021], 9.
 [^304]: [@hauriouPrecisDroitAdministratif2002], 13 ss.
 [^305]: [@traviLezioniDiGiustizia2021], 11.
 [^306]: Cfr. [@PourquoiExistetilJustice]
-[^307]: Tre sono i gradi della giurisdizione amministrativa francese: i tribunali amministrativi (_tribunaux administratifs_), le corti amministrative d'Appello (_courts administratives d'Appel_) e il Consiglio di Stato, Cfr. [@JusticePortailOrdre]
+[^307]: Tre sono i gradi della giurisdizione amministrativa francese: i tribunali amministrativi (_tribunaux administratifs_), le corti amministrative d'Appello (_courts administratives d'Appel_) e il Consiglio di Stato, Cfr. [@OrdreAdministratif]
 [^308]: Cfr. _"juridictions placées au sommet de chacun des deux ordres de juridiction reconnus par la Constitution"_, _Décision du Conseil constitutionnel n° 2009-595 DC du 3 décembre 2009_, § 3, in [@Decision2009594DC]
 [^309]: Cfr. _Article L. 8-2 du code des tribunaux administratifs et des cours administratives d'appel_ in [@PouvoirInjonctionPrononce]. L'art. L. 8-2 utilizza testualmente i termini di _"jugement"_ e di _"arrêt"_, con cui rispettivamente si intendono le sentenze emesse dai tribunali amministrativi e le sentenze dei gradi successivi di giurisdizione, c.d. _Hautes jurisdictions_ o _jurisdictions souvraines_, Cfr. [@DifferenceEntreArret]
 [^310]: Cfr. art. L. 8-4 del _Code des tribunaux administratifs et des cours administratives d'appel_ in [@PouvoirInjonctionPrononce]
 [^311]: Cfr. [@de2013refere], p. 2137
-[^312]: Cfr. [@clevertodayPouvoirInjonctionJuge2020]
-[^313]: Cfr. _"Qu'est-ce que l'exécution des décisions?"_ in _L'exécution des décisions du Juge administratif_ in [@FichesPratiquesJustice] 
+[^312]: Cfr. [@bartolucciPouvoirInjonctionJuge2020]
+[^313]: Cfr. _"Qu'est-ce que l'exécution des décisions?"_ in _L'exécution des décisions du Juge administratif_ in [@ExecutionDecisionsJuge] 
 [^314]: Tradotto letteralmente come procedura di cospossanotrizione al pagamento, anche chiamata procedura di pagamento forzato.
 [^315]: Cfr. _"Comment faire exécuter les décisions rendues par le juge administratif?"_ in _L'exécution des décisions du juge administratif_ in [@FichesPratiquesJustice]
 [^316]: Cfr. _"Comment se déroule l'examen de ma demande d'exécution?"_ in _L'exécution des décisions du juge administratif_ in [@FichesPratiquesJustice]
 [^317]: Cfr. _"Que faire lorsque l'Administration n'exécute pas le jugement d'un tribunal administratif ou l'arrêt d'une cour d'appel?"_ in [@FichesPratiquesJustice]
-[^318]: Osserva D. DE PRETIS, _Il processo amministrativo in Europa_, cit., 84, che il problema dell'esecuzione della sentenza amministrativa risiede, nell'ordinamento francese così come in altri ordinamenti continentali, nella difficile coesistenza tra la riserva amministrativa del potere di rinnovare l'attività provvedimentale a seguito della decisione del giudice e la garanzia dell'effettività della tutela giurisdizionale e quindi dell'esecuzione delle statuizioni giudiziali.
-[^319]: La prima applicazione _ex officio_ di un'_astreinte_ si deve a CE 28 maggio 2001 (_Bandesapt_), in _Rec. Lebon 251_, nonché in _DA_ 2001, n. 176, con la quale lo Stato veniva condannato al pagamento di una sanzione pecuniaria di 10.000 franchi al giorno, per la mancata ottemperanza da parte del governo francese all'obbligo di emanare un regolamento come risultante da un decreto del 30 dicembre 1998.
+[^318]: @todo Osserva D. DE PRETIS, _Il processo amministrativo in Europa_, cit., 84, che il problema dell'esecuzione della sentenza amministrativa risiede, nell'ordinamento francese così come in altri ordinamenti continentali, nella difficile coesistenza tra la riserva amministrativa del potere di rinnovare l'attività provvedimentale a seguito della decisione del giudice e la garanzia dell'effettività della tutela giurisdizionale e quindi dell'esecuzione delle statuizioni giudiziali.
+[^319]: @todo La prima applicazione _ex officio_ di un'_astreinte_ si deve a CE 28 maggio 2001 (_Bandesapt_), in _Rec. Lebon 251_, nonché in _DA_ 2001, n. 176, con la quale lo Stato veniva condannato al pagamento di una sanzione pecuniaria di 10.000 franchi al giorno, per la mancata ottemperanza da parte del governo francese all'obbligo di emanare un regolamento come risultante da un decreto del 30 dicembre 1998.
 [^320]: Come da definizione data da FRANCESCO M. CARALLI, nell'articolo _Il nuovo giudizio di ottemperanza, con particolare riguardo alle astreintes_, in Italiappalti.it, 2017, 4.
 [^321]: [@ciaralliNuovoGiudizioDi]
 [^322]: Cfr. Art. 12, decreto n. 831 del 3 luglio 1995 - _CJA_, art. R 921-5.
 [^323]: Cfr. Art. 59, decreto n. 766 del 30 luglio 1963 e succ. mod. - _CJA_, art. R931-1 _et_ 2.
 [^324]: [@chapusDroitContentieuxAdministratif2008], 1132.
 [^325]: [@chapusDroitContentieuxAdministratif2008], 1135.
-[^326]: Cfr. _A quoi sert le mediateur de la Republique?_ in [@hellencourtQuoiSertMediateur2015]
+[^326]: Cfr. _A quoi sert le mediateur de la Republique?_ in [@dhellencourtQuoiSertMediateur2015]
 [^327]: Cfr. _Litige avec l'administration: saisir le Défenseur des droits_ in [@LitigeAvecAdministration]
 
 <!--- }}} //////////////////////////////////////////////// --->

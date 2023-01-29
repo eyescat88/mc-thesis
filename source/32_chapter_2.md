@@ -17,7 +17,7 @@ L'inottemperanza alla decisione sotto tale profilo, seppur non assistita da alcu
 [^226]: [@fromont1989esecuzione].
 [^227]: [@falconOrdinamentoProcessualeAmministrativo2000b]
 [^228]: Letteralmente "pretesa o diritto all'eliminazione delle conseguenze dell'atto".
-[^229]: P. BECKER, H. KUNI, _Probleme des verwaltungsgerichtlichen Vergabeverfahrens für Studienplätze in der Humanmedizin,_ in _DVBl_ 1976, 863.
+[^229]: @todo P. BECKER, H. KUNI, _Probleme des verwaltungsgerichtlichen Vergabeverfahrens für Studienplätze in der Humanmedizin,_ in _DVBl_ 1976, 863.
 [^230]: [@schenkeVerwaltungsgerichtsordnungKommentar2022] § 113, n. 91.
 [^231]: § 113/2, secondo alinea _VwGO_.
 [^232]: [@schenkeVerwaltungsgerichtsordnungKommentar2022] § 113, n. 87.
@@ -32,10 +32,10 @@ Per converso, ove l'amministrazione sia titolare di un più ampio potere discrez
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^233]: Il § 113/5 _VwGO_, così come tradotto da G. FALCON, C. FRAENKEL, _Ordinamento processuale, cit., 94_, recita: _"Nella misura in cui il rifiuto o l'omissione dell'atto amministrativo è illegittimo e l'attore ne risulta leso nei propri diritti, il tribunale dichiara l'obbligo dell'autorità amministrativa di porre in essere la richiesta attività dell'ufficio, se la questione è matura per la decisione. Altrimenti esso dichiara l'obbligo di decidere nei confronti dell'attore nel rispetto della concezione giuridica del tribunale_.
-[^234]: In [de2000processo] si rileva come in questo caso oggetto del giudizio non è, se non in un secondo momento, il provvedimento di espresso diniego di quanto richiesto dal privato, ma, in primo luogo, il provvedimento che l'amministrazione avrebbe dovuto assumere per soddisfare la pretesa sostanziale del ricorrente, per cui è tale ultimo atto che l'amministrazione sarà tenuta ad adottare a seguito dell'eventuale sentenza di accoglimento della _Verpflightungsklage_.
+[^233]: @todo Il § 113/5 _VwGO_, così come tradotto da G. FALCON, C. FRAENKEL, _Ordinamento processuale, cit., 94_, recita: _"Nella misura in cui il rifiuto o l'omissione dell'atto amministrativo è illegittimo e l'attore ne risulta leso nei propri diritti, il tribunale dichiara l'obbligo dell'autorità amministrativa di porre in essere la richiesta attività dell'ufficio, se la questione è matura per la decisione. Altrimenti esso dichiara l'obbligo di decidere nei confronti dell'attore nel rispetto della concezione giuridica del tribunale_.
+[^234]: In [@de2000processo] si rileva come in questo caso oggetto del giudizio non è, se non in un secondo momento, il provvedimento di espresso diniego di quanto richiesto dal privato, ma, in primo luogo, il provvedimento che l'amministrazione avrebbe dovuto assumere per soddisfare la pretesa sostanziale del ricorrente, per cui è tale ultimo atto che l'amministrazione sarà tenuta ad adottare a seguito dell'eventuale sentenza di accoglimento della _Verpflightungsklage_.
 [^235]: § 113/5 _VwGO_. Si parla in questo caso di _Bescheidungsurteil_.
-[^236]: G. FALCON, _Per una migliore giustizia amministrativa_, cit., 151.
+[^236]: @todo G. FALCON, _Per una migliore giustizia amministrativa_, cit., 151.
 
 <!--- }}} //////////////////////////////////////////////// --->
 
@@ -47,7 +47,7 @@ La sospensione cautelare non è però idonea a tutelare il ricorrente che lament
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
 [^237]: BVerwG, 21.06.1961, in _BVerwGE_ 13, 5.
-[^238]: B. MARCHETTI, _L'esecuzione della sentenza amministrativa_, cit., 46.
+[^238]: @todo B. MARCHETTI, _L'esecuzione della sentenza amministrativa_, cit., 46.
 
 <!--- }}} //////////////////////////////////////////////// --->
 
@@ -71,7 +71,7 @@ Per poter attivare la procedura esecutiva ai sensi del § 172 _VwGO_ nei confron
 [^239]: Sul punto si è pronunciata la Corte costituzionale tedesca in una decisione di notevole importanza, con cui, nella parte motiva, fa esplicito riferimento alle misure previste dai §§ da 885 a 896 _ZPO_ la cui scelta, in ordine alle modalità ed eventuale successione delle misure da adottare, sarà rimessa alla valutazione del giudice competente.
 [^240]: "L'Etat toujours doit être réputé  honnête homme", [@laferriere1896traite], 347 ss.
 [^241]: [@falconOrdinamentoProcessualeAmministrativo2000b], § 172, 138.
-[^242]: W. BANK, _Zwangsvollstreckung gegen Behörde_, cit., 62.
+[^242]: @todo W. BANK, _Zwangsvollstreckung gegen Behörde_, cit., 62.
 [^243]: [@remienRechtsverwirklichungDurchZwangsgeld1992], 11, 12.
 
 <!--- }}} //////////////////////////////////////////////// --->

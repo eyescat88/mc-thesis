@@ -97,8 +97,8 @@ Infine, in coerenza con il punto 6) "_seeking continuous improvement_", la corre
 [^405]: [@dalbertiDirittoAmministrativoComparato2019], 76.
 [^406]: [@nigro1974consiglio].
 [^407]: [@marshallFranksReportAdministrative1957]
-[^408]: S. CATTANEO, _"Agencies"_ e _"Regulation" nel Regno Unito_, in _Le autorità indipendenti_. _Da fattori evolutivi ad elementi della transizione nel diritto pubblico italiano_, a cura di S. Labriola, Milano, 1999, 253.
-[^409]: C. CATTANEO "Agencies" eu "Regulation" nel Regno Unito in "Le autorità indipendenti_. _Da fattori evolutivi ad elementi della transizione nel diritto pubblico italiano"_, cit., 460.
+[^408]: @todo S. CATTANEO, _"Agencies"_ e _"Regulation" nel Regno Unito_, in _Le autorità indipendenti_. _Da fattori evolutivi ad elementi della transizione nel diritto pubblico italiano_, a cura di S. Labriola, Milano, 1999, 253.
+[^409]: @todo C. CATTANEO "Agencies" eu "Regulation" nel Regno Unito in "Le autorità indipendenti_. _Da fattori evolutivi ad elementi della transizione nel diritto pubblico italiano"_, cit., 460.
 [^410]: [@Buck2007TribunalRI]
 [^411]: Secondo la definizione contenuta nel _White paper_: "_the aim is to develop a range of policies and services that, so far as possible, will help people to avoid problems and legal dispute in the first place, and where they cannot, provides tailored solutions to resolve the dispute as quickly and cost effectively as possible. It can be summed up as "proportionate dispute resolution"_.
 [^412]: [@ae58aae3e457425485dcebf1e158bb92], 117.
@@ -118,11 +118,11 @@ Infine, in coerenza con il punto 6) "_seeking continuous improvement_", la corre
 [^426]: [@forsythAdministrativeLaw2014], pp. 305 ss.
 [^427]: [@ryssdallOpinionComingAge1996], pp. 24 e ss.
 [^428]: "Complaints are made through Members of the Westminster Parliament and may be made by any member of the public, including a corporation" in _Parliamentary Commissioner Act, 1967_, ss. 5-6.
-[^429]: I rapporti del PO sono pubblicati online in [@ParliamentaryHealthService]
-[^430]: Richard Crossman: "bias, neglect, inattention, delay, incompetence, ineptitude, arbitrariness and so on" in [@dlsReginaLocalCommissioner2022], QB 287.
+[^429]: I rapporti del PO sono pubblicati online in [@PHSOPublications]
+[^430]: Richard Crossman: "bias, neglect, inattention, delay, incompetence, ineptitude, arbitrariness and so on" in [@ReginaLocalCommissioner2022], QB 287.
 [^431]: Cfr. [@ChallengingOurDecisions]
-[^432]:  Mark Sandford,  _House of Commons Library_, _The role of the Local Government Ombudsman_, _Complaints_, in _Briefing Paper Number_ 04117, 17 July 2017.
-[^433]: _Local Government Act 2000, section 92_.
+[^432]: @todo  Mark Sandford,  _House of Commons Library_, _The role of the Local Government Ombudsman_, _Complaints_, in _Briefing Paper Number_ 04117, 17 July 2017.
+[^433]: @todo _Local Government Act 2000, section 92_.
 [^434]: Cfr. [@ChallengingOurDecisions]
 [^435]: Cfr. [@PrinciplesGoodComplaint]
 [^436]: ad esempio, la _Community Legal Advice_ offre consulenza legale generale e L'_Independent Complaints Advocacy Service_ (ICAS) offre assistenza legale per i ricorrenti verso il _National Health Service_ (NHS).
