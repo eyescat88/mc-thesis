@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "31_chapter_1",
+      "path": "source/31_chapter_1.md"
+    },
+    {
+      "basename": "32_chapter_2",
+      "path": "source/32_chapter_2.md"
+    },
+    {
       "basename": "21_table_of_contents",
       "path": "source/21_table_of_contents.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "18_acknowledgements",
       "path": "source/18_acknowledgements.md"
-    },
-    {
-      "basename": "32_chapter_2",
-      "path": "source/32_chapter_2.md"
     },
     {
       "basename": "24_abbreviations",
@@ -47,10 +51,6 @@
     {
       "basename": "34_chapter_4",
       "path": "sample/34_chapter_4.md"
-    },
-    {
-      "basename": "31_chapter_1",
-      "path": "source/31_chapter_1.md"
     },
     {
       "basename": "CAPITOLO I",
