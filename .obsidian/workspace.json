@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/31_chapter_1.md",
+                "file": "source/33_chapter_3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/31_chapter_1.md",
+                "file": "source/33_chapter_3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/31_chapter_1.md",
+                "file": "source/33_chapter_3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/31_chapter_1.md"
+                "file": "source/33_chapter_3.md"
               }
             }
           },
@@ -175,15 +175,15 @@
   },
   "active": "eab458526ce7c031",
   "lastOpenFiles": [
+    "source/34_chapter_4.md",
+    "source/37_conclusion.md",
+    "source/35_chapter_5.md",
+    "source/33_chapter_3.md",
     "source/32_chapter_2.md",
+    "source/31_chapter_1.md",
     "source/21_table_of_contents.md",
     "source/02_statement.md",
-    "source/37_conclusion.md",
-    "source/33_chapter_3.md",
     "source/18_acknowledgements.md",
-    "source/24_abbreviations.md",
-    "source/35_chapter_5.md",
-    "source/34_chapter_4.md",
-    "source/15_abstract.md"
+    "source/24_abbreviations.md"
   ]
 }

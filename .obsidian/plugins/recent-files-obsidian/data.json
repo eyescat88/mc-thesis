@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "31_chapter_1",
-      "path": "source/31_chapter_1.md"
+      "basename": "33_chapter_3",
+      "path": "source/33_chapter_3.md"
+    },
+    {
+      "basename": "34_chapter_4",
+      "path": "source/34_chapter_4.md"
+    },
+    {
+      "basename": "37_conclusion",
+      "path": "source/37_conclusion.md"
+    },
+    {
+      "basename": "35_chapter_5",
+      "path": "source/35_chapter_5.md"
     },
     {
       "basename": "32_chapter_2",
       "path": "source/32_chapter_2.md"
+    },
+    {
+      "basename": "31_chapter_1",
+      "path": "source/31_chapter_1.md"
     },
     {
       "basename": "21_table_of_contents",
@@ -17,28 +33,12 @@
       "path": "source/02_statement.md"
     },
     {
-      "basename": "37_conclusion",
-      "path": "source/37_conclusion.md"
-    },
-    {
-      "basename": "33_chapter_3",
-      "path": "source/33_chapter_3.md"
-    },
-    {
       "basename": "18_acknowledgements",
       "path": "source/18_acknowledgements.md"
     },
     {
       "basename": "24_abbreviations",
       "path": "source/24_abbreviations.md"
-    },
-    {
-      "basename": "35_chapter_5",
-      "path": "source/35_chapter_5.md"
-    },
-    {
-      "basename": "34_chapter_4",
-      "path": "source/34_chapter_4.md"
     },
     {
       "basename": "15_abstract",
