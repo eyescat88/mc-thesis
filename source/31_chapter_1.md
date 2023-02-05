@@ -88,16 +88,3 @@ Sul piano dell'accertamento e della prova, se nel giudizio avente a oggetto il p
 
 <!--- }}} //////////////////////////////////////////////// --->
 
-<!--- {{{TODO: index.1 -------------------------------------
-
-- Azione amministrativa e Giustizia amministrativa
-- Evoluzione storica
-- Art. 113 Cost. - Diritti soggettivi e interessi legittimi oppositivi e pretensivi
-- Giurisdizione di legittimità e giurisdizione di merito
-- L’azione avverso il silenzio della P. A. – art. 31 c.p.a.
-- L’attuazione del giudicato: il giudizio di ottemperanza ex art. 112 c.p.a.
-- L’azione di condanna al pagamento e l’azione di risarcimento dei danni
-- La tutela in sede Amministrativa – i ricorsi gerarchici e i ricorsi in opposizione
-- Il ricorso straordinario al Presidente della Repubblica
-
-}}} ------------------------------------------------------- --->

@@ -55,11 +55,3 @@ Il _Defensor del Pueblo_ non può intervenire nelle controversie tra cittadini e
 
 <!--- }}} //////////////////////////////////////////////// --->
 
-<!--- {{{TODO: index.3 -------------------------------------
-
-- L'evoluzione dell'organizzazione della giustizia amministrativa
-- La legge riformatrice n. 29/1988
-- La Jurisdiccion Contencioso Administrativa
-- Il _Defensor del pueblo_ 
-
-}}} ------------------------------------------------------- --->

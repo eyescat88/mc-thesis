@@ -106,16 +106,3 @@ Per converso, l'art. 34 della _Grundnorm_ trasferisce la responsabilità sulla p
 
 <!--- }}} //////////////////////////////////////////////// --->
 
-<!--- {{{TODO: index.2 -------------------------------------
-
-- L’azione di annullamento (Anfechtungsklage) e l’azione di adempimento (Verplichtungsklage)
-- L’esecuzione delle sentenze del giudice amministrativo – Il Folgenbeseitigunganspruch (FBA)
-- Il contenzioso ingiuntivo: la c.d. Verpflichtungsklage
-- L’applicazione generalizzata della tutela cautelare
-- L’esecuzione dei provvedimenti cautelari positivi (§123 VwGO)
-- Le misure coercitive: lo Zwangsgeld (§172 VwGO)
-- Presupposti per l’attivazione della procedura esecutiva ai sensi del §172 VwGO
-- Minaccia, applicazione ed esecuzione dell’ammenda
-- Rapporto tra Zwangsgeld e il risarcimento del danno da violazione del giudicato
-
-}}} ------------------------------------------------------- --->
