@@ -6,7 +6,7 @@ Il legislatore tedesco ha affrontato il problema dell'esecuzione della sentenza 
 In questa prospettiva, è importante in primo luogo che gli obblighi dell'amministrazione derivanti dalla decisione del giudice amministrativo siano facili da assolvere e perfettamente determinati[^226].
 Con la legge del 21 gennaio 1960 _(VwGO - Verwaltungsgerichtsordnung)_ sull'ordinamento processuale amministrativo sono state introdotte due distinte azioni: una di impugnazione in senso stretto o di annullamento _(Anfechtungsklage)_ ed un'altra di condanna all'emissione di un dato provvedimento, altrimenti detta "di adempimento" _(Verplichtungsklage)_. Ove l'autorità emetta un provvedimento incidente negativamente nella sfera giuridica del destinatario, questi ricorrerrà alla _Anfechtungsklage_ facendone valere eventuali vizi; ove invece il privato aspiri ad ottenere un provvedimento ampliativo della propria posizione giuridica soggettiva e si veda opporre un rifiuto espresso oppure debba constatare l'inerzia dell'amministrazione, azionerà il rimedio della _Verplichtungsklage_, chiedendo la condanna al rilascio del provvedimento rifiutato od omesso.
 L'azione di annullamento o di impugnazione, così come quella di adempimento, sono disciplinate dal _§ 42 VwGO_ che al primo comma prevede che _"mediante azione può essere richiesto l'annullamento di un atto amministrativo"_ (azione di impugnazione), _"come pure la condanna all'emanazione di un atto amministrativo rifiutato od omesso"_ (azione di inadempimento) e al secondo comma che _"qualora la legge non disponga diversamente, l'azione è ammissibile solo quando l'attore fa valere di essere stato leso nei propri diritti dall'atto amministrativo o dal suo rifiuto od omissione"_[^227]. L'azione di annullamento è fondata allorquando ricorrano i requisiti previsti dal _§ 113 VwGO_, e cioè nella misura in cui l'atto risulti illegittimo e lesivo dei cosiddetti diritti civili pubblici dell'attore _(Kläger)_, quei diritti cioè che conferiscono al singolo la facoltà di pretendere dall'amministrazione una prestazione positiva o negativa. Verificata la sussistenza di questi presupposti, il tribunale potrà quindi annullare l'atto, ma la sentenza che conclude il giudizio di impugnazione potrà assumere un contenuto ulteriore e diverso dal mero annullamento del provvedimento impugnato, strettamente correlato all'attività esecutiva che l'amministrazione dovrebbe successivamente porre in essere per adeguarsi al _decisium_. L'effetto demolitorio del provvedimento illegittimo, previa la sospensione della sua efficacia esecutiva, potrebbe rendere non necessaria la successiva attività di adeguamento; diversamente, nell'ambito della stessa sentenza che definisce il giudizio cassatorio, è prevista la possibilità per il giudice di guidare l'amministrazione nella scelta delle modalità di esecuzione della sentenza, per il ripristino dello _status quo ante_ attraverso la cancellazione degli effetti che si sono nel frattempo prodotti. E' questo l'istituto del cosiddetto _Folgenbeseitigungsanspruch_[^228], indicato con l'abbreviazione _FBA_ e contemplato dal _§ 113/1_ secondo alinea _VwGO_, ove si prevede che _"se l'atto amministrativo è stato già eseguito, il tribunale può anche dichiarare, su richiesta, se e come l'autorità amministrativa debba revocare l'esecuzione"_. Il _FBA_ è autonomo rispetto all'azione di annullamento, inquadrabile fra le cosiddette azioni di prestazione, ancorché il giudice dell'impugnazione si pronunci sull'eliminazione degli effetti dell'atto con la medesima sentenza che definisce il giudizio cassatorio. L'utilizzo del termine "può" (Kann) da parte del legislatore indica la mera facoltà di cumulare la domanda di revoca dell'esecuzione a quella di annullamento dell'atto eseguito, ma ciò non esclude la possibilità di proporre separata istanza, instaurando un autonomo giudizio. Rimane impregiudicata la facoltà per il tribunale, ai sensi del _§ 93_ secondo alinea _VwGO_, di ordinare in ogni caso che le rispettive domande vengano trattate e decise in separati processi. Il c. 1, alinea terzo del _§113 VwGO_ stabilisce che la pretesa alla revoca dell'esecuzione è ammissibile solo laddove l'autorità amministrativa sia in grado di darvi seguito. In altri termini, l'attività di rimozione degli effetti dell'esecuzione del provvedimento annullato presuppone una prestazione possibile sotto il profilo giuridico-fattuale. Qualora l'amministrazione non sia in grado di ripristinare esattamente la situazione pregressa, dovrebbe ricostruirne una quantomeno simile a quella precedente l'esecuzione dell'atto annullato, in modo tale da eliminare al massimo i pregiudizi per il destinatario del provvedimento[^229]. Si ritiene inoltre che la revoca dell'esecuzione come disposta dal giudice possa consistere, oltre che nella rimozione di un'attività materiale dell'amministrazione, anche nell'adozione di un atto amministrativo, quale ad esempio l'ordine di sgombero di un appartamento a seguito dell'annullamento della confisca dell'immobile da parte delle forze di polizia, con susseguente sua occupazione da parte di un terzo[^230].
-Ulteriore presupposto di ammissibilità della pretesa, oltre al fatto che l'autorità sia in grado di darvi seguito, è che la questione sia matura per la decisione[^231]. Ciò significa che non deve più esserci necessità di accertare i fatti e non deve residuare alcuna discrezionalità in capo all'amministrazione per quanto riguarda le modalità di revoca dell'intervenuta esecuzione. Il _FBA_ sarà escluso laddove la rimozione delle conseguenze dell'esecuzione sia in contrasto con la legge al momento della decisione del tribunale[^232].
+Ulteriore presupposto di ammissibilità della pretesa, oltre al fatto che l'autorità sia in grado di darvi seguito, è che la questione sia matura per la decisione<!--[#231]-->. Ciò significa che non deve più esserci necessità di accertare i fatti e non deve residuare alcuna discrezionalità in capo all'amministrazione per quanto riguarda le modalità di revoca dell'intervenuta esecuzione. Il _FBA_ sarà escluso laddove la rimozione delle conseguenze dell'esecuzione sia in contrasto con la legge al momento della decisione del tribunale[^232].
 In definitiva, l'amministrazione che si trovi a dover eseguire la sentenza di annullamento e, quindi, a ripristinare la situazione esistente prima del provvedimento caducato, potrà essere guidata dal giudice nella scelta delle misure necessarie all'esecuzione del _dictum_ giudiziale, almeno per quel che concerne la rimozione degli effetti strettamente connessi all'esecuzione del provvedimento annullato.
 L'inottemperanza alla decisione sotto tale profilo, seppur non assistita da alcun meccanismo di coazione diretta, potrà tuttavia essere sanzionata attraverso l'attivazione della peculiare procedura di coercizione indiretta di cui al _§ 172 VwGO_, consistente nell'assegnazione da parte del giudice, su richiesta dell'interessato, di un termine per l'esecuzione della pronuncia e, nel caso di inosservanza del medesimo, nell'irrogazione di un'ammenda, lo _Zwangsgeld_.
 
@@ -14,13 +14,13 @@ L'inottemperanza alla decisione sotto tale profilo, seppur non assistita da alcu
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^226]: [@fromont1989esecuzione].
-[^227]: [@falconOrdinamentoProcessualeAmministrativo2000b]
+[^226]: In SFT, p. 82. Cfr. [@fromont1989esecuzione].
+[^227]: § 42 _VwGO_. Cfr. traduzione in [@falconOrdinamentoProcessualeAmministrativo2000b].
 [^228]: Letteralmente "pretesa o diritto all'eliminazione delle conseguenze dell'atto".
-[^229]: @todo P. BECKER, H. KUNI, _Probleme des verwaltungsgerichtlichen Vergabeverfahrens für Studienplätze in der Humanmedizin,_ in _DVBl_ 1976, 863.
-[^230]: [@schenkeVerwaltungsgerichtsordnungKommentar2022] § 113, n. 91.
-[^231]: § 113/2, secondo alinea _VwGO_.
-[^232]: [@schenkeVerwaltungsgerichtsordnungKommentar2022] § 113, n. 87.
+[^229]: In SFT, p. 89. <!-- P. BECKER, H. KUNI, _Probleme des verwaltungsgerichtlichen Vergabeverfahrens für Studienplätze in der Humanmedizin,_ in _DVBl_ 1976, 863. -->
+[^230]: § 113 _VwGO_. Cfr. [@schenkeVerwaltungsgerichtsordnungKommentar2022], n. 91.
+<!-- [#231]: § 113/2, secondo alinea _VwGO_. -->
+[^232]: § 113 _VwGO_. Cfr. [@schenkeVerwaltungsgerichtsordnungKommentar2022], n. 87.
 
 <!--- }}} //////////////////////////////////////////////// --->
 
@@ -32,10 +32,10 @@ Per converso, ove l'amministrazione sia titolare di un più ampio potere discrez
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^233]: @todo Il § 113/5 _VwGO_, così come tradotto da G. FALCON, C. FRAENKEL, _Ordinamento processuale, cit., 94_, recita: _"Nella misura in cui il rifiuto o l'omissione dell'atto amministrativo è illegittimo e l'attore ne risulta leso nei propri diritti, il tribunale dichiara l'obbligo dell'autorità amministrativa di porre in essere la richiesta attività dell'ufficio, se la questione è matura per la decisione. Altrimenti esso dichiara l'obbligo di decidere nei confronti dell'attore nel rispetto della concezione giuridica del tribunale_.
-[^234]: In [@de2000processo] si rileva come in questo caso oggetto del giudizio non è, se non in un secondo momento, il provvedimento di espresso diniego di quanto richiesto dal privato, ma, in primo luogo, il provvedimento che l'amministrazione avrebbe dovuto assumere per soddisfare la pretesa sostanziale del ricorrente, per cui è tale ultimo atto che l'amministrazione sarà tenuta ad adottare a seguito dell'eventuale sentenza di accoglimento della _Verpflightungsklage_.
+[^233]: In SFT, p. 94. Il § 113/5 _VwGO_, così come tradotto in [@falconOrdinamentoProcessualeAmministrativo2000b], recita: _"Nella misura in cui il rifiuto o l'omissione dell'atto amministrativo è illegittimo e l'attore ne risulta leso nei propri diritti, il tribunale dichiara l'obbligo dell'autorità amministrativa di porre in essere la richiesta attività dell'ufficio, se la questione è matura per la decisione. Altrimenti esso dichiara l'obbligo di decidere nei confronti dell'attore nel rispetto della concezione giuridica del tribunale"_.
+[^234]: In SFT, p. 95. Cfr. [@de2000processo]. <!-- si rileva come in questo caso oggetto del giudizio non è, se non in un secondo momento, il provvedimento di espresso diniego di quanto richiesto dal privato, ma, in primo luogo, il provvedimento che l'amministrazione avrebbe dovuto assumere per soddisfare la pretesa sostanziale del ricorrente, per cui è tale ultimo atto che l'amministrazione sarà tenuta ad adottare a seguito dell'eventuale sentenza di accoglimento della _Verpflightungsklage_. -->
 [^235]: § 113/5 _VwGO_. Si parla in questo caso di _Bescheidungsurteil_.
-[^236]: @todo G. FALCON, _Per una migliore giustizia amministrativa_, cit., 151.
+[^236]: In SFT, p. 83. Cfr. [@bronzettiMiglioreGiustiziaAmministrativa1996]
 
 <!--- }}} //////////////////////////////////////////////// --->
 
@@ -47,7 +47,7 @@ La sospensione cautelare non è però idonea a tutelare il ricorrente che lament
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
 [^237]: BVerwG, 21.06.1961, in _BVerwGE_ 13, 5.
-[^238]: @todo B. MARCHETTI, _L'esecuzione della sentenza amministrativa_, cit., 46.
+[^238]: In SFT, p. 98. Cfr. [@marchettiEsecuzioneSentenzaAmministrativa2000a], 46.
 
 <!--- }}} //////////////////////////////////////////////// --->
 
@@ -69,10 +69,10 @@ Per poter attivare la procedura esecutiva ai sensi del § 172 _VwGO_ nei confron
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
 [^239]: Sul punto si è pronunciata la Corte costituzionale tedesca in una decisione di notevole importanza, con cui, nella parte motiva, fa esplicito riferimento alle misure previste dai §§ da 885 a 896 _ZPO_ la cui scelta, in ordine alle modalità ed eventuale successione delle misure da adottare, sarà rimessa alla valutazione del giudice competente.
-[^240]: "L'Etat toujours doit être réputé  honnête homme", [@laferriere1896traite], 347 ss.
-[^241]: [@falconOrdinamentoProcessualeAmministrativo2000b], § 172, 138.
-[^242]: @todo W. BANK, _Zwangsvollstreckung gegen Behörde_, cit., 62.
-[^243]: [@remienRechtsverwirklichungDurchZwangsgeld1992], 11, 12.
+[^240]: In SFT, p. 114, l'autore riporta l'espressione "L'Etat toujours doit être réputé honnête homme", da [@laferriere1896traite].
+[^241]: § 172 _VwGO_. Cfr. traduzione in [@falconOrdinamentoProcessualeAmministrativo2000b].
+[^242]: In SFT, p. 115. <!-- W. BANK, _Zwangsvollstreckung gegen Behörde_, cit., 62. -->
+[^243]: In SFT, p. 120. Cfr. [@remienRechtsverwirklichungDurchZwangsgeld1992], 11, 12.
 
 <!--- }}} //////////////////////////////////////////////// --->
 
@@ -83,9 +83,9 @@ Avverso la decisione sul predetto ricorso, non è dato alcun ulteriore mezzo di 
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^244]: [@schochVerwaltungsrechtVwGOKommentar2020] §172, n. 52.
-[^245]: [@schochVerwaltungsrechtVwGOKommentar2020] §167, n. 5.
-[^246]: _BVerwG 26.10.1984, in _NVwZ_ 1985, 563.
+[^244]: § 172 _VwGO_. Cfr. [@schochVerwaltungsrechtVwGOKommentar2020], n. 52.
+[^245]: § 167 _VwGO_. Cfr. [@schochVerwaltungsrechtVwGOKommentar2020], n. 5.
+[^246]: _BVerwG_ 26.10.1984, in _NVwZ_ 1985, 563.
 
 <!--- }}} //////////////////////////////////////////////// --->
 
@@ -101,8 +101,8 @@ Per converso, l'art. 34 della _Grundnorm_ trasferisce la responsabilità sulla p
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^247]: [@detterbeckAllgemeinesVerwaltungsrechtMit2022], 379.
-[^248]: U. KARPEN, _L'esperienza della Germania_, in [@soraceResponsabilitaPubblicaNell1994].
+[^247]: In SFT, p. 184. Cfr. [@detterbeckAllgemeinesVerwaltungsrechtMit2022], 379.
+[^248]: In SFT, p. 184. Cfr. [@karpenEsperienzaGermania1994].
 
 <!--- }}} //////////////////////////////////////////////// --->
 

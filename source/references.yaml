@@ -43,6 +43,21 @@ references:
   type: webpage
   URL: https://tinyurl.com/4sfhd3ux
 
+- id: bronzettiMiglioreGiustiziaAmministrativa1996
+  author:
+    - family: Bronzetti
+      given: Gianfranco
+  citation-key: bronzettiMiglioreGiustiziaAmministrativa1996
+  container-title: Informator
+  issue: '1'
+  issued:
+    - year: 1996
+  page: 139 - 162
+  title: >-
+    Per una migliore giustizia amministrativa: spunti comparatistici con
+    particolare riferimento all'ordinamento della Repubblica federale tedesca
+  type: article-journal
+
 - id: Buck2007TribunalRI
   author:
     - family: Buck
@@ -112,6 +127,28 @@ references:
     Il privato e il procedimento amministrativo: una analisi della legislazione
     e della giurisprudenza
   type: book
+
+- id: cattaneoAgenciesRegulationNel1999
+  author:
+    - family: Cattaneo
+      given: Salvatore
+  call-number: KKH2610 .A985 1999
+  citation-key: cattaneoAgenciesRegulationNel1999
+  container-title: >-
+    Le autorità indipendenti: da fattori evolutivi ad elementi della transizione
+    nel diritto pubblico italiano
+  editor:
+    - family: Labriola
+      given: Silvano
+  event-place: Milano
+  ISBN: 978-88-14-07741-8
+  issued:
+    - year: 1999
+  publisher: Giuffrè
+  publisher-place: Milano
+  source: Library of Congress ISBN
+  title: Agencies e regulation nel Regno Unito
+  type: chapter
 
 - id: ChallengingOurDecisions
   abstract: >-
@@ -298,15 +335,20 @@ references:
 - id: de2000processo
   author:
     - family: De Pretis
-      given: D.
+      given: Daria
+  citation-key: de2000processo
+  edition: Ed. provvisoria
+  editor:
     - family: Paganella
       given: Rotooffset
-  citation-key: de2000processo
+  event-place: Trento
   issued:
     - year: 2000
+  number-of-pages: '226'
+  publisher-place: Trento
   title: >-
-    Il processo amministrativo in europa: caratteri e tendenze in francia,
-    germania, gran bretagna e nell'Unione europea
+    Il processo amministrativo in europa: caratteri e tendenze in Francia,
+    Germania, Gran Bretagna e nell'Unione europea
   type: book
   URL: https://books.google.it/books?id=YXWWMwEACAAJ
 
@@ -483,10 +525,10 @@ references:
   language: fr
   note: >-
     Origin:
-    http://paris.cour-administrative-appel.fr/Demarches-procedures/Les-fiches-pratiques-de-la-justice-administrative
+    http://paris.tribunal-administratif.fr/Demarches-procedures/Les-fiches-pratiques-de-la-justice-administrative
   title: Les fiches pratiques de la justice administrative
   type: webpage
-  URL: https://tinyurl.com/4e6ca35u
+  URL: https://tinyurl.com/3fw67rwb
 
 - id: forsythAdministrativeLaw2014
   author:
@@ -609,6 +651,28 @@ references:
   title: Précis de droit administratif et de droit public
   type: book
 
+- id: karpenEsperienzaGermania1994
+  author:
+    - family: Karpen
+      given: Ulrich
+  citation-key: karpenEsperienzaGermania1994
+  collection-number: '39'
+  collection-title: Organizzazione e funzionamento della pubblica amministrazione
+  container-title: La responsabilità pubblica nell'esperienza giuridica europea
+  editor:
+    - family: Sorace
+      given: Domenico
+  event-place: Bologna
+  ISBN: 978-88-15-04546-1
+  issued:
+    - year: 1994
+  language: ita
+  publisher: Il Mulino
+  publisher-place: Bologna
+  source: K10plus ISBN
+  title: L’esperienza della Germania
+  type: chapter
+
 - id: laferriere1896traite
   author:
     - family: Laferrière
@@ -652,6 +716,23 @@ references:
   type: webpage
   URL: https://www.service-public.fr/particuliers/vosdroits/F13158
 
+- id: manciniResponsabilitaPubblicaAmministrazione2003
+  author:
+    - family: Mancini
+      given: Laura
+  citation-key: manciniResponsabilitaPubblicaAmministrazione2003
+  container-title: Il Foro amministrativo - CdS
+  issue: '12'
+  issued:
+    - year: 2003
+  page: 3700 - 3724
+  title: >-
+    La responsabilità della pubblica amministrazione per inottemperanza al
+    giudicato amministrativo di annullamento(nota a Cons.St.,sez.IV,6 ottobre
+    2003 n.5820)
+  type: article-journal
+  volume: '2'
+
 - id: marchettiEsecuzioneSentenzaAmministrativa2000
   author:
     - family: Marchetti
@@ -668,6 +749,25 @@ references:
   publisher: CEDAM
   publisher-place: Padova
   source: K10plus ISBN
+  title: L'esecuzione della sentenza amministrativa prima del giudicato
+  type: book
+
+- id: marchettiEsecuzioneSentenzaAmministrativa2000a
+  author:
+    - family: Marchetti
+      given: Barbara
+  call-number: 342.450 66
+  citation-key: marchettiEsecuzioneSentenzaAmministrativa2000a
+  collection-number: '32'
+  collection-title: Dipartemento di scienze giuridiche
+  event-place: Padova
+  ISBN: 978-88-13-22816-3
+  issued:
+    - year: 2000
+  language: ita
+  publisher: CEDAM
+  publisher-place: Padova
+  source: BnF ISBN
   title: L'esecuzione della sentenza amministrativa prima del giudicato
   type: book
 
@@ -1062,6 +1162,28 @@ references:
   title: The Local Government Ombudsman
   type: article-journal
 
+- id: sandfordLocalGovernmentOmbudsman2023
+  abstract: >-
+    This standard note provides information on the Local Government Ombudsman
+    service.
+  accessed:
+    - year: 2023
+      month: 2
+      day: 5
+  author:
+    - family: Sandford
+      given: Mark
+  citation-key: sandfordLocalGovernmentOmbudsman2023
+  issued:
+    - year: 2023
+      month: 5
+      day: 2
+  language: en-GB
+  source: commonslibrary.parliament.uk
+  title: The Local Government Ombudsman
+  type: article-journal
+  URL: https://commonslibrary.parliament.uk/research-briefings/sn04117/
+
 - id: sandulliEffettivitaDecisioniGiurisdizionali1983
   author:
     - family: Sandulli
@@ -1145,25 +1267,6 @@ references:
     tedesca: le soluzioni al problema dell'inottemperanza
   type: thesis
   URL: http://eprints-phd.biblio.unitn.it/312/2/Secchi_tesi_dottorato.pdf
-
-- id: soraceResponsabilitaPubblicaNell1994
-  citation-key: soraceResponsabilitaPubblicaNell1994
-  collection-number: '39'
-  collection-title: Organizzazione e funzionamento della pubblica amministrazione
-  editor:
-    - family: Sorace
-      given: Domenico
-  event-place: Bologna
-  ISBN: 978-88-15-04546-1
-  issued:
-    - year: 1994
-  language: ita
-  number-of-pages: '561'
-  publisher: Il Mulino
-  publisher-place: Bologna
-  source: K10plus ISBN
-  title: La responsabilità pubblica nell'esperienza giuridica europea
-  type: book
 
 - id: traviLezioniDiGiustizia2021
   author:

@@ -18,7 +18,6 @@
 \textbf{D.Lgs.} \> Decreto legislativo \\
 
  \> \\
- \> \\
 \textsc{Germania} \> \\
  \> \\
 \textbf{BVerwG} \> Bundesverwaltungsgericht \\
@@ -27,13 +26,15 @@
 \textbf{NVwZ} \> Neue Zeitschrift für Verwaltungsrecht \\
 \textbf{VwGO} \> Verwaltungsgerichtsordnung \\
  \> \\
- \> \\
 \textsc{Francia} \> \\
  \> \\
+\textbf{C. trib. mar} \> Code des Tribunaux Administratifs et Cours Administratives d’Appel \\
+\textbf{CAA} \> Cour Administrative d'Appel \\
+\textbf{CC} \> Conseil Constitutionnel \\
 \textbf{CJA} \> Code de Justice Administrative \\
 \textbf{CE} \> Conseil d'Etat \\
 \textbf{DA} \> Droit Administratif \\
- \> \\
+\textbf{TA} \> Tribunal administratif \\
  \> \\
 \textsc{Regno Unito} \> \\
  \> \\
@@ -41,7 +42,6 @@
 \textbf{CJCA} \> Criminal Justice and Courts Act \\
 \textbf{HRA} \> Human Rights Act \\
 \textbf{QB} \> Queen's Bench \\
- \> \\
  \> \\
 \textsc{Spagna} \> \\
  \> \\
