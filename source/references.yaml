@@ -333,6 +333,7 @@ references:
   type: book
 
 - id: de2000processo
+  abstract: 'Origin: https://books.google.it/books?id=YXWWMwEACAAJ'
   author:
     - family: De Pretis
       given: Daria
@@ -350,7 +351,7 @@ references:
     Il processo amministrativo in europa: caratteri e tendenze in Francia,
     Germania, Gran Bretagna e nell'Unione europea
   type: book
-  URL: https://books.google.it/books?id=YXWWMwEACAAJ
+  URL: https://tinyurl.com/2p8bjs4u
 
 - id: de2013refere
   author:

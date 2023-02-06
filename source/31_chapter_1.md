@@ -36,7 +36,7 @@ L'ampia gamma di poteri spendibili dal giudice dell'ottemperanza ammanta lo stes
 [^105]: In SFT, p. 46. Cfr. Corte Cost., ord. 10 dicembre 1998, n. 406, in _Foro amm._, 2000, 751.
 [^106]: Art. 114, c. 2, c.p.a.
 [^107]: Art. 113 c.p.a.
-[^108]: Cfr. Cons. Stato, sez. IV, 9 ottobre 2002, n. 5352.
+[^108]: Cons. Stato, sez. IV, 9 ottobre 2002, n. 5352.
 [^109]: Art. 114, c. 4, lett. c.
 [^110]: In SFT, p. 39. Cfr. Cons. Stato, sez. IV, 10 aprile 1998, n. 565, in _Foro amm._, 1998, 1021 ove si chiarisce che "Il ricorso per l'ottemperanza è ammissibile non solo quando l'amministrazione mantiene un comportamento inerte di fronte al decisium del giudice, ma anche quando il provvedimento da essa adottato, in affermata ottemperanza al giudicato stesso, è invece palesemente elusivo dei principi e delle regole in esso enunciati. Ciò in quanto il giudicato amministrativo ha un contenuto complesso, non limitato agli effetti demolitori e ripristinatori rivolti al passato, ma comprensivo anche degli effetti confermativi rivolti al futuro e consistenti nei vincoli imposti all'autorità amministrativa nella rinnovazione del provvedimento annullato, in relazione ai vizi di legittimità riconosciuti esistenti".
 [^111]: In SFT, p. 43. Cfr. [@fraenkel-haeberleGiurisdizioneSulSilenzio2004]
@@ -62,9 +62,9 @@ Molti dei casi d'inosservanza delle sentenze del giudice amministrativo non sono
 [^114]: In SFT, p. 62. Cfr. Corte Cost., 12 maggio 1977, n. 75, in _Giur. it.,_ 1978, I, 980.
 [^115]: In SFT, p. 62. Cfr. [@pelilloGiudizioDiOttemperanza1990]
 [^116]: In SFT, p. 43. Cfr. [@sandulliEffettivitaDecisioniGiurisdizionali1983], 308, 309.
-[^117]: Cfr. Cons. St., sez. V, 28 febbraio 1995, n. 298, in _Cons. Stato_, 1995, I, 232 ss.
-[^118]: Cfr. Cons. St., Ad. Plen., 25 maggio 2021, n. 8.
-[^120]: Cfr. Cons. St., sez. VI, 19 giugno 2012, n. 3569.
+[^117]: Cons. St., sez. V, 28 febbraio 1995, n. 298, in _Cons. Stato_, 1995, I, 232 ss.
+[^118]: Cons. St., Ad. Plen., 25 maggio 2021, n. 8.
+[^120]: Cons. St., sez. VI, 19 giugno 2012, n. 3569.
 
 <!--- }}} //////////////////////////////////////////////// --->
 
@@ -80,11 +80,10 @@ Sul piano dell'accertamento e della prova, se nel giudizio avente a oggetto il p
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^121]: Cfr. Cons. St., sez. IV, 30 gennaio 2006, n. 290, in _Dir. giust._, 2006, 10, 80 ove si afferma che il proprietario del fondo illegittimamente occupato dalla p.a. in esito a declaratoria di illegittimità dell'occupazione e all'annullamento dei relativi provvedimenti può legittimamente domandare nel giudizio di ottemperanza sia il risarcimento, sia la restituzione del fondo che la sua riduzione in pristino. L'azione risarcitoria costituisce strutturalmente attuazione del _decisium_ e quindi trova la sua naturale allocazione nel giudizio di ottemperanza, in quanto consente e determina quell'adeguamento dello stato di fatto allo stato di diritto che rappresenta la finalità tipica del giudizio di ottemperanza, realizzando quell'esigenza di completamento della tutela giurisdizionale amministrativa, ribadita anche dalla Consulta con sentenza n. 204/2004.
+[^121]: Cons. St., sez. IV, 30 gennaio 2006, n. 290, in _Dir. giust._, 2006, 10, 80 ove si afferma che il proprietario del fondo illegittimamente occupato dalla p.a. in esito a declaratoria di illegittimità dell'occupazione e all'annullamento dei relativi provvedimenti può legittimamente domandare nel giudizio di ottemperanza sia il risarcimento, sia la restituzione del fondo che la sua riduzione in pristino. L'azione risarcitoria costituisce strutturalmente attuazione del _decisium_ e quindi trova la sua naturale allocazione nel giudizio di ottemperanza, in quanto consente e determina quell'adeguamento dello stato di fatto allo stato di diritto che rappresenta la finalità tipica del giudizio di ottemperanza, realizzando quell'esigenza di completamento della tutela giurisdizionale amministrativa, ribadita anche dalla Consulta con sentenza n. 204/2004.
 [^122]: Il ritardo produttivo del danno deriva dal fatto che l'amministrazione ha prima adottato un provvedimento illegittimo, sfavorevole al privato (es. diniego di permesso di costruire), ed ha poi emanato altro provvedimento, questa volta legittimo e favorevole, a seguito dell'annullamento in sede giurisdizionale del primo atto. Cfr. R. CHIEPPA, V. LOPILATO, _Studi di diritto amministrativo_, Milano, 2007, 624, 625.
-[^123]: Cfr. Cons. St., sez. IV, 31 marzo 2006, n. 5323, in _Foro amm. CS_, 2006, 9, 2585 - nelle ipotesi nelle quali l'amministrazione sia titolare di un potere discrezionale, solo dal nuovo esercizio del potere possono derivare certezze in ordine alla spettanza del bene cui il privato aspira. Per converso, allorché si tratti di attività vincolata, il giudice, riscontrata la sussistenza dei presupposti di legge, potrà stabilire che, data quella situazione, la p.a. avrebbe dovuto adottare quella certa determinazione.
+[^123]: Cons. St., sez. IV, 31 marzo 2006, n. 5323, in _Foro amm. CS_, 2006, 9, 2585 - nelle ipotesi nelle quali l'amministrazione sia titolare di un potere discrezionale, solo dal nuovo esercizio del potere possono derivare certezze in ordine alla spettanza del bene cui il privato aspira. Per converso, allorché si tratti di attività vincolata, il giudice, riscontrata la sussistenza dei presupposti di legge, potrà stabilire che, data quella situazione, la p.a. avrebbe dovuto adottare quella certa determinazione.
 [^124]: In SFT, pp. 68. Cfr. [@manciniResponsabilitaPubblicaAmministrazione2003], nota 22, 3708.
 [^125]: In SFT, pp. 77. Cfr. [@manciniResponsabilitaPubblicaAmministrazione2003], nota 73, 3723.
 
 <!--- }}} //////////////////////////////////////////////// --->
-
