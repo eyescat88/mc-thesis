@@ -15,9 +15,9 @@
 **** DONE index
 *** TODO Secchi
 **** TODO SFT refs
-**** TODO no acknoledge
+**** DONE no acknoledge
 *** TODO Text
-**** TODO indirect prose
+**** DONE indirect prose
 *** TODO Style
 **** TODO latin CSL
 **** TODO short form

@@ -108,8 +108,8 @@ Prima di ricorrere al _Défenseur des droits_ però, è necessario da parte dell
 [^315]: Cfr. _"Comment faire exécuter les décisions rendues par le juge administratif?"_ in [@ExecutionDecisionsJuge]
 [^316]: Cfr. _"Comment se déroule l'examen de ma demande d'exécution?"_ in [@ExecutionDecisionsJuge]
 [^317]: Cfr. _"Que faire lorsque l'Administration n'exécute pas le jugement d'un tribunal administratif ou l'arrêt d'une cour d'appel?"_ in [@FichesPratiquesJustice]
-[^318]: In SFT, p. 204, l'autore riprende [@de2000processo], che osserva come il problema dell'esecuzione della sentenza amministrativa risiede, nell'ordinamento francese così come in altri ordinamenti continentali, nella difficile coesistenza tra la riserva amministrativa del potere di rinnovare l'attività provvedimentale a seguito della decisione del giudice e la garanzia dell'effettività della tutela giurisdizionale e quindi dell'esecuzione delle statuizioni giudiziali.
-[^319]: In SFT, p. 205, l'autore descrive il primo caso di applicazione _ex officio_ di un'_astreinte_ (CE 28 maggio 2001).
+[^318]: In F. Secchi, _op. cit._, p. 204, l'autore riprende [@de2000processo], che osserva come il problema dell'esecuzione della sentenza amministrativa risiede, nell'ordinamento francese così come in altri ordinamenti continentali, nella difficile coesistenza tra la riserva amministrativa del potere di rinnovare l'attività provvedimentale a seguito della decisione del giudice e la garanzia dell'effettività della tutela giurisdizionale e quindi dell'esecuzione delle statuizioni giudiziali.
+[^319]: In F. Secchi, _op. cit._, p. 205, l'autore descrive il primo caso di applicazione _ex officio_ di un'_astreinte_ (CE 28 maggio 2001).
 [^320]: Cfr. definizione in [@ciaralliNuovoGiudizioDi].
 [^321]: Cfr. [@ciaralliNuovoGiudizioDi]
 [^322]: Art. 12, decreto n. 831 del 3 luglio 1995 - _CJA_, art. R 921-5.
