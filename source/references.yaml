@@ -192,6 +192,26 @@ references:
   title: Droit du contentieux administratif
   type: book
 
+- id: chieppaStudiDiDiritto2007
+  author:
+    - family: Chieppa
+      given: Roberto
+    - family: Lopilato
+      given: Vincenzo
+  citation-key: chieppaStudiDiDiritto2007
+  collection-title: Percorsi Giuffrè
+  event-place: Milano
+  ISBN: 978-88-14-12742-7
+  issued:
+    - year: 2007
+  language: ita
+  number-of-pages: '925'
+  publisher: Giuffrè
+  publisher-place: Milano
+  source: K10plus ISBN
+  title: Studi di diritto amministrativo
+  type: book
+
 - id: ciaralliNuovoGiudizioDi
   abstract: >-
     Il giudizio di ottemperanza rappresenta uno strumento indispensabile per

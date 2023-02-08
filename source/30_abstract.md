@@ -1,6 +1,3 @@
-\pagenumbering{roman}
-\setcounter{page}{1}
-
 # Introduzione {.unnumbered}
 
 <!-- begin{abstract} -->

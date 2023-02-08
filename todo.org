@@ -1,0 +1,29 @@
+# ---
+#+TITLE: todo.org: doc TODOs
+#+SUBTITLE: thesis todo 
+#+AUTHOR: --
+#+DATE: <2023-02-08>
+# ---
+
+
+* @TASKS
+** TODO Final Review
+*** TODO Sequence
+**** TODO final (no num)
+**** TODO abstract (no num)
+**** TODO ack order
+**** TODO index
+*** TODO Secchi
+**** TODO SFT refs
+**** TODO no acknoledge
+*** TODO Text
+**** TODO indirect prose
+*** TODO Style
+**** TODO latin CSL
+**** TODO short form
+*** TODO Legal
+**** TODO legal citation
+**** TODO legal acronyms
+*** TODO Sites
+**** TODO untiny
+**** TODO anon author

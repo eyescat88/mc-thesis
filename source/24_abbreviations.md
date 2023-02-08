@@ -3,7 +3,6 @@
 \begin{tabbing}
 \hspace{12em} \= \hspace{60em} \= \kill
 \textsc{Italia} \> \\
- \> \\
 \textbf{c.p.a.} \> Codice del Processo Amministrativo \\
 \textbf{P. A.} \> Pubblica Amministrazione \\
 \textbf{D.L.} \> Decreto legge \\
@@ -19,7 +18,6 @@
 
  \> \\
 \textsc{Germania} \> \\
- \> \\
 \textbf{BVerwG} \> Bundesverwaltungsgericht \\
 \textbf{BVerwGE} \> Entscheidungen des Bundesverwaltungsgerichts \\
 \textbf{FBA} \> Folgenbeseitigungsanspruch \\
@@ -27,8 +25,8 @@
 \textbf{VwGO} \> Verwaltungsgerichtsordnung \\
  \> \\
 \textsc{Francia} \> \\
- \> \\
-\textbf{C. trib. mar} \> Code des Tribunaux Administratifs et Cours Administratives d’Appel \\
+\textbf{C. trib. mar} \> Code des Tribunaux Administratifs \\
+\textbf{} \>   et des Cours Administratives d’Appel \\
 \textbf{CAA} \> Cour Administrative d'Appel \\
 \textbf{CC} \> Conseil Constitutionnel \\
 \textbf{CJA} \> Code de Justice Administrative \\
@@ -37,14 +35,12 @@
 \textbf{TA} \> Tribunal administratif \\
  \> \\
 \textsc{Regno Unito} \> \\
- \> \\
 \textbf{CPR} \> Civil Procedure Rules \\
 \textbf{CJCA} \> Criminal Justice and Courts Act \\
 \textbf{HRA} \> Human Rights Act \\
 \textbf{QB} \> Queen's Bench \\
  \> \\
 \textsc{Spagna} \> \\
- \> \\
 \textbf{LJCA} \> Ley de la Jurisdicción Contencioso-Administrativa \\
 
 \end{tabbing}
