@@ -8,11 +8,11 @@
 
 * @TASKS
 ** TODO Final Review
-*** TODO Sequence
-**** TODO final (no num)
-**** TODO abstract (no num)
-**** TODO ack order
-**** TODO index
+*** DONE Sequence
+**** DONE final (no num)
+**** DONE abstract (no num)
+**** DONE ack order
+**** DONE index
 *** TODO Secchi
 **** TODO SFT refs
 **** TODO no acknoledge
