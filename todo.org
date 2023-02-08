@@ -13,8 +13,8 @@
 **** DONE abstract (no num)
 **** DONE ack order
 **** DONE index
-*** TODO Secchi
-**** TODO SFT refs
+*** DONE Secchi
+**** DONE SFT refs
 **** DONE no acknoledge
 *** TODO Text
 **** DONE indirect prose
