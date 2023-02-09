@@ -8,10 +8,10 @@
 #+STARTUP: contents
 
 
-* SETUP
-** Text
-  * [[file:pandoc/readme.org][pandoc/tex setup]]
-** Deps
-  * [[file:python/readme.org][python setup]]
+* USAGE
+** Editors
+  * [[file:editors/readme.org][editor applications]]
+** Commands
+  * [[file:commands/readme.org][useful commands]]
   
 

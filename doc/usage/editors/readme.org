@@ -1,0 +1,41 @@
+
+# ---
+#+TITLE: editor applicaton
+#+SUBTITLE:  markdown, bibliography
+#+AUTHOR:
+#+DATE: <2022-07-14>
+# ---
+#+OPTIONS: toc:nil h:4
+#+STARTUP: contents
+
+
+* APPLICATIONS
+
+** Editors
+*** general
+   * [[https://www.gnu.org/software/emacs/][GNU Emacs]]
+   * [[https://code.visualstudio.com/][Visual Studio Code]]
+
+*** markdown
+   * [[https://obsidian.md/][Obsidian]]
+   
+*** pdf
+   * [[https://www.foxit.com/pdf-reader/][FoxIt Reader]]
+   * [[https://github.com/Lunarequest/NightPDF][NightPDF]]
+     
+
+** Bibliography Managers
+*** zotero
+   * [[https://www.zotero.org/][Zotero personal research assistant]]
+   * [[https://www.zotero.org/styles][Zotero Style Repository]]
+   
+*** csl
+   * [[https://editor.citationstyles.org/][Visual CSL Editor]]
+
+
+   
+
+
+
+
+

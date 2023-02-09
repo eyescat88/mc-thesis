@@ -13,25 +13,6 @@
 :END:
 
 
-* @TASKS
-** TODO Python Project Environment
-*** TODO makefile setup
-**** TODO pyenv install setup
-**** TODO poetry makefile setup
-*** TODO makefile tasks
-**** TODO unit test
-**** TODO lint, check 
-**** TODO dist package
-*** TODO podman support
-**** TODO pyenv image layer
-**** TODO poetry image layer
-**** TODO runtime image layer
-**** TODO worker image layer
-*** TODO job tracking
-**** TODO job entry args
-**** TODO job logging
-**** TODO job tracking
-
 
 * REFERENCES
 ** pyenv references

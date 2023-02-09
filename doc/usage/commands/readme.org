@@ -1,0 +1,68 @@
+# ---
+#+TITLE: document production: useful commands
+#+SUBTITLE:  makefile invocation, git commits
+#+AUTHOR: --
+#+DATE: <2023-02-09>
+# ---
+
+#+PROPERTY: header-args:bash :dir /ssh:nvs@s60|sudo:dsuser@s60:/home/dsuser
+
+:PROPERTIES:
+:header-args:R:          :session *R*
+:END:
+
+* Pipelines
+** Makefile invokation
+*** PDF Only
+
+#+NAME: build.pdf
+#+HEADER: :dir ../..
+#+BEGIN_SRC bash
+
+  make pdf || echo "@FAIL($?)!"; /bin/grep -e '@todo' -e 'todo\\\?' pandoc.pdf.log ; /bin/grep -e Citeproc -e ^This -e ^Output pandoc.pdf.log
+
+#+END_SRC
+
+
+#+NAME: make.pdf
+#+HEADER: :dir ../..
+#+BEGIN_SRC bash
+
+  tx=1; make pdf; xdg-open output/thesis.pdf
+
+#+END_SRC
+
+*** PDF+DOCX (tex) Full
+
+#+NAME: make.all
+#+HEADER: :dir ../..
+#+BEGIN_SRC bash
+
+  tx=3; make all; xdg-open output/thesis.pdf; xdg-open drafts/$(ls -r drafts | head -n 1)
+
+#+END_SRC
+
+
+* Repository
+** Save
+*** commit
+
+#+NAME: git.commit
+#+HEADER: :dir ../..
+#+BEGIN_SRC bash
+
+gs=1; git status; git add .; git commit -m "up: $(date)";  git pull; git push; git status
+
+#+END_SRC
+
+
+*** tags
+
+#+NAME: git.tag
+#+HEADER: :dir ../..
+#+BEGIN_SRC bash
+
+gs=9; TAG='v1.0.0'; git status; git remote update; git tag -a $TAG -m "#tag($TAG): $(date)"; git push --tags; git status
+
+#+END_SRC
+

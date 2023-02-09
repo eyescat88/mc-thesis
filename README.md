@@ -1,11 +1,57 @@
-# mc-thesis
+# mc-thesis: a markdown thesis site
+
+## Overview
+
+This repository provides a customized framework for writing a thesis in Markdown,
+based on ["Template for writing a PhD thesis in Markdown"](https://github.com/tompollard/phd_thesis_markdown) by Tom Pollard et al _(see below for citation)_.
+
+I used the template for my [law bachelor](https://giurisprudenza.unimib.it/it/didattica/corsi-studio-0) submission to University of Milano-Bicocca ([UNIMIB](http://en.unimib.it/)), but it could be easily adapted to other universities too.
+
+During [original template](https://github.com/tompollard/phd_thesis_markdown) customizaion, I encountered a pair of difficult tasks:
+
+- Font Pairs  (serif body and sans-serif (narrow) headings)
+- Citation Style ([CSL](https://github.com/tompollard/phd_thesis_markdown)) selection
 
 
-## based on "Template for writing a PhD thesis in Markdown" 
+### Font Pairs
+
+
+| *Usage*  | *Type*     | *Attributes*                | *Font Family*     |
+|----------|------------|-----------------------------|-------------------|
+| body     | Serif      | regular, italic, small-caps | `XCharter`        |
+| headings | Sans Serif | bold                        | `RobotoCondensed` |
+|          |            |                             |                   |
+
+
+### Citation Style
+
+Given thesis field, I tried several styles in law field, selected from Zotero site
+
+* [Zotero Style Repository (field=law)](https://www.zotero.org/styles?fields=law)
+
+then I opted for a different national (_italian_) style variation
+
+* [Zotero Style Repository (query:Univesità)](https://www.zotero.org/styles?q=universit%C3%A0)
+
+In the project, the `style/ref_format.csl` was modified to include support for thesis citations.
+
+
+
+## Documentation
+
+* [Setup Guide](doc/setup/README.org): for pandoc, LaTeX, python setup
+* [Usage Guide](doc/usage/README.org): for editors, tools and commands
+
+
+---
+
+*from original*
 
 * https://github.com/tompollard/phd_thesis_markdown
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.58490.svg)](http://dx.doi.org/10.5281/zenodo.58490)
+
+---
 
 This repository provides a framework for writing a PhD thesis in Markdown. I used the template for my PhD submission to University College London (UCL), but it should be straightforward to adapt suit other universities too.
 
