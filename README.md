@@ -9,7 +9,7 @@ I used the template for my [law bachelor](https://giurisprudenza.unimib.it/it/di
 
 During [original template](https://github.com/tompollard/phd_thesis_markdown) customizaion, I encountered a pair of difficult tasks:
 
-- Font Pairs  (serif body and sans-serif (narrow) headings)
+- Font Pair configuration
 - Citation Style ([CSL](https://github.com/tompollard/phd_thesis_markdown)) selection
 
 
