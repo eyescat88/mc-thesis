@@ -35,6 +35,11 @@ then I opted for a different national (_italian_) style variation
 
 In the project, the `style/ref_format.csl` was modified to include support for thesis citations.
 
+**NOTE**
+
+pandoc citeproc does not fully support `@online` references in `BibLaTeX` format ([source/references.bib](source/references.bib))
+so I moved to `@webpage` references in  `Better CSL YAML`  Zotero export format ([source/references.yaml](source/references.yaml))
+
 
 
 ## Documentation
