@@ -14,10 +14,10 @@ L'inottemperanza alla decisione sotto tale profilo, seppur non assistita da alcu
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^226]: In F. Secchi, _op. cit._, p. 82. Cfr. [@fromont1989esecuzione].
+[^226]: In \textsc{F. Secchi}, _op. cit._, p. 82. Cfr. [@fromont1989esecuzione].
 [^227]: § 42 _VwGO_. Cfr. traduzione in [@falconOrdinamentoProcessualeAmministrativo2000b].
 [^228]: Letteralmente "pretesa o diritto all'eliminazione delle conseguenze dell'atto".
-[^229]: In F. Secchi, _op. cit._, p. 89. <!-- P. BECKER, H. KUNI, _Probleme des verwaltungsgerichtlichen Vergabeverfahrens für Studienplätze in der Humanmedizin,_ in _DVBl_ 1976, 863. -->
+[^229]: In \textsc{F. Secchi}, _op. cit._, p. 89. <!-- P. BECKER, H. KUNI, _Probleme des verwaltungsgerichtlichen Vergabeverfahrens für Studienplätze in der Humanmedizin,_ in _DVBl_ 1976, 863. -->
 [^230]: § 113 _VwGO_. Cfr. [@schenkeVerwaltungsgerichtsordnungKommentar2022], n. 91.
 <!-- [#231]: § 113/2, secondo alinea _VwGO_. -->
 [^232]: § 113 _VwGO_. Cfr. [@schenkeVerwaltungsgerichtsordnungKommentar2022], n. 87.
@@ -32,10 +32,10 @@ Per converso, ove l'amministrazione sia titolare di un più ampio potere discrez
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^233]: In F. Secchi, _op. cit._, p. 94. Il § 113/5 _VwGO_, così come tradotto in [@falconOrdinamentoProcessualeAmministrativo2000b], recita: _"Nella misura in cui il rifiuto o l'omissione dell'atto amministrativo è illegittimo e l'attore ne risulta leso nei propri diritti, il tribunale dichiara l'obbligo dell'autorità amministrativa di porre in essere la richiesta attività dell'ufficio, se la questione è matura per la decisione. Altrimenti esso dichiara l'obbligo di decidere nei confronti dell'attore nel rispetto della concezione giuridica del tribunale"_.
-[^234]: In F. Secchi, _op. cit._, p. 95. Cfr. [@de2000processo]. <!-- si rileva come in questo caso oggetto del giudizio non è, se non in un secondo momento, il provvedimento di espresso diniego di quanto richiesto dal privato, ma, in primo luogo, il provvedimento che l'amministrazione avrebbe dovuto assumere per soddisfare la pretesa sostanziale del ricorrente, per cui è tale ultimo atto che l'amministrazione sarà tenuta ad adottare a seguito dell'eventuale sentenza di accoglimento della _Verpflightungsklage_. -->
+[^233]: In \textsc{F. Secchi}, _op. cit._, p. 94. Il § 113/5 _VwGO_, così come tradotto in [@falconOrdinamentoProcessualeAmministrativo2000b], recita: _"Nella misura in cui il rifiuto o l'omissione dell'atto amministrativo è illegittimo e l'attore ne risulta leso nei propri diritti, il tribunale dichiara l'obbligo dell'autorità amministrativa di porre in essere la richiesta attività dell'ufficio, se la questione è matura per la decisione. Altrimenti esso dichiara l'obbligo di decidere nei confronti dell'attore nel rispetto della concezione giuridica del tribunale"_.
+[^234]: In \textsc{F. Secchi}, _op. cit._, p. 95. Cfr. [@de2000processo]. <!-- si rileva come in questo caso oggetto del giudizio non è, se non in un secondo momento, il provvedimento di espresso diniego di quanto richiesto dal privato, ma, in primo luogo, il provvedimento che l'amministrazione avrebbe dovuto assumere per soddisfare la pretesa sostanziale del ricorrente, per cui è tale ultimo atto che l'amministrazione sarà tenuta ad adottare a seguito dell'eventuale sentenza di accoglimento della _Verpflightungsklage_. -->
 [^235]: § 113/5 _VwGO_. Si parla in questo caso di _Bescheidungsurteil_.
-[^236]: In F. Secchi, _op. cit._, p. 83. Cfr. [@bronzettiMiglioreGiustiziaAmministrativa1996]
+[^236]: In \textsc{F. Secchi}, _op. cit._, p. 83. Cfr. [@bronzettiMiglioreGiustiziaAmministrativa1996]
 
 <!--- }}} //////////////////////////////////////////////// --->
 
@@ -47,7 +47,7 @@ La sospensione cautelare non è però idonea a tutelare il ricorrente che lament
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
 [^237]: BVerwG, 21.06.1961, in _BVerwGE_ 13, 5.
-[^238]: In F. Secchi, _op. cit._, p. 98. Cfr. [@marchettiEsecuzioneSentenzaAmministrativa2000a], 46.
+[^238]: In \textsc{F. Secchi}, _op. cit._, p. 98. Cfr. [@marchettiEsecuzioneSentenzaAmministrativa2000a], 46.
 
 <!--- }}} //////////////////////////////////////////////// --->
 
@@ -69,10 +69,10 @@ Per poter attivare la procedura esecutiva ai sensi del § 172 _VwGO_ nei confron
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
 [^239]: Sul punto si è pronunciata la Corte costituzionale tedesca in una decisione di notevole importanza, con cui, nella parte motiva, fa esplicito riferimento alle misure previste dai §§ da 885 a 896 _ZPO_ la cui scelta, in ordine alle modalità ed eventuale successione delle misure da adottare, sarà rimessa alla valutazione del giudice competente.
-[^240]: In F. Secchi, _op. cit._, p. 114, l'autore riporta l'espressione "L'Etat toujours doit être réputé honnête homme", da [@laferriere1896traite].
+[^240]: In \textsc{F. Secchi}, _op. cit._, p. 114, l'autore riporta l'espressione "L'Etat toujours doit être réputé honnête homme", da [@laferriere1896traite].
 [^241]: § 172 _VwGO_. Cfr. traduzione in [@falconOrdinamentoProcessualeAmministrativo2000b].
-[^242]: In F. Secchi, _op. cit._, p. 115. <!-- W. BANK, _Zwangsvollstreckung gegen Behörde_, cit., 62. -->
-[^243]: In F. Secchi, _op. cit._, p. 120. Cfr. [@remienRechtsverwirklichungDurchZwangsgeld1992], 11, 12.
+[^242]: In \textsc{F. Secchi}, _op. cit._, p. 115. <!-- W. BANK, _Zwangsvollstreckung gegen Behörde_, cit., 62. -->
+[^243]: In \textsc{F. Secchi}, _op. cit._, p. 120. Cfr. [@remienRechtsverwirklichungDurchZwangsgeld1992], 11, 12.
 
 <!--- }}} //////////////////////////////////////////////// --->
 
@@ -101,8 +101,8 @@ Per converso, l'art. 34 della _Grundnorm_ trasferisce la responsabilità sulla p
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^247]: In F. Secchi, _op. cit._, p. 184. Cfr. [@detterbeckAllgemeinesVerwaltungsrechtMit2022], 379.
-[^248]: In F. Secchi, _op. cit._, p. 184. Cfr. [@karpenEsperienzaGermania1994].
+[^247]: In \textsc{F. Secchi}, _op. cit._, p. 184. Cfr. [@detterbeckAllgemeinesVerwaltungsrechtMit2022], 379.
+[^248]: In \textsc{F. Secchi}, _op. cit._, p. 184. Cfr. [@karpenEsperienzaGermania1994].
 
 <!--- }}} //////////////////////////////////////////////// --->
 
