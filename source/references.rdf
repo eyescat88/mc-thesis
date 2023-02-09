@@ -1,0 +1,2573 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Data rdf:about="https://zenodo.org/record/58490">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Zenodo</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pollard</foaf:surname>
+                        <foaf:givenName>Tom</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reimer</foaf:surname>
+                        <foaf:givenName>Marvin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>San</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mul</foaf:surname>
+                        <foaf:givenName>Arco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thomas</foaf:surname>
+                        <foaf:givenName>Matthew Gwynfryn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nowosad</foaf:surname>
+                        <foaf:givenName>Jakub</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weissmann</foaf:surname>
+                        <foaf:givenName>Dennis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>W. Caleb McDaniel</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Markdown</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>PhD</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Template</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thesis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Template For Writing A Phd Thesis In Markdown</dc:title>
+        <dcterms:abstract>Template for writing a PhD thesis in Markdown, a super-friendly plain text format. Using Pandoc, the Markdown can be easily converted to popular formats such as LATEX, PDF, MS Word, HTML, etc.</dcterms:abstract>
+        <dc:date>2016-07-22</dc:date>
+        <z:libraryCatalog>DOI.org (Datacite)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://zenodo.org/record/58490</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-17 21:28:01</dcterms:dateSubmitted>
+        <dc:rights>MIT License, Open Access</dc:rights>
+        <dc:description>DOI: 10.5281/ZENODO.58490</dc:description>
+    </bib:Data>
+    <bib:Book rdf:about="#item_2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Hamish Hamilton</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cousteau</foaf:surname>
+                        <foaf:givenName>Jacques</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dugan</foaf:surname>
+                        <foaf:givenName>James</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Living Sea: by Jacques-Yves Cousteau</dc:title>
+        <dcterms:abstract>In The Living Sea Jacques Yves Cousteau describes the rich and exciting progress made in exploring life under water by the numerous scientific expeditions which he has been directing since, in his earlier book, The Silent World, he wrote this classic account of man's first experience on the continent below the sea.</dcterms:abstract>
+        <dc:date>1963</dc:date>
+        <z:numPages>212</z:numPages>
+    </bib:Book>
+    <bib:Document rdf:about="https://digilander.libero.it/bhilex/studi/artprammsez_I_II1.htm?utm_source=pocket_mylist">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+            <z:Blog>
+                <dc:title>Origini del Procedimento Amministrativo Spagnolo e la Legge di Riforma</dc:title>
+            </z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Salmerón</foaf:surname>
+                        <foaf:givenName>Manuel Fernández</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seira</foaf:surname>
+                        <foaf:givenName>César Cierco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Riforma del procedimento amministrativo in Spagna: la Legge 4/1999, del 13 gennaio, di modifica della Legge 30/1992, del 26 novembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://digilander.libero.it/bhilex/studi/artprammsez_I_II1.htm?utm_source=pocket_mylist</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-08</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.lavocedeldiritto.it/index.php/altri-diritti/item/868-giudicato-amministrativo-e-sopravvenienze?utm_source=pocket_mylist">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pepe</foaf:surname>
+                        <foaf:givenName>Avv Gabriele</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9"/>
+        <dc:title>Giudicato amministrativo e sopravvenienze</dc:title>
+        <dcterms:abstract>Il giudicato amministrativo, per natura strutturalmente incompleto, rintraccia le proprie componenti sia nella sentenza del giudice sia nella sussegue...</dcterms:abstract>
+        <z:language>it-it</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.lavocedeldiritto.it/index.php/altri-diritti/item/868-giudicato-amministrativo-e-sopravvenienze?utm_source=pocket_mylist</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 10:01:33</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_9">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.lavocedeldiritto.it/index.php/altri-diritti/item/868-giudicato-amministrativo-e-sopravvenienze?utm_source=pocket_mylist</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 10:01:39</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_6">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_10"/>
+        <dc:title>Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.</dc:title>
+        <z:language>es</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <bib:pages>72</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Ley 291998, de 13 de julio, reguladora de la Juri.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.boe.es/buscar/pdf/1998/BOE-A-1998-16718-consolidado.pdf?utm_source=pocket_mylist</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 10:01:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_7">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sandford</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_11"/>
+        <dc:title>The Local Government Ombudsman</dc:title>
+        <dcterms:abstract>The Commission for Local Administration, usually known as the Local Government and Social Care Ombudsman (LGO), was established by the Local Government Act 1974. There is one Ombudsman, appointed by the Queen on the advice of the Secretary of State. The service is independent of government and of Parliament.</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <bib:pages>13</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Sandford - The Local Government Ombudsman.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://researchbriefings.files.parliament.uk/documents/SN04117/SN04117.pdf?utm_source=pocket_mylist</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 10:00:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://rivista.camminodiritto.it/articolo.asp?id=5844&amp;utm_source=pocket_mylist">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Rivista Cammino Diritto (Periodico online)</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_12"/>
+        <dc:title>Ottemperanza sull´esecuzione del decreto ingiuntivo e sindacato del giudice</dc:title>
+        <dcterms:abstract>Il contributo offre un´analisi del giudizio di ottemperanza e del potere del giudice in caso di inadempimento della P.A. per il pagamento di somme oggetto di decreto ingiuntivo. I profili storici e teorici dell’istituto sono rapportati alle coordinate erme</dcterms:abstract>
+        <z:language>it</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://rivista.camminodiritto.it/articolo.asp?id=5844&amp;utm_source=pocket_mylist</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 09:46:24</dcterms:dateSubmitted>
+        <z:type>Rivista Scientifica ANVUR</z:type>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_12">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://rivista.camminodiritto.it/articolo.asp?id=5844&amp;utm_source=pocket_mylist</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 09:46:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-88-15-04503-4">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Strumenti</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bologna</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Il Mulino</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nigro</foaf:surname>
+                        <foaf:givenName>Mario</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nigro</foaf:surname>
+                        <foaf:givenName>Alessandro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cardi</foaf:surname>
+                        <foaf:givenName>Enzo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Giustizia amministrativa</dc:title>
+        <dc:date>1995</dc:date>
+        <z:language>ita</z:language>
+        <z:libraryCatalog>BnF ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>342.450 664</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-88-15-04503-4</dc:identifier>
+        <prism:edition>4a ed</prism:edition>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-88-8443-072-4">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Quaderni del Dipartimento</dc:title>
+                <dc:identifier>43</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Trento</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Università degli studi di Trento, Dipartimento di scienze giuridiche</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fraenkel-Haeberle</foaf:surname>
+                        <foaf:givenName>Cristina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Università degli studi di Trento</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dcterms:isReferencedBy rdf:resource="#item_15"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Administrative acts</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Administrative discretion</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Austria</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Germany</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Italy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Silence (Law)</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Giurisdizione sul silenzio e discrezionalità amministrativa: Germania, Austria, Italia</dc:title>
+        <dc:date>2004</dc:date>
+        <z:shortTitle>Giurisdizione sul silenzio e discrezionalità amministrativa</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>KJC5610 .F73 2004</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-88-8443-072-4</dc:identifier>
+        <z:numPages>253</z:numPages>
+    </bib:Book>
+   <bib:Memo rdf:about="#item_15"><rdf:value>Cover title</rdf:value></bib:Memo>
+    <bib:Book rdf:about="urn:isbn:978-88-14-02619-5">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Collana della Facoltà Serie istituzionale / Università G. D'Annunzio, Facoltà di Giurisprudenza, Teramo</dc:title>
+                <dc:identifier>16</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Milano</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Giuffrè</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pelillo</foaf:surname>
+                        <foaf:givenName>Sandro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Il giudizio di ottemperanza alle sentenze del giudice amministrativo</dc:title>
+        <dc:date>1990</dc:date>
+        <z:language>ita</z:language>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-88-14-02619-5</dc:identifier>
+        <z:numPages>365</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-88-14-08640-3">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Milano</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Giuffrè</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pasquini</foaf:surname>
+                        <foaf:givenName>Gabriele</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sandulli</foaf:surname>
+                        <foaf:givenName>Aldo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Italy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Administrative courts</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cases</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Consiglio di Stato</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Le grandi decisioni del Consiglio di Stato</dc:title>
+        <dc:date>2001</dc:date>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>KKH2764 .A49 2001</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-88-14-08640-3</dc:identifier>
+        <z:numPages>730</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="#item_18">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Problemi di Amministrazione Publica</dc:title>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fromont</foaf:surname>
+                        <foaf:givenName>Michel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>L'esecuzione delle decisioni del giudice amministrativo nel diritto francese e tedesco L'exécution des décisions du juge administratif en droit français et allemand</dc:title>
+        <dc:date>1989</dc:date>
+        <dc:description>Citation Key: fromont1989esecuzione</dc:description>
+        <bib:pages>523–540</bib:pages>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:978-3-406-78794-2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>München</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>C.H. Beck</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schenke</foaf:surname>
+                        <foaf:givenName>Wolf-Rüdiger</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hug</foaf:surname>
+                        <foaf:givenName>Christian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ruthig</foaf:surname>
+                        <foaf:givenName>Josef</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schenke</foaf:surname>
+                        <foaf:givenName>Ralf P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kopp</foaf:surname>
+                        <foaf:givenName>Ferdinand O.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_23"/>
+        <link:link rdf:resource="#item_24"/>
+        <dc:title>Verwaltungsgerichtsordnung: Kommentar</dc:title>
+        <dc:date>2022</dc:date>
+        <z:language>ger</z:language>
+        <z:shortTitle>Verwaltungsgerichtsordnung</z:shortTitle>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-3-406-78794-2</dc:identifier>
+        <prism:edition>28., neubearbeitete Auflage</prism:edition>
+        <z:numPages>2165</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_23">
+        <rdf:value>Auf der Banderole: Mit den Neuregelungen beim elektronischen Rechtsverkehr zum 1.1.2022 und 7 weiteren Novellen</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_24">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Table of Contents PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://swbplus.bsz-bw.de/bsz1784875473inh.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-21 17:41:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="https://tinyurl.com/2p8bjs4u">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Trento</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Pretis</foaf:surname>
+                        <foaf:givenName>Daria</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Paganella</foaf:surname>
+                        <foaf:givenName>Rotooffset</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Il processo amministrativo in europa: caratteri e tendenze in Francia, Germania, Gran Bretagna e nell'Unione europea</dc:title>
+        <dcterms:abstract>Origin: https://books.google.it/books?id=YXWWMwEACAAJ</dcterms:abstract>
+        <dc:date>2000</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://tinyurl.com/2p8bjs4u</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Citation Key: de2000processo</dc:description>
+        <prism:edition>Ed. provvisoria</prism:edition>
+        <z:numPages>226</z:numPages>
+    </bib:Book>
+    <bib:Thesis rdf:about="http://eprints-phd.biblio.unitn.it/312/2/Secchi_tesi_dottorato.pdf">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>University of Trento</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Secchi</foaf:surname>
+                        <foaf:givenName>Federico</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>L'esecuzione del giudicato amministrativo nell'esperienza italiana e tedesca: le soluzioni al problema dell'inottemperanza</dc:title>
+        <dc:date>2010</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://eprints-phd.biblio.unitn.it/312/2/Secchi_tesi_dottorato.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Citation Key: secchi2010esecuzione</dc:description>
+        <z:type>PhD thesis</z:type>
+    </bib:Thesis>
+    <bib:Book rdf:about="urn:isbn:978-3-452-29289-6">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Köln</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Heymanns, Carl</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:title>BVerwGE - Entscheidungen des Bundesverwaltungsgerichts</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>ger</z:language>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+        <dc:description>OCLC: 1120984301</dc:description>
+        <dc:identifier>ISBN 978-3-452-29289-6</dc:identifier>
+        <prism:edition>1. Auflage</prism:edition>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-88-13-22816-3">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Dipartimento di Scienze Giuridiche, Università di Trento</dc:title>
+                <dc:identifier>32</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Padova</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>CEDAM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marchetti</foaf:surname>
+                        <foaf:givenName>Barbara</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>L'esecuzione della sentenza amministrativa prima del giudicato</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>ita</z:language>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-88-13-22816-3</dc:identifier>
+        <z:numPages>308</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_32">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Berger-Levrault et cie</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Laferrière</foaf:surname>
+                        <foaf:givenName>Edouard Louis Julien</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Traité de la juridiction administrative et des recours contentieux</dc:title>
+        <dc:date>1896</dc:date>
+        <dc:description>Citation Key: laferriere1896traite</dc:description>
+        <prism:volume>2</prism:volume>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-88-8443-002-1">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Quaderni del Dipartimento di Scienze Giuridiche</dc:title>
+                <dc:identifier>27</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Trento</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Università degli Studi di Trento</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Falcon</foaf:surname>
+                        <foaf:givenName>Giandomenico</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fraenkel</foaf:surname>
+                        <foaf:givenName>Cristina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_37"/>
+        <link:link rdf:resource="#item_38"/>
+        <dc:title>Ordinamento processuale amministrativo tedesco: (VwGO); versione italiana con testo a fronte</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>ger ita</z:language>
+        <z:shortTitle>Ordinamento processuale amministrativo tedesco</z:shortTitle>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-88-8443-002-1</dc:identifier>
+        <z:numPages>247</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_37">
+        <rdf:value>Text in German and Italian. - Contains bibliographical references, notes and general index</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_38">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Table of Contents PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://swbplus.bsz-bw.de/bsz099450496inh.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 21:16:33</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-16-145755-5">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Beiträge zum ausländischen und internationalen Privatrecht</dc:title>
+                <dc:identifier>54</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Tübingen</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>J.C.B. Mohr</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Remien</foaf:surname>
+                        <foaf:givenName>Oliver</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_40"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Germany</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Europe</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Executions (Law)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Fines (Penalties)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Specific performance</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Rechtsverwirklichung durch Zwangsgeld: Vergleich, Vereinheitlichung, Kollisionsrecht</dc:title>
+        <dc:date>1992</dc:date>
+        <z:shortTitle>Rechtsverwirklichung durch Zwangsgeld</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>KK4251 .R46 1992</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-3-16-145755-5</dc:identifier>
+        <z:numPages>414</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_40">
+        <rdf:value>Originally presented as the author's thesis (doctoral)--Universität Hamburg, 1989/1990</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="urn:isbn:978-3-406-39184-2">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Verwaltungsrecht</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>München</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>C.H. Beck</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schoch</foaf:surname>
+                        <foaf:givenName>Friedrich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schneider</foaf:surname>
+                        <foaf:givenName>Jens-Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schmidt-Aßmann</foaf:surname>
+                        <foaf:givenName>Eberhard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pietzner</foaf:surname>
+                        <foaf:givenName>Rainer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schoch</foaf:surname>
+                        <foaf:givenName>Friedrich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_43"/>
+        <dc:title>Verwaltungsrecht - VwGO: Kommentar</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>ger</z:language>
+        <z:shortTitle>Verwaltungsrecht - VwGO</z:shortTitle>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-3-406-39184-2</dc:identifier>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_43">
+        <rdf:value>Katalogisierung nach: 39. Ergänzungslieferung (Juli 2020)</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="urn:isbn:978-3-406-78715-7">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Lernbücher Jura</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>München</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>C.H. Beck</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Detterbeck</foaf:surname>
+                        <foaf:givenName>Steffen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_45"/>
+        <link:link rdf:resource="#item_46"/>
+        <dc:title>Allgemeines Verwaltungsrecht: mit Verwaltungsprozessrecht</dc:title>
+        <dc:date>2022</dc:date>
+        <z:language>ger</z:language>
+        <z:shortTitle>Allgemeines Verwaltungsrecht</z:shortTitle>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-3-406-78715-7</dc:identifier>
+        <prism:edition>20. Auflage</prism:edition>
+        <z:numPages>744</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_45">
+        <rdf:value>Literaturverzeichnis: Seite XXXVII - XXXIX. - Literaturangaben</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_46">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Table of Contents PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://d-nb.info/1252885644/04</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 21:28:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-88-15-04546-1">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Organizzazione e funzionamento della pubblica amministrazione</dc:title>
+                        <dc:identifier>39</dc:identifier>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-88-15-04546-1</dc:identifier>
+                <dc:title>La responsabilità pubblica nell'esperienza giuridica europea</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bologna</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Il Mulino</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sorace</foaf:surname>
+                        <foaf:givenName>Domenico</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karpen</foaf:surname>
+                        <foaf:givenName>Ulrich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>L’esperienza della Germania</dc:title>
+        <dc:date>1994</dc:date>
+        <z:language>ita</z:language>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+    </bib:BookSection>
+    <bib:Document rdf:about="http://www.chambradoc.it/traditions/La-corvee.page">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+                <dc:title>Chambra d'Òc, Portal Français, 100 mots du trésor FR</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dijaux</foaf:surname>
+                        <foaf:givenName>Agnes</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_49"/>
+        <dc:title>La corvée</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.chambradoc.it/traditions/La-corvee.page</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 21:31:42</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_49">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>La corvée</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.chambradoc.it/traditions/La-corvee.page</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 21:31:47</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.treccani.it/enciclopedia/corvee">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Treccani - Enciclopedia on line</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_51"/>
+        <dc:title>corvée</dc:title>
+        <dcterms:abstract>corvée Nel diritto feudale, serie di prestazioni personali dovute al signore, generalmente consistenti in alcune giornate di lavoro. In Francia, passarono anche nel diritto pubblico e vi fu una  c. regia, per la quale i non privilegiati erano obbligati a costruire e mantenere le strade. Ogni c. fu abolita in Francia il 4 agosto 1789. In Italia le c. furono abolite in Piemonte nel 1729, in Toscana nel 1774-76, nel Napoletano nel 1812, in Sardegna nel 1837.</dcterms:abstract>
+        <z:language>it-IT</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.treccani.it/enciclopedia/corvee</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 21:50:03</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_51">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.treccani.it/enciclopedia/corvee/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 21:50:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-88-921-3777-6">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Torino</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>G. Giappichelli</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Travi</foaf:surname>
+                        <foaf:givenName>Aldo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_53"/>
+        <dc:title>Lezioni di giustizia amministrativa</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>ita</z:language>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-88-921-3777-6</dc:identifier>
+        <prism:edition>14. ed</prism:edition>
+        <z:numPages>416</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_53">
+        <rdf:value>University lectures First ed. 2010, 14th updated ed Includes index</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="urn:isbn:978-2-247-05067-3">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Bibliothèque Dalloz</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Dalloz</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hauriou</foaf:surname>
+                        <foaf:givenName>Maurice</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hauriou</foaf:surname>
+                        <foaf:givenName>André</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Delvolvé</foaf:surname>
+                        <foaf:givenName>Pierre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moderne</foaf:surname>
+                        <foaf:givenName>Franck</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Précis de droit administratif et de droit public</dc:title>
+        <dc:date>2002</dc:date>
+        <z:language>fre</z:language>
+        <z:libraryCatalog>BnF ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>342.44</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-2-247-05067-3</dc:identifier>
+        <prism:edition>12e éd</prism:edition>
+    </bib:Book>
+    <bib:Document rdf:about="https://www.vie-publique.fr/fiches/20284-justice-administrative-origines-role-et-specificites">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>vie-publique.fr</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_56"/>
+        <dc:title>Pourquoi existe-t-il une justice administrative ?</dc:title>
+        <dcterms:abstract>L’existence d’une juridiction administrative s’explique par la nécessité de juger et de contrôler l’administration afin de régler les conflits entre elle et les usagers. Qui est compétent pour juger les litiges entre administration et usagers ? Quand l'ordre administratif est-il né ?</dcterms:abstract>
+        <z:language>fr</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.vie-publique.fr/fiches/20284-justice-administrative-origines-role-et-specificites</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 21:59:04</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_56">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.vie-publique.fr/fiches/20284-justice-administrative-origines-role-et-specificites</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 21:59:10</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.justice.gouv.fr/organisation-de-la-justice-10031/lordre-administratif-10034/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Ministère de la Justice</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_58"/>
+        <dc:title>L'ordre administratif</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.justice.gouv.fr/organisation-de-la-justice-10031/lordre-administratif-10034/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:00:43</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_58">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Justice / Portail / L'ordre administratif</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.justice.gouv.fr/organisation-de-la-justice-10031/lordre-administratif-10034/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:00:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2009-594-dc-du-3-decembre-2009-communique-de-presse">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Conseil constitutionnel</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_60"/>
+        <dc:title>Décision n° 2009-594 DC du 3 décembre 2009 - Communiqué de presse</dc:title>
+        <z:language>fr</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2009-594-dc-du-3-decembre-2009-communique-de-presse</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:03:15</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_60">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2009-594-dc-du-3-decembre-2009-communique-de-presse</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:03:23</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.senat.fr/rap/l98-380/l98-3805.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Sénat</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_62"/>
+        <dc:title>Le pouvoir d'injonction et le prononcé d'astreintes pour l'exécution des décisions de justice</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.senat.fr/rap/l98-380/l98-3805.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:05:41</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_62">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>titre</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.senat.fr/rap/l98-380/l98-3805.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:05:46</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://tinyurl.com/ye22pd59">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Juri'Predis</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_64"/>
+        <dc:title>Différence entre un arrêt et une décision</dc:title>
+        <dcterms:abstract>Retrouvez notre dossier consacré à la jurisprudence contenant l'explication de la différence entre un arrêt et une décision de justice.</dcterms:abstract>
+        <z:language>fr-FR</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://tinyurl.com/ye22pd59</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:07:30</dcterms:dateSubmitted>
+        <dc:description>Origin: https://juripredis.com/jurisprudence-decisions-justice/comment-definir-la-jurisprudence/la-difference-entre-un-arret-et-une-decision/</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_64">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://juripredis.com/jurisprudence-decisions-justice/comment-definir-la-jurisprudence/la-difference-entre-un-arret-et-une-decision/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:07:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_65">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Revue des droits et libertés fondamentaux-RDLF</dc:title>
+                <prism:number>12</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Boulois</foaf:surname>
+                        <foaf:givenName>Xavier Dupré</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Le référé-liberté pour autrui. Une société commerciale au secours du droit à la vie</dc:title>
+        <dc:date>2013</dc:date>
+        <dc:description>Citation Key: de2013refere</dc:description>
+    </bib:Article>
+    <bib:Document rdf:about="https://tinyurl.com/4sfhd3ux">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Actu-Juridique</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bartolucci</foaf:surname>
+                        <foaf:givenName>Mattéo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_67"/>
+        <dc:title>Le pouvoir d’injonction du juge administratif revisité par les circonstances exceptionnelles de la crise sanitaire du Covid-19</dc:title>
+        <dcterms:abstract>25 ans après avoir obtenu de la loi la faculté d’enjoindre à l’Administration, le juge administratif se montre d’ordinaire plutôt prudent dans l’usage de</dcterms:abstract>
+        <dc:date>2020-07-16T22:00:00+00:00</dc:date>
+        <z:language>fr</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://tinyurl.com/4sfhd3ux</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:14:56</dcterms:dateSubmitted>
+        <dc:description>Origin: https://www.actu-juridique.fr/administratif/le-pouvoir-dinjonction-du-juge-administratif-revisite-par-les-circonstances-exceptionnelles-de-la-crise-sanitaire-du-covid-19/</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_67">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.actu-juridique.fr/administratif/le-pouvoir-dinjonction-du-juge-administratif-revisite-par-les-circonstances-exceptionnelles-de-la-crise-sanitaire-du-covid-19/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:15:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://tinyurl.com/3fw67rwb">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Cour administrative d'appel de Paris</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_69"/>
+        <dc:title>Les fiches pratiques de la justice administrative</dc:title>
+        <z:language>fr</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://tinyurl.com/3fw67rwb</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:15:55</dcterms:dateSubmitted>
+        <dc:description>Origin: http://paris.tribunal-administratif.fr/Demarches-procedures/Les-fiches-pratiques-de-la-justice-administrative</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_69">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://paris.cour-administrative-appel.fr/Demarches-procedures/Les-fiches-pratiques-de-la-justice-administrative</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:16:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://tinyurl.com/5frr43pw">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Cour administrative d'appel de Paris</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_71"/>
+        <dc:title>L'exécution des décisions du juge administratif</dc:title>
+        <z:language>fr</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://tinyurl.com/5frr43pw</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:18:53</dcterms:dateSubmitted>
+        <dc:description>Origin: http://paris.tribunal-administratif.fr/Demarches-procedures/L-execution-des-decisions-du-juge-administratif</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_71">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://paris.tribunal-administratif.fr/Demarches-procedures/L-execution-des-decisions-du-juge-administratif</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:19:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.italiappalti.it/leggiarticolo.php?id=3595">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>ItaliAppalti.it</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ciaralli</foaf:surname>
+                        <foaf:givenName>Francesco Maria</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_73"/>
+        <dc:title>Il nuovo giudizio di ottemperanza, con particolare riguardo alle astreintes</dc:title>
+        <dcterms:abstract>Il giudizio di ottemperanza rappresenta uno strumento indispensabile per garantire l’effettività della tutela giurisdizionale nei confronti della Pubblica Amministrazione, imposta dalle fonti costituzionali, euro-unitarie e convenzionali. La peculiare incisività dell’istituto, per come disciplinato nell’ordinamento italiano, rende il giudizio di ottemperanza un unicum nel panorama europeo. Oltre che per la natura mista, cognitoria ed esecutiva ad un tempo, di tale giudizio, esso si caratterizza per la ricchezza di strumenti che possono essere attivati nei confronti dell’Amministrazione.      Accanto al tradizionale modello di carattere surrogatorio, che consente al Giudice di sostituirsi – con cognizione estesa</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.italiappalti.it/leggiarticolo.php?id=3595</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:28:41</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_73">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.italiappalti.it/leggiarticolo.php?id=3595</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:28:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-2-7076-1587-9">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Domat droit public</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Montchrestien-Lextenso éd</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chapus</foaf:surname>
+                        <foaf:givenName>René</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Droit du contentieux administratif</dc:title>
+        <dc:date>2008</dc:date>
+        <z:language>fre</z:language>
+        <z:libraryCatalog>BnF ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>342.440 66</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-2-7076-1587-9</dc:identifier>
+        <prism:edition>13e éd</prism:edition>
+    </bib:Book>
+    <bib:Document rdf:about="https://tinyurl.com/2wrsatec">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>d'Hellencourt Avocat</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>d'Hellencourt</foaf:surname>
+                        <foaf:givenName>Xavier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_76"/>
+        <dc:title>A quoi sert le médiateur de la république ?</dc:title>
+        <dcterms:abstract>avocat amiens, cabinet secondaire, ordre des avocats</dcterms:abstract>
+        <dc:date>2015-03-20T05:11:43+00:00</dc:date>
+        <z:language>fr-FR</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://tinyurl.com/2wrsatec</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:33:00</dcterms:dateSubmitted>
+        <dc:description>Origin: https://www.dhellencourt-avocats.fr/a-quoi-sert-le-mediateur-de-la-republique/</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_76">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.dhellencourt-avocats.fr/a-quoi-sert-le-mediateur-de-la-republique/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:33:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.service-public.fr/particuliers/vosdroits/F13158">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Service Public</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_78"/>
+        <dc:title>Litige avec l'administration : saisir le Défenseur des droits</dc:title>
+        <dcterms:abstract>Si vous avez un litige avec l'administration ou un service public (service de l’État ou d'une collectivité territoriale), vous pouvez saisir le Défenseur des droits. Il faut que le litige porte sur un mauvais fonctionnement du service public ou sur l'inexécution d'un jugement qui vous est favorable. Les services du Défenseur des droits essaient en priorité de trouver une solution amiable à votre litige. Ils étudient votre demande et font leur enquête avant de proposer une solution.</dcterms:abstract>
+        <z:language>Fr</z:language>
+        <z:shortTitle>Litige avec l'administration</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.service-public.fr/particuliers/vosdroits/F13158</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:36:39</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_78">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.service-public.fr/particuliers/vosdroits/F13158</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-22 22:36:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-88-14-19029-2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Milano</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Giuffrè</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Franchis</foaf:surname>
+                        <foaf:givenName>Francesco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Dizionario Giuridico. v.1: inglese-Italiano = Law dictionary : English-italian</dc:title>
+        <dc:date>1984</dc:date>
+        <z:language>ita</z:language>
+        <z:shortTitle>Dizionario Giuridico. v.1</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+        <dc:description>OCLC: 931007193</dc:description>
+        <dc:identifier>ISBN 978-88-14-19029-2</dc:identifier>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-88-15-28035-0">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Manuali</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bologna</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Il Mulino</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>D'Alberti</foaf:surname>
+                        <foaf:givenName>Marco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_81"/>
+        <dc:title>Diritto amministrativo comparato: mutamenti dei sistemi nazionali e contesto globale</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>ita</z:language>
+        <z:shortTitle>Diritto amministrativo comparato</z:shortTitle>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-88-15-28035-0</dc:identifier>
+        <z:numPages>230</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_81">
+       <rdf:value>Originally published 1992</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="#item_82">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>STEM Mucchi</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cassese</foaf:surname>
+                        <foaf:givenName>Sabino</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Il privato e il procedimento amministrativo: una analisi della legislazione e della giurisprudenza</dc:title>
+        <dc:date>1971</dc:date>
+        <dc:description>Citation Key: cassese1971privato</dc:description>
+    </bib:Book>
+    <rdf:Description rdf:about="#item_83">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1470</prism:volume>
+                <dc:title>Riv. trim. dir. proc. civ</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nigro</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Il Consiglio di Stato giudice e amministratore (aspetti di effettività dell'organo)</dc:title>
+        <dc:date>1974</dc:date>
+        <dc:description>Citation Key: nigro1974consiglio</dc:description>
+    </rdf:Description>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9299.1957.tb01316.x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0033-3298,%201467-9299"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marshall</foaf:surname>
+                        <foaf:givenName>Geoffrey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Franks Report on Administrative Tribunals and Enquiries</dc:title>
+        <dc:date>12/1957</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9299.1957.tb01316.x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-23 17:54:39</dcterms:dateSubmitted>
+        <bib:pages>347-358</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0033-3298,%201467-9299">
+        <prism:volume>35</prism:volume>
+        <dc:title>Public Administration</dc:title>
+        <dc:identifier>DOI 10.1111/j.1467-9299.1957.tb01316.x</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>Public Administration</dcterms:alternative>
+        <dc:identifier>ISSN 0033-3298, 1467-9299</dc:identifier>
+    </bib:Journal>
+    <rdf:Description rdf:about="#item_85">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buck</foaf:surname>
+                        <foaf:givenName>Trevor Giles</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Tribunal reform in the UK: Precedent and reporting in the new unified structure</dc:title>
+        <dc:date>2007</dc:date>
+        <dc:description>Citation Key: Buck2007TribunalRI</dc:description>
+    </rdf:Description>
+    <bib:Article rdf:about="#item_86">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0033-3565"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Richardson</foaf:surname>
+                        <foaf:givenName>Genevra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Genn</foaf:surname>
+                        <foaf:givenName>Hazel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Tribunals in transition: resolution or adjudication?</dc:title>
+        <dc:date>2007</dc:date>
+        <z:language>English</z:language>
+        <dc:description>Citation Key: ae58aae3e457425485dcebf1e158bb92
+Publisher: Sweet and Maxwell</dc:description>
+        <bib:pages>116 – 141</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0033-3565">
+        <prism:volume>01</prism:volume>
+        <dc:title>PUBLIC LAW</dc:title>
+        <dc:identifier>ISSN 0033-3565</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_87">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goisis</foaf:surname>
+                        <foaf:givenName>F</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La full jurisdiction sulle sanzioni amministrative: continuità della funzione sanzionatoria v. separazione dei poteri</dc:title>
+        <dc:date>2018</dc:date>
+        <dc:description>Citation Key: goisis2018full
+Publisher: Giuffrè</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="#item_88">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Public law</dc:title><prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Craig</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The human rights act, article 6 and procedural rights</dc:title>
+        <dc:date>2003</dc:date>
+        <dc:description>Citation Key: craig2003human
+Publisher: Sweet &amp; Maxwell</dc:description>
+        <bib:pages>753–773</bib:pages>
+    </bib:Article>
+    <bib:BookSection rdf:about="urn:isbn:978-0-521-83918-1%20978-0-521-54786-4%20978-0-511-49378-2">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-521-83918-1 978-0-521-54786-4 978-0-511-49378-2</dc:identifier>
+                <dc:title>Judicial Review and Bureaucratic Impact</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hertogh</foaf:surname>
+                        <foaf:givenName>Marc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Halliday</foaf:surname>
+                        <foaf:givenName>Simon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cane</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Understanding judicial review and its impact</dc:title>
+        <dc:date>2004-8-19</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/CBO9780511493782A010/type/book_part</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-23 18:40:13</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1017/CBO9780511493782.002</dc:description>
+        <bib:pages>15-42</bib:pages>
+        <prism:edition>1</prism:edition>
+    </bib:BookSection>
+    <bib:Book rdf:about="urn:isbn:978-0-19-968370-3">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Oxford, United Kingdom ; New York, NY</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Oxford University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Forsyth</foaf:surname>
+                        <foaf:givenName>C. F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wade</foaf:surname>
+                        <foaf:givenName>William</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wade</foaf:surname>
+                        <foaf:givenName>William</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Administrative law</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Great Britain</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Administrative law</dc:title>
+        <dc:date>2014</dc:date>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>KD4879 .W3 2014</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-19-968370-3</dc:identifier>
+        <prism:edition>Eleventh edition</prism:edition>
+        <z:numPages>867</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="https://search.informit.org/doi/10.3316/agispt.19961123">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>EUROPEAN HUMAN RIGHTS LAW REVIEW</dc:title>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ryssdall</foaf:surname>
+                        <foaf:givenName>Rolv</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Opinion : the coming of age of the European Convention on Human Rights.</dc:title>
+        <dcterms:abstract>Annotated revised version of the third Doughty Street lecture, delivered in London on 2 November 1995 - achievements of the European Convention on Human Rights (ECHR) - challenges facing the ECHR - role of the UK within the European system for human rights protection.</dcterms:abstract>
+        <dc:date>1996</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://search.informit.org/doi/10.3316/agispt.19961123</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Number of pages: 12
+Publisher: Thomson Reuters
+tex.issue_date: 1996</dc:description>
+        <bib:pages>18–29</bib:pages>
+    </bib:Article>
+    <bib:Document rdf:about="http://www.ombudsman.org.uk/publications">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+                <dc:title>Parliamentary and Health Service Ombudsman (PHSO)</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_93"/>
+        <dc:title>PHSO publications</dc:title>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ombudsman.org.uk/publications</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-24 21:49:48</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_93">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.ombudsman.org.uk/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-24 21:49:54</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_94">
+        <z:itemType>document</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Kluwer Law, The Hague</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reif Linda</foaf:surname>
+                        <foaf:givenName>C</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The international ombudsman yearbook</dc:title>
+        <dc:date>1997</dc:date>
+        <dc:description>Citation Key: reif1997international</dc:description>
+    </rdf:Description>
+    <bib:Document rdf:about="https://tinyurl.com/44swkwxm">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>swarb.co.uk</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_96"/>
+        <dc:title>Regina v Local Commissioner for Administration for the North and East Area of England ex parte Bradford Metropolitan City Council: CA 1979, QB 287</dc:title>
+        <dcterms:abstract>The court considered the meaning of ‘maladministration’ in the section. Held: Lord Denning MR said: ‘It will cover ‘bias, neglect, inattention, delay, incompetence, ineptitude, perversity, turpitude, arbitrariness and so on.’ It ‘would be a long and interesting list’ clearly open-ended, covering the manner in which a decision is reached or discretion is exercised; but excluding … Continue reading Regina v Local Commissioner for Administration for the North and East Area of England ex parte Bradford Metropolitan City Council: CA 1979</dcterms:abstract>
+        <dc:date>2022-06-16T09:08:55+00:00</dc:date>
+        <z:language>en-US</z:language>
+        <z:shortTitle>Regina v Local Commissioner for Administration for the North and East Area of England ex parte Bradford Metropolitan City Council</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://tinyurl.com/44swkwxm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-24 22:26:15</dcterms:dateSubmitted>
+        <dc:description>Origin: https://swarb.co.uk/regina-v-local-commissioner-for-administration-for-the-north-and-east-area-of-england-ex-parte-bradford-metropolitan-city-council-ca-1979/</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_96">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://swarb.co.uk/regina-v-local-commissioner-for-administration-for-the-north-and-east-area-of-england-ex-parte-bradford-metropolitan-city-council-ca-1979/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-24 22:26:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://tinyurl.com/4ez42xd9">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Local Government and Social Care - Ombudsman</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Challenging our decisions</dc:title>
+        <dcterms:abstract>The Local Government and Social Care Ombudsman, We are the final stage for complaints about councils, all adult social care providers (including care homes and home care agencies) and some other organisations providing local public services. We are a free service. We investigate complaints in a fair and independent way - we do not take sides.</dcterms:abstract>
+        <z:language>eng</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://tinyurl.com/4ez42xd9</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-24 22:29:14</dcterms:dateSubmitted>
+        <dc:description>Archive Location: UK
+Publisher: Local Government and Social Care Ombudsman
+Origin: https://www.lgo.org.uk/information-centre/about-us/our-performance/challenging-our-decisions</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="http://www.ombudsman.org.uk/about-us/our-principles/principles-good-complaint-handling">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+                <dc:title>Parliamentary and Health Service Ombudsman (PHSO)</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_99"/>
+        <dc:title>Principles of Good Complaint Handling</dc:title>
+        <dcterms:abstract>Introduction This document gives our views on the Principles of Good Complaint Handling. We want public bodies and complainants to understand what we mean by good complaint handling and to be clear about what we expect from public bodies when dealing with complaints. We will also apply the Principles to any complaints made to us about our own service.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.ombudsman.org.uk/about-us/our-principles/principles-good-complaint-handling</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-24 22:29:58</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_99">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ombudsman.org.uk/about-us/our-principles/principles-good-complaint-handling/introduction</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-24 22:30:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-84-7398-059-3">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Madrid</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Civitas-Revista de Occidente</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García de Enterría</foaf:surname>
+                        <foaf:givenName>Eduardo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernández</foaf:surname>
+                        <foaf:givenName>Tomás Ramón</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_101"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Administrative law</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Spain</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Curso de derecho administrativo</dc:title>
+        <dc:date>1974</dc:date>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>KKT2720 .G355 1974</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-84-7398-059-3</dc:identifier>
+        <prism:edition>1. ed</prism:edition>
+        <z:numPages>2</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_101">
+        <rdf:value>Includes various editions of some vols Vol. 2 and succeeding editions has imprint: Madrid, Civitas</rdf:value>
+    </bib:Memo>
+    <bib:Document rdf:about="https://www.defensordelpueblo.es/el-defensor/que-es-el-defensor/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Defensor del Pueblo</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_103"/>
+        <dc:title>¿Qué es el Defensor?</dc:title>
+        <z:language>es</z:language>
+        <z:shortTitle>¿Qué es el Defensor?</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.defensordelpueblo.es/el-defensor/que-es-el-defensor/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-24 22:38:06</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_103">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.defensordelpueblo.es/el-defensor/que-es-el-defensor/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-24 22:38:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.defensordelpueblo.es/el-defensor/como-te-podemos-ayudar/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Defensor del Pueblo</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_105"/>
+        <dc:title>¿Cómo te podemos ayudar?</dc:title>
+        <z:language>es</z:language>
+        <z:shortTitle>¿Cómo te podemos ayudar?</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.defensordelpueblo.es/el-defensor/como-te-podemos-ayudar/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-24 22:39:44</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_105">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.defensordelpueblo.es/el-defensor/como-te-podemos-ayudar/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-24 22:39:54</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-88-14-06940-6">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-88-14-06940-6</dc:identifier>
+                <dc:title>I consigli di Stato di Francia e d'Italia</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Milano</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Giuffrè</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Paleologo</foaf:surname>
+                        <foaf:givenName>Giovanni</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Italy</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>France</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clarich</foaf:surname>
+                        <foaf:givenName>Marcello</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_109"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Italy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Administrative courts</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Consiglio di Stato</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Congresses</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Conseil d'Etat</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>France</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Il giudizio amministrativo di esecuzione</dc:title>
+        <dc:date>1998</dc:date>
+        <z:language>itafre</z:language>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>KJC5647.A6 C66 1998</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:BookSection>
+    <bib:Memo rdf:about="#item_109">
+        <rdf:value>Proceedings of a conference sponsored by the Conseil d'Etat of France and the Consiglio di Stato of Italy, Oct. 27-28, 1997</rdf:value>
+    </bib:Memo>
+    <bib:BookSection rdf:about="#item_110">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Miscellanea dell'Istituto Giuridico dell'Università di Torino</dc:title>
+                        <dc:identifier>Miscellanea II della Serie II</dc:identifier>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>Atti del Convegno celebrativo del 150° anniversario del Consiglio di Stato</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Milano</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Giuffrè</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sandulli</foaf:surname>
+                        <foaf:givenName>Aldo Mazzini</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>L’effettività delle decisioni giurisdizionali amministrative</dc:title>
+        <dc:date>1983</dc:date>
+    </bib:BookSection>
+    <bib:Article rdf:about="#item_111">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2</prism:volume>
+                <dc:title>Il Foro amministrativo - CdS</dc:title>
+                <prism:number>12</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mancini</foaf:surname>
+                        <foaf:givenName>Laura</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_112"/>
+        <dc:title>La responsabilità della pubblica amministrazione per inottemperanza al giudicato amministrativo di annullamento(nota a Cons.St.,sez.IV,6 ottobre 2003 n.5820)</dc:title>
+        <dc:date>2003</dc:date>
+        <bib:pages>3700 - 3724</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_112">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ESSPER -</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.biblio.liuc.it/scripts/essper/schedaArticolo.asp?codice=11041296</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-05 15:05:41</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_113">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Informator</dc:title><prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bronzetti</foaf:surname>
+                        <foaf:givenName>Gianfranco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_114"/>
+        <dc:title>Per una migliore giustizia amministrativa: spunti comparatistici con particolare riferimento all'ordinamento della Repubblica federale tedesca</dc:title>
+        <dc:date>1996</dc:date>
+        <bib:pages>139 - 162</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_114">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ESSPER -</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.biblio.liuc.it/scripts/essper/schedaArticolo.asp?codice=11303463</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-05 16:07:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_115">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Dipartemento di scienze giuridiche</dc:title>
+                <dc:identifier>32</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Padova</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>CEDAM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marchetti</foaf:surname>
+                        <foaf:givenName>Barbara</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>L'esecuzione della sentenza amministrativa prima del giudicato</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>ita</z:language>
+        <z:libraryCatalog>BnF ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>342.450 66</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-88-13-22816-3</dc:identifier>
+    </bib:Book>
+    <bib:BookSection rdf:about="urn:isbn:978-88-14-07741-8">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-88-14-07741-8</dc:identifier>
+                <dc:title>Le autorità indipendenti: da fattori evolutivi ad elementi della transizione nel diritto pubblico italiano</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Milano</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Giuffrè</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Labriola</foaf:surname>
+                        <foaf:givenName>Silvano</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cattaneo</foaf:surname>
+                        <foaf:givenName>Salvatore</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Italy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Great Britain</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Independent regulatory commissions</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Agencies e regulation nel Regno Unito</dc:title>
+        <dc:date>1999</dc:date>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>KKH2610 .A985 1999</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:BookSection>
+    <bib:Article rdf:about="https://commonslibrary.parliament.uk/research-briefings/sn04117/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sandford</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_119"/>
+        <dc:title>The Local Government Ombudsman</dc:title>
+        <dcterms:abstract>This standard note provides information on the Local Government Ombudsman service.</dcterms:abstract>
+        <dc:date>05/02/2023 02:33:08</dc:date>
+        <z:language>en-GB</z:language>
+        <z:libraryCatalog>commonslibrary.parliament.uk</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commonslibrary.parliament.uk/research-briefings/sn04117/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-05 22:41:47</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_119">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commonslibrary.parliament.uk/research-briefings/sn04117/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-05 22:41:54</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-88-14-12742-7">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Percorsi Giuffrè</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Milano</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Giuffrè</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chieppa</foaf:surname>
+                        <foaf:givenName>Roberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lopilato</foaf:surname>
+                        <foaf:givenName>Vincenzo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_121"/>
+        <dc:title>Studi di diritto amministrativo</dc:title>
+        <dc:date>2007</dc:date>
+        <z:language>ita</z:language>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>ISBN 978-88-14-12742-7</dc:identifier>
+        <z:numPages>925</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_121">
+       <rdf:value>Contains bibliographical references and notes</rdf:value>
+    </bib:Memo>
+    <z:Collection rdf:about="#collection_1">
+        <dc:title>All</dc:title>
+        <dcterms:hasPart rdf:resource="#item_2"/>
+        <dcterms:hasPart rdf:resource="https://digilander.libero.it/bhilex/studi/artprammsez_I_II1.htm?utm_source=pocket_mylist"/>
+        <dcterms:hasPart rdf:resource="https://www.lavocedeldiritto.it/index.php/altri-diritti/item/868-giudicato-amministrativo-e-sopravvenienze?utm_source=pocket_mylist"/>
+        <dcterms:hasPart rdf:resource="#item_6"/>
+        <dcterms:hasPart rdf:resource="#item_7"/>
+        <dcterms:hasPart rdf:resource="https://rivista.camminodiritto.it/articolo.asp?id=5844&amp;utm_source=pocket_mylist"/>
+        <dcterms:hasPart rdf:resource="#item_65"/>
+        <dcterms:hasPart rdf:resource="https://commonslibrary.parliament.uk/research-briefings/sn04117/"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_2">
+        <dc:title>Bib</dc:title>
+        <dcterms:hasPart rdf:resource="https://zenodo.org/record/58490"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-88-921-3777-6"/>
+        <dcterms:hasPart rdf:resource="https://search.informit.org/doi/10.3316/agispt.19961123"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_3">
+        <dc:title>Web</dc:title>
+        <dcterms:hasPart rdf:resource="http://www.chambradoc.it/traditions/La-corvee.page"/>
+        <dcterms:hasPart rdf:resource="https://www.treccani.it/enciclopedia/corvee"/>
+        <dcterms:hasPart rdf:resource="https://www.vie-publique.fr/fiches/20284-justice-administrative-origines-role-et-specificites"/>
+        <dcterms:hasPart rdf:resource="https://www.justice.gouv.fr/organisation-de-la-justice-10031/lordre-administratif-10034/"/>
+        <dcterms:hasPart rdf:resource="https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2009-594-dc-du-3-decembre-2009-communique-de-presse"/>
+        <dcterms:hasPart rdf:resource="https://www.senat.fr/rap/l98-380/l98-3805.html"/>
+        <dcterms:hasPart rdf:resource="https://tinyurl.com/ye22pd59"/>
+        <dcterms:hasPart rdf:resource="https://tinyurl.com/4sfhd3ux"/>
+        <dcterms:hasPart rdf:resource="https://tinyurl.com/3fw67rwb"/>
+        <dcterms:hasPart rdf:resource="https://tinyurl.com/5frr43pw"/>
+        <dcterms:hasPart rdf:resource="https://www.italiappalti.it/leggiarticolo.php?id=3595"/>
+        <dcterms:hasPart rdf:resource="https://tinyurl.com/2wrsatec"/>
+        <dcterms:hasPart rdf:resource="https://www.service-public.fr/particuliers/vosdroits/F13158"/>
+        <dcterms:hasPart rdf:resource="http://www.ombudsman.org.uk/publications"/>
+        <dcterms:hasPart rdf:resource="https://tinyurl.com/44swkwxm"/>
+        <dcterms:hasPart rdf:resource="https://tinyurl.com/4ez42xd9"/>
+        <dcterms:hasPart rdf:resource="http://www.ombudsman.org.uk/about-us/our-principles/principles-good-complaint-handling"/>
+        <dcterms:hasPart rdf:resource="https://www.defensordelpueblo.es/el-defensor/que-es-el-defensor/"/>
+        <dcterms:hasPart rdf:resource="https://www.defensordelpueblo.es/el-defensor/como-te-podemos-ayudar/"/>
+        <dcterms:hasPart rdf:resource="https://commonslibrary.parliament.uk/research-briefings/sn04117/"/>
+    </z:Collection>
+</rdf:RDF>

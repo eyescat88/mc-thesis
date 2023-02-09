@@ -19,7 +19,7 @@
 *** TODO Text
 **** DONE indirect prose
 *** TODO Style
-**** TODO latin CSL
+**** DONE latin CSL
 **** TODO short form
 *** TODO Legal
 **** TODO legal citation
