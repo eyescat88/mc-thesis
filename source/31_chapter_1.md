@@ -30,8 +30,8 @@ L'ampia gamma di poteri spendibili dal giudice dell'ottemperanza ammanta lo stes
 [^191]: Ivi, pp. 23-80. "Parte I - L'esperienza italiana".
 [^192]: Ivi, pp. 81-188. "Parte II - L'esperienza tedesca".
 
-[^101]: Cfr. art. 113 Cost.: "Contro gli atti della pubblica amministrazione è sempre ammessa la tutela giurisdizionale dei diritti e degli interessi legittimi dinanzi agli organi di giurisdizione ordinaria e amministrativa".
-[^102]: Cfr. L. 2248 del 1865, art. 4, c. 2: "L'atto amministrativo non potrà essere revocato o modificato se non sovra ricorso alle competenti Autorità amministrative, le quali si conformeranno al giudicato dei Tribunali in quanto riguarda il caso deciso".
+[^101]: Art. 113 Cost.: "Contro gli atti della pubblica amministrazione è sempre ammessa la tutela giurisdizionale dei diritti e degli interessi legittimi dinanzi agli organi di giurisdizione ordinaria e amministrativa".
+[^102]: L. 2248 del 1865, Art. 4, c. 2: _"L'atto amministrativo non potrà essere revocato o modificato se non sovra ricorso alle competenti Autorità amministrative, le quali si conformeranno al giudicato dei Tribunali in quanto riguarda il caso deciso"_.
 [^103]: Art. 114, c. 1, c.p.a.
 [^104]: In \textsc{F. Secchi}, _op. cit._, p. 45, si riporta l'osservazione di [@nigroGiustiziaAmministrativa1995], 332,333.
 [^105]: In \textsc{F. Secchi}, _op. cit._, p. 46, si fa riferimento a Corte Cost., ord. 10 dicembre 1998, n. 406, in _Foro amm._, 2000, 751.

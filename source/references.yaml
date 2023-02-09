@@ -28,7 +28,7 @@ references:
     - family: Bartolucci
       given: Mattéo
   citation-key: bartolucciPouvoirInjonctionJuge2020
-  container-title: Actu-Juridique
+  container-title: actu-juridique.fr
   issued:
     - year: 2020
       month: 7
@@ -150,29 +150,6 @@ references:
   title: Agencies e regulation nel Regno Unito
   type: chapter
 
-- id: ChallengingOurDecisions
-  abstract: >-
-    The Local Government and Social Care Ombudsman, We are the final stage for
-    complaints about councils, all adult social care providers (including care
-    homes and home care agencies) and some other organisations providing local
-    public services. We are a free service. We investigate complaints in a fair
-    and independent way - we do not take sides.
-  accessed:
-    - year: 2023
-      month: 1
-      day: 24
-  archive_location: UK
-  citation-key: ChallengingOurDecisions
-  container-title: Local Government and Social Care - Ombudsman
-  language: eng
-  note: >-
-    Origin:
-    https://www.lgo.org.uk/information-centre/about-us/our-performance/challenging-our-decisions
-  publisher: Local Government and Social Care Ombudsman
-  title: Challenging our decisions
-  type: webpage
-  URL: https://tinyurl.com/4ez42xd9
-
 - id: chapusDroitContentieuxAdministratif2008
   author:
     - family: Chapus
@@ -232,7 +209,7 @@ references:
     - family: Ciaralli
       given: Francesco Maria
   citation-key: ciaralliNuovoGiudizioDi
-  container-title: ItaliAppalti.it
+  container-title: italiappalti.it
   title: Il nuovo giudizio di ottemperanza, con particolare riguardo alle astreintes
   type: webpage
   URL: https://www.italiappalti.it/leggiarticolo.php?id=3595
@@ -262,38 +239,59 @@ references:
   title: Il giudizio amministrativo di esecuzione
   type: chapter
 
-- id: ComoTePodemos
-  accessed:
-    - year: 2023
-      month: 1
-      day: 24
-  citation-key: ComoTePodemos
-  container-title: Defensor del Pueblo
-  language: es
-  title: ¿Cómo te podemos ayudar?
-  title-short: ¿Cómo te podemos ayudar?
-  type: webpage
-  URL: https://www.defensordelpueblo.es/el-defensor/como-te-podemos-ayudar/
-
-- id: Corvee
-  abstract: >-
-    corvée Nel diritto feudale, serie di prestazioni personali dovute al
-    signore, generalmente consistenti in alcune giornate di lavoro. In Francia,
-    passarono anche nel diritto pubblico e vi fu una  c. regia, per la quale i
-    non privilegiati erano obbligati a costruire e mantenere le strade. Ogni c.
-    fu abolita in Francia il 4 agosto 1789. In Italia le c. furono abolite in
-    Piemonte nel 1729, in Toscana nel 1774-76, nel Napoletano nel 1812, in
-    Sardegna nel 1837.
+- id: conseilconstitutionnelDecision2009594DC
   accessed:
     - year: 2023
       month: 1
       day: 22
-  citation-key: Corvee
-  container-title: Treccani - Enciclopedia on line
-  language: it-IT
-  title: corvée
+  author:
+    - family: Conseil Constitutionnel
+      given: ''
+  citation-key: conseilconstitutionnelDecision2009594DC
+  container-title: conseil-constitutionnel.fr
+  language: fr
+  note: >-
+    Origin:
+    https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2009-594-dc-du-3-decembre-2009-communique-de-presse
+  title: Décision n° 2009-594 DC du 3 décembre 2009
   type: webpage
-  URL: https://www.treccani.it/enciclopedia/corvee
+  URL: https://tinyurl.com/2p95r35b
+
+- id: couradministrativedappeldeparisExecutionDecisionsJuge
+  accessed:
+    - year: 2023
+      month: 1
+      day: 22
+  author:
+    - family: Cour administrative d'appel de Paris
+      given: ''
+  citation-key: couradministrativedappeldeparisExecutionDecisionsJuge
+  container-title: paris.tribunal-administratif.fr
+  language: fr
+  note: >-
+    Origin:
+    http://paris.tribunal-administratif.fr/Demarches-procedures/L-execution-des-decisions-du-juge-administratif
+  title: L'exécution des décisions du juge administratif
+  type: webpage
+  URL: https://tinyurl.com/5frr43pw
+
+- id: couradministrativedappeldeparisFichesPratiquesJustice
+  accessed:
+    - year: 2023
+      month: 1
+      day: 22
+  author:
+    - family: Cour administrative d'appel de Paris
+      given: ''
+  citation-key: couradministrativedappeldeparisFichesPratiquesJustice
+  container-title: paris.tribunal-administratif.fr
+  language: fr
+  note: >-
+    Origin:
+    http://paris.tribunal-administratif.fr/Demarches-procedures/Les-fiches-pratiques-de-la-justice-administrative
+  title: Les fiches pratiques de la justice administrative
+  type: webpage
+  URL: https://tinyurl.com/3fw67rwb
 
 - id: cousteauLivingSeaJacquesYves1963
   abstract: >-
@@ -388,18 +386,37 @@ references:
     la vie
   type: article-journal
 
-- id: Decision2009594DC
+- id: defensordelpuebloComoTePodemos
   accessed:
     - year: 2023
       month: 1
-      day: 22
-  citation-key: Decision2009594DC
-  container-title: Conseil constitutionnel
-  language: fr
-  title: Décision n° 2009-594 DC du 3 décembre 2009 - Communiqué de presse
+      day: 24
+  author:
+    - family: Defensor del Pueblo
+      given: ''
+  citation-key: defensordelpuebloComoTePodemos
+  container-title: defensordelpueblo.es
+  language: es
+  title: ¿Cómo te podemos ayudar?
+  title-short: ¿Cómo te podemos ayudar?
   type: webpage
-  URL: >-
-    https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2009-594-dc-du-3-decembre-2009-communique-de-presse
+  URL: https://www.defensordelpueblo.es/el-defensor/como-te-podemos-ayudar/
+
+- id: defensordelpuebloQueEsDefensor
+  accessed:
+    - year: 2023
+      month: 1
+      day: 24
+  author:
+    - family: Defensor del Pueblo
+      given: ''
+  citation-key: defensordelpuebloQueEsDefensor
+  container-title: defensordelpueblo.es
+  language: es
+  title: ¿Qué es el Defensor?
+  title-short: ¿Qué es el Defensor?
+  type: webpage
+  URL: https://www.defensordelpueblo.es/el-defensor/que-es-el-defensor/
 
 - id: defranchisDizionarioGiuridicoIngleseItaliano1984
   author:
@@ -420,6 +437,42 @@ references:
     English-italian
   title-short: Dizionario Giuridico. v.1
   type: book
+
+- id: denningReginaLocalCommissioner2022
+  abstract: >-
+    The court considered the meaning of ‘maladministration’ in the section.
+    Held: Lord Denning MR said: ‘It will cover ‘bias, neglect, inattention,
+    delay, incompetence, ineptitude, perversity, turpitude, arbitrariness and so
+    on.’ It ‘would be a long and interesting list’ clearly open-ended, covering
+    the manner in which a decision is reached or discretion is exercised; but
+    excluding … Continue reading Regina v Local Commissioner for Administration
+    for the North and East Area of England ex parte Bradford Metropolitan City
+    Council: CA 1979
+  accessed:
+    - year: 2023
+      month: 1
+      day: 24
+  author:
+    - family: Denning
+      given: Tom
+  citation-key: denningReginaLocalCommissioner2022
+  container-title: swarb.co.uk
+  issued:
+    - year: 2022
+      month: 6
+      day: 16
+  language: en-US
+  note: >-
+    Origin:
+    https://swarb.co.uk/regina-v-local-commissioner-for-administration-for-the-north-and-east-area-of-england-ex-parte-bradford-metropolitan-city-council-ca-1979/
+  title: >-
+    Regina v Local Commissioner for Administration for the North and East Area
+    of England ex parte Bradford Metropolitan City Council: CA 1979, QB 287
+  title-short: >-
+    Regina v Local Commissioner for Administration for the North and East Area
+    of England ex parte Bradford Metropolitan City Council
+  type: webpage
+  URL: https://tinyurl.com/44swkwxm
 
 - id: detterbeckAllgemeinesVerwaltungsrechtMit2022
   author:
@@ -452,7 +505,7 @@ references:
       given: Xavier
       non-dropping-particle: d'
   citation-key: dhellencourtQuoiSertMediateur2015
-  container-title: d'Hellencourt Avocat
+  container-title: dhellencourt-avocats.fr
   issued:
     - year: 2015
       month: 3
@@ -461,27 +514,9 @@ references:
   note: >-
     Origin:
     https://www.dhellencourt-avocats.fr/a-quoi-sert-le-mediateur-de-la-republique/
-  title: A quoi sert le médiateur de la république ?
-  type: post-weblog
+  title: A quoi sert le médiateur de la république?
+  type: webpage
   URL: https://tinyurl.com/2wrsatec
-
-- id: DifferenceEntreArret
-  abstract: >-
-    Retrouvez notre dossier consacré à la jurisprudence contenant l'explication
-    de la différence entre un arrêt et une décision de justice.
-  accessed:
-    - year: 2023
-      month: 1
-      day: 22
-  citation-key: DifferenceEntreArret
-  container-title: Juri'Predis
-  language: fr-FR
-  note: >-
-    Origin:
-    https://juripredis.com/jurisprudence-decisions-justice/comment-definir-la-jurisprudence/la-difference-entre-un-arret-et-une-decision/
-  title: Différence entre un arrêt et une décision
-  type: post-weblog
-  URL: https://tinyurl.com/ye22pd59
 
 - id: dijauxCorvee
   accessed:
@@ -496,21 +531,6 @@ references:
   title: La corvée
   type: webpage
   URL: http://www.chambradoc.it/traditions/La-corvee.page
-
-- id: ExecutionDecisionsJuge
-  accessed:
-    - year: 2023
-      month: 1
-      day: 22
-  citation-key: ExecutionDecisionsJuge
-  container-title: Cour administrative d'appel de Paris
-  language: fr
-  note: >-
-    Origin:
-    http://paris.tribunal-administratif.fr/Demarches-procedures/L-execution-des-decisions-du-juge-administratif
-  title: L'exécution des décisions du juge administratif
-  type: webpage
-  URL: https://tinyurl.com/5frr43pw
 
 - id: falconOrdinamentoProcessualeAmministrativo2000b
   citation-key: falconOrdinamentoProcessualeAmministrativo2000b
@@ -535,21 +555,6 @@ references:
     con testo a fronte
   title-short: Ordinamento processuale amministrativo tedesco
   type: book
-
-- id: FichesPratiquesJustice
-  accessed:
-    - year: 2023
-      month: 1
-      day: 22
-  citation-key: FichesPratiquesJustice
-  container-title: Cour administrative d'appel de Paris
-  language: fr
-  note: >-
-    Origin:
-    http://paris.tribunal-administratif.fr/Demarches-procedures/Les-fiches-pratiques-de-la-justice-administrative
-  title: Les fiches pratiques de la justice administrative
-  type: webpage
-  URL: https://tinyurl.com/3fw67rwb
 
 - id: forsythAdministrativeLaw2014
   author:
@@ -672,6 +677,27 @@ references:
   title: Précis de droit administratif et de droit public
   type: book
 
+- id: juripredisDifferenceEntreArret
+  abstract: >-
+    Retrouvez notre dossier consacré à la jurisprudence contenant l'explication
+    de la différence entre un arrêt et une décision de justice.
+  accessed:
+    - year: 2023
+      month: 1
+      day: 22
+  author:
+    - family: Juri’Predis
+      given: ''
+  citation-key: juripredisDifferenceEntreArret
+  container-title: juripredis.com
+  language: fr-FR
+  note: >-
+    Origin:
+    https://juripredis.com/jurisprudence-decisions-justice/comment-definir-la-jurisprudence/la-difference-entre-un-arret-et-une-decision/
+  title: Différence entre un arrêt et une décision
+  type: webpage
+  URL: https://tinyurl.com/ye22pd59
+
 - id: karpenEsperienzaGermania1994
   author:
     - family: Karpen
@@ -716,26 +742,31 @@ references:
     Contencioso-administrativa.
   type: article-journal
 
-- id: LitigeAvecAdministration
+- id: localgovernmentandsocialcare-ombudsmanChallengingOurDecisions
   abstract: >-
-    Si vous avez un litige avec l'administration ou un service public (service
-    de l’État ou d'une collectivité territoriale), vous pouvez saisir le
-    Défenseur des droits. Il faut que le litige porte sur un mauvais
-    fonctionnement du service public ou sur l'inexécution d'un jugement qui vous
-    est favorable. Les services du Défenseur des droits essaient en priorité de
-    trouver une solution amiable à votre litige. Ils étudient votre demande et
-    font leur enquête avant de proposer une solution.
+    The Local Government and Social Care Ombudsman, We are the final stage for
+    complaints about councils, all adult social care providers (including care
+    homes and home care agencies) and some other organisations providing local
+    public services. We are a free service. We investigate complaints in a fair
+    and independent way - we do not take sides.
   accessed:
     - year: 2023
       month: 1
-      day: 22
-  citation-key: LitigeAvecAdministration
-  container-title: Service Public
-  language: Fr
-  title: 'Litige avec l''administration : saisir le Défenseur des droits'
-  title-short: Litige avec l'administration
+      day: 24
+  archive_location: UK
+  author:
+    - family: Local Government and Social Care - Ombudsman
+      given: ''
+  citation-key: localgovernmentandsocialcare-ombudsmanChallengingOurDecisions
+  container-title: lgo.org.uk
+  language: eng
+  note: >-
+    Origin:
+    https://www.lgo.org.uk/information-centre/about-us/our-performance/challenging-our-decisions
+  publisher: Local Government and Social Care Ombudsman
+  title: Challenging our decisions
   type: webpage
-  URL: https://www.service-public.fr/particuliers/vosdroits/F13158
+  URL: https://tinyurl.com/4ez42xd9
 
 - id: manciniResponsabilitaPubblicaAmministrazione2003
   author:
@@ -817,6 +848,21 @@ references:
   URL: https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9299.1957.tb01316.x
   volume: '35'
 
+- id: ministeredelajusticeOrdreAdministratif
+  accessed:
+    - year: 2023
+      month: 1
+      day: 22
+  author:
+    - family: Ministère de la Justice
+      given: ''
+  citation-key: ministeredelajusticeOrdreAdministratif
+  container-title: justice.gouv.fr
+  title: L'ordre administratif
+  type: webpage
+  URL: >-
+    https://www.justice.gouv.fr/organisation-de-la-justice-10031/lordre-administratif-10034/
+
 - id: nigro1974consiglio
   author:
     - family: Nigro
@@ -854,18 +900,6 @@ references:
   title: Giustizia amministrativa
   type: book
 
-- id: OrdreAdministratif
-  accessed:
-    - year: 2023
-      month: 1
-      day: 22
-  citation-key: OrdreAdministratif
-  container-title: Ministère de la Justice
-  title: L'ordre administratif
-  type: webpage
-  URL: >-
-    https://www.justice.gouv.fr/organisation-de-la-justice-10031/lordre-administratif-10034/
-
 - id: OttemperanzaSullEsecuzione
   abstract: >-
     Il contributo offre un´analisi del giudizio di ottemperanza e del potere del
@@ -884,6 +918,45 @@ references:
   type: webpage
   URL: >-
     https://rivista.camminodiritto.it/articolo.asp?id=5844&utm_source=pocket_mylist
+
+- id: parliamentaryandhealthserviceombudsmanphsoPHSOPublications
+  accessed:
+    - year: 2023
+      month: 1
+      day: 24
+  author:
+    - family: Parliamentary and Health Service Ombudsman (PHSO)
+      given: ''
+  citation-key: parliamentaryandhealthserviceombudsmanphsoPHSOPublications
+  container-title: ombudsman.org.uk
+  language: en
+  title: PHSO publications
+  type: webpage
+  URL: http://www.ombudsman.org.uk/publications
+
+- id: parliamentaryandhealthserviceombudsmanphsoPrinciplesGoodComplaint
+  abstract: >-
+    Introduction This document gives our views on the Principles of Good
+    Complaint Handling. We want public bodies and complainants to understand
+    what we mean by good complaint handling and to be clear about what we expect
+    from public bodies when dealing with complaints. We will also apply the
+    Principles to any complaints made to us about our own service.
+  accessed:
+    - year: 2023
+      month: 1
+      day: 24
+  author:
+    - family: Parliamentary and Health Service Ombudsman (PHSO)
+      given: ''
+  citation-key: parliamentaryandhealthserviceombudsmanphsoPrinciplesGoodComplaint
+  container-title: ombudsman.org.uk
+  language: en
+  note: >-
+    Origin:
+    http://www.ombudsman.org.uk/about-us/our-principles/principles-good-complaint-handling
+  title: Principles of Good Complaint Handling
+  type: webpage
+  URL: https://tinyurl.com/v8n6sfsf
 
 - id: pasquiniGrandiDecisioniConsiglio2001
   call-number: KKH2764 .A49 2001
@@ -944,18 +1017,6 @@ references:
   URL: >-
     https://www.lavocedeldiritto.it/index.php/altri-diritti/item/868-giudicato-amministrativo-e-sopravvenienze?utm_source=pocket_mylist
 
-- id: PHSOPublications
-  accessed:
-    - year: 2023
-      month: 1
-      day: 24
-  citation-key: PHSOPublications
-  container-title: Parliamentary and Health Service Ombudsman (PHSO)
-  language: en
-  title: PHSO publications
-  type: webpage
-  URL: http://www.ombudsman.org.uk/publications
-
 - id: pollardTemplateWritingPhd2016
   abstract: >-
     Template for writing a PhD thesis in Markdown, a super-friendly plain text
@@ -994,102 +1055,6 @@ references:
   title: Template For Writing A Phd Thesis In Markdown
   type: software
   URL: https://zenodo.org/record/58490
-
-- id: PourquoiExistetilJustice
-  abstract: >-
-    L’existence d’une juridiction administrative s’explique par la nécessité de
-    juger et de contrôler l’administration afin de régler les conflits entre
-    elle et les usagers. Qui est compétent pour juger les litiges entre
-    administration et usagers ? Quand l'ordre administratif est-il né ?
-  accessed:
-    - year: 2023
-      month: 1
-      day: 22
-  citation-key: PourquoiExistetilJustice
-  container-title: vie-publique.fr
-  language: fr
-  title: Pourquoi existe-t-il une justice administrative ?
-  type: webpage
-  URL: >-
-    https://www.vie-publique.fr/fiches/20284-justice-administrative-origines-role-et-specificites
-
-- id: PouvoirInjonctionPrononce
-  accessed:
-    - year: 2023
-      month: 1
-      day: 22
-  citation-key: PouvoirInjonctionPrononce
-  container-title: Sénat
-  title: >-
-    Le pouvoir d'injonction et le prononcé d'astreintes pour l'exécution des
-    décisions de justice
-  type: webpage
-  URL: https://www.senat.fr/rap/l98-380/l98-3805.html
-
-- id: PrinciplesGoodComplaint
-  abstract: >-
-    Introduction This document gives our views on the Principles of Good
-    Complaint Handling. We want public bodies and complainants to understand
-    what we mean by good complaint handling and to be clear about what we expect
-    from public bodies when dealing with complaints. We will also apply the
-    Principles to any complaints made to us about our own service.
-  accessed:
-    - year: 2023
-      month: 1
-      day: 24
-  citation-key: PrinciplesGoodComplaint
-  container-title: Parliamentary and Health Service Ombudsman (PHSO)
-  language: en
-  title: Principles of Good Complaint Handling
-  type: webpage
-  URL: >-
-    http://www.ombudsman.org.uk/about-us/our-principles/principles-good-complaint-handling
-
-- id: QueEsDefensor
-  accessed:
-    - year: 2023
-      month: 1
-      day: 24
-  citation-key: QueEsDefensor
-  container-title: Defensor del Pueblo
-  language: es
-  title: ¿Qué es el Defensor?
-  title-short: ¿Qué es el Defensor?
-  type: webpage
-  URL: https://www.defensordelpueblo.es/el-defensor/que-es-el-defensor/
-
-- id: ReginaLocalCommissioner2022
-  abstract: >-
-    The court considered the meaning of ‘maladministration’ in the section.
-    Held: Lord Denning MR said: ‘It will cover ‘bias, neglect, inattention,
-    delay, incompetence, ineptitude, perversity, turpitude, arbitrariness and so
-    on.’ It ‘would be a long and interesting list’ clearly open-ended, covering
-    the manner in which a decision is reached or discretion is exercised; but
-    excluding … Continue reading Regina v Local Commissioner for Administration
-    for the North and East Area of England ex parte Bradford Metropolitan City
-    Council: CA 1979
-  accessed:
-    - year: 2023
-      month: 1
-      day: 24
-  citation-key: ReginaLocalCommissioner2022
-  container-title: swarb.co.uk
-  issued:
-    - year: 2022
-      month: 6
-      day: 16
-  language: en-US
-  note: >-
-    Origin:
-    https://swarb.co.uk/regina-v-local-commissioner-for-administration-for-the-north-and-east-area-of-england-ex-parte-bradford-metropolitan-city-council-ca-1979/
-  title: >-
-    Regina v Local Commissioner for Administration for the North and East Area
-    of England ex parte Bradford Metropolitan City Council: CA 1979, QB 287
-  title-short: >-
-    Regina v Local Commissioner for Administration for the North and East Area
-    of England ex parte Bradford Metropolitan City Council
-  type: post-weblog
-  URL: https://tinyurl.com/44swkwxm
 
 - id: reif1997international
   author:
@@ -1195,14 +1160,14 @@ references:
     - family: Sandford
       given: Mark
   citation-key: sandfordLocalGovernmentOmbudsman2023
+  container-title: House of Commons Library
   issued:
     - year: 2023
       month: 5
       day: 2
   language: en-GB
-  source: commonslibrary.parliament.uk
   title: The Local Government Ombudsman
-  type: article-journal
+  type: webpage
   URL: https://commonslibrary.parliament.uk/research-briefings/sn04117/
 
 - id: sandulliEffettivitaDecisioniGiurisdizionali1983
@@ -1289,6 +1254,46 @@ references:
   type: thesis
   URL: http://eprints-phd.biblio.unitn.it/312/2/Secchi_tesi_dottorato.pdf
 
+- id: senatPouvoirInjonctionPrononce
+  accessed:
+    - year: 2023
+      month: 1
+      day: 22
+  author:
+    - family: Sénat
+      given: ''
+  citation-key: senatPouvoirInjonctionPrononce
+  container-title: senat.fr
+  title: >-
+    Le pouvoir d'injonction et le prononcé d'astreintes pour l'exécution des
+    décisions de justice
+  type: webpage
+  URL: https://www.senat.fr/rap/l98-380/l98-3805.html
+
+- id: servicepublicLitigeAvecAdministration
+  abstract: >-
+    Si vous avez un litige avec l'administration ou un service public (service
+    de l’État ou d'une collectivité territoriale), vous pouvez saisir le
+    Défenseur des droits. Il faut que le litige porte sur un mauvais
+    fonctionnement du service public ou sur l'inexécution d'un jugement qui vous
+    est favorable. Les services du Défenseur des droits essaient en priorité de
+    trouver une solution amiable à votre litige. Ils étudient votre demande et
+    font leur enquête avant de proposer une solution.
+  accessed:
+    - year: 2023
+      month: 1
+      day: 22
+  author:
+    - family: Service Public
+      given: ''
+  citation-key: servicepublicLitigeAvecAdministration
+  container-title: service-public.fr
+  language: Fr
+  title: 'Litige avec l''administration : saisir le Défenseur des droits'
+  title-short: Litige avec l'administration
+  type: webpage
+  URL: https://www.service-public.fr/particuliers/vosdroits/F13158
+
 - id: traviLezioniDiGiustizia2021
   author:
     - family: Travi
@@ -1306,4 +1311,50 @@ references:
   source: K10plus ISBN
   title: Lezioni di giustizia amministrativa
   type: book
+
+- id: treccaniCorvee
+  abstract: >-
+    corvée Nel diritto feudale, serie di prestazioni personali dovute al
+    signore, generalmente consistenti in alcune giornate di lavoro. In Francia,
+    passarono anche nel diritto pubblico e vi fu una  c. regia, per la quale i
+    non privilegiati erano obbligati a costruire e mantenere le strade. Ogni c.
+    fu abolita in Francia il 4 agosto 1789. In Italia le c. furono abolite in
+    Piemonte nel 1729, in Toscana nel 1774-76, nel Napoletano nel 1812, in
+    Sardegna nel 1837.
+  accessed:
+    - year: 2023
+      month: 1
+      day: 22
+  author:
+    - family: Treccani
+      given: ''
+  citation-key: treccaniCorvee
+  container-title: Treccani - Enciclopedia on line
+  language: it-IT
+  title: corvée
+  type: webpage
+  URL: https://www.treccani.it/enciclopedia/corvee
+
+- id: viepubliquePourquoiExistetilJustice
+  abstract: >-
+    L’existence d’une juridiction administrative s’explique par la nécessité de
+    juger et de contrôler l’administration afin de régler les conflits entre
+    elle et les usagers. Qui est compétent pour juger les litiges entre
+    administration et usagers ? Quand l'ordre administratif est-il né ?
+  accessed:
+    - year: 2023
+      month: 1
+      day: 22
+  author:
+    - family: Vie Publique
+      given: ''
+  citation-key: viepubliquePourquoiExistetilJustice
+  container-title: vie-publique.fr
+  language: fr
+  note: >-
+    origin:
+    https://www.vie-publique.fr/fiches/20284-justice-administrative-origines-role-et-specificites
+  title: Pourquoi existe-t-il une justice administrative?
+  type: webpage
+  URL: https://tinyurl.com/mw2pxm4z
 ...

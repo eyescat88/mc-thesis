@@ -118,13 +118,13 @@ Infine, in coerenza con il punto 6) "_seeking continuous improvement_", la corre
 [^426]: Cfr. [@forsythAdministrativeLaw2014], pp. 305 ss.
 [^427]: Cfr. [@ryssdallOpinionComingAge1996], pp. 24 e ss.
 [^428]: Parliamentary Commissioner Act, 1967, ss. 5-6: _"Complaints are made through Members of the Westminster Parliament and may be made by any member of the public, including a corporation"_.
-[^429]: I rapporti del PO sono pubblicati online in [@PHSOPublications]
-[^430]: QB 287: Richard Crossman: "bias, neglect, inattention, delay, incompetence, ineptitude, arbitrariness and so on". Cfr. [@ReginaLocalCommissioner2022].
-[^431]: Cfr. [@ChallengingOurDecisions]
-[^432]: Cfr. [@sandfordLocalGovernmentOmbudsman].
+[^429]: I rapporti del PO sono pubblicati online in [@parliamentaryandhealthserviceombudsmanphsoPHSOPublications]
+[^430]: QB 287: Richard Crossman: "bias, neglect, inattention, delay, incompetence, ineptitude, arbitrariness and so on". Cfr. [@denningReginaLocalCommissioner2022].
+[^431]: Cfr. [@localgovernmentandsocialcare-ombudsmanChallengingOurDecisions]
+[^432]: Cfr. [@sandfordLocalGovernmentOmbudsman2023].
 [^433]: Local Government Act 2000, section 92.
-[^434]: Cfr. [@ChallengingOurDecisions]
-[^435]: Cfr. [@PrinciplesGoodComplaint]
+[^434]: Cfr. [@localgovernmentandsocialcare-ombudsmanChallengingOurDecisions]
+[^435]: Cfr. [@parliamentaryandhealthserviceombudsmanphsoPrinciplesGoodComplaint]
 [^436]: La _Community Legal Advice_ offre consulenza legale generale e L'_Independent Complaints Advocacy Service_ (ICAS) offre assistenza legale per i ricorrenti verso il _National Health Service_ (NHS).
 
 <!--- }}} //////////////////////////////////////////////// --->
