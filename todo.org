@@ -24,6 +24,6 @@
 *** TODO Legal
 **** TODO legal citation
 **** TODO legal acronyms
-*** TODO Sites
-**** TODO untiny
-**** TODO anon author
+*** DONE Sites
+**** DONE untiny
+**** DONE anon author
