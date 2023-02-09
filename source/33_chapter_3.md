@@ -90,34 +90,34 @@ Prima di ricorrere al _Défenseur des droits_ però, è necessario da parte dell
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^301]: Termine francese, utilizzato sia in Francia che in Italia, che significa _corrogare_, nel senso di chiedere una giornata di lavoro. Nel Medioevo, la _corvée_ indicava un'imposta, poi abolita durante la rivoluzione, che veniva richiesta dal signore ai suoi servi, da estinguere con un certo numero di giornate di lavoro - Cfr. [@dijauxCorvee]. Nella Francia dell'_Ancien régime_, il termine indicava le giornate di lavoro che i sudditi dovevano al re per la manutenzione delle strade pubbliche - Cfr. [@treccaniCorvee].
-[^302]: Decreto del 16-24 agosto 1790 sull'ordinamento giudiziario: _"Le funzioni giurisdizionali sono distinte e rimangono sempre separate dalle funzioni amministrative. I giudici non potranno, sotto pena di prevaricazione, interferire in qualunque modo sulle operazioni dei corpi amministrativi, né citare avanti a sé gli amministratori a motivo dell'esercizio delle loro funzioni"_. Cfr. [@traviLezioniDiGiustizia2021], 8, 9
-[^303]: Cfr. [@traviLezioniDiGiustizia2021], 9.
-[^304]: Cfr. [@hauriouPrecisDroitAdministratif2002], 13 ss.
-[^305]: Cfr. [@traviLezioniDiGiustizia2021], 11.
-[^306]: Cfr. [@viepubliquePourquoiExistetilJustice]
-[^307]: Tre sono i gradi della giurisdizione amministrativa francese: i tribunali amministrativi (_tribunaux administratifs_), le corti amministrative d'Appello (_courts administratives d'Appel_) e il Consiglio di Stato, Cfr. [@ministeredelajusticeOrdreAdministratif]
-[^308]: § 3 CC 3 décembre 2009, _"juridictions placées au sommet de chacun des deux ordres de juridiction reconnus par la Constitution"_. Cfr. [@conseilconstitutionnelDecision2009594DC]
-[^309]: Art. L. 8-2 C. trib. mar. [@senatPouvoirInjonctionPrononce].
-[^399]: L'articolo L. 8-2 utilizza testualmente i termini di _"jugement"_ e di _"arrêt"_, con cui rispettivamente si intendono le sentenze emesse dai tribunali amministrativi e le sentenze dei gradi successivi di giurisdizione, c.d. _Hautes jurisdictions_ o _jurisdictions souvraines_, Cfr. [@juripredisDifferenceEntreArret]
+[^301]: Termine francese, utilizzato sia in Francia che in Italia, che significa _corrogare_, nel senso di chiedere una giornata di lavoro. Nel Medioevo, la _corvée_ indicava un'imposta, poi abolita durante la rivoluzione, che veniva richiesta dal signore ai suoi servi, da estinguere con un certo numero di giornate di lavoro - Cfr. @dijauxCorvee. Nella Francia dell'_Ancien régime_, il termine indicava le giornate di lavoro che i sudditi dovevano al re per la manutenzione delle strade pubbliche - Cfr. @treccaniCorvee.
+[^302]: Decreto del 16-24 agosto 1790 sull'ordinamento giudiziario: _"Le funzioni giurisdizionali sono distinte e rimangono sempre separate dalle funzioni amministrative. I giudici non potranno, sotto pena di prevaricazione, interferire in qualunque modo sulle operazioni dei corpi amministrativi, né citare avanti a sé gli amministratori a motivo dell'esercizio delle loro funzioni"_. Cfr. @traviLezioniDiGiustizia2021, 8, 9
+[^303]: Cfr. @traviLezioniDiGiustizia2021, 9.
+[^304]: Cfr. @hauriouPrecisDroitAdministratif2002, 13 ss.
+[^305]: Cfr. @traviLezioniDiGiustizia2021, 11.
+[^306]: Cfr. @viepubliquePourquoiExistetilJustice
+[^307]: Tre sono i gradi della giurisdizione amministrativa francese: i tribunali amministrativi (_tribunaux administratifs_), le corti amministrative d'Appello (_courts administratives d'Appel_) e il Consiglio di Stato, Cfr. @ministeredelajusticeOrdreAdministratif
+[^308]: § 3 CC 3 décembre 2009, _"juridictions placées au sommet de chacun des deux ordres de juridiction reconnus par la Constitution"_. Cfr. @conseilconstitutionnelDecision2009594DC
+[^309]: Art. L. 8-2 C. trib. mar. @senatPouvoirInjonctionPrononce.
+[^399]: L'articolo L. 8-2 utilizza testualmente i termini di _"jugement"_ e di _"arrêt"_, con cui rispettivamente si intendono le sentenze emesse dai tribunali amministrativi e le sentenze dei gradi successivi di giurisdizione, c.d. _Hautes jurisdictions_ o _jurisdictions souvraines_, Cfr. @juripredisDifferenceEntreArret
 [^310]: Art. L. 8-4 C. trib. mar.
-[^311]: Cfr. [@de2013refere], p. 2137
-[^312]: Cfr. [@bartolucciPouvoirInjonctionJuge2020]
-[^313]: Cfr. _"Qu'est-ce que l'exécution des décisions?"_ in [@couradministrativedappeldeparisExecutionDecisionsJuge] 
+[^311]: Cfr. @de2013refere, p. 2137
+[^312]: Cfr. @bartolucciPouvoirInjonctionJuge2020
+[^313]: Cfr. _"Qu'est-ce que l'exécution des décisions?"_ in @couradministrativedappeldeparisExecutionDecisionsJuge 
 [^314]: Tradotto letteralmente come procedura di pagamento forzato.
-[^315]: Cfr. _"Comment faire exécuter les décisions rendues par le juge administratif?"_ in [@couradministrativedappeldeparisExecutionDecisionsJuge]
-[^316]: Cfr. _"Comment se déroule l'examen de ma demande d'exécution?"_ in [@couradministrativedappeldeparisExecutionDecisionsJuge]
-[^317]: Cfr. _"Que faire lorsque l'Administration n'exécute pas le jugement d'un tribunal administratif ou l'arrêt d'une cour d'appel?"_ in [@couradministrativedappeldeparisFichesPratiquesJustice]
-[^318]: In \textsc{F. Secchi}, _op. cit._, p. 204, l'autore riprende [@de2000processo], che osserva come il problema dell'esecuzione della sentenza amministrativa risiede, nell'ordinamento francese così come in altri ordinamenti continentali, nella difficile coesistenza tra la riserva amministrativa del potere di rinnovare l'attività provvedimentale a seguito della decisione del giudice e la garanzia dell'effettività della tutela giurisdizionale e quindi dell'esecuzione delle statuizioni giudiziali.
+[^315]: Cfr. _"Comment faire exécuter les décisions rendues par le juge administratif?"_ in @couradministrativedappeldeparisExecutionDecisionsJuge
+[^316]: Cfr. _"Comment se déroule l'examen de ma demande d'exécution?"_ in @couradministrativedappeldeparisExecutionDecisionsJuge
+[^317]: Cfr. _"Que faire lorsque l'Administration n'exécute pas le jugement d'un tribunal administratif ou l'arrêt d'une cour d'appel?"_ in @couradministrativedappeldeparisFichesPratiquesJustice
+[^318]: In \textsc{F. Secchi}, _op. cit._, p. 204, l'autore riprende @de2000processo, che osserva come il problema dell'esecuzione della sentenza amministrativa risiede, nell'ordinamento francese così come in altri ordinamenti continentali, nella difficile coesistenza tra la riserva amministrativa del potere di rinnovare l'attività provvedimentale a seguito della decisione del giudice e la garanzia dell'effettività della tutela giurisdizionale e quindi dell'esecuzione delle statuizioni giudiziali.
 [^319]: In \textsc{F. Secchi}, _op. cit._, p. 205, l'autore descrive il primo caso di applicazione _ex officio_ di un'_astreinte_ (CE 28 maggio 2001).
-[^320]: Cfr. definizione in [@ciaralliNuovoGiudizioDi].
-[^321]: Cfr. [@ciaralliNuovoGiudizioDi]
+[^320]: Cfr. definizione in @ciaralliNuovoGiudizioDi.
+[^321]: Cfr. @ciaralliNuovoGiudizioDi
 [^322]: Art. 12, decreto n. 831 del 3 luglio 1995 - _CJA_, art. R 921-5.
 [^323]: Art. 59, decreto n. 766 del 30 luglio 1963 e succ. mod. - _CJA_, art. R931-1 _et_ 2.
-[^324]: Cfr. [@chapusDroitContentieuxAdministratif2008], 1132.
-[^325]: Cfr. [@chapusDroitContentieuxAdministratif2008], 1135.
-[^326]: Cfr. [@dhellencourtQuoiSertMediateur2015]
-[^327]: Cfr. [@servicepublicLitigeAvecAdministration]
+[^324]: Cfr. @chapusDroitContentieuxAdministratif2008, 1132.
+[^325]: Cfr. @chapusDroitContentieuxAdministratif2008, 1135.
+[^326]: Cfr. @dhellencourtQuoiSertMediateur2015
+[^327]: Cfr. @servicepublicLitigeAvecAdministration
 
 <!--- }}} //////////////////////////////////////////////// --->
 

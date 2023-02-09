@@ -18,9 +18,9 @@
 **** DONE no acknoledge
 *** TODO Text
 **** DONE indirect prose
-*** TODO Style
+*** DONE Style
 **** DONE latin CSL
-**** TODO short form
+**** DONE short form
 *** TODO Legal
 **** TODO legal citation
 **** TODO legal acronyms

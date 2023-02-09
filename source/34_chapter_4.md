@@ -90,41 +90,41 @@ Infine, in coerenza con il punto 6) "_seeking continuous improvement_", la corre
 
 <!--- {{{ NOTE: ////////////////////////////////////////// --->
 
-[^401]: Cfr. [@defranchisDizionarioGiuridicoIngleseItaliano1984], 1457.
-[^402]: Cfr. [@dalbertiDirittoAmministrativoComparato2019], 67.
-[^403]: Avanzando un parallelo con l'ordinamento italiano, nel Regno Unito è in pratica mancato un provvedimento normativo simile alla legge 31 marzo 1889, n. 5992, che ha istituito un sistema di giudici speciali per l'amministrazione. Cfr. [@dalbertiDirittoAmministrativoComparato2019], 64.
-[^404]: Cfr. [@cassese1971privato], 36 ss.
-[^405]: Cfr. [@dalbertiDirittoAmministrativoComparato2019], 76.
-[^406]: Cfr. [@nigro1974consiglio].
-[^407]: Cfr. [@marshallFranksReportAdministrative1957]
-[^408]: Cfr. [@cattaneoAgenciesRegulationNel1999].
-[^409]: Cfr. [@cattaneoAgenciesRegulationNel1999].    <!-- 460. -->
-[^410]: Cfr. [@Buck2007TribunalRI]
+[^401]: Cfr. @defranchisDizionarioGiuridicoIngleseItaliano1984, 1457.
+[^402]: Cfr. @dalbertiDirittoAmministrativoComparato2019, 67.
+[^403]: Avanzando un parallelo con l'ordinamento italiano, nel Regno Unito è in pratica mancato un provvedimento normativo simile alla legge 31 marzo 1889, n. 5992, che ha istituito un sistema di giudici speciali per l'amministrazione. Cfr. @dalbertiDirittoAmministrativoComparato2019, 64.
+[^404]: Cfr. @cassese1971privato, 36 ss.
+[^405]: Cfr. @dalbertiDirittoAmministrativoComparato2019, 76.
+[^406]: Cfr. @nigro1974consiglio.
+[^407]: Cfr. @marshallFranksReportAdministrative1957
+[^408]: Cfr. @cattaneoAgenciesRegulationNel1999.
+[^409]: Cfr. @cattaneoAgenciesRegulationNel1999.    <!-- 460. -->
+[^410]: Cfr. @Buck2007TribunalRI
 [^411]: Secondo la definizione contenuta nel _White paper_: "_the aim is to develop a range of policies and services that, so far as possible, will help people to avoid problems and legal dispute in the first place, and where they cannot, provides tailored solutions to resolve the dispute as quickly and cost effectively as possible. It can be summed up as "proportionate dispute resolution"_.
-[^412]: Cfr. [@ae58aae3e457425485dcebf1e158bb92], 117.
+[^412]: Cfr. @ae58aae3e457425485dcebf1e158bb92, 117.
 [^413]: Tribunals, Courts and Enforcement Act, ch. 2, s. 3 (5).
 [^414]: Tribunals, Courts and Enforcement Act, ch. 2, s. 11.
 [^415]: Tribunals, Courts and Enforcement Act, ch. 2, s. 13.
-[^416]: Cfr. [@dalbertiDirittoAmministrativoComparato2019], 75.
-[^417]: Come sottolineato in [@ae58aae3e457425485dcebf1e158bb92], 117, i _tribunals_ sono stati istituiti _"specifically to adjudicate disputes, tipically between citizens and the state, not to resolve them through mediation, conciliation or any other form of non-adjudicative dispute resolution"_.
+[^416]: Cfr. @dalbertiDirittoAmministrativoComparato2019, 75.
+[^417]: Come sottolineato in @ae58aae3e457425485dcebf1e158bb92, 117, i _tribunals_ sono stati istituiti _"specifically to adjudicate disputes, tipically between citizens and the state, not to resolve them through mediation, conciliation or any other form of non-adjudicative dispute resolution"_.
 [^418]: Tale espressione si ritrova nei documenti adottati dal _Tribunal Service_.
-[^419]: Cfr. [@goisis2018full], pp. 546 ss.
-[^420]: Cfr. [@craig2003human], pp. 753 ss.
-[^421]: Cfr. [@caneUnderstandingJudicialReview2004], pp. 17 e ss.
+[^419]: Cfr. @goisis2018full, pp. 546 ss.
+[^420]: Cfr. @craig2003human, pp. 753 ss.
+[^421]: Cfr. @caneUnderstandingJudicialReview2004, pp. 17 e ss.
 [^422]: CPR, Art. 54, r. 54.4.
 [^423]: CJCA, s. 85-86 e 88-90.
 [^424]: HRA s. 6(1).
 [^425]: HRA s. 4(2).
-[^426]: Cfr. [@forsythAdministrativeLaw2014], pp. 305 ss.
-[^427]: Cfr. [@ryssdallOpinionComingAge1996], pp. 24 e ss.
+[^426]: Cfr. @forsythAdministrativeLaw2014, pp. 305 ss.
+[^427]: Cfr. @ryssdallOpinionComingAge1996, pp. 24 e ss.
 [^428]: Parliamentary Commissioner Act, 1967, ss. 5-6: _"Complaints are made through Members of the Westminster Parliament and may be made by any member of the public, including a corporation"_.
-[^429]: I rapporti del PO sono pubblicati online in [@parliamentaryandhealthserviceombudsmanphsoPHSOPublications]
-[^430]: QB 287: Richard Crossman: "bias, neglect, inattention, delay, incompetence, ineptitude, arbitrariness and so on". Cfr. [@denningReginaLocalCommissioner2022].
-[^431]: Cfr. [@localgovernmentandsocialcare-ombudsmanChallengingOurDecisions]
-[^432]: Cfr. [@sandfordLocalGovernmentOmbudsman2023].
+[^429]: I rapporti del PO sono pubblicati online in @parliamentaryandhealthserviceombudsmanphsoPHSOPublications
+[^430]: QB 287: Richard Crossman: "bias, neglect, inattention, delay, incompetence, ineptitude, arbitrariness and so on". Cfr. @denningReginaLocalCommissioner2022.
+[^431]: Cfr. @localgovernmentandsocialcare-ombudsmanChallengingOurDecisions
+[^432]: Cfr. @sandfordLocalGovernmentOmbudsman2023.
 [^433]: Local Government Act 2000, section 92.
-[^434]: Cfr. [@localgovernmentandsocialcare-ombudsmanChallengingOurDecisions]
-[^435]: Cfr. [@parliamentaryandhealthserviceombudsmanphsoPrinciplesGoodComplaint]
+[^434]: Cfr. @localgovernmentandsocialcare-ombudsmanChallengingOurDecisions
+[^435]: Cfr. @parliamentaryandhealthserviceombudsmanphsoPrinciplesGoodComplaint
 [^436]: La _Community Legal Advice_ offre consulenza legale generale e L'_Independent Complaints Advocacy Service_ (ICAS) offre assistenza legale per i ricorrenti verso il _National Health Service_ (NHS).
 
 <!--- }}} //////////////////////////////////////////////// --->
